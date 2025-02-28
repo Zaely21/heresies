@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Correspondence Between Jacki Apple and Martha Wilson, 1973-1974</title>
+				<author>Jacki Apple and Martha Wilson</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="essay">
+				<pb n="43"
+					facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_043.jpg"/>
+				<head>Correspondence between Jacki Apple and Martha Wilson 1973-1974</head>
+				<div>
+					<opener><date>August 6, 1973</date>
+						<salute>Dear Jacki Apple —</salute></opener>
+					<p>... When I read the c. 7,500 catalogue I was overjoyed to find that I am
+						working alongside of a great many other women, especially you. I am
+						enclosing a resume, a descriptive list of works to date, and transcriptions
+						of videotapes for you to peruse. Also a photograph of me invading homosexual
+						consciousness...</p>
+					<p>Recently I have been working on a piece called "Male Impersonator" and on
+						method acting concerns. I find that in front of the camera I don’t feel
+						particularly male or homosexual or what ever; the identity shock comes when
+						I look at the photographs of myself in those roles. I am considering an
+						actual invasion of another identity: being picked up on Halifax waterfront
+						as a prostitute. That would involve real risk. I don’t think I would be able
+						to forget who I am, though, in spite of the immersion. To lose myself was my
+						original intent, I think, in December of 1971. Also I used to worry about
+						audience verification of my success a good deal more than I do now. In the
+						method acting exercise, I wanted to track the images that would cause me to,
+						say, cry using a tape recorder, and I found that the intellectual process of
+						talking about emotion prohibited me from experiencing it.</p>
+					<p>Who are the "four people" in a relationship? Do you distinguish between real
+						self and perception of self? How do you document your interchanges,
+						exchanges and redefinitions?... Hope to meet you someday. If you’re ever in
+						Halifax (ha) you can sleep in my studio. </p>
+					<closer><signed>Martha Wilson</signed></closer>
+				</div>
+				<div>
+					<opener><date>August 26,1973</date></opener>
+					<p>Martha Wilson came to see me last Thursday. She is in the c. 7,500 show with
+						me, and after receiving her pieces and talking on the phone, I was excited
+						about meeting her. We talked with familiarity, not as strangers. Yet there
+						wasn’t enough time — little more than an hour—allowing us to barely do
+						anything more than become aware of each other’s positions.... We jumped from
+						subject to subject like two people sampling a feast of appetizers, wanting
+						to taste everything. She is full of curiosity and hunger, and buoyancy,
+						asking questions, taking in information, talking rapidly, never resting.</p>
+					<p>She has an open face, quick to smile with her eyes as well as her mouth, a
+						gamine quality with a sense of camp. Short shaggy yellow hair, plucked out,
+						bleached eyebrows, fair skin. She wore pants and a short-sleeved printed
+						shirt. She laughs easily, and has a natural extroverted sense of theater.
+						Yet there is nothing theatrical about her appearance.</p>
+					<p>I liked her immensely. I also recognize something of myself in her, younger.
+						The energy, independence, restlessness; the quickness of response, so direct
+						yet somehow elusive, testing, try ing out life. I liked her optimism. She
+						has a quality of motion and sunshine, and underneath a vulnerability. I hope
+						we will be able to expand the relationship, write to each other, even make
+						the correspondence a piece in the future. </p>
+				</div>
+				<div>
+					<opener><date>August 26, 1973</date></opener>
+					<p>Met Jacki Apple today, big surprise. A professional woman, I expected a
+						stringbean like myself. Jolted me to realize women from different
+						circumstances are doing similar experiments with identity. She runs her own
+						design room, draws a pair of pants, chooses a fabric, a pattern cutter cuts
+						it, two Hispanic women sew it up. Her designs on Macy’s third floor,
+						Sportswear. Any way, I was shocked when I saw her: She looked professional
+						all over, eye makeup to high heels. I thought artists weren’t supposed to
+						look like that. A sexist belief, something inherited from Gertrude Stein, a
+						woman has to be un-pretty to be taken as seriously as a man. I"believe"
+						this, questioned Jacki’s intelligence on the basis of her appearance, even
+						though I had read her work, yikes.</p>
+				</div>
+				<div>
+					<opener><date>September 18, 1973</date>
+						<salute>Jacki</salute> —</opener>
+					<p>I xeroxed all the "Selfportrait" notes and am waiting for an 8x10 enlargement
+						to come back from the drugstore. Now working on an idea sparked by Yvonne
+						Rainer: images of my perfection/deformity. Also a piece about the chemistry
+						of camera presence which came out of our conversation. Drop me a card.</p>
+					<closer><signed>Martha</signed></closer>
+				</div>
+				<div>
+					<opener><date>October 14, 1973</date>
+						<salute>Dear Martha</salute>—</opener>
+					<p>I've been trying to write you for weeks, no — months, and this is the second
+						letter I've started. I came away from the hour we spent together feeling it
+						was much too brief, that we were like two people at a banquet wanting to
+						taste everything, with only enough time for a first bite. So the hour left
+						me stimulated and looking forward to corresponding. Part of my excitement
+						was in discovering another artist, a woman artist, working with concepts
+						similar to my own, and with the attitude of experimentation which is so
+						important to me. Another part of it was your own personal openness and
+						energy and curiosity.</p>
+					<p>The day your postcard arrived I had gone to the c. 7,500 opeñling at Moore
+						College in Philadelphia. I have a number of mixed feelings about the show,
+						and it was an interesting experience for me. One thing which I was surprised
+						about (and probably shouldn’t have been) was the discovery of how far from
+						the mainstream both of us are. Your perception of that from the catalogue
+						was more astute than mine. In the final analysis the work that was most
+						interesting to me, the work that was not "conventional" or "acceptable" in
+						its approach, its intent, the work that seemed to attempt to present a
+						different perception — a female perception through female experience — was
+						less prevalent than I had hoped. I suppose that my personal criticism was
+						that much of the work, like much of conceptual art, was boring. It is
+						amazing how quickly a "Movement" becomes academic. How easy it becomes to
+						fit into the formula, to make bland ideas appear important, to inflate them
+						through fancy presentation. So much <pb n="44"
+							facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_044.jpg"
+						/> conceptual art has become slick documentation without real substance. It
+						is a difficult problem, very much related to commercialism and egoism
+						(fortune and fame). How ironic that "dematerialized" art has become almost
+						more "material" than painting and sculpture, without the compensation of
+						pure sensual pleasure.</p>
+					<p>I think that what really disappointed me was not the art but seeing other
+						women fall into the male-role prison, women falling into the forms and
+						patterns of male-defined concept art, and wanting acceptance within that
+						framework; women not communicating through their knowledge and experience of
+						them selves as women. Worst of all was seeing women behaving towards each
+						other very much like male artists I see each week in Soho—guarded,
+						competitive, assessing each other, vying for position, not interacting. When
+						we have a chance to do things differently, because we’ve never been in this
+						position before, I hate to see us blow it.</p>
+					<p>Right now I am working on some new pieces and I am concerned about pushing
+						myself to the next stage, not doing things which are repetitive. Yet I also
+						think it is important to work things through, not be precious, risk losing
+						it, experiment on several levels at one time.</p>
+					<p>I am interested in how a person changes his/her perception of him/herself
+						through both self redefinition and definition by others. Right now I am
+						considering a piece which will involve a person, then a group, experiencing
+						then reexperiencing them selves through their color aura, their self-color,
+						and then their alien color...</p>
+					<p>I would like to hear more about the piece you are doing about the "chemistry
+						of camera presence" as it is something that has been both a concern and a
+						conflict for me. Do you plan to do the same piece twice, with and without a
+						camera, and see how they differ?...</p>
+					<p>Would you be interested in doing a piece with me? Some thoughts,
+						possibilities: (1) Both of us doing the same piece separately. (2)
+						Exchanging pieces and carrying out each other’s pieces, then doing our own.
+						Showing the four interpretations. (3) Perhaps doing my "Identity Exchange"
+						piece together as we are of similar coloring, size, and sign. I have never
+						performed this piece myself. It was enacted by Geoff Hendricks in February
+						1972 at Rutgers University. If you plan to be in NY we could do it as a
+						one-day event. (Like a Saturday in Soho—unofficial use of galleries!)</p>
+					<p>I've been taking ballet classes twice a week now since the beginning of July,
+						and it is changing my body awareness. It makes me think about movement
+						pieces. It would be good to work with a dance group.</p>
+					<p>Write and let me know what you are doing and thinking. I am looking forward
+						to hearing more about the pieces you mentioned in your card, and everything
+						else going on in your life. Let me know when you plan to be in New York
+						again, and hopefully we will be able to spend more time together. I will
+						take a day off.</p>
+					<closer><signed>Jacki</signed></closer>
+				</div>
+				<div>
+					<opener><date>October 23, 1973</date></opener>
+					<p>Dear Jacki — Your letter put adrenalin back into my blood. Actually, I'm an
+						avid letter writer, but I hesitate to write copious letters to non-writers
+						or post-carders; now I have an excuse.</p>
+					<p>Did I tell you about my "value scale," composed of colors that have emotional
+						value for me? When I read the part of your letter about "color aura" I
+						started glumping around my empty kitchen making soft exclamatory noises.
+						Friday I'm going to a paper company downtown to get a sheet each of
+						high-intensity orange, blue, red and green, the colors that represent the
+						four points on my emotional compass. I was thinking of making
+						calling-card-sized chips of color to place before me as I confront a
+						(stranger? Haven’t worked this out yet) during a ten-minute interval. The
+						number and combination of chips would suggest the tone of the confrontation
+						(for me). As I explained in New York, I used to worry about the content of
+						my subjects' consciousness, but it’s too hard to document it. On the other
+						hand, for the "Chemistry of Camera-Presence" piece, I've decided the only
+						way to keep the element of surprise is for me to surprise other people with
+						a camera; since I am going to set up the piece, I would always be aware of
+						the possibility of being filmed. I want to blow up the adjustment process as
+						an individual realizes s/he is being filmed. Also I want to do a piece next
+						week on videotape recording the time it takes me to act out an emotion.
+						Method actors recall certain images to make themselves cry, etc. I'm not as
+						interested in the tears as I am in the images. These will be written and
+						read silently while I'm on camera (?). I've discovered that reading out loud
+						does not produce tears or whatever, and neither does description into a
+						mike; the intellectual process cancels the emotional experience. Silent
+						fantasy is necessary. I'm wondering what the camera will do to me, since I'm
+						not an experienced actor....</p>
+					<p>Ihave been taking Graphoanalysis by correspondence, and I am happy to inform
+						you that you are highly intelligent, have initiative, spurts of enthusiasm
+						and determination, don't hold grudges, are sympathetic, not too precise, but
+						were pessimistic when you wrote the letter. Oh, yes, very original, as
+						indicated by figure-8 "g" formations. I am typing because when I get
+						excited, my handwriting becomes code.</p>
+					<p>Now for the facts: I plan to cut first term a week short and come to NYC. If
+						I came on, say, Monday the 3 of December, could I stay with you through
+						Saturday the 8th? We could use the week to get together a performance in 420
+						West Broadway such as "Identity Exchange" or we could do our color pieces
+						simultaneously and trade off. I could do a reading of "Routine Performance"
+						et al. in front of an audience instead of a video camera; also I've been
+						wanting to try out "Body Images" on a live audience. I hadn’t thought about
+						it before, but perhaps I could do "Composure," the piece which was in the c.
+						7,500 show, in front of an audience with the aid of a mirror.</p>
+					<p>I have been thinking about "Identity Exchange" and (don't worry, I won’t tell
+						you) I can’t help associating New York with you. In your case, I think it is
+						valid to associate place with character; I just hope I don’t make you think
+						of Mackerel....</p>
+					<p>I’d like to attend a women’s meeting in NYC; a group has finally started
+						meeting here, but for some reason I don’t feel close to anyone as yet. I'm
+						not trying to prove myself as strenuously as I used to through my
+						appearance, as they do. Appearance is stil critical to me, but I'm settled
+						now and they aren’t. Many of them see me as a teacher (which of course I am
+						to some of them) with all the connotations of that position attached: wise,
+						old, reserved, yuk.</p>
+					<closer>Thanks again for your letter. <salute>Martha</salute></closer>
+				</div>
+				<div>
+					<opener><date>January 3, 1974</date>
+						<salute>Dear Jacki</salute> — </opener>
+					<p>Richards met me at the airport; he and Marcia arrived the day before. He
+						guessed that I might sue him, and said I would have to do it, but we reached
+						an amicable peace eventually. We sat in the car for an hour talking, and he
+						ended up saying that he couldn’t believe how strong I was. Last night I
+						didn’t sleep at all and consequently felt rotten all day today, but today I
+						got an apartment which I can move into January 12th. I am envious of the way
+						Richards looks at Marcia, but that's all. I don’t think Marcia is any
+						shakes. She has this defense mechanism, looking wide-eyed, that really
+						annoys me.</p>
+					<pb n="45"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_045.jpg"/>
+					<p>Enough of that. I am depressed but doing rather well.... I wrote a movie on
+						the plane. l’II show it to you.</p>
+					<closer>Love, <salute>M.</salute></closer>
+				</div>
+				<div>
+					<opener>January 13, 1974 <salute>Dear Martha</salute>
+					</opener>
+					<p>— Chin up and smile. We are all with you all the way. You are going to make
+						it, beautifully too. Whenever you begin to feel the depression closing in,
+						think of the whole world waiting for you here.</p>
+					<p>I'm exhausted. Can’t wait till you get here. For some reason I've had trouble
+						getting my fire going since the piece. It’s as if so much power was used,
+						such intense concentration, that I need refueling. Talk about an energy
+						crisis! I've also discovered how jealous people can get when you get
+						yourself together, have any power, and can affect others. The threatened
+						ones work very hard at undermining you, searching out your vulnerabilities.
+						No wonder the alchemists banded together in secret societies I worked today,
+						wrote the second half of the piece up (downtown part). Anne has really come
+						out since the piece. She just told her shrink about it this week. He was so
+						turned on that he asked to see me. He can hardly believe it, thought it was
+						the most extraordinary thing he’d ever heard. Should I charge him 540 an
+						hour to talk to me? If he wants to write a paper about it, it will have to
+						be with our final approval and permission before release. After all, we have
+						"all rights reserved."...</p>
+					<p>Have a lot of things to talk to you about. I hope we can share our strengths
+						and weaknesses and balance each other, and support each other. I need your
+						opinion on a few things...</p>
+					<p>Stay strong and don’t let R. screw you out of what’s legally yours by doing a
+						number on your emotions.... See you Friday night the 25th. I’ll make a
+						lovely leisurely dinner, and we can sit and relax and talk.</p>
+					<closer><salute>Take care of yourself. Love,</salute>
+						<signed>Jack</signed></closer>
+				</div>
+				<div>
+					<opener><date>January 30, 1974</date></opener>
+					<p>I noticed after the Bar Mitzvah that when I stood on the corner of 57th and
+						6th Avenue in my braless red dress that lots of people looked at me as
+						though I was a call girl, even though it was 3:00 in the afternoon.
+						Definition by circumstantial evidence. Photographs of me in the same outfit
+						on various corners in NYC: 57th and 6th; West Bway and Spring; Ist Ave and
+						69th; Wall Street; Bway and 125th. Costume acts as a mirror; bluejeans could
+						do the same?</p>
+				</div>
+				<div>
+					<opener><date>February 15, 1974</date></opener>
+					<p>Two letters from Martha Wilson. She has become intertwined in my life since
+						December, and I ought to examine the events, and the complexities of
+						feelings that have come out of them. I am slightly antagonistic towards her
+						today. Somewhat resentful of her carelessness, her total self-absorption,
+						the complete subjectivity of her way of dealing with things, always seeing
+						through her needs, never beyond them or around them. Perhaps it is her
+						youth, her limited experience. No matter. Combined with all that intense
+						hungry ambition and that fine sharp intellect, it fills me with a vague
+						sense of annoyance. I have been very generous with her, given of myself — my
+						friends, my home, my clothes, my time, my ideas, experiences, knowledge, my
+						food, my energy, and finally advice when asked for. I find her to be less
+						sharing. At first her sunshine smile, her eagerness, seemed so unassuming.
+						But her apologies are aggressive, and her assumptions border on arrogance.
+						Yet underneath there are still the self- degrading gestures, the feelings of
+						inadequacy, the fear. She is full of contradictions, inconsistencies.
+						Overriding everything is the impressive professionalism of her art.... Our
+						relationship seems to have gone around in a full circle. I think we will
+						have to talk about these things. </p>
+				</div>
+				<div>
+					<opener><date>February 28-March 2, 1974</date>
+						<salute>Dear Martha</salute> —</opener>
+					<p>... Rereading your letter I get the feeling R. and M. are really bugging you
+						underneath the bravado. That is very real, a painful fact you have to deal
+						with daily. It’s understandable. Hard to avoid them. Glad your friends are
+						supportive. Don’t worry. As you’ve begun to discover, facades become
+						realities, and it takes about six months and distance for a lover to become
+						a stranger in your mind.</p>
+					<closer>Love, <signed>Jacki</signed></closer>
+				</div>
+				<div>
+					<opener><date>March 8, 1974</date>
+						<salute>Jacki</salute> —</opener>
+					<p>... I got an assurance that our piece could be shown in the Mezzanine Gallery
+						here at NSCAD, so I will take installation photos when it’s up...</p>
+					<p>I don’t talk to Richards anymore; we speak if we bump into each other, but
+						don’t seek each other out. I'm speaking to a female lawyer on Tuesday and I
+						may sue Richards if I'm legally capable because he really did step on me.
+						Otherwise I'm dating a concert pianist who lives out in Hubbards. He now
+						plays only to amuse himself and directs plays in experimental theatres and
+						prisons for his living. He knows I'm leaving in May. He says he was first
+						attracted by my independence. Men like that are hard to come by....</p>
+					<p>I keep my social life full as possible so I don’t have to think about being
+						in Halifax near Richards, etc. I'm going to a shrink who is sending me to
+						relaxation therapy because I don’t know how to relax.... I'll let you know
+						how the layout progresses.</p>
+					<closer><salute>Love,</salute>
+						<signed>Martha</signed></closer>
+				</div>
+				<div>
+					<opener><date>March 31, 1974</date>
+						<salute>Dear Martha</salute> —</opener>
+					<p>... There are a lot of things I want to get into in relation to the really
+						extraordinary experience that we’ve been through. I don’t think either of us
+						realized just how far we had gone. We placed ourselves in the most
+						vulnerable of positions. As two strangers we entered into immediate and
+						intense intimacy with total trust. We took an enormous gamble. It was very
+						daring of us. And I think we both suffered from aftereffects not anticipated
+						and not immediately perceived or understood. I don’t have the time right now
+						to explore this and I think in another sense it is kind of another piece.
+						Certainly the subject of another part of our piece and worth
+						investigating....</p>
+					<p>This weekend I worked up my "Brunette" piece. It’s turned up some interesting
+						surprises for me. Perhaps a subconscious equation — Blonde-Female,
+						Brunette-Male (hmmm......) in relation to identity/image projection
+						(mine).</p>
+					<p>Reading books on Archaeology for the Digging piece in May. Fascinating. Also,
+						I'm enjoying my privacy. Like being alone.</p>
+					<pb n="46"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_046.jpg"/>
+					<p>I'm very glad you called me that day as it cleared a lot of conflicts and
+						questions and complex mixed-up feelings all colliding in my head. It
+						relieved a few tensions, and I felt a release of certain anxieties after
+						talking. It was also good to talk with you as the extra dimension in voice
+						clarifies the meaning in words so often misread in print....</p>
+					<closer><salute>Take care. Love,</salute>
+						<signed>Jacki</signed></closer>
+				</div>
+				<div>
+					<opener><date>April 5, 1974</date>
+						<salute>Dear Jacki</salute> —</opener>
+					<p>... It’s wonderful to hear about L’s interest in the piece. It is so bleak up
+						here, and New York gets more and more frightening to contemplate from this
+						distance. I keep questioning whether I can survive as an artist and get
+						worry wrinkles thinking about it.</p>
+					<p>Your letter was tremendously supportive. Today I do a videotape of making
+						myself up first as beautiful and then as ugly as I can. I have been thinking
+						a lot about "vomiting" on people; I see this as playing a joke on
+						myself....</p>
+					<closer><salute>Love,</salute>
+						<signed>Martha</signed></closer>
+				</div>
+				<div>
+					<opener><date>April 28, 1974</date>
+						<salute>Dear Martha —</salute></opener>
+					<p>I wanted to write to you immediately, as soon as I got back from London, as I
+						am bursting with things to tell you. That was two weeks ago, and my life has
+						been in turmoil, so I am beyond apologies....</p>
+					<p>First I want to tell you about the c. 7,500 show in London. I called Tony
+						Stokes (at Garage Arts) when I arrived and he seemed very relieved that I
+						was there. On Saturday morning I went down to Garage and then with the help
+						of a terrific group of London women artists I installed the show in the
+						Warehouse next door. It was a perfect space for the show. Very New York raw!
+						I must say I did a fantastic job. Did two terrific walls for us, put ting
+						our work next to each other’s. Added the B&amp;W contact sheet from
+						"Transformance" with your article in the middle. It really looked
+						good....</p>
+					<p>I have been going through some fairly difficult changes and conflicts. I long
+						for my own psychic space, room to grow in, to experience my art in. The time
+						has run out for me to continue in the double life of full-time work (job)
+						and full-time art. I am exhausted, overstrained, and colliding with myself,
+						struggling with hostilities and overextension emotionally. I don’t have
+						enough time and I feel like I'm suffocating from spinning too quickly and
+						not being able to slow down to breathe deeply...</p>
+					<p>Not having money is as paralyzing as not having time. They equalize and
+						neutralize each other. Besides, earning one’s own money is part of both the
+						real and psychological independence and liberation from the role of the
+						woman-child. So I have to search for alternative possibilities. This is
+						especially difficult now because the economy is a disaster area. There are
+						no jobs any where.</p>
+					<p>I am at a point of change in my life, trying to create new structures. The
+						piece we did together was a culmination point for me, the end of a cycle....
+						I find myself looking into another mirror, seeing a different image.</p>
+					<p>The DIGGING piece has become very complex and multi-layered. It is just a
+						beginning now, and it might take months to complete. The actual "dig" itself
+						will take place in several weeks. When I think about it I get very excited,
+						like someone about to take a journey into unknown territory, like going to a
+						foreign city after having read a book about its history.... It will be good
+						to see you and sit and talk for hours.</p>
+					<p>Also it will be interesting to do a tape about the other part of
+						TRANSFORMANCE —what we experienced with each other, the risks we took, how
+						far we went, how we reacted later, overreacted, then rebalanced; where we
+						are now. We plunged into each other’s lives off a high diving board. We went
+						very deep, very quickly, and perhaps suffered the mild bends coming up for
+						air. It could be a very important tape to go with the piece. Also maybe a
+						photo of us today, six months later. Call me when you get to New
+						Jersey....</p>
+					<closer><salute>Love</salute>, <signed>Jacki</signed></closer>
+				</div>
+				<div>
+					<opener><date>May 3, 1974</date></opener>
+					<p>Taking diet pills, haven’t slept in 2 nights. Cried on bus w/ Marcia, talking
+						about Primal Scream and ego-coasting, being alone. She said R was
+						unoriginal, I was the "individual" which shocked me. She sees me as
+						courageous, she said in her letter to me, envies me. I love speed, it
+						relieves the panic, the separation, substitutes euphoria, wholeness? I wish
+						I could stay on it. Have lost some double chin. Dinner tonight with R and
+						Marcia. Sat with R yesterday watching John Watt tapes, didn’t feel much. I
+						admire him from a distance. I plan to break down in the car tonight, tell
+						him I am alone, afraid. He is my father substitute because of his aloofness.
+						I should be doing something all the time, can’t do fruitless activity.</p>
+				</div>
+				<div>
+					<opener><date>May 5, 1974</date></opener>
+					<p>Kicked and screamed w/ R last night, he said there was no sense pretending he
+						wasn’t happy. I saw that he was. I felt very hurt, cried a lot over loss of
+						children, middle-class life which his marriage to Marcia represents to me. I
+						can’t do that now? Now I'm in the kitchen and I feel lethargic, desperate,
+						speechless, embarrassed, like being at home. I have to be intellectual
+						around him. Isnap at Damian, can’t play, indulge him. Had a dream that I
+						stayed in the room below them. I am a frustrated child and I communicate
+						that frustration to Damian, I frustrate him. I don't let myself feel. Ate
+						cheesecake out of the fridge this a.m. R represents home situation which I
+						am trying to resolve. I feel like I have to perform for him. He came in to
+						ask what my plans were and for a split second I felt guilty? Not a barrel of
+						fun to be with. Have to learn to love myself, whatever that means. Art about
+						performing for others. Double exposure = "Exposure</p>
+				</div>
+				<div>
+					<opener><date>May 11, 1974</date></opener>
+					<p>My emotions are frozen. I am frightened, not attracted to men. Metaphor,
+						describe my parents as luggage. I do what they and authorities say because I
+						am afraid they will not love me.</p>
+				</div>
+				<div>
+					<opener><date>May 10, 1974</date></opener>
+					<p>Feel generally OK. Felt good to see Jacki last night. Saw Nancy Kitchel show
+						at 112 Greene St. which put me in awe.</p>
+					<p>Darkness, "masking," lit tables, notebooks, folders for papers. Her
+						involvement with Vito, a story about tragic encounter, her grandmother’s
+						gestures. Talked w/ (Jane) Kleinberg at Whitney about how women are making
+						art about separation. I fantasize about my loft. I discover who I am as I go
+						along. "Borders occurs to me. I will take photos of rooms during search. I'm
+						tired Art about not knowing how I feel about things. Accept, discard. Divide
+						objects. Retouched photos of how I want things to appear. How much are we
+						defined by our surroundings. Deprived of middle-class life. Photograph the
+						fantasy. Marcia and I occupy the same space in relation to R, but opposite
+						sides of a single personality pulled in two directions. Forced into a
+						position. Men = authority figures, never women. Dad wanted me to pity him,
+						told me he was nearly out of a job. Apparently she is ambitious, an
+						egomaniac, a blood-curdling bitch. She uses people, squeezes them dry, dumps
+						them. Actually, she’s sensitive, retiring, sweet-tempered. </p>
+				</div>
+				<pb n="47"
+					facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_047.jpg"/>
+				<div>
+					<opener><date>May 12, 1974</date></opener>
+					<p>I used to feel like women were the "enemy," men were my best friends. Then I
+						didn’t have any respect for myself, treated them like authorities to please.
+						Now I feel more comfortable with women, even have a distaste for men. I look
+						at attractive men on the subway and experience revulsion. Dad made me afraid
+						of him to cover his weakness. Sylvia Plath got at that real hatred every one
+						feels for his/her parents. For how they have hurt you. Trembling hands, my
+						own fear of incompetence. Videotape of a simple task, hands hammering nails.
+						Unfamiliar, incompetent, bad craftsman, danger, "hammering." Stuttering
+						videotape, head w/ eyes closed, Mother &amp; Dad dialogue of unsaid
+						phrases.</p>
+				</div>
+				<div>
+					<opener><date>July 26,1974</date></opener>
+					<p>Martha and I have lunch at the Plaza Palm Court. Reprise An attempt to
+						reexamine, redefine "Claudia" (TRANSFORMANCE). Same setting, shift in
+						context, intent. We want to see how we feel, how we act. The mystique
+						dissolves. It is, after all, like having lunch any other place. Just a
+						restaurant....</p>
+					<p>Over too expensive spinach salad we pursue the question of female
+						sensibility, questioning whether women artists have become caught in a web
+						of confusion between subject matter and "sensibility. Often they choose
+						objects, acts and symbols associated with the stereotypes of the female role
+						in our culture as content, when they are in fact the objects and conditions
+						created by male sensibility and value systems. Do too many women artists
+						perpetuate the "system" by attempting to elevate a certain kind of subject
+						matter out of proportion to its significance? On the other hand, liberation
+						declaring equality continues to enforce the concept of there being no female
+						sensibility. "Anything they can do we can do as well if not better"
+						thinking. In the struggle to achieve power and position in the art world we
+						charge forth into battle to prove this, and the result, which is often
+						successful, is also often indistinguishable from the acclaimed and
+						established art created by a male sensibility. Again we reenforce their
+						system, their concept of reality. Perhaps the only answer, at least the only
+						one we can come up with, is to work through an internal view coming from our
+						female experience of reality (or lack of it!), and that out of this will
+						come some alternative perspectives that also do not end up putting us all
+						together in yet another box. Still the same old questions go round in a
+						circle. Cultural conditioning and biology. Well, how do we change the
+						patterns of the conditioning, making our viewpoint carry equal weight?
+						"Claudia was a magnification of role models and stereotypes of power, media
+						images programmed into all of us. The "power" of the beautiful, rich woman.
+						The illusion of power. We exaggerated it, "lived" in order to also shatter
+						it, expose the illusion, blow it up not reenforce it, or validate it. It’s a
+						fine line, a delicate balance of form and content, intent and context. Both
+						Martha and I have all kinds of ambivalences about that work and whether it
+						worked. In two years perhaps we will be able to see it in the right
+						perspective, with the distance to analyze it better, understand it in
+						relation to female sensibility and art.</p>
+				</div>
+			</div>
+		</body>
+		<back>
+			<p>Martha Wilson, performance artist, began executing private performances or
+				"transformations" in 1971. In 1975 and 1976, she performed five chap ters of The
+				Arnotated Alice in which the heroine encounters contemporary conventions —social,
+				sexual, logical and linguistic. Jacki Apple began doing performances in 1971. Since
+				1975 she has been doing installation works exploring psychological space. She and
+				Martine Aballea are writing a collaborative novel between New York and Paris. Martha
+				is the founder and executive director of The Franklin Furnace Archive for artists’
+				books in New York City, and Jacki is its curator. </p>
+		</back>
+
+	</text>
+</TEI>
