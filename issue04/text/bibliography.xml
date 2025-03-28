@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliography</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>[ISSUE TITLE]</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb/>
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Abbott, Edward Deming. 1963. The People Called Shakers. New York: Dover.</bibl>
+               <bibl>Ardener, Shirley. 1975. Perceiving Women. Edited by Shirley Ardener. New York: John Wiley and Sons.</bibl>
+               <bibl>Barrett, S. A. 1908. “Pomo Indian Basketry.” In University of California Publications in American Archaeology and Ethnology, 7:134–308. 3.</bibl>
+               <bibl>Basketry, Navajo School of Indian. 1971. Indian Basket Weaving. New York: Dover, reprint.</bibl>
+               <bibl>Baxandall, Rosalyn, Linda Gordon, and Susan Reverby. 1976. America’s Working Women: A Documentary History, 1600 to the Present. New York: Vintage Books.</bibl>
+               <bibl>Bebey, Francis. 1975. African Music. London: Harrap.</bibl>
+               <bibl>Berlant, Anthony, and Mary Hunt Kahlenberg. 1977. Walk in Beauty. New York: Graphic Society.</bibl>
+               <bibl>Bishop, Robert. 1975. New Discoveries in American Quilts. New York: Dutton.</bibl>
+               <bibl>Bishop, Robert, and Elizabeth Safanda. 1976. A Gallery of Amish Quilts. New York: Dutton.</bibl>
+               <bibl>Bjerregaard, Lena. 1977. Techniques of Guatemalan Weaving. New York: Van Nostrand Rheinhold.</bibl>
+               <bibl>Blacking, John. 1975. “Songs, Dances, Mimes and Symbolism of Venda Girls’ Initiation Schools.” African Studies 28.</bibl>
+               <bibl>Bolton, Ethel Stanwood, and Eva Johnston Coe. 1973. American Samplers. New York: Dover, reprint.</bibl>
+               <bibl>Boserup, Ester. 1970. Women’s Role in Economic Development. London: George Allen and Unwin.</bibl>
+               <bibl>Brotten, Bronwyn V., and Ann Lang. 1973. “Zulu Beadwork.” African Arts 7:8–13.</bibl>
+               <bibl>Bunzel, Ruth. 1969. The Pueblo Potter: A Study of Creative Imagination in Primitive Art. New York: Dover, reprint.</bibl>
+               <bibl>Cason, Marjorie, and Adele Cahlender. 1976. The Art of Bolivian Highland Weaving. New York: Watson-Guptill.</bibl>
+               <bibl>Chase, Judith Wragg. 1971. Afro-American Art and Craft. New York: Van Nostrand Rheinhold.</bibl>
+               <bibl>Chiñas, Beverly. 1973. The Isthmus Zapotecs: Women’s Roles in Cultural Context. New York: Holt, Rinehart and Winston.</bibl>
+               <bibl>Cincinnati Art Museum. 1976. The Ladies, God Bless ’Em. Cincinnati.</bibl>
+               <bibl>Cooper, Patricia, and Norma Buferd. 1977. The Quilters. Garden City, N.Y.: Doubleday.</bibl>
+               <bibl>Cordry, Donald, and Dorothy Cordry. 1968. Mexican Indian Costumes. Austin: University of Texas Press.</bibl>
+               <bibl>Dawson, Bonnie. 1976. Women’s Films in Print: An Annotated Guide. 555 29th St., San Francisco, Cal. 94131: Bootlegger Press.</bibl>
+               <bibl>dePauw, Linda Grant, and Conover Hunt, eds. 1976. Remember the Ladies: Women in America 1750-1815. New York: Viking Press.</bibl>
+               <bibl>Drinker, Sophie. 1948. Women and Music. New York: Coward-McCann.</bibl>
+               <bibl>Elliott, Maude Howe. 1893. Art and Handicraft in the Woman’s Building of the World’s Columbian Exhibition. Edited by Maude Howe Elliott. New York: Goupil.</bibl>
+               <bibl>Farrer, Claire, ed. 1975. Women and Folklore. Austin: University of Texas Press.</bibl>
+               <bibl>Fratto, Toni Flores. 1976. “Samplers: One of the Lesser American Arts.” Feminist Art Journal 5 (4): 11–15.</bibl>
+               <bibl>Glaze, Anita. 1975. “Power and Art in a Senufo Village.” African Arts 8:25–29, 64–67.</bibl>
+               <bibl>Gostelow, Mary. 1977. The Complete International Book of Embroidery. New York: Simon and Schuster.</bibl>
+               <bibl>Green, Rayna. 1977. “Magnolias Grow in Dirt: The Bawdy Lore of Southern Women.” Radical Teacher 6 (December):26–30.</bibl>
+               <bibl>Hagood, Margaret Jarman. 1977. Mothers of the South: Portraiture of the White Tenant Farm Women. New York: Norton, reprint.</bibl>
+               <bibl>Hanley, Hope. 1970. Needlepoint in America. New York: Weathervane Books.</bibl>
+               <bibl>Harris, Ann Sutherland, and Linda Nochlin. 1976. Women Artists 1550-1950. Los Angeles and New York: Los Angeles County Museum and Alfred A. Knopf.</bibl>
+               <bibl>Hirschfield, L. A. 1977. “Art in Cunaland: Ideology and Cultural Adaptation.” Man 12 (April):104–21.</bibl>
+               <bibl>Holstein, Jonathan. 1973. The Pieced Quilt. New York: Graphic Society.</bibl>
+               <bibl>Hoover, F. Louis. 1969. Molas from the San Blas Islands. New York: Center for Inter-American Relations.</bibl>
+               <bibl>Humez, Jean. 1977. Women Working in the Arts: A Bibliography and Resource List. April 1977, c/o Women’s Studies Program, University of Massachusetts, Boston.</bibl>
+               <bibl>James, George W. 1974. Indian Blankets and Their Makers. New York: Dover, reprint.</bibl>
+               <bibl>Jopling, Carol. 1974. “Women’s Work: A Mexican Case Study of Low Status as a Tactical Advantage.” Ethnology 13 (2): 187–95.</bibl>
+               <bibl>Karras, Maria. 1973. Woman’s Building-Chicago 1893, Woman’s Building-Los Angeles, 1973. Los Angeles: Women’s Graphic Center.</bibl>
+               <bibl>Katzenberg, Dena S. 1977. “And Eagles Sweep Across the Sky”: Indian Textiles of the North American West. Baltimore: Museum of Art.</bibl>
+               <bibl>Kent, Kate P. 1971. Introducing West African Cloth. Denver: Museum of Natural History.</bibl>
+               <bibl>Landes, Ruth. 1971. The Ojibwa Woman: Male and Female Life Cycles among the Ojibwa Indians of Western Ontario. New York: Norton, reprint.</bibl>
+               <bibl>Leavitt, Ruby R. 1971. “Women in Other Cultures.” In Woman in Sexist Society, edited by Vivian Gornick and Barbara K. Moran, 393–427. New York: New American Library.</bibl>
+               <bibl>Lévi-Strauss, Claude. 1975. “The Caduveo.” In Tristes Tropiques, 151–97. New York: Atheneum.</bibl>
+               <bibl>Little, Nina Fletcher. 1975. Country Arts in Early American Homes. New York: Dutton.</bibl>
+               <bibl>Litto, Gertrude. 1976. South American Folk Pottery. New York: Watson-Guptill.</bibl>
+               <bibl>Lyford, Carrie. 1940. Quill and Beadwork of the Western Sioux. Lawrence, Kan: Haskell Institute.</bibl>
+               <bibl>MacDowell, Betty, Marsha MacDowell, and C. Kurt Dewhurst. 1978. Artists in Aprons: Folk Art by American Women. New York: E. P. Dutton.</bibl>
+               <bibl>Mainardi, Patricia. 1973. “Quilts: The Great American Art.” Feminist Art Journal, 18–23.</bibl>
+               <bibl>Marriott, Alice Lee. 1948. Maria: The Potter of San Ildefonso. Norman: University of Oklahoma Press.</bibl>
+               <bibl>Matthews, Thomas. 1977. “Mural Painting in South Africa.” African Arts 10:28–33.</bibl>
+               <bibl>Myers, Elizabeth Lehman. 1918. A Century of Moravian Sisters: The Record of Community Life. New York: Revell.</bibl>
+               <bibl>Nicklin, Keith. 1973. “Ibibio Musical Pots.” African Arts 7:50–55.</bibl>
+               <bibl>Osborne, Lilly de Jongh. 1975. Indian Crafts of Guatemala and El Salvador. Norman: University of Oklahoma Press.</bibl>
+               <bibl>Parker, Ann, and Aron Neal. 1977. Molas. Barre, Mass: Barre.</bibl>
+               <bibl>Patterson, Daniel W. 1977. “A Woman of the Hills: The Work of Maude Minish Sutton.” Southern Exposure Summer/Fall:105–13.</bibl>
+               <bibl>Peterson, Karen, and J.J. Wilson. 1976. Women Artists: Recognition and Reappraisal from the Early Middle Ages to the Twentieth Century. New York: Harper and Row.</bibl>
+               <bibl>Pitseolak, and Dorothy Eber. 1971. Pictures Out of My Life. Seattle: University of Washington Press.</bibl>
+               <bibl>Reed, Evelyn. 1975. “The Productive Record of Primitive Woman.” In Woman’s Evolution from Matriarchal Clan to Patriarchal Family, 105–29. New York: Pathfinder Press.</bibl>
+               <bibl>Reichard, Gladys. 1968. Navajo Shepherd and Weaver. Glorieta, N.M: Rio Grande Press, reprint.</bibl>
+               <bibl>Reiter, Rayna Rapp, ed. 1975. Toward an Anthropology of Women. New York: Monthly Review Press.</bibl>
+               <bibl>Rohrmann, G. T. 1974. “South African House Painting.” African Arts 7:18–21.</bibl>
+               <bibl>Rosaldo, Michelle, and Louise Lamphere. 1975. Woman, Culture and Society. Edited by Michelle Rosaldo and Louise Lamphere. Stanford: Stanford University Press.</bibl>
+               <bibl>Rubin, Barbara. 1970. “Calabash Decoration in North East State, Nigeria.” African Arts 4:20–25.</bibl>
+               <bibl>Sieber, Roy. 1972. African Textiles and Decorative Arts. New York: Museum of Modern Art.</bibl>
+               <bibl>Smith-Rosenberg, Carroll. 1975. “The Female World of Love and Ritual: Relations between Women in Nineteenth Century America: An Ethnohistorical Inquiry.” Signs I (1): 1–29.</bibl>
+               <bibl>“Songs of American Women.” 1976. SingOut! Magazine 25 (2).</bibl>
+               <bibl>Spruill, Julia C. 1972. Women’s Life and Work in the Southern Colonies. New York: Norton, reprint.</bibl>
+               <bibl>Swan, Susan Burrows. 1977. Plain and Fancy: American Women and Their Needlework, 1700-1850. New York: Holt, Rinehart and Winston.</bibl>
+               <bibl>Teleki, Gloria Roth. 1975. The Baskets of Rural America. New York: Dutton.</bibl>
+               <bibl>Tufts, Eleanor. 1975. Our Hidden Heritage: Five Centuries of Women Artists. Paddington Press.</bibl>
+               <bibl>Valenti, Mary Jo, and Linda J. Larkin. 1975. My Sister’s Song, Women’s Records. Milwaukee, Wis. 53211: Women’s Soul Publishing Inc.</bibl>
+               <bibl>Walker, Roslyn A. 1975. African Women/African Art. New York: African-American Institute.</bibl>
+               <bibl>Williams, Ora. 1973. American Black Women in the Arts and Social Sciences. Scarecrow Press.</bibl>
+               <bibl>Woman, Mountain World. 1961. The Autobiography of a Winnebago Indian. Edited by Nancy O. Lurie. Ann Arbor: University of Michigan Press.</bibl>
+               <bibl>Women Artists: Four Slide Shows. 1976. 10 E. 53rd St., N.Y., N.Y.,10022: Harper and Row Media Department.</bibl>
+               <bibl>“Women Artists on Women Artists.” 1978. Women’s Studies V (3).</bibl>
+               <bibl>Wooster, Ann-Sargent. 1972. Quiltmaking: The Modern Approach to a Traditional Craft. New York: Galahad Books.</bibl>
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>
