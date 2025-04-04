@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ways of Change Reconsidered: An Aoutline and Commentary on Women and Peace in
+					Northern Ireland</title>
+				<author>Sarah Charlesworth</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="78"
+				facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_078.jpg"/>
+			<div>
+				<head>Ways of Change Reconsidered: An Outline and Commentary on Women and Peace in
+					Northern Ireland</head>
+				<byline>Sarah Charlesworth</byline>
+				<epigraph>
+					<p> Compared to the devoted and laborious build-up that took place before all
+						the other peace rallies that I have at tended in Belfast — the advertising,
+						the canvassing, the care fully balanced composition of the platform party
+						—here there was apparently no planning at all. No platform, no loudspeakers,
+						no stewards, no prepared order of service. Just a vast throng of women,
+						gathered at the spot where shortly before, the war between the terrorists
+						and the army had cost the lives of three children.... One had a gnawing
+						uneasiness that nothing more was going to happen.</p>
+					<p>What did happen was a sudden burst of derisive yells and taunts from a band
+						of youths defiantly brandishing the tricolour flag from a vantage point on
+						the roof of a nearby garage. At that moment perhaps nothing could more
+						effectively have rallied the rally." Suddenly it seemed we knew what we were
+						there to do. From one to another the word threaded like quicksilver through
+						the crowds: "We're going to walk down to the Falls." And walk we did —
+						pushchairs and all — along the road that has become so notorious for
+						violence and anger. Here and there spectators jeered and flaunted the
+						slogans of hatred, but calmly and steadily the column of women — in the most
+						casual fashion — walked on. As we walked, we talked. "They say," said the
+						woman beside me, "that there's Protestants walking with us.""That's right,"
+						said I... "Tm one of them." The response was immediate: hands shot out to
+						grasp mine, heart-warming ejaculations of welcome fell on my ears. I felt
+						simultaneously the reality of the division and the unity.<note>1. Margaret
+							McNeil, "They Say That There's Protestants Walking With Us," <title
+								level="j">The Friend</title> (London, Sept. 1976)</note>
+					</p>
+				</epigraph>
+				<div>
+					<head>Peace women hit Ulster streets despite threats</head>
+					<p> BELFAST, Northern Ireland (AP)- The Peace Women of this turbulent British
+						province take to the streets of violence-scarred Belfast Saturday, defying
+						terrorist death threats in their campaign to end seven years of sectarian
+						bloodshed.</p>
+					<p>"There's no way we're going to give up now," declared Mrs. Betty Williams,
+						the Roman Catholic housewife launched the burgeoning movement 10 days ago
+						after three children were killed by Irish Republican Army gunmen fleeing
+						British troops.</p>
+					<p>Thousands of Catholic and Protestant women, setting aside the centuries-old
+						hatreds that have separated Northern freland's feuding communities, were
+						expected to gather for a rally in Ormeau park in Protestant East
+						Belfast.</p>
+					<p>The attendance at the rally will be a crucial test of the strength of the
+						campaign, the latest in a long string of peace movements in Ulster. All the
+						earlier campaigns fizzled out.</p>
+					<p>Last Saturday, more than 10,000 women and a handful of men attended a peace
+						rally organized by Mrs. Williams in Belfast's staunchly Catholic
+						Andersonstown suburb at the spot where the three children were slain.</p>
+					<p>Mrs. Williams, 32, and many other Catholic women at that rally were branded
+						"touts terrorist parlance for informers and pro-British collaborators - by
+						the IRA's "Provisional" wing.</p>
+					<p>Young IRA supporters last week tried to burn Mrs. Williams' house down. She
+						and other women received death threats from the mainly Catholic "provos" who
+						are fighting to end British rule and Protestant domination in Ulster.</p>
+					<p>Despite the threats, the peace movement has spread. Mrs. Williams said groups
+						in other parts of the province have voiced support and local peace
+						committees have sprung up in both Catholic and Protestant quarters.</p>
+					<p>But the violence has continued unabated. At least six persons have been
+						killed since the peace campaign began and dozens have been wounded by
+						gunfire and bombings.</p>
+					<p>Government officials, community leaders experienced observers who have seen
+						earlier movements fail are still sceptical that Mrs. Williams campaign will
+						change anything.</p>
+					<p>"The sad truth is," said Catholic community leader Tom Conaty, a onetime
+						adviser to the British administration in the province, "that the IRA and the
+						Protestant paramilitary groups do not depend on popular support for their
+						survival "They have shown this in the past and, despite courageous display
+						by women, I believe they will be around for a long time."</p>
+					<p>However, IRA sources said the guerrillas' leaders are taking the
+						emotion-charged campaign "seriously." The provisionals have cracked up their
+						well-oiled propaganda machine in a bid to counter the movement's growing
+						support.</p>
+					<p>The Republican news, the provisionals' mouthpiece in Ulster, Friday vowed:
+						"the struggle goes on." The headline was printed over a big photo of a
+						hooded gunman brandishing a U.S. made armalite automatic rifle.</p>
+					<p>The Andersonstown news, a flourishing newssheet that has supported the
+						provisionals in the past, stridently attacked the "peace-at-any-price
+						brigade."</p>
+					<p>Both papers published articles and letters denouncing the peace campaign as
+						pro-British. However, Mrs. Williams stressed that her movement is not just
+						opposed to the IRA, but Protestant terrorist organizations as well as Ulster
+						police officers and British troops who "commit cowardly acts."</p>
+					<p>Provisional sympathizers have organized a counter-demonstration in south
+						Armagh, an IRA stronghold, at the spot where a 12-year-old Catholic girl was
+						killed, apparently by army fire, last Saturday.<note>2. <title level="j"
+								>Daily American</title> (Rome, Aug. 22, 1976).</note>
+					</p>
+				</div>
+				<div>
+					<head>1.</head>
+					<p>In August 1976, there emerged in Belfast, Northern Ireland, apparently quite
+						"spontaneously," a movement, which although it was later to be dubbed "The
+						People for Peace" movement, was quite without a doubt a women's movement,
+						initiated, supported and sustained primarily by women. From the perspective
+						of classic political forms, it was and is both extremely traditional and
+						profoundly radical, and it is particularly within the context o Irish
+						politics that it becomes so.</p>
+					<p>My initial interest in the peace movement grew out of a feel ing of
+						solidarity and empathy with both the frustration and the positive vision
+						these women revealed. As I followed its progress my interest began to turn
+						increasingly to its larger political and social implications, not simply in
+						relation to the situation of Northern Ireland, but also in regard to basic
+						issues posed by feminism in relation to traditional patriarchal political
+						analysis and practice. What became increasingly apparent as I continued my
+						research was the fact that the peace movement could not be understood and
+						evaluated either on the basis of the primary social-political traditions of
+						Northern Ireland or from the perspective of an abstract marxist or feminist
+						analysis. These model must themselves be continually measured against the
+						social realities which they presume to appraise.</p>
+					<p>The peace movement, to the extent to which it can be called a "women's
+						movement," is interesting precisely because it is not in any sense
+						"sophisticated." Its values and the forms of its organization are a direct
+						manifestation of the attitudes of women <pb n="79"
+							facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_079.jpg"
+						/> historically isolated from one another within a social structure over
+						which they exercise minimal control. Within the context of American
+						feminism, the questions posed by the peace movement are relevant to the
+						extent to which they underline and elaborate some of the more complex issues
+						pertaining to the gender bias inherent in the very "logic" of commonly
+						accepted political norms. As Michelle Zimbalist Rosaldo points out:
+							<quote>Since women must work within a social system that obscures their
+							goals and interests, they are apt to develop ways of seeing, feeling,
+							and acting that seem to be "intuitive" and "unsystematic"—with a
+							sensitivity to other people that permits them to survive. They may,
+							then, be "expressive." But it is important to realize that cultural
+							stereotypes order the observer's own perceptions. It is because men
+							enter the world of articulated social relations that they appear to us
+							as intellectual, rational, or instrumental; and the fact that women are
+							excluded from that world makes them seem to think and behave in another
+								mode.<note>3. Michelle Zimbalist Rosaldo, <title level="m">Woman,
+									Culture, and Society</title>, ed. Michelle Z. Rosaldo and Louise
+								Lamphere (Stanford, Calif.: Stanford University Press,
+							1974).</note></quote>
+					</p>
+				</div>
+				<div>
+					<head>2.</head>
+					<p>The Province of Ulster was born in conflict. The partition of Ireland was a
+						highly artificial solution to an age-old problem. The question of whether
+						the current crisis is a religious war, a class war, or a war of national
+						liberation is in many ways a false one. It is all of these at once. The
+						peculiar complexity of the situation stems from the fact that the political
+						and religious identity of each community is coincident in broad terms, and
+						it is with these political and religious groups that individuals have from
+						birth learned to define themselves.</p>
+					<p>The sources of bigotry in Ireland as well as the mechanisms of its
+						maintenance are ancient. In the Protestant community, patriotic songs and
+						yearly festivals celebrate the siege of Londonderry and the assent of
+						Protestant rule. These are matched in Catholic culture by a heritage which
+						stresses the heroism and glory of national revolt as well as an almost
+						mystical alliance with the church. According to the Irish Republican
+						tradition to which the modern Provisionals are heir, "Ireland unfree shall
+						never be at peace."</p>
+					<p>The Catholic population in general has tended traditionally to identify with
+						a united and independent Ireland and was in fact instrumental in winning
+						support for the Home Rule Bill by which the Republic of Ireland was
+						established in 1922. The Protestants, who form a minority within Ireland as
+						a whole, had been success ful in their violent opposition to what they
+						termed "the papist state," which led to Britain's partition of Ireland in an
+						attempt to pacify loyalist Protestants in the North. The long-term and
+						blatant suprematism of the Protestants concentrated in Northern Ireland,
+						their overt domination of political and civil institutions, is countered by
+						a Republican commitment to "victory through physical force" — a form of
+						patriotism which finds its most extreme manifestation in the IRA tradition
+						of blood sacrifice, in which each death only serves further to legitimize
+						the unquestioned heroism and "justice" of the nationalist cause.</p>
+					<p>With the outbreak of widespread and violent sectarian rioting in 1969, the
+						collapse of the repressive Protestant-controlled Stormont Government was
+						achieved only through the further intervention of the British, "justified"
+						at the time by continuing paramilitary violence and the threat of civil war.
+						This was to mark the beginning of a period of intense segregation and
+						economic disintegration in Northern Ireland, during which a climate of
+						hostility, combined with a complete lack of dialogue and a military
+						standoff, has made the possibility of further political and social
+						development virtually impossible.</p>
+					<p>When the IRA split in 1969, the Official IRA (increasingly concerned with
+						developing economic and class consciousness) apparently dwindled in
+						effectiveness. The "Provisionals," on the other hand, with their more
+						traditional focus on militarism and nationalism, were able to take advantage
+						of the already tense political climate, playing into and further aggravating
+						sectarian hostilities. They became self-appointed "people's protectors,"
+						like the Protestant paramilitaries in their own districts. The British
+						policy of internment and torture of IRA militants only served to further
+						escalate guerrilla activities. The vicious circle was complete.</p>
+					<p>During the last seven years, continued paramilitary and military violence
+						have all but wrecked large sections of both the residential and commercial
+						areas of Belfast, Derry and Armagh. Industry has declined and unemployment
+						is soaring. Meanwhile, among the general population, apathy, fear,
+						frustration and poverty have begun to flourish. Amid invariably righteous
+						claims to the representation of "justice, hatred and despair have
+						increasingly come to dominate "political" life in the Northern State.</p>
+					<p>While numerous "brave and valiant" soldiers have lost their lives, countless
+						ordinary citizens, often women and children, have also been the victims of
+						this ancient and unending cycle of fear, recrimination and violence. The
+						deaths of the three McGuire children, killed on August 10 by an IRA getaway
+						car in Belfast's Andersontown district, were just another "accident." It
+						was, however, to have a resounding effect. Betty Williams, an Andersontown
+						resident who had witnessed the incident, and Mairead Corrigan, the
+						children's aunt, "had had enough." Within hours they began organizing their
+						neighbors to protest the senseless violence of a war which had long since
+						become a way of life.</p>
+				</div>
+				<div>
+					<head>3.</head>
+					<p>The peace movement was from the start fueled by an emotional commitment which
+						was not without its own particular rationality. To the skeptics who denied
+						the possibility of a peaceful resolution to a feud stemming from deeply
+						ingrained attitudes and opposing loyalties, the women replied that three
+						hundred years of warfare had likewise accomplished nothing, that the
+						Northern Irish people had been for too long divided against themselves.</p>
+					<quote><p>Thank God I'm still angry enough to do this, because I'd march
+							anywhere in Northern Ireland. I don't give a darn what the fellow's
+							beliefs are. Everybody has got a right to believe in exactly what they
+							want to believe in, but there is no one in this whole wide world has any
+							right to kill for it. So, when l'd seen the children die or the awful
+							accident—my daughter also witnessed this —she has screamed about it
+							since, my five-year-old daughter who was unfortunately in the car with
+							me at <pb n="80"
+								facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_080.jpg"
+							/> the time—I went home and sat down. Did you ever get sick inside, so
+							sick that you didn't even know what was wrong with you? I couldn't cook
+							a dinner. I couldn't think straight. I couldn't even cry, and as the
+							night went on I got angrier and angrier. And my sister came up. She
+							lives quite close to where I live, and I had a cousin in the house at
+							the time. And I just said—and I don't mean to swear, I'm very sorry—I
+							said, "Damn it, we have got to do something." And my husband was at sea,
+							and I an air-mail writing pad, and I went right up into the heart of
+							provisional IRA territory in Andersontown and I didn't knock at that
+							door very nicely, by the way, I didn't say, "Excuse me. Would you like
+							to sign this? We all want peace." I was spitting angry, and I banged the
+							woman's door and she came. I frightened the life out of her. I really
+							did.</p>
+						<p>When she came out, I said, "Do you want peace?" She said "Yes!"</p>
+						<p>"Yes, then sign that." It sort of started off like that, and it went
+							on...further down the street, every door you knocked. All the women felt
+							that way. I just lifted the lid. They all poured out. I mean, I ended up
+							rather like the Pied Piper of Hamlin because I had a hundred women in
+							provie territory collecting signatures for peace.</p>
+						<p>We had 3,000 or 6,000 signatures in three hours. We went back to my home.
+							They were in the lounge. They were in the living room. They were in the
+							kitchen. They were in the hall. They were lined up the stairs. They were
+							in the bathroom, the two bedrooms. There just wasn't enough room to hold
+							them all, and they were all just as angry as I was...that we had let
+							this go on for so long.</p></quote>
+					<cit>
+						<ref>[Betty Williams<note>4. Betty Williams on <title level="s"
+									>Woman</title> program, moderator Sandra Elkin (Buffalo: WNEDTV,
+								Oct. 1976).</note>]</ref>
+					</cit>
+					<quote><p> You see, unfortunately, in a long time in Northern Irish society and,
+							indeed, in the world we have glorified the man with the guns. Do you
+							know we sit in our clubs and we sing about the brave man who took life?
+							Now, we're going to say in Northern Ireland, we want a complete new
+							change of society. The hero in Northern Ireland is going to be the guy
+							who stands up against the man with a gun in his hand and said, "You're
+							not speak ing for me. I haven't got a gun. l'm not prepared to take your
+							life, but you're most certainly not speaking for me.</p>
+						<p>The guy who gets involved with the man next door, with the old-age
+							pensioner; the guy who recognizes the Protestant and the Shankhill to be
+							his brother or the black man across the road to be his brother. The man,
+							who, in society, acknowledges his brother. ..the man next door to be his
+							brother. This is the kind of whole new society that we want to create in
+							Northern Ireland, Indeed, we want to say that we have led the world in
+							guerrilla warfare for years; we are going to lead the war in peace and
+							we say to the people of the world, "Watch us." Because we are going to
+							do it, and not only watch us but imitate us because the whole world is
+							led by violence and it doesn't pay. One thousand six hundred people dead
+							in Northern Ireland.</p>
+						<p>My sister was lying in a hospital after losing three babies, and do you
+							know her major concern? There was a bomb the previous week in a bar
+							where a guy had gone out to have a drink—and he was lying across the
+							ward from her—one of those open plan wards, and he had no legs,
+							seventeen years of age—he had no legs and he kept squealing all day,
+							"Please take my hands off. My hands hurt so much." That is only one
+							awful incident of what's going on in Northern Ireland with guns coming
+							into Northern Ireland. That's got to stop. That's no answer, but to the
+							gunman we say, "We acknowledge that the gunman in Northern Ireland has
+							taken guns perhaps because of their political ideals, perhaps because
+							they were never offered a way, but there's a new way. There's another
+							way, and we say to them, "Put up your guns, and if you really care for
+							the people, come into society. Let's talk about it." We're not telling
+							them to "get lost or go under the carpet because it'Il fester in thirty
+							years, but let's talk about it. Let's hear what you are saying, but not
+							by the gun.</p></quote>
+					<cit>
+						<ref>[Mairead Corrigan]</ref>
+					</cit>
+					<note>5. Mairead Corrigan on <title level="s">Woman</title> program (Buffalo:
+						WNED TV, Oct. 1976).</note>
+
+					<p> During the weeks that followed the initial demonstration at the site of the
+						McGuire children's death, Betty Williams and Mairead Corrigan continued to
+						publicize the incident and organize for an all-out assault on violence. This
+						took the form of massive demonstrations for peace. The first demonstration
+						(August 14)lic Andersontown district. Provo supporters jeered the rally and
+						denounced Williams as a traitor, but she was not dissuaded and the following
+						week brought 20,000 people together in one of Belfast's few remaining
+						"mixed" neighborhoods. The third weekend the peace movement returned to the
+						hard-core Protestant Shankill Road area where close to 30,000 demonstrators
+						showed up. The fourth rally was held in Derry, Ulster's second largest city,
+						on Craigavon Bridge, which connects the Protestant and Catholic sections of
+						town. Again approximately 30,000 people turned out. By this time the Provos
+						were saying that they did not oppose the peace movement, but supported
+						"Peace with justice." Meanwhile, in Dublin, the capital of the Irish
+						Republic, a march by 20,000 was organized in support and smaller marches
+						were held in Corm, Galway, Carlon and Castlebar.</p>
+					<p>The unexpected popularity and energetic style of these initial marches
+						contributed to their dramatic impact. Both support and criticism abounded.
+						Within weeks of the first rally, smaller community "peace" groups began to
+						spring up throughout the province, with no apparent orientation other than a
+						commitment to peace, to furthering dialogue within the community and to
+						constructive non-sectarian local action.</p>
+					<p>Provisional "support," however, was to prove short-lived. The weekly marches
+						were disrupted on October 2 by small IRA counter-marches in which several of
+						the peace marchers were assaulted. Death threats against Betty and Mairead
+						were occasionally found scrawled on Belfast walls. The Provos, claiming that
+						there had been an increase in British army raids, arrests and harassment,
+						issued a statement warning that if any women from the peace movement
+						cooperated with security forces, they would be treated as informers and
+						shot.</p>
+
+					<pb n="81"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_081.jpg"/>
+					<p> From the onset there has been confusion in the press about the attitude of
+						the peace marchers toward the British and the RUC (Royal Ulster Constabulary
+						— the "legitimate" police who have been theoretically neutral but
+						effectively on the side of the Protestants). While the peace leaders have
+						been extremely outspoken in their criticism of the Provisionals and of the
+						UDA and the UVF (Ulster Defense Association and Ulster Volunteer Force, the
+						Protestant paramilitary equivalents of the Provisional IRA), they have been
+						less direct in their denunciation of the British and of the legitimate"
+						Ulster security forces. Though they have consistently condemned all "men of
+						violence, their position on "legal" military forces is more ambiguous. While
+						this is a crucial issue and one on which the peace leaders are perhaps most
+						vulnerable to criticism, IRA supporters have consistently twisted its
+						significance to imply that they are pro-British — unlikely, as the movement
+						is both Catholic-led and strongly backed by non-violent Catholic
+						Nationalists. There is in fact a simple and rational explanation for their
+						hedging on the question of British intervention. Since one of the main
+						thrusts of the movement is its anti-sectarian character, and since it is the
+						first major popular grass roots movement uniting both Catholics and
+						Protestants, its very existence is dependent on widespread support from both
+						camps.</p>
+					<p>The vast majority of Protestants (two-thirds of the population in Northern
+						Ireland) for the most part do not favor British withdrawal, and many
+						Catholics, including the Official IRA Sinn Fein <note>6. Sinn Fein (means
+							"we ourselves"), founded in 1916, has functioned since the 1930s mainly
+							as the political wing of the IRA. In the 1960s it swung to the left as
+							did the IRA and became involved in social and economic agitation and in
+							1970 split along the same lines as the IRA into Sinn Fein, Kevin Street
+							(Provisional) and Sinn Fein, Gardiner Street (Official). The names come
+							from the streets in Dublin where they have their headquarters. Both
+							groups use the name Sinn Fein, however, in spite of the fact that their
+							views are widely divergent. The Provisionals are more militant and
+							nationalist while the Officials are marxist and not militant.</note> do
+						not advocate an <emph>immediate</emph> withdrawal, so that any public
+						position in regard to either imperialism or British "security" forces is
+						indeed difficult and problematic. Due to this fact, as well as to the
+						general diversity of political sentiment within the movement, the leaders
+						have confined themselves to taking general positions against violence,
+						encouraging local initiative toward peace and speaking in very broad terms
+						about the need for the "Northern Irish" people to resolve their own
+						differences "from the bottom up.</p>
+					<p>Although heavy criticism from both the Provisionals and extremist Protestant
+						groups may have slightly affected the movement's popularity, demonstrations,
+						rallies and meetings throughout the fall of 1976 continued to draw wide
+						support. Several supportive demonstrations were organized by feminist groups
+						in Germany and the Netherlands; a rally in London on November 28 drew a
+						crowd of approximately 15,000.</p>
+					<p>The movement now has a magazine (<title level="j">Peace by Peace</title>), a
+						small office in Belfast, and over 125 local groups "organizing for peace" in
+						Northern Ireland. "Support," however, is not what the movement is all about.
+						In terms of opening up effective channels of discourse and creating a
+						climate in which constructive non-sectarian political development can occur,
+						there is no way at present to estimate its success.</p>
+				</div>
+				<div>
+
+					<head>4.</head>
+					<p>The current peace movement is not the first of its kind in Ireland. Two
+						others in the recent past have attempted to dispel sec tarian violence by
+						non-violent and non-sectarian means. Both times they were eclipsed by
+						British military escalations which rallied Catholics to the IRA. In 1971, an
+						organization called "Women Together" gained considerable support, but lost
+						ground when the British introduced internment. Another movement sprang up in
+						Derry in 1972. After a British soldier had killed a Catholic youth, the IRA
+						"executed" a young man from Derry who had joined the British army. That was
+						the last straw for Margaret Doherty, who organized her neighbors to
+						demonstrate their anger. This was effective to the extent that the Official
+						IRA declared a cease-fire which they maintain to this day. The 1972 movement
+						collapsed however, when the British invaded the Catholic no-go areas in what
+						was known as "Operation Motor man." Once again the Provisionals were
+						vindicated by British actions. With the rebirth of the peace forces this
+						year, Margaret Doherty, who had been viciously harassed for her peace
+						activities in 1972, again came forward and has participated in the
+						organization of the present campaign.</p>
+					<p>Even these recent interventions on the part of women are not unique in Irish
+						history. In 1921, during the struggle for Home Rule, the British section of
+						the Women's International League for Peace and Freedom, headed by Jane
+						Addams, sent their own commission to study Irish self-rule, clearly opposing
+						the interests of their own government. The Irish section of the WILPF, led
+						by Louie Bennett, was active in organizing women to employ
+						passive-resistance techniques in a struggle against the British. Their view
+						as women was that human life was precious and that war was an outmoded way
+						of dealing with imperialist rivalries. While the women supporters of the
+						1921 struggle were largely middle-class suffragettes organized
+						internationally behind a pacifist ideology, the current peace campaign is
+						indigenous, widely supported by both middle- and working-class people, and
+						relatively "unorganized."</p>
+					<p>The peace movement, as Bernadette Devlin has pointed out, is not a feminist
+						movement. There is in fact virtually no feminism in Ireland in the sense in
+						which we as Americans understand it. While there have been several notable
+						female political activists in the Republican movement (Bernadette Devlin,
+						now associated with the Irish Republican Socialist Party, Marin de Burca,
+						joint general secretary of Sinn Fein, and Maire Drumm, the recently
+						assassinated Provisional IRA spokeswoman), the vast majority of Irish women,
+						oppressed as they are by poverty, war, extremely discriminatory employment
+						and pay practices, and perhaps most importantly, by a strong religious and
+						patriarchal family structure, have, by and large, remained unorganized as
+						women.</p>
+					<p>For Catholic women, a very intense religious indoctrination which places a
+						strict taboo on birth control, abortion and divorce is still a major
+						obstacle. While as citizens of a Commonwealth nation, Northern Irish women
+						are technically entitled to equal pay, and according to an
+						anti-discrimination law passed at Westminster in December 1976, they are
+						protected against job discrimination, the fact is that women's employment
+						opportunities lag far behind not only those of men, but behind those of most
+						European women as well. While the legal status of Ulster women is superior
+						to that of women in the Catholic Republic of Ireland where women still have
+						almost no independent legal rights, a very strong patriarchal ideology still
+						prevails throughout Ireland, and Northern Irish women are for the most part
+						still politically subservient to their husbands as well as being
+						educationally and economically disadvantaged. While these conditions can
+						ultimately be traced to the relatively low level of industrial and economic
+						development of Ireland as a whole, and to the powerful religious
+						infrastructure, they do underline some of the reasons why feminism has
+						failed to develop, as well as the crucial importance of independent women's
+						organizations.</p>
+					<p>How then can we evaluate the effectiveness of the peace movement from a
+						feminist perspective? While its prevailing attitudes are traditional, in
+						that they are not activist from a feminist or socialist perspective, the
+						movement does potentially represent an important step forward in both of
+						these directions. The self-initiated emergence into the political sphere of
+						a large sector of the female population which has heretofore remained
+						inactive, or at best has existed in an exclusively supportive role in
+						relation to those very male modes of political activity which they are now
+						so explicitly criticizing, is not without significance to the development of
+						either.</p>
+					<pb n="82"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_082.jpg"/>
+					<quote><p> The rallies do help to get rid of a certain amount of fear. You are
+							going to such-and-such a place and at one time you would have been
+							frightened to go there. But at the rally you're a bit frightened but you
+							just go on. Each time you come back from a rally, you have more courage
+							to keep going. It's because you're meeting with people.</p>
+						<p>Let's face it, for seven years we went about the city and sat in our
+							homes, all the time wrapped up in our own family and our own home and
+							our own constant worry that something would happen to them. You felt it
+							was just yourself had all this worry. Going out to the rallies is making
+							people realize that other people have the same fears and the same
+							worries. We are able to talk to each other about it. It's bringing a new
+							closeness.</p></quote>
+					<cit>
+						<ref>[June Campion, member of a local peace group in Knoknagoney]</ref>
+					</cit>
+					<note>7. June Campion, quoted in <title level="m">Peace by Peace</title>
+						(Belfast, Oct. 16, 1976).</note>
+				</div>
+				<div>
+
+					<head>5.</head>
+					<p>It is also important to remember that the current peace movement is at
+						present not a political organization; it is perhaps misleading to consider
+						it as such. While plans for the future include meetings designed to develop
+						a more explicit form of organization, the movement as yet has no formal
+						structure and no official platform. It is a phenomenon that can accurately
+						be termed "spontaneous" in that it has not been planned and the form it has
+						taken to date can be regarded primarily as a demonstration of solidarity
+						around a commitment to peace.</p>
+					<p>The three most visible leaders at present are Betty Williams, Mairead
+						Corrigan and Ciaran McKeown, a journalist who has given up his newspaper
+						position to support the women in their struggle. The organizational network
+						as a whole, however, is neither centralized nor highly controlled by those
+						who are apparently most prominent. Indeed, there has been a consistent
+						effort by all concerned to systematically locate the basis for participation
+						and direction within the numerous communities where peace groups have been
+						emerging.</p>
+					<p>While direct support for the movement is clearly widespread (estimates range
+						from 170,000 to 250,000 people in Northern Ireland alone), it is extremely
+						hard to gauge its size or class composition on the basis of mass rallies and
+						demonstrations. When I criticized the somewhat naive character of some of
+						the statements by movement leaders, an American woman who had gone to
+						Northern Ireland to participate in one of their rallies told me that it was
+						precisely this tone that contributed to the movement's popularity among
+						working-class women. It is certainly true that there has been a very
+						deliberate attempt by the peace people to avoid direct affiliation with any
+						specific political groups, and certain of the more politically
+						"sophisticated" women supporters have deliberately remained in the
+						background, not wishing to "take over' or divert the movement from its
+						primary focus, that is, bringing an end to violence and encouraging local
+						initiative toward non-sectarian community development.</p>
+					<p>Marin de Burca, a socialist and leader of Sinn Fein (Official IRA) spoke of
+						the peace movement in an interview during a recent tour of the U.S.: "We go
+						to the marches as individuals. It would be the kiss of death if we openly
+						supported them. We have issued statements supporting them, but I don't agree
+						with trying to move in and take them over."</p>
+					<note>8. Marin de Burca, quoted by David Moberg, <title level="m">In These
+							Times</title> (Jan. 1977).</note>
+					<p>De Burca believes that if the British withdrew the Provos would be
+						politically undermined. She argues that unification of the country is still
+						the solution but that it can be achieved only through unification of the
+						various factions around initially modest reforms.</p>
+					<quote><p>The demand for peace is not Marxist, but in the context of Northern
+							Ireland it is very revolutionary at the mo ment... The reason we're
+							looking for peace is to allow us to operate openly and intensively in a
+							political way to unite Protestants and Catholics. If we have to look for
+							something that sounds as reactionary as peace, then we look for it. If
+							people can't see behind the facade to the reality then it's their
+							problem.</p></quote>
+					<note>9. Ibid.</note>
+					<p>When Marin de Burca speaks of working in a political way to unite Catholics
+						and Protestants, she is speaking as a marxist attempting to organize working
+						people to assume greater economic control. While, as a member of the
+						Official IRA, de Burca definitely supports an anti-imperialist struggle, she
+						feels that in the long run the sectarian disputes dividing the Catholic and
+						Protestant working populations are perhaps an even greater obstacle to the
+						struggle for self-determination. As the situation exists now, separate
+						Catholic and Protestant labor unions render the labor movement as a whole
+						relatively ineffectual, and continued economic disintegration due to
+						sectarian violence has left large sections of the Catholic and Protestant
+						population unemployed.</p>
+					<p>It is interesting to note the difference between de Burca's marxist analysis,
+						which views the entire Irish working class as the oppressed class and the
+						type of marxist analysis supported by other Republicans, which views the
+						Catholic minority in the North as the oppressed class. The Provisionals, who
+						are not necessarily socialists but prefer to think of themselves as
+						consistently on the left, persist in opposing both the British and the
+						Protestant paramilitary and are engaged in a constant struggle for
+						unification with the Catholic South. Bernadette Devlin, a socialist and an
+						aggressive Republican, generally supports this form of analysis where
+						class—purely in economic terms—is secondary to anti-imperialism and a class
+						analysis stressing the political and economic discrimination that the
+						Catholic population as a whole has suffered at the hands of a
+						Protestant-controlled government and industry.</p>
+					<p>The complexity of the situation and the relative inadequacy of this approach
+						is apparent when one considers, even in crude terms, the economic
+						composition of the Catholic and Protestant population. While it is
+						definitely true that the Protestant majority, as a group, has greater
+						economic control, and that the highest levels of unemployment in the North
+						are in Catholic districts, the large majority of the Protestant population
+						is also working class. It is, in fact, the youths of these two communities
+						who are fighting one another, while the small minority of Protestants who
+						are wealthy maintain an economic advantage and have an interest in
+						continuing sectarian hostilities for precisely this reason.</p>
+				</div>
+				<div>
+					<head>6.</head>
+					<p>It would be a mistake, however, to attempt to evaluate the significance of
+						the peace movement on the basis of its potential effectiveness in furthering
+						the cause of other political movements. It is perhaps more useful to
+						consider the way in which the peace movement is indicative of an entirely
+						different struggle for self-determination, as well as a profoundly different
+						approach to these issues. It is significant that what is being questioned by
+						the peace people is not the ends of political struggle so much as the means
+						by which ideas, opinions and interests are both culturally reinforced and
+						socially imposed.</p>
+					<p>The critical issue which is the historical source of internal Irish conflict
+						is that of the relationship between Ireland and the British Empire. This has
+						not only kept Catholics and Protestants feuding for generations, but has
+						also led to innumerable splits within both camps. It is paradoxical that
+						within this context British imperialism is the one issue on which the peace
+						campaign has most consistently refused to take a stand. This is not because
+						individual participants have no opinions on this question, but rather
+						because the movement locates the "solution" in people, in a process of
+						interaction and definition rather than in abstract "positions." </p>
+					<pb n="83"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_083.jpg"/>
+					<p> For the peace people, the question of the relative legitimacy of opposing
+						traditions is momentarily suspended. What is revealed instead is the logical
+						perfection of institutionalized conflict. Military, political and even
+						religious leaders are themselves to blame, claim the peace organizers, not
+						because of this or that 'position" in relation to government, but because
+						they have kept the Irish people divided among themselves. "Rationality" is
+						for them not merely a question of "right" and "wrong," but rather begins
+						with the realization of how two non-dialectical visions of "right" are
+						sustained by a culture which is imperialist and authoritarian in its very
+						mode of thought.</p>
+					<p>Problems arise, claim the peace workers, because we have "lost sight of a
+						basic respect for the individual." "Solutions," they assert, cannot be
+						artificially constructed and then imposed but must arise through a process
+						of creative interaction in which government does not exist to control
+						people, to violently suppress dissent, but rather as an extension of the
+						more or less clearly articulated needs and desires of <emph>all</emph> the
+						people.</p>
+					<p>These concepts, while they may reveal an element of political naiveté which
+						translates as liberalism, are not rhetorical. The practical orientation of
+						the movement to date, with its emphasis on open and careful discussion and a
+						decentralized approach to developing democratic forms, is indicative of this
+						fact.</p>
+					<p>From this perspective we might examine Bernadette Devlin's claim that the
+						peace movement is "dangerous" because it "dulls consciousness." "We were
+						stupid," she claims, "never to have organized the women." <note>10.
+							Bernadette Devlin, quoted by Lucinda Franks, "We Want Peace, Just
+							Peace," <title level="j">New York Times Magazine</title> (Dec. 19,
+							1975).</note> Both the truth and the potential fallacy of this statement
+						are apparent. From the standpoint of almost any traditional political
+						perspective, assertions of the sanctity of life, of respect for the
+						individual and of a genuine "creative form of democracy" must appear naive
+						without a "program" or a definition of the specific conditions under which
+						such values can be realized. The peace people, however, do not qualify these
+						conditions; the values themselves must define the very process of political
+						interaction. If this is the case, how then can we interpret Bernadette's
+						regret at not having "organized" the women? Is it conceivable that the women
+						supporting the peace movement are not in fact organizing themselves,
+						organizing in such a way as to deny the legitimacy of those very political
+						forms into which others seek to recruit them?</p>
+					<p>A supportive statement by the Provisionals, in which the peace movement is
+						described as a "spontaneous overreaction led by the photogenic Mrs. Betty
+						Williams" reveals both the condescension and lack of reflexivity which
+						typify those attitudes the women are most directly challenging.</p>
+					<quote>We are not necessarily in opposition to the peace people. But we want to
+						explain to the people that there cannot be peace without justice. We just
+						want to explain to the people turning out to these marches what the
+							<emph>true position</emph> is and show them the road to real
+						peace.</quote>
+					<note>11. Irish Republican Information Service (Dublin, Oct. 14, 1976). Italics
+						the author's.</note>
+					<p>This raises the most subtle and yet critical issue of the peace movement's
+						significance. The whole notion of a "true position" is what the peace
+						movement calls into question—it is not the political views of the opposing
+						factions that are being attacked; even the "violence" the movement condemns
+						is but a manifestation of something far more profoundly significant. The
+						peace people are, in my opinion, not reacting simply to a specific incident
+						of violence, nor even to violence in the abstract. They are (perhaps naively
+						but nevertheless insightfully) challenging a whole tradition. What is
+						fundamentally being questioned is the legitimacy of the imposition of the
+						will of one group upon another. "Justice" is not being challenged so much as
+						how justice is socially defined. imperialism, in this context, is not simply
+						a question of national or international conquest. Imperialism is the
+						imposition of a social order, whether through military force or political
+						manipulation, by those with power on those without. The very question of how
+						Northern Ireland can be governed, says Ciaran McKeown, "is an imperialist
+						question" because it implies the imposition of political forms by
+						politicians on people who are for the most part excluded from the process of
+						a creative democracy. Thus all extant political solutions are inevitably
+						violent, whether the violence is "legal"<note>12. Ciaran McKeown, "The Price
+							of Peace" (Belfast, 1976).</note> or "illegal," because they require
+						military force to secure them.</p>
+					<p>From this perspective, British colonialism, Protestant political suprematism
+						and IRA military violence can be seen as identical in their implicit
+						attitudes toward the imposition of social order. In every case, whether
+						justified or not, "justice" is an extension of self-interest and democracy
+						is a rhetorical, not a methodo logical phenomenon. While it would be absurd
+						to consider the peace movement as a feminist or a socialist movement, it
+						expresses values that are fundamentally in accordance with both socialist
+						and feminist thought, in that it addresses the whole issue of power and
+						questions the way the right of self-determination has been eclipsed, not
+						only by those in power, but by those who conceive of power alone—economic,
+						military or political—as the just determinant of social order.</p>
+					<quote>Perhaps it's been our fault, you see, because we have sat back—as
+						ordinary people—which is the fault everywhere—where the ordinary people sat
+						back and let a few extremists say, "We are speaking and we are working for
+						the people." We should have long ago stood up and said, "They're not
+						speaking for us." I mean, people have been coming out from Ireland
+						representing the people—the ordinary people, perhaps people like our selves,
+						who never had the nerve. I mean, just to be here takes all the courage one
+						has got, you know.</quote>
+					<cit>
+						<ref>[Mairead Corrigan]</ref>
+					</cit>
+					<note>13. Mairead Corrigan on <title level="s">Woman</title> program (Buffalo:
+						WNED TV, Oct. 1976).</note>
+				</div>
+			</div>
+		</body>
+		<back>
+			<p> Sarah Charlesworth is an artist and photographer who lives and works in New York.
+				Her previously published writings have dealt with art and social theory. She was a
+				founding editor of The Fox and is a member of the anti-catalog collective. </p>
+		</back>
+	</text>
+</TEI>

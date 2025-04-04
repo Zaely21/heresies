@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -55,7 +55,11 @@
             </respStmt>
             <respStmt>
                <persName>Carrie Pirmann</persName>
-               <resp>HTR editor, encoder (2023-Present)</resp>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
             </respStmt>
             <respStmt>
                <persName>Ricky Rodriguez</persName>
@@ -121,7 +125,7 @@
          <sourceDesc>
             <biblStruct>
                <analytic>
-                  <title>[ISSUE TITLE]</title>
+                  <title>Patterns of Communicating and Space Among Women</title>
                </analytic>
                <monogr>
                   <imprint>
@@ -143,78 +147,84 @@
    </teiHeader>
    <text>
       <body>
-         <pb/>
-         <div type="backmatter">
-            <p>
-            <list>The following people made contributions to HERESIES ranging from §1 to $200. We thank them very much.
-            Susan Abbott
-            Pamela Daniels
-            Jean Heilbrunn
-            Dorothy McCormack
-            Adrienne Anderson
-            Mary Kent Schardt
-            Barbara Deming
-            Catherine Hillenbrand
-            Jeanette Wong King
-            Carl Andre
-            Kendall Shaw
-            Mary Jane Dougherty
-            Rolaine A. Hochstein
-            Paula Nordwind
-            joyce Aiken
-            Catherine M. Stifter
-            C. Christopher Drake
-            Henry and Sarahanne Hope
-            Daisy Paradis
-            Zeldy Appel
-            joyce Timpanelli
-            Lilly Engler
-            Suzanne Irwin-Wells
-            Toby Reifman
-            Art Programs, Inc.
-            Henry Torczyner
-            S.R. Field
-            T. Kaori Kitao
-            Ellen Rothenberg
-            Lisa M. Berk
-            Lane R. Trippe
-            Carole Fischer
-            Betty Klavun
-            Joan Rosenbaum
-            Ruth Bocour
-            Barry Warshaw
-            Audrey Flack
-            Sylvia F. Kleinman
-            Amalie Rothschild
-            Ruth Bowman
-            Joan Watts
-            Mary D. Gatzert
-            Alexandra Kochman
-            Sara Ruddick
-            Sheila de Bretteville
-            Janet and Albert Nebster
-            Moira Geoffrion
-            Janet Koenig/Allan Wallach Alix Kates Shulman
-            Serry Brody
-            Annette Weintraub
-            Florence and Marvin Gerstin Harriet Korman
-            Elna Shulof
-            Noma Copley
-            Angela Westwater
-            Sylvia Greenfield
-            Alice Lauffer
-            Elli M. Siskind
-            Susan W. Cutter
-            Kari Wren
-            Susan Hall
-            Margaret I. Lippard
-            Susan Sollins
-            Eugenia Zuckerman
-            Carey Marvins
-            Benjamin Spock Mary Morgan</list>
-            HERESIES thanks everyone who made our benefits so successful. Special thanks to Leslie Cohen at the Sahara Club and Patricia Hamilton
-            Gallery for the use of their spaces and to Rita Mac Brown, Sheila Jordan, Eve Merriam and Adrienne Rich for donating their time and talent.
-         </p></div>
+         <pb n="47"/>
+         <div type="essay">
+            <div type="poem">
+               <head>Lament on the Eve of her Daughter's Birthday</head>
+               <byline>Estelle Leontief</byline>
+               <lg>
+                  <l>My head doesn’t ache </l>
+                  <l>no one pulls out my fingernails </l>
+                  <l>what I eat sits easy</l>
+               </lg>
+               <lg>
+                  <l>On this long </l>
+                  <l>blue night each year </l>
+                  <l>leven forget that </l>
+                  <l>hard hard laboring</l>
+               </lg>
+               <lg>
+                  <l>a magician </l>
+                  <l>hacking a woman in two</l>
+               </lg>
+               <lg>
+                  <l>If I lie still </l>
+                  <l>your thirty-six years </l>
+                  <l>blow my mind.</l>
+               </lg>
+               <lg>
+                  <l>II try to reach you </l>
+                  <l>I'm too short</l>
+               </lg>
+               <lg>
+                  <l>But now at last </l>
+                  <l>night darkens </l>
+                  <l>into day</l>
+               </lg>
+               <lg>
+                  <l>and you may wish for </l>
+                  <l>what you want </l>
+                  <l>What is it</l>
+               </lg>
+               <lg>
+                  <l>Write me </l>
+                  <l>Tell me something </l>
+                  <l>Sing</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>September Solitaire</head>
+               <byline>Ann Lauterbach</byline>
+
+               <lg>
+                  <l>There are always added difficulties: unwashed glasses, </l>
+                  <l>the box with some sweaters, the floral arrangement </l>
+                  <l>in the kitchen, the kitchen floor. It was a grid </l>
+                  <l>of pale blue and gray linoleum; it no longer exists. </l>
+                  <l>All of us move in time for winter. </l>
+                  <l>Things are most dangerous when habits are kicked; </l>
+                  <l>birds, and the way you imagine.</l>
+               </lg>
+               <lg>
+                  <l>We tell stories. </l>
+                  <l>This to restrain the sense that we would give in </l>
+                  <l>too easily when the time came. The time had come. </l>
+                  <l>The first red and the first green are not the same; </l>
+                  <l>between death and birth are radical colors, </l>
+                  <l>of which the trees are stain. I told stories for hours, </l>
+                  <l>each made from imminent, rendered places; talk itself </l>
+                  <l>a terrain. I recall games: ducking and kisses and tails. </l>
+                  <l>Someone is always blinded. Someone was removed in a chair.</l>
+               </lg>
+            </div>
+         </div>
       </body>
+      <back>
+         <p> Ann Lauterbach is a native New Yorker. She has just compiled her first collection of
+            poems, titled Chalk. Estelle Leontief was poetry editor of Colloquy magazine, has
+            published two books of poetry—Razerol and Whatever Happens—with Claire van Vliet of
+            Janus Press, Vermont. She is now a reader of poetry and fiction for the Partisan Review.
+         </p>
+      </back>
    </text>
 </TEI>

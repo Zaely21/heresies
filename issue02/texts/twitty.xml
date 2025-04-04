@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contributors</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>Editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Patterns of Communicating and Space Among Women</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="essay">
+            <pb n="42"
+               facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_042.jpg"/>
+            <head>Magic Songs</head>
+            <byline>Collected by Anne Twitty*</byline>
+            <note>* From a collection begun while working with Julia Blackburn, who found two of the
+               poems.</note>
+            <p>Magic is a universal language, a technique for transformation. It works by binding or
+               loosing, invoking, destroying, leading away. Wherever they were, the women who said
+               or chanted these incantations had the same purposes—they wanted to stop the flow of
+               blood or start the flow of milk, to ease childbirth, to send a fever back into the
+               forest it came from. For them, the word was not the refuge of the helpless but a
+               medicine or a thunderbolt, a sacramental tool. Their words were acts. </p>
+            <lg>
+               <l>The child's mother first wipes her sexual organ with the shirt and </l>
+               <l>then the child's face, saying: </l>
+               <l>Flee marvel from marvel. </l>
+               <l>Here is a greater marvel. </l>
+               <l>White partridges flew by and brought white milk. </l>
+               <l>They pour it out of the stone, </l>
+               <l>they pour it round out of the stone. </l>
+               <l>One hand fastens the sleeve of the other. </l>
+               <l>The axe by itself cuts the Evil Eyes. </l>
+               <l>Let the Evil Eyes melt away </l>
+               <l>like bees over the flowers, </l>
+               <l>like lard on the coals, </l>
+               <l>like foam on muddy water. </l>
+               <l>We shall tread over the water, </l>
+               <l>we shall make the Evil Eyes wither and dry up, </l>
+               <l>that they appear no more</l>
+            </lg>
+            <note>A southern Slav charm collected by Phyllis Kemp, who practiced medicine there
+               before World War II, and made an extensive study of folk medicine/magic.</note>
+            <bibl>(From Phyllis Kemp, Healing Ritual, Faber and Faber, London, 1937, p. 141.)</bibl>
+            <lg>
+               <l>I dance a strong dance. </l>
+               <l>The god comes on the rainbow </l>
+               <l>to his shrine. </l>
+               <l>He comes with the red rain </l>
+               <l>and the blue. </l>
+               <l>It is the sign of the god. </l>
+               <l>He comes down here to earth. </l>
+               <l>Dance, all ye children of his!</l>
+            </lg>
+            <note>From Ifaluk Atoll, an island south of the Marianas, where the women write all the
+               poetry. This is an invitation to a god.</note>
+            <bibl>(From Edwin Grant Burrows, Flower in My Ear: Arts and Ethos of Ifaluk Atoll,
+               University of Washington Press, Seattle, 1963, p. 353.)</bibl>
+
+            <lg>
+               <l>I cut all witchcraft from you. </l>
+               <l>Hiao! </l>
+               <l>I cut off the rainbow curses from you. </l>
+               <l>Hiao! </l>
+               <l>I cut all spirit-husband harm from you. </l>
+               <l>Hiao! </l>
+               <l>I cut from you the evil talk </l>
+               <l>of the watering place. </l>
+               <l>Hiao! </l>
+               <l>I cut from you the harmful talk </l>
+               <l>of the firewood-gatherers. </l>
+               <l>Hiao!</l>
+            </lg>
+            <note>From Adayme, Africa. The pregnant woman is bound with magic strings. Then, as the
+               charm is said, line by line, each string is cut. First around the head, then the
+               neck, then the waist, the knees and the feet.</note>
+            <bibl>(From Hugo Huber, "Adayme Purification and Pacification Rituals," The American
+               Anthropologist, v. 29, 1927, p. 178; Twitty version.)</bibl>
+
+            <lg>
+               <l>Whose womb do I have for my womb? </l>
+               <l>The gull’s womb I have for my womb. </l>
+               <l>Whose womb do I have for my womb? </l>
+               <l>The sea-fowl’s womb I have for my womb.</l>
+            </lg>
+            <note>Eskimo. For a woman in childbirth</note>
+            <bibl>(From William Thalbitzer, The Ammassalik Eskimo, AMS Press, New York, 1914; Twitty
+               version.)</bibl>
+
+            <lg>
+               <l>Earth-Woman, Earth-Woman, </l>
+               <l>may you fall sick. </l>
+               <l>Your milk turn to fire. </l>
+               <l>May you burn in the earth! </l>
+               <l>Flow, flow, my milk. </l>
+               <l>Flow, flow, white milk. </l>
+               <l>Flow, flow, as I will. </l>
+               <l>My child is hungry.</l>
+            </lg>
+            <note>Gypsy. The Earth Woman is thought to suckle children so that they refuse their
+               mother's milk. She has many sister spirits child-stealers and child-destroyers like
+               the Hebrew Lilith and the Islamic Karina—who appear to be destroying shadows, the
+               woman's double.</note>
+            <bibl>(From H. von Wlislocki, "Zauber und Besprechungsformeln," Ethnologische
+               Mitteilungen aus Hungarn, v. 1, no. 1-2, 1887; Twitty translation.)</bibl>
+
+            <lg>
+               <l>May the lion take you <caesura/>coming out of the thicket. </l>
+               <l>May he eat your flesh <caesura/>May your bones be lost. </l>
+               <l>May Gaweg beat you <caesura/>when he is angry.</l>
+               <l>May God protect me! <caesura/>How can weeping be stolen? </l>
+            </lg>
+            <note>Ethiopian. A woman’s angry song. Someone else has taken her mourning song and sung
+               it. Ethiopian women traditionally invent and sing the dirges for the dead.</note>
+            <bibl>(From Enno Littman, Publications of the Princeton Expedition to Abys sinia, E.J.
+               Brill, Leyden, 1910-1915; Twitty version.)</bibl>
+            <lg>
+               <l>The woman who cannot nourish her child: </l>
+               <l>Let her herself take a piece of her own child's grave, </l>
+               <l>then wrap it up in black wool and sell it to traders. </l>
+               <l>Let her then say: </l>
+               <l>I sell it: buy ye it, </l>
+               <l>this black wool, and seeds of this sorrow.</l>
+            </lg>
+            <note>Anglo-Saxon.</note>
+            <bibl>(From J. H. G. Grattan and Charles Singer, Anglo-Saxon Magic and Medicine, Oxford
+               University Press, New York, 1952, p. 191.)</bibl>
+         </div>
+      </body>
+
+      <back>
+         <p>Anne Twitty is an American writer and translator who lives in London and in Deyâ,
+            Mallorca. She is currently working on a book of collected origin myths and magic songs
+         </p>
+      </back>
+   </text>
+</TEI>

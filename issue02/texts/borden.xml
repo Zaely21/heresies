@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Women and Anarchy</title>
+				<author>Lizzie Borden</author>
+				<respStmt>
+					<persName>Eowyn Andres</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Haley Beardsley</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lyndon Beier</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Erica Delsandro</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mia DeRoco</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Margaret Hunter</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Invesigator, encoder</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sophie McQuaide</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Martin</persName>
+					<resp>Editor, encoder (2021)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Zoha Nadeer</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bri Perea</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Carrie Pirmann</persName>
+					<resp>Editor, encoder (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Ricky Rodriguez</persName>
+					<resp>Editor (2022-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Roger Rothman</persName>
+					<resp>Investigator, editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Valeria Riley</persName>
+					<resp>Editor (2024-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kaitlyn Segreti</persName>
+					<resp>Editor (2021-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maggie Smith</persName>
+					<resp>Editor (2021-2024)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maya Wadhwa</persName>
+					<resp>Editor (2021-2023)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kelly Troop</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Lucy Wadswoth</persName>
+					<resp>Editor (2022-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anna Marie Wingard</persName>
+					<resp>Editor (2023-Present)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Olivia Wychock</persName>
+					<resp>Graduate Editor (2024-Present)</resp>
+				</respStmt>
+				<funder>Bucknell University Humanities Center</funder>
+				<funder>Bucknell University Office of Undergraduate Research</funder>
+				<funder>The Mellon Foundation</funder>
+				<funder>National Endowment for the Humanities</funder>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					<name>Bucknell University</name>
+					<address>
+						<street>One Dent Drive</street>
+						<settlement>Lewisburg</settlement>
+						<region>Pennsylvania</region>
+						<postCode>17837</postCode>
+					</address>
+				</distributor>
+				<availability>
+					<licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial
+						4.0 International (CC BY-NC 4.0)</licence>
+					<licence>Heresies journal: © Heresies Collective</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Patterns of Communicating and Space Among Women</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<publisher>HERESIES: A Feminist Publication on Art and
+								Politics</publisher>
+							<pubPlace>
+								<address>
+									<name>Heresies</name>
+									<postBox>P.O. Boxx 766, Canal Street Station</postBox>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<postCode>10013</postCode>
+								</address>
+							</pubPlace>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb/>
+			<div type="essay">
+				<pb n="71"
+					facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_071.jpg"/>
+				<head>Women and Anarchy</head>
+				<byline>Lizzie Borden</byline>
+
+				<quote> They say that at the point they have reached they must examine the principle
+					that has guided them. They say it is not for them to exhaust their strength in
+					symbols. They say henceforward what they are is not subject to compromise. They
+					say they must now stop exalting the vulva. They say they must break the last
+					bond that binds them to a dead culture.—Monique Wittig, Les Guérillères</quote>
+				<p> In the past decade, women have worked together, met together, and talked
+					together in ways that have been considered novel, emerging from and at the same
+					time creating a new attitude about group organization which proposes only
+					egalitarian, non-hierarchical relationships. The methods used in
+					support/collaboration (such as consciousness raising) and the kind of group
+					created have seemed unique. However, this attitude and these methods have been
+					generally restricted to the small group, while the dominant form of mass
+					organization among middle class women has been conventionally reformist, aimed
+					at changing legislation, working for the ERA and so forth. This kind of
+					political work relies on organizing methods historically unrelated to
+					significant social change.</p>
+				<p>Many women who were in radical politics in the late 1960s have fallen back on
+					working methods that can have immediate, tangible effect. This is a recurrent
+					problem for the left: should it work for immediate reforms, setting the stage
+					for greater ones? Will reform (or opportunism, according to some) eventually
+					produce a consciousness sufficiently advanced to change the social structure?
+					The women's suffrage movements in England and America were also divided on this
+					issue. Some saw the vote as leading to further reforms for women, while others
+					saw it as leading to socialism. Today, reformist politics tactically involved
+					with a more or less accepted social structure are at odds with attempts by
+					radical feminists to rethink society and relationships within society. In the
+					criticism of power, bureaucracy and institutional rigidity, in the emphasis on
+					the personal, on the family (whatever its form), on education, child care and
+					sex —feminists have proved, consciously or not, to be anarchists.</p>
+				<p>The anarchist premise of radical feminism is that only through collectivity and
+					equality can individuality, autonomy and independence be achieved.
+					Individuality, in this sense, means something like "personal and interpersonal
+					realization." This is "therapeutic" only when the group helps women "survive"
+					within the system, when the group becomes estheticized or escapist and class
+					analysis doesn't provide a basis for further organization. Anarchist
+					egalitarianism in women's groups has been based not only on political, but on
+					ethical or moral grounds which presume that women should behave in a certain
+					way—openly, honestly, with integrity. Women, by requiring this of each other,
+					sometimes create a feeling of moral superiority over men who, by implication,
+					and often in fact, are not honest among themselves, or "in touch with their
+					feelings."</p>
+				<p>Historically, ethical and egalitarian relationships among women did not result
+					only from choice, as was the case with anarchists, but from material conditions
+					excluding women from full participation in production and power—and thus from
+					the hierarchies of production. Whenever women began to work together, each
+					contributing what she knew, there was relatively the same level of experience
+					and skill—a necessary or "natural" equality, which often made democracy
+					intrinsic to organization. Because woman's domain was traditionally more
+					personal, women's political activities tended to center around personal
+					questions. (Sheila Rowbotham suggests that this focus is a necessary
+					precondition for the mobilization of women en masse.<note>1. Sheila Rowbotham,
+						Women, Resistance and Revolution (New York: Vintage Books, 1974), p.
+						124.</note>) But the moral imperative, when elicited as a response to
+					oppression, often bogs down in the attempt to reconcile morality with
+					revolutionary strategy. The impetus behind a moral position is more often
+					rational than revolutionary; it is a call to reason, to the recognition of how
+					things should be and the decision to make them that way. But the idea that
+					change is effected only by reason and understanding can be utopian and/or
+					reactionary, since recognition of class and economic contradictions alone cannot
+					affect the power relationships behind these conflicts. On the other hand, the
+					alliance of feminism with political ideologies that stress revolution,
+					especially marxism-leninism, has often been destructive to the radical content
+					of feminism. The real question is, then: how can the content of change be
+					maintained within a confusion about form? What organizational form will work
+					without sacrificing feminist content to political ideologies that maintain
+					sexist social institutions?</p>
+				<quote>"The law of evolution is that the strongest survives!" "Yes, and the
+					strongest, in the existence of any social species, are those who are most
+					social. In human terms, most ethical... There is no strength to be gained from
+					hurting one another. Only weakness."—Ursula LeGuin, The Dispossessed</quote>
+				<p>Thus, feminism's major problem—how to concretize ideas about personal liberty
+					within a form of organization that is not hierarchical, that does not contradict
+					individual freedom, and that is not utopian—has been anarchism's traditional
+					dilemma as well. Anarchist and often feminist arguments tend to be predicated on
+					a moral-philosophical belief in a "natural" social state without government or
+					male-created institutions—a condition that would be "naturally" reinstated if
+					government or male institutions were abolished; that is, Nature herself, or
+					women, would produce a better social organism.</p>
+				<p>Some of the most influential anarchists—Godwin, Proudhon, Bakunin, Kropotkin, and
+					later, Emma Goldman and Federica Montseny—provide the historical precedents for
+					many aspects of women's groups. It must be kept in mind, however, that
+					anarchists and feminists have often reached the same conclusions from different
+					directions, which raises the question of intentionality. For example, William
+					Godwin, husband of Mary Wollstonecraft and father of Mary Shelley, imagined the
+					world <pb n="72"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_072.jpg"
+					/> structured around discussion groups with a purpose similar to consciousness
+					raising. His ideal society, as described in Political Justice (1793) was based
+					on "public inspection," "positive sincerity, and "political simplicity"—the
+					foundation for the first two. This meant reorganization through federalism,
+					nations broken down into small autonomous units. Psychological pressure would
+					replace force, for people would have to be honest and virtuous in face-to-face
+					confrontations. Small discussion groups would encourage the pursuit of
+					knowledge, extending laterally to become a universal movement. Godwin's
+					speculations, however, were based not in practice but in reaction against the
+					retardation of the French Revolution by governmental authority.</p>
+				<p>The major impetus of consciousness raising has been Godwinian, centering around
+					discussion and inquiry with trust, loyalty and honesty as criteria for respect.
+					According to the Red Stockings, the purpose of consciousness raising was to
+					"develop female class consciousness through sharing experience and publicly
+					exposing the sexist foundations of all our institutions. While the call-to-arms
+					was political, the methods were personal, based on the idea that the subjective
+					experience of objective conditions can lead to objective analysis. "We regard
+					our personal experience, and our feelings about that experience, as the basis
+					for an analysis of our common situation.... The notion of equality, as conceived
+					by feminists, has had a double mean ing: the struggle to be recognized as equal
+					to men (the oppressors) and the struggle to maintain equality among women (so as
+					not to oppress each other). "We are committed to achieving internal democracy.
+					We will do whatever is necessary to ensure that every woman in our movement has
+					an equal chance to participate, assume responsibility, and develop her political
+						potential."<note>2. All quotations in this paragraph are from the
+						Redstockings Manifesto, July, 1969.</note> Methods like "going around the
+					circle" have been used to prevent dominance—and to recognize that personality is
+					an instrument of domination.</p>
+				<p>However, when consciousness raising fails to distinguish between sex and class
+					consciousness and does not acknowledge middle- and working-class contradictions,
+					it falls into liberalism —"a moralistically humanitarian and egalitarian
+					philosophy of social improvement through the re-education of psychological
+						attitudes."<note>3. Charnie Guettel, Marxism &amp; Feminism (Ontario,
+						Canada: Women's Educational Press, 1974), p. 3</note> From a marxist point
+					of view, there can be no radical analysis if the critique of society rests upon
+					change within the individual (or in self-help and education) rather than
+					relations of production. While small-group interaction can extend laterally to
+					become a mass movement, consciousness raising includes no strategy for mass
+					organization. Consequently, while personal interaction can be helpful as a
+					beginning—generating support building up individuals' confidence—it remains
+					idealistic if every thing stops there.</p>
+				<quote>"...wasn't it Odo who said that where there's property there's theft?" "[She
+					said] To make a thief, make an owner; to create crime, create laws.' The Social
+					Organism. —Ursula LeGuin, The Dispossessed</quote>
+				<p>Another strain of feminism is related to the theories of Pierre Joseph Proudhon,
+					who carried anarchism into more concrete forms of organization. He wanted to
+					rebuild society by creating a federation of communes and cooperatives based on
+					"Mutual Aid," through contract and mutual credit, replacing "economic powers"
+					with "economic forces. In his statement, "property is theft," Proudhon opposed
+					the exploitative accumulation of capital but not property for use.</p>
+				<p>Some feminist organizations, such as health centers, credit unions and food
+					co-ops, are Proudhonian in their reliance on mutual aid, on exchange of skills
+					and services. While such groups can often radicalize a particular community,
+					they restrict them selves to immediate need, affecting consumption rather than
+					production, and they do not in themselves deal with the sources of production or
+					help analyze the power of women in the labor force. This kind of cooperative
+					activity is still linked to household activity, which is also about consumption,
+					contrary to what the Wages for Housework women argue.</p>
+				<p>Cooperative organizations are Proudhonian in their hope that cooperation can
+					extend laterally to change the economic and psychological bases of society. If
+					the cooperative form is that of the extended family, if it is apolitical, and
+					isolationist, like most communes, it simply avoids the realities of production.
+					A commune is similar to a consciousness-raising group, it can radically change
+					the individuals within it but it is imperialized, economically and socially, by
+					external institutions, and can serve only as an example rather than as a
+					political force.</p>
+				<quote>The women say they have learned to rely on their own strength. They say they
+					are aware of the force of their unity. They say, let those who call for a new
+					language first learn violence. They say, let those who want to change the world
+					first seize all the rifles. They say that they are starting from zero. They say
+					that a new world is beginning.—Monique Wittig, Les Guérillères</quote>
+				<p>Mikhail Bakunin's influence—on both anarchists and women—seems to be emotional;
+					his ideas are based in conventionally "female" modes: "revolution is instinct
+					rather than thought, it operates as an instinct, and as an instinct gives first
+						battle."<note>4. Mikhail Bakunin, quoted in Eugene Pyziur, The Doctrine of
+						Anar chism of Michael A. Bakunin (Baltimore: Gateway Editions, 1955), p.
+						17</note> Unlike Proudhon, he did not think institutions could be rebuilt;
+					they were to be demolished in a revolution that would culminate in the
+					construction of a world where everyone would be free and equal. Bakunin was the
+					only influential anarchist to make a constant litany of violence, and his
+					statement, "the passion for destruction is a creative passion," became a
+					romantic battle cry.</p>
+				<p>American middle-class feminist activism has usually not included physical
+					violence, although from the time of the temperance societies and the
+					suffragettes there have been bloodless demonstrations and guerrilla
+					actions—women chaining them selves to benches and fences, hunger strikes, bar
+					smashing, window breaking. In England, upper- and middle-class guerrilla actions
+					were more violent than those of working-class women because poor wage-earners
+					could not risk jail. For middle-class feminists, prison brought class conflict
+					into the public eye; upper-class women were given privileges, while bourgeois
+					women were treated miserably. They often left jail determined to work for prison
+						reform.<note>5. Sheila Rowbotham, "The Vote," Hidden from History (New York:
+						Vintage Books, 1976), pp. 77-89.</note> Contemporary feminists who have
+					advocated violence and terrorism (such as the Weatherwomen and Susan Saxe) often
+					operate in the Bakuninist spirit of acts that seem to be political theater
+					rather than effective strategies, ever though these women are not professed
+					anarchists. Being forced underground, however, away from usefulness in
+					organization, has fostered greater impotence. It is ironic that the legal
+					defense of some of these fugitives, once they have been caught, has become an
+					organizational focus. Jane Alpert's surrender was an exception, because it
+					appeared that she collaborated with the government in locating and arresting her
+					friend Pat Swinton. To be jailed for being in contempt of grand juries, for
+					refusing to turn state's evidence, has at times been seen as a high honor,
+					serving to focus class and sex contradictions better than the original bank
+					robberies or bombings.</p>
+				<quote>Decentralization had been an essential element in Odo's plans for the society
+					she did not live to see founded. She had no intention of trying to de-urbanize
+					civilization. Though she suggested that the natural limit to the size of a
+					community lay in its dependence on its own immedi- <pb n="73"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_073.jpg"
+					/> ate region for essential food and power, she intended that all communities be
+					connected by communication and transportation networks, so that goods and ideas
+					could get where they were wanted, and the administration of things might work
+					with speed and ease, and no community be cut off from change and interchange.
+					Ursula LeGuin, The Dispossessed</quote>
+				<p>Pêtr Kropotkin may have set the most useful anarchist precedent. Many strands of
+					feminism stem from his thought—from anthropologists and historians attempting to
+					rewrite the history of women by material analysis of sexism in production in
+					early societies, to socialists who have practically rejected marxist-leninist
+					authoritarianism but still base their economic analyses on those theories. Both
+					Emma Goldman and Federica Montseny were strongly influenced by Kropotkin's
+					ideas, especially by his attempt to place anarchism on a scientific and
+					evolutionary rather than moral ground. All three advocated a communism that went
+					beyond collectives and mutualism, which Kropotkin saw as reflections of
+					"mitigated individualism." He argued that communist possession of land and
+					individualist production were too contradictory to survive, that the wage system
+					should be abolished, that common possession of the means of production implied
+					equal consumption, that people should be provided for according to their needs
+					rather than the amount of labor they performed. Dismissing any technical
+					necessity for large-scale industrialization, Kropotkin argued that the tendency
+					of industry was toward decentralization. But small scale was also important for
+					the same reason it was for Godwin and for today's feminists —for its reliance on
+					trust and honesty in making and keeping agreements. However, Kropotkin's belief
+					that change would come through evolution, shared by some feminists, is
+					optimistic but utopian. Past glory is as problematic as future glory, and as
+					useless to speculate about.</p>
+				<quote>We have nothing but our freedom. We have nothing to give you but your own
+					freedom. We have no law but the single principle of mutual aid between
+					individuals We have no government but the single principle of free association.
+					You cannot buy the Revolution. You cannot make the Revolution. You can only be
+					the Revolution. It is in your spirit, or it is nowhere.—Ursula LeGuin, The
+					Dispossessed</quote>
+				<p>During and after the Russian Revolution, anarchists in Russia and elsewhere,
+					hoping to create a political science by basing their analyses more concretely on
+					economics, rejected the romantic utopianism of their nineteenth-century
+					predecessors. There were two major lines of social-anarchist thought—that of the
+					anarcho-communists, who were opposed to large-scale industry, and that of the
+					anarcho-syndicalists, such as Emma Goldman, who supported trade unionism and
+					thought that anarchists should use the capitalist system of production
+					progressively to liberate rather than to alienate people. Both groups agreed in
+					their opposition to the Bolsheviks when they saw that the "dictatorship of the
+					proletariat" really meant the "dictatorship of the Social Democratic Party."</p>
+				<p>Emma Goldman, the most famous female anarchist, was one of the harshest critics
+					of the Bolshevik government. She came to America as a young Russian immigrant
+					and was radicalized by the condition of the working class—long hours in
+					sweatshops, unsafe conditions, the sexual exploitation of women workers, the
+					prejudice against Jews. Objecting to communist authoritarian ism, she was drawn
+					to anarchism. Goldman was influenced by Bakunin's passion for revolt—("As to
+					methods. Anarchism is not, as some may suppose, a theory of the future to be
+					realized through divine inspiration. It is a living force in the affairs of our
+					life, constantly creating new conditions"<note>6. Emma Goldman, Anarchism and
+						Other Essays (New York: Dover, 1969), p. 63.</note>)—and by Kropotkin's
+					economic analyses of decentralization, his attempt to make anarchism
+					scientific—("Just as the animal cells, by mutual cooperation, express their
+					latent powers in formation of the com plete organism, so does the individual, by
+					cooperative effort with other individuals, attain Ithe) highest form of
+					development ..."<note>7. Ibid., p. 36.</note>). Goldman became an
+					anarcho-syndicalist, agitating for women's rights, birth control, and labor
+					reforms. She was not primarily a feminist, although feminism was part of her
+					anarchism, and she criticized women who were committed only to women's suffrage,
+					asking why they would want the same right to be oppressed as men. She also
+					lambasted middle-class suffragettes for failing to understand the problems of
+					working-class women.</p>
+				<p>When Goldman was deported during the Red Scare after World War I, she went to
+					Russia, but was bitterly disappointed by what she saw as the betrayal of the
+						revolution.<note>8. See "The Revolution Betrayed," Patterns of Anarchy
+						(Garden City, N.Y.: Anchor Books, 1966), pp. 98-115.</note> She argued that
+					the people's passionate yearning for liberty had made the revolution possible,
+					in spite of industrial backwardness. The "spirit of mutual purpose" in the labor
+					organizations and cooperatives emerged in response to the need for them.
+					However, the Bolsheviks limited the scope of popular power. Seeing that the
+					Soviets threatened the supremacy of the state, Lenin put a "new economic policy"
+					into effect, destroying the Soviets, the trade unions and the cooperatives in
+					order to further centralize the political state. The revolution, though, had
+					been fought with a different objective—the negation of authority and centralism.
+					Goldman blamed not only the Bolsheviks, but the "fanatical governmentalism" of
+					marxism—and felt that only anarcho-syndicalism—"the industrial power of the
+					masses expressed <pb n="74"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_074.jpg"
+					/> through their libertarian associations"—could organize economic life. The
+					power of the masses represented revolution to her: "The inherent tendency of the
+					state is to concentrate, to narrow, and to monopolize all social activities; the
+					nature of Revolution is, on the contrary, to grow, to broaden, and disseminate
+					itself in even wider circles. In other words, the State is institutional and
+					static, Revolution is fluent, dynamic.."<note>9. Ibid., p. 110.</note> Goldman
+					also criticized the Russian Revolution for propagating anti-humanitarian
+					feelings in its criticism of all ethics. The Bolsheviks saw the desire for
+					justice, equality, and liberty as sentimental, bourgeois, superstitious and
+					counter-revolutionary, this last a criticism especially leveled against
+					outspoken women. All of history, she wrote, "is continuous proof of the maxim
+					that to divest one's methods of ethical concepts means to sink into the depths
+					of utter demoralization."<note>10. Ibid., p. 113.</note></p>
+				<p>For Goldman, the primary ethical precept was the identity of means and ends. Like
+					Kropotkin, she found ethics involved more than morals. How, in practice, could
+					the dictatorship of the intelligentsia transform itself into the dictatorship of
+					the proletariat? Wouldn't any class dictatorship be the same as any other? How
+					could a revolution attempting to free the masses do away with all ethical
+					concepts about why they should be free? This means-ends contradiction is
+					important for feminists, preventing the advocation of revolutionary action where
+					revolutionary method and end are not compatible.</p>
+				<quote>They say that they foster disorder in all its forms. confusion troubles
+					violent debates disarray upsets disturbances incoherences irregularities
+					divergences complications disagreements discords clashes polemics discus sions
+					contentions brawls disputes conflicts routs débâcles cataclysms disturbances
+					quarrels agitation turbulence conflagrations chaos anarchy—Monique Wittig, Les
+					Guérillères</quote>
+				<p>It is interesting to compare Goldman's ideas with those of some of the leading
+					female communists, for many of these women, no matter how allied their ideas
+					were to an orthodox marxist line, tended to separate from their male compatriots
+					and come closer to anarchism in their opposition to bureaucracy, to the
+					subversion of revolution by the Bolsheviks, and to the use of purely efficacious
+					means. Some of them resisted official policy so strongly that they were silenced
+					by not receiving appointments, dismissals from posts or absurd "propaganda"
+					missions to the hinterlands.</p>
+				<p>It has often been pointed out both in criticism and support that Rosa Luxemburg's
+					treatment of the nature of organization, her belief in the creative power and
+					spontaneity of mass action and her advocation of the mass strike were replete
+					with anarchist assumptions. Though she was, in fact, strongly opposed to
+					anarchism in any form, in relation to Lenin's authoritarian political analysis,
+					Luxemburg's refusal to support any rigid relationship of leadership to masses
+					seems more sensitive to the complexities of struggle. While her goal was the
+					same as Lenin's the destruction of capitalism by the working class—she believed
+					in creative improvisation of leadership rather than in precisely planned
+					strategies. She did, of course, believe in leadership, but considered good
+					organization the product of action rather than its precedent and saw
+					organization as growing out of struggle.</p>
+				<p>While Luxemburg understood the necessity of centralism as a reaction against the
+					"autonomy and isolation of the old organizational type, against localism and
+						federalism,"<note>11. The quotations in this and the following paragraph are
+						from Rosa Luxemburg: Selected Political Writings, ed. Robert Looker (New
+						York: Grove Press, 1974), pp. 96, 99, 101, 102, 104.</note> the task was "to
+					unite all workers and all worker organizations in a single party" despite
+					national and religious differences. In the German Social Democratic Party, this
+					was predicated upon the "direct, independent action of the masses," where the
+					workers would "develop their own political activity through direct influence in
+					public life." However, Luxemburg objected to Lenin's principles of centralism:
+					"1. The blind subordination, in the smallest detail, of all party organs, to the
+					party which alone thinks, guides, and decides for all. 2. The rigorous
+					separation of the organized nucleus from its social-revolutionary surroundings.
+					. . ." The German Social Democracy, she insisted, was not joined to the
+					proletariat, it was the proletariat. The party was synonymous with the masses;
+					it was to provide the "spirit of movement" to the masses. Luxemburg objected
+					that the power of the Central Committee would be comprehensible only if it took
+					the initiative of a "vast revolutionary act," paralleling Goldman's means-ends
+					argument.</p>
+				<p>Luxemburg saw the development of class consciousness as a product of the
+					frictions between the party and trade union activity. Lenin, denying this
+					dialectical function, saw trade union activity as a mere reflection of bourgeois
+					consciousness in the working class. Through her belief that continued agitation
+					was the only way to prevent the retardation of the struggle, Luxemburg supported
+					the traditionally anarchist idea of the mass strike. "Spontaneity, as she used
+					the term, meant action as opposed to static or reformist attitudes; it was
+					misinterpreted by the Bolsheviks to mean confusion or to suggest that the
+					party's rational policies should be determined by the "spontaneous" desires of
+					the masses. "But what has been the experience of the Russian socialist movement
+					up to now? The most important and most fruitful changes have not been the
+					inventions of several leaders and even less so of any central organizational
+					organs. They have always been the spontaneous product of the movement in
+					ferment." The tactical policy of social democracy was not "invented" but was the
+					"product of a series of great creative acts." Luxemburg argued that Lenin's was
+					not a "positive and creative spirit," that he tried to "narrow the movement
+					rather than to develop it, to bind it rather than to unify it....For us it is
+					not the letter but the living spirit carried into the organization by the
+					membership that decides the value of this or that organizational form." It is
+					here that she seems closest to anarchism. She wanted to replace system not with
+					another system, but with the opposite — movement and dynamism.</p>
+				<p>Clara Zetkin, a close friend of Luxemburg, agreed with most of her ideas.
+					However, Zetkin was a feminist, working for women's rights, editing a socialist
+					women's paper, organizing biannual women's conferences in the German Social
+					Democratic Party, the International Socialist Women's Conference, and
+					International Women's Day. She felt that as long as there were sexist attitudes
+					in the party, there was a need for separate women's organizations, meetings and
+					groups for self-education and political agitation. She compared woman's relation
+					to man to that of the worker to the capitalist (a favorite quotation was from
+					Engels: "He is the bourgeois in the family, the woman represents the
+						proletariat"<note>12. Peter Nettl, Rosa Luxemburg (New York: Oxford
+						University Press, 1966), p. 415n.</note>), and she believed that economic
+					independence through socially productive labor was the key to women's freedom.
+					Because of this, she thought at first that the destruction of private property
+					would free women by transforming the family from an entity bound by economic
+					ties to a "moral entity" united by love, understanding, and respect."<note>13.
+						There is very little available in English on Zetkin. Thus, a valuable essay
+						is "Clara Zetkin: A Socialist Approach to the Problem of Women's Oppression"
+						by Karen Honeycutt, Feminist Studies (Spring Summer, 1976), pp.
+						131-144</note> But like Goldman, Zetkin later recognized the difference
+					between the role of women's rights for bourgeois women and for working-class
+					women. Middle-class women could focus on issues of personal liberation and more
+					individual concerns, while working-class women, exploited as women and as
+					workers, did not have that kind of leisure. Because she believed that biological
+					as well as social factors created oppression, she concentrated, perhaps too
+					heavily in later life, on motherhood as the primary defining characteristic and
+					fulfillment of women. Because of her feminism, Zetkin was victimized by the
+					party and excluded from important positions.</p>
+				<pb n="77"/>
+				<p> Angelica Balabanoff, active primarily in Italy, was like Kropotkin a Russian
+					aristocrat who rejected family and back ground for communism. Compared with
+					Luxemburg and Zetkin, she seems a bit simplistic, naive about the political
+					machinations going on around her, but she was broad-minded and loyal to her
+					sense of what was right. She too initially criticized anarchy because it lacked
+					a basis in objective conditions, but she changed her mind upon meeting Emma
+					Goldman, realizing that she had accepted without question the official charges
+					against anarchist dissenters. Balabanoff's objections to the Bolsheviks were
+					similar to Goldman's and Luxemburg's. In her autobiography, <title>My Life as a
+						Rebel</title>, she wrote: "I have always believed that the emancipation of
+					labor must be achieved primarily by awakening and educating the masses to a
+					consciousness of their human and social rights, whereas the Bolsheviks have
+					maintained that the transformation of the social system must be accomplished by
+					a rela tively small minority."<note>14. The quotations of Balabanoff are from My
+						Life as a Rebel (Blooming ton, Ind.: Indiana University Press,
+					1973).</note></p>
+				<p>Balabanoff not only opposed minority rule, but the cult of leadership, convinced
+					that revolutionary work should be anonymous "in order to prevent the development
+					of hero-worship and the undue influence of the individual upon the movement.
+					Objecting to the idea of revolution imposed from above, she argued that method
+					must come from the experience of the workers themselves, as an exploited class,
+					if the revolution were to maintain itself against reaction. She despised the
+					Bolshevik practice of exterminating the opposition —the "path of least
+					resistance, advocating instead the discussion of conflicting methods and the
+					confrontation of honest differences of opinion rather than discrediting or
+					buying off opponents. When she made these objections, she was accused of being
+					too "soft-hearted" to understand the necessities of the revolution — that is,
+					too female and sensitive, which amounted to being "counter-revolutionary" and
+					"bourgeois."</p>
+				<p>Balabanoff's autobiography is informative on the subject of her comrade,
+					Alexandra Kollantai, who led the first organized opposition to the policies of
+					Lenin and Trotsky.</p>
+				<quote>Alexandra was not an Old Bolshevik, but she had joined the Bolshevik Party
+					even before Trotsky had done so and much earlier than I. During these first few
+					years of the Revolution she was a frequent source of both per sonal and
+					political annoyance to the Party leaders. On more than one occasion, the Central
+					Committee had wanted me to substitute for her in the leadership of the women's
+					movement, thus facilitating the campaign against her and isolating her from the
+					women of the movement. Fortunately I understood this intrigue and refused these
+					offers...By the Ninth Congress of the Russian Party, the last vestige of
+					trade-union autonomy and workers' control in industry was swept away to be
+					replaced by the control of the political commissars over the trade unions and
+					the workers' soviets. Kollantai had become the leader of the "Workers'
+					Opposition, a protest movement against the bureaucratic suffocation of the labor
+					unions and the democratic rights of the workers. As there was no possibility,
+					even at that time, of publicly criticizing the Central Committee or of placing
+					an unofficial opinion before the Party rank and file, she was courageous enough
+					to have a pamphlet secretly printed for distribution to the delegates of the
+					Party I have never seen Lenin so angry, as when one of these pamphlets was
+					handed to him at the Convention... Taking the platform, he denounced Kollantai
+					as the Party's worst enemy, a menace to its unity...</quote>
+				<p>Kollantai was accused of being an anarchist (a "syndicalist") because of her
+					criticisms of the party for the absence of worker participation, its
+					substitution of "specialists" for the working masses in decisions, its fear of
+					criticism and freedom of thought. The Workers' Opposition, which demanded real
+					participation of the workers in economic self-administration and the
+					organization of production, was condemned by Lenin as "a petty bourgeois
+					anarchist element hiding behind the back of the proletariat. Kollantai's view of
+					revolution parallels that of Luxemburg and Goldman in its emphasis on
+					spontaneity and creativity: "We can not decree Communism. It can be created only
+					through active searching, through temporary setbacks but, at all events, through
+					the creative force of the working class itself." <note>15. The quotations of
+						Kollantai are from Autobiography of a Sexually Emancipated Communist Woman
+						(New York: Schocken Books, 1971).</note></p>
+				<p>Kollantai also extended her criticisms to the absence of equality for women,
+					arguing that the party was not genuinely concerned with women's liberation in
+					practice. Women "still lived under the same yoke: without authority in family
+					life, enslaved by a thousand menial household tasks, bearing the whole burden of
+					maternity...." When she went to Germany and joined the Social Democratic Party,
+					she was influenced by Zetkin and took part in the International Conference of
+					Socialist Women. In Russia, as Minister of Social Welfare after the revolution,
+					she was interested in redefining not only political conditions but social and
+					psychological attitudes concerning women; she worked for maternity welfare,
+					prenatal care and day nurseries, as well as birth control, and strove to change
+					ideas about sexuality and the structure of the family. Like Goldman, Kollantai
+					distinguished the existing bourgeois women's liberation movement (which was not
+					primarily concerned with creating a new social order) from the need for a
+					working-class movement based on the <pb n="76"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_076.jpg"
+					/> recognition of class contradiction. She was "accused" by the party of being a
+					"feminist" for putting too much emphasis on matters concerning women. But even
+					though she believed that women have special needs arising from their biology (a
+					materialist argument), she criticized feminism for making only abstract demands
+					for equal rights without any concrete material analysis of the situation for
+					women at the time. This was her distinction between feminism and socialism,
+					between the bourgeois and the working-class women's movements, which amounted to
+					a distinction between liberalism and radicalism.</p>
+				<p>Tension between Kollantai and the party became more and more severe. "Now began a
+					(dark time) of my life which I cannot treat of here since the events are still
+					too fresh in my mind ... (There were differences of opinion in the Party.) I
+					resigned from my post as People's Commissar (on the ground of total disagreement
+					with current policy)."<note>16. Ibid., p. 40. Parentheses indicate the passages
+						Kollantai deleted from the published book, demonstrating her reluctance to
+						reveal the con flicts between herself and the Party.</note> She was sent on
+					a "diplomatic mission" to Oslo as ambassador—supposedly a prestigious assignment
+					but intended to get her out of the way. After years of being suppressed, her
+					spirit of resistance was broken and she stopped publicly criticizing the party
+					and adopted the official line.</p>
+				<quote>With the myth of the State out of the way, the real mutuality and reciprocity
+					of society and individual became clear. Sacrifice might be demanded of the
+					individual, but never compromise: for though only the society could give
+					security and stability, only the individual, the person, had the power of moral
+					choice—the power of change, the essential function of life.—Ursula LeGuin, The
+					Dispossessed</quote>
+				<p>The most extensive example of anarchism in practice occurred during the Spanish
+					Civil War—a revolution that came closer to creating a stateless society on a
+					large scale than any other. Aside from being a resistance to the fascist
+					military take over, it was a social revolution by millions of workers and
+					peasants trying to rebuild society in a libertarian way through collectives,
+					self-management and changes in personal and social relationships, particularly
+					in the status of women.</p>
+				<p>Before the war, in the first years of the Second Republic (a coalition of
+					bourgeois republicans and socialists formed after the collapse of the monarchy),
+					some legislation had been passed to improve conditions for women: paid maternity
+					leaves, time to nurse children during the work day, suffrage and the
+					legalization of civil marriage and divorce. Anarchist women, however, did not
+					organize to implement these legal changes or form separate women's organizations
+					because they, like the men, wanted total social revolution rather than reform.
+					Yet even with more liberal attitudes, sexism and patriarchy were not abolished.
+					Women with jobs were still resented and received lower wages. Because a token
+					number of well-educated women achieved good government positions, middle-class
+					feminism subsided. The greatest militancy was among working-class women, who had
+					the worst, lowest-paying jobs. <note>17. Little material on this period is
+						translated into English. An important article, then, is by Lourdes Beneria:
+						"Women's Participation in Paid Production under Capitalism: The Spanish
+						Experience, Women and the Economy (Spring, 1976), pp. 18-33.</note></p>
+				<p>The outbreak of the Civil War in 1936 brought vast changes, as a wartime economy
+					inevitably does, because with the labor shortage, the need for women in
+					factories and collectives increased, and because anarchist men and women agreed
+					to fight for total social revolution. Feminism became an active political issue,
+					and women felt the need to form separate organizations to work for their
+					liberation. This was implemented by two major factors: formation of the women's
+					group, Mujeres Libres (Free Women), and the activities of Federica Montseny, the
+					only woman in Spain to hold a ministerial post.</p>
+				<p>Mujeres Libres, formed in Madrid, published a journal by the same name; it
+					consisted primarily of anarchist working- and middle-class women, both
+					illiterate and well educated. They were joined by Barcelona's Centro de Cultura
+					Feminina (Feminine Culture Group), also predominantly anarcho-syndicalist
+					working and middle-class women."<note>18. An important source on Mujeres Libres
+						is Temma Kaplan, "Spanish Anarchism and Women's Liberation," Journal of
+						Contemporary His tory (Vol. VI, No. 2, 1971), pp. 100-110.</note> By 1938,
+					Mujeres Libres and its affiliates had become a mass organization centered around
+					demands for freedom from oppression by capitalism and sexism; for developing
+					skills for meaningful rather than menial work; for equal wages; for access to
+					social services. Many of these demands — for birth control, abortion, changes in
+					the attitude toward prostitution —were influenced by Emma Goldman's essays,
+					which appeared in Mujeres Libres. The organization developed into a
+					decentralized federation of local, regional and national committees allied with
+					various anarchist groups. While there were also rightist, leftist, and Catholic
+					women's groups, they mostly concentrated on wartime services. Mujeres Libres
+					also set up units for transport, sanitation, manufacturing, public services,
+					communal kitchens and the organized collection of food, but mainly they strove
+					for the feminist-anarchist transformation of economic, social and personal
+					institutions. They set up day-care centers in factories and collectives and
+					special technical schools so that new skills would give women the power and
+					means for their own social liberation.</p>
+				<p>Federica Montseny, under whose influence many of these aims became legal, was
+					born in 1905 to anarchist parents, the publishers of the journal La Revista
+						Blanca.<note>19. I have drawn a lot from the only source on Montseny I was
+						able to find: an unpublished dissertation by Shirley F. Fredricks, "Social
+						and Politi cal Thought of Federica Montseny, Spanish Anarchist 1923-1937'
+						(University of New Mexico, March 1972). I am thankful to Lawrence Pitkethly
+						for lending me the microfilm.</note> While close to the socialist tradition
+					of Goldman, Kropotkin, Bakunin, and Proudhon, she was also influenced by the
+					individualist anarchism of Stirner, Neitzsche and Ibsen, which stressed personal
+					autonomy. While she approved the "egoism" of this position, Montseny rejected
+					its often aristocratic tendency, arguing that the dialectical relationship
+					between individual uniqueness and the anarchist's social commitment and
+					responsibility prevented solipsism. Perhaps for a woman in patriarchal Spain, a
+					more individualistic stance was necessary. In any case, it was the female
+					anarchists Montseny and Goldman, who stressed the importance of the
+					individualization of the masses and saw the prevailing concept of the masses as
+					the annihilation of individuality and originality. Montseny's idea of revolution
+					was that it had to be social, not political, internalized in each person and
+					transforming all institutions; this would not be utopian because people have an
+					unlimited potential for creating alternative social organizations.</p>
+				<p>During the Second Republic, Montseny wrote essays criticizing the government and
+					propagandizing for anarchism; she organized anarchist labor groups and helped
+					Mujeres Libres set up day-care centers and technical schools for women. By 1936,
+					when the anarchists joined the Popular Front government, she had become a
+					popular leader, as well as the leading anarchist theoretician, and was appointed
+					Minister of Health and Social Services. Although she was criticized for
+					accepting the "reformist" position, and betraying anarchist principles, her
+					decision was affected by her sense of responsibility to society, and especially
+					to women. While she worked for change in many areas — education, prison reform,
+					abolishing the death penalty —she was primarily committed to changing the status
+					of women. Within the deeply embedded Spanish patriarchal tradition, she realized
+					that anarchist revolution alone could help women only economically; social
+					attitudes would have to change if women were to be secure and independent. While
+					in office, she drafted a law legalizing abortion and argued for birth control
+					and the legal reform of prostitution, which she considered a result of rigid
+					sexual relations and women's lack of significant work. Yet, like Goldman and
+					Kollantai, Montseny was not a "feminist," and criticized the aims of feminism as
+					narrow and reformist: "To propagate feminism is to foment masculinism; is to
+					create an immoral and absurd struggle between the two sexes which no Natural law
+					would tolerate ... Feminism? Neverl Humanism? Always!"<note>20. Fredricks, p.
+						131, from Montseny, "Feminismo y Humaniso, p. 14.</note></p>
+				<p>Because political upheavals forced the anarchists out of government, Montseny
+					held her ministerial post for only a year. After <pb n="77"
+						facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_077.jpg"
+					/> the Civil War, the strong anti-feminism that emerged in the right wing
+					government wiped out most of the women's gains.</p>
+				<quote>I think men mostly have to learn to be anarchists. Women don't have to
+					learn.—Ursula LeGuin, The Dispossessed</quote>
+				<p>Why are women attracted to the most basic anarchist premises? Why do women tend
+					to believe that the highest development of the individual, that which leads to
+					the least oppression, takes place within collective forms; that change has to
+					come from below; that any "human" society must be based on direct contact, the
+					destruction of hierarchy and ethical behavior? Women have always distrusted
+					leadership and, in fact, there have been no powerful and charismatic female
+					leaders who influenced anarchism or feminism in the way that, say, Marx and
+					Lenin influenced communism. Anarchist and feminist emphasis is on the quality of
+					life, on the basic structures of community, family and education. Many anarchist
+					attitudes are seen as culturally female — the emphasis on intuition, instinct,
+					feeling and spontaneity, the distrust of logic as authoritarian and dominating.
+					While anarchism has directed its argument against government, women have fought
+					against patriarchy as such, private as well as public. It may be that this
+					rebellion against all patriarchal institutions is what has led women into
+					anarchist positions. Paralleling a retrograde anarchism that sees freedom only
+					in liberation from industry (non-syndicalist anarchism) is that retrograde
+					feminism that sees freedom only in liberation from men (separatism). As the
+					Spanish experience of feminism shows, permanent liberation depends upon a total
+					social structure. Sexism must be fought as an integral part of the class
+					contradiction, for it cannot be explained without it, but it must always be
+					recalled that feminism is only part of the primary focus on class contradiction.
+					The history of the socialist struggle in Russia and China, of feminist
+					anarchism, and even of the Weather Underground, shows how easily feminist
+					demands, expectations and rights get lost in or exaggerated by male habits of
+					dominance.</p>
+				<p>Anarchist tendencies in feminism could come from two sources. The first is the
+					concept that women are "naturally" more anarchistic because woman's "nature" is
+					closer to the earth, to the anarchist idea of the "natural state." The second
+					possibility is historical and cultural. Women have been excluded from full
+					participation in government and industry, and have been confined to the smaller,
+					more immediate contexts of family and community where harmony and cooperation
+					are desirable and important. Because talk, gossip and expressing emotion were
+					for so long the only expressions permitted women, direct contact in small groups
+					seemed appropriate and necessary for the beginning of social transformation. But
+					there have always been at least two women's movements. The middle-class
+					movement, historically originating from the free time and the good education
+					that permit women to rebel against the emptiness of their leisure and the
+					absurdity of female roles, has been able to concentrate on issues of
+					personality, personal freedom, structures of language and art, social
+					interaction and individual response to conditions of oppression. More recently,
+					middle-class women have been able to work in small groups in an attempt to build
+					up mutual confidence. The work ing-class women's movement, on the other hand,
+					has sometimes been invisible because it has been aligned with socialist
+					struggles and unionism. For these women, oppressed by class as well as by
+					sexism, feminism is not usually the primary strategy; they seek more immediate
+					changes, tied to conditions in the working place, and often ignore their
+					extension in the home. While their demands are often feminist —for equal pay,
+					pay during maternity leave, day-care centers —these are sought within sexually
+					integrated contexts. The task now seems to bring these two feminist movements
+					together.</p>
+				<p> Anarchism presents an unresolvable contradiction. How can it be achieved in a
+					world where everything is leading toward greater centralization? As soon as
+					anarchists begin to build practical systems, they are forced to approach a more
+					centralized communism through the necessity for concentration of capital. But in
+					spite of this contradiction, anarchism is important, particularly to women.
+					Perhaps it can't be put into effect unless allied with another system
+					(socialism, communism); perhaps it has to serve as a constant criticism of
+					authoritarianism, bureaucracy, paternalism, protesting the erosion or
+					obfuscation of liberty. Its role may be to serve as a moral reminder that social
+					change is, and always should be, for people.</p>
+				<p>There is a lesson in all of this: if in the entire history of women's struggles,
+					we have been opposed to authoritarianism and hierarchy, it is masochistic and
+					self-destructive to align feminism with party lines advocating what Goldman
+					called "fanatical governmentalism." Marxism, for example, can also provide an
+					economic analysis of the contradictions of capitalism, but there has to be, in
+					addition, a movement toward direct democracy, self-management and freely
+					associated workers —a feminist anarchist-socialism?</p>
+				<p>Extracts are from: Monique Wittig, Les Guërillères, trans. Peter Owen (New York:
+					Viking Press, 1971); Ursula LeGuin, The Dispossessed (New York: Harper and Row,
+					1974). </p>
+			</div>
+		</body>
+		<back>
+			<p> Lizzie Borden, a filmmaker and writer, lives in New York. </p>
+		</back>
+	</text>
+</TEI>
