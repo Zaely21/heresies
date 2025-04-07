@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Untitled</title>
+            <title>Connections</title>
             <author>Miriam Schapiro</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
@@ -147,7 +147,7 @@
    </teiHeader>
    <text>
       <body>
-         <pb n="18"/>
+         <pb n="18" facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_018.jpg"/>
          <div type="essay">
             <p> I have met women all over this country who love art. They were teachers or students
                at schools and museums where I came as a visiting lecturer, or where there was an

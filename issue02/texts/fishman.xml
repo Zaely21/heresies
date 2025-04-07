@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Contributors</title>
-            <author>Collective</author>
+            <title>Interactional Shitwork</title>
+            <author>Pamela M. Fishman</author>
             <respStmt>
                <persName>Eowyn Andres</persName>
                <resp>Editor (2024-Present)</resp>
@@ -147,13 +147,11 @@
    </teiHeader>
    <text>
       <body>
-         <pb/>
-         <div>
-            <pb n='101'/>
-			<p>
-				<lb facs='#facs_101_r_4_1_tl_1' n='N001'/>INTERACTIONAL SHITWORK
-				<lb facs='#facs_101_r_4_1_tl_2' n='N002'/>PAMELA M. FISHMAN
-			</p>
+         <div type="essay">
+         	<pb n='99' facs="https://leaf.bucknell.edu/sites/default/files/2025-02/heresies02_99.jpg"/>
+
+				<head>Interactional Shitwork</head>
+				<byline>Pamela M. Fishman</byline>
 			<p>
 				<lb facs='#facs_101_r_1_1_tl_1' n='N001'/>A rallying cry of the early women&apos;s
 				<lb facs='#facs_101_r_1_1_tl_2' n='N002'/>movement was “The personal is politi
@@ -171,34 +169,32 @@
 				<lb facs='#facs_101_r_1_1_tl_14' n='N014'/>ing of the world and of themselves.
 				<lb facs='#facs_101_r_1_1_tl_15' n='N015'/>Through interactions, we constantly de
 				<lb facs='#facs_101_r_1_1_tl_16' n='N016'/>fine reality, as well as the form and sub
-				<lb facs='#facs_101_r_1_1_tl_17' n='N017'/>stance of our social relationships.
-				<lb facs='#facs_101_r_1_1_tl_18' n='N018'/>However, this approach did not deal
+				<lb facs='#facs_101_r_1_1_tl_17' n='N017'/>stance of our social relationships.</p>
+				<p><lb facs='#facs_101_r_1_1_tl_18' n='N018'/>However, this approach did not deal
 				<lb facs='#facs_101_r_1_1_tl_19' n='N019'/>with power, which, as a feminist, I found
 				<lb facs='#facs_101_r_1_1_tl_20' n='N020'/>was a central concern in everyday inter
 				<lb facs='#facs_101_r_1_1_tl_21' n='N021'/>actions. I wanted to know the ways in
 				<lb facs='#facs_101_r_1_1_tl_22' n='N022'/>which interactions between men and
 				<lb facs='#facs_101_r_1_1_tl_23' n='N023'/>women express power relations; I wanted
 				<lb facs='#facs_101_r_1_1_tl_24' n='N024'/>to see exactly how our personal interac
-				<lb facs='#facs_101_r_1_1_tl_25' n='N025'/>tions are political.
-				<lb facs='#facs_101_r_1_1_tl_26' n='N026'/>We know much more now about the
+				<lb facs='#facs_101_r_1_1_tl_25' n='N025'/>tions are political.</p>
+				<p><lb facs='#facs_101_r_1_1_tl_26' n='N026'/>We know much more now about the
 				<lb facs='#facs_101_r_1_1_tl_27' n='N027'/>social sources of our oppression than we
 				<lb facs='#facs_101_r_1_1_tl_28' n='N028'/>did a few years ago. The relative positions
 				<lb facs='#facs_101_r_1_1_tl_29' n='N029'/>of the sexes in the economy have been
-			</p>
-			<p>
 				<lb facs='#facs_101_r_5_1_tl_1' n='N001'/>well documented. Analysis has shown the
 				<lb facs='#facs_101_r_5_1_tl_2' n='N002'/>ways in which women’s unpaid domestic
 				<lb facs='#facs_101_r_5_1_tl_3' n='N003'/>labor contributes to our position of pow
 				<lb facs='#facs_101_r_5_1_tl_4' n='N004'/>erlessness. Still, we feel this powerlessness
 				<lb facs='#facs_101_r_5_1_tl_5' n='N005'/>individually, and it is maintained con
-				<lb facs='#facs_101_r_5_1_tl_6' n='N006'/>cretely on an everyday basis.
-				<lb facs='#facs_101_r_5_1_tl_7' n='N007'/>I began to research the ways in which
+				<lb facs='#facs_101_r_5_1_tl_6' n='N006'/>cretely on an everyday basis.</p>
+				<p><lb facs='#facs_101_r_5_1_tl_7' n='N007'/>I began to research the ways in which
 				<lb facs='#facs_101_r_5_1_tl_8' n='N008'/>the general social organization of male
 				<lb facs='#facs_101_r_5_1_tl_9' n='N009'/>female hierarchy exists in our daily activi
 				<lb facs='#facs_101_r_5_1_tl_10' n='N010'/>ties. Specifically, I have analyzed male
 				<lb facs='#facs_101_r_5_1_tl_11' n='N011'/>female conversations between intimates in
-				<lb facs='#facs_101_r_5_1_tl_12' n='N012'/>their homes.
-				<lb facs='#facs_101_r_5_1_tl_13' n='N013'/>Initially, I hoped to tape record argu
+				<lb facs='#facs_101_r_5_1_tl_12' n='N012'/>their homes.</p>
+				<p><lb facs='#facs_101_r_5_1_tl_13' n='N013'/>Initially, I hoped to tape record argu
 				<lb facs='#facs_101_r_5_1_tl_14' n='N014'/>ments, since these would be conversa
 				<lb facs='#facs_101_r_5_1_tl_15' n='N015'/>tional power struggles. But as it turned
 				<lb facs='#facs_101_r_5_1_tl_16' n='N016'/>out, I didn’t get any arguments. Instead, I
@@ -209,14 +205,12 @@
 				<lb facs='#facs_101_r_5_1_tl_21' n='N021'/>talk reveals a division of labor between
 				<lb facs='#facs_101_r_5_1_tl_22' n='N022'/>men and women in conversation which
 				<lb facs='#facs_101_r_5_1_tl_23' n='N023'/>supports our more general positions ol
-				<lb facs='#facs_101_r_5_1_tl_24' n='N024'/>power and powerlessness.
-				<lb facs='#facs_101_r_5_1_tl_25' n='N025'/>It is not simply two people talking that
+				<lb facs='#facs_101_r_5_1_tl_24' n='N024'/>power and powerlessness.</p>
+				<p><lb facs='#facs_101_r_5_1_tl_25' n='N025'/>It is not simply two people talking that
 				<lb facs='#facs_101_r_5_1_tl_26' n='N026'/>produces conversation, but their active
 				<lb facs='#facs_101_r_5_1_tl_27' n='N027'/>agreement to mutually cooperate in talk.
 				<lb facs='#facs_101_r_5_1_tl_28' n='N028'/>Interactions are always potentially prob
 				<lb facs='#facs_101_r_5_1_tl_29' n='N029'/>lematic and are sustained only by the
-			</p>
-			<p>
 				<lb facs='#facs_101_r_2_1_tl_1' n='N001'/>participants&apos; continuing efforts, turn by
 				<lb facs='#facs_101_r_2_1_tl_2' n='N002'/>turn. They must be begun, developed and
 				<lb facs='#facs_101_r_2_1_tl_3' n='N003'/>ended jointly.* Every remark or turn at
@@ -227,8 +221,8 @@
 				<lb facs='#facs_101_r_2_1_tl_8' n='N008'/>actional work. When one person makes
 				<lb facs='#facs_101_r_2_1_tl_9' n='N009'/>an attempt, the other participant has the
 				<lb facs='#facs_101_r_2_1_tl_10' n='N010'/>power to turn it into a conversation or to
-				<lb facs='#facs_101_r_2_1_tl_11' n='N011'/>stop it right there
-				<lb facs='#facs_101_r_2_1_tl_12' n='N012'/>How, then, is the work of interaction
+				<lb facs='#facs_101_r_2_1_tl_11' n='N011'/>stop it right there.</p>
+				<p><lb facs='#facs_101_r_2_1_tl_12' n='N012'/>How, then, is the work of interaction
 				<lb facs='#facs_101_r_2_1_tl_13' n='N013'/>accomplished in conversations between
 				<lb facs='#facs_101_r_2_1_tl_14' n='N014'/>male and female intimates? Who does
 				<lb facs='#facs_101_r_2_1_tl_15' n='N015'/>what kind of work? To find out, I listened
@@ -246,13 +240,11 @@
 				<lb facs='#facs_101_r_2_1_tl_27' n='N027'/>switch the tapes on and off, all three
 				<lb facs='#facs_101_r_2_1_tl_28' n='N028'/>couples insisted on doing the switching
 				<lb facs='#facs_101_r_2_1_tl_29' n='N029'/>manually. Uninterrupted recording varies
-			</p>
-			<p>
 				<lb facs='#facs_101_r_6_1_tl_1' n='N001'/>from one to four hours. The talk did not
 				<lb facs='#facs_101_r_6_1_tl_2' n='N002'/>seem self-conscious because of the record
 				<lb facs='#facs_101_r_6_1_tl_3' n='N003'/>er’s presence and conversations seemed
-				<lb facs='#facs_101_r_6_1_tl_4' n='N004'/>natural.
-				<lb facs='#facs_101_r_6_1_tl_5' n='N005'/>The couples had lived together for var
+				<lb facs='#facs_101_r_6_1_tl_4' n='N004'/>natural.</p>
+				<p><lb facs='#facs_101_r_6_1_tl_5' n='N005'/>The couples had lived together for var
 				<lb facs='#facs_101_r_6_1_tl_6' n='N006'/>ying amounts of time—from three months
 				<lb facs='#facs_101_r_6_1_tl_7' n='N007'/>to two years. All were white and profes
 				<lb facs='#facs_101_r_6_1_tl_8' n='N008'/>sionally oriented, and all but one woman
@@ -261,9 +253,11 @@
 				<lb facs='#facs_101_r_6_1_tl_11' n='N011'/>Two women were declared feminists and
 				<lb facs='#facs_101_r_6_1_tl_12' n='N012'/>all three men as well as the third woman
 				<lb facs='#facs_101_r_6_1_tl_13' n='N013'/>described themselves as &quot;sympathetic&quot; to
-				<lb facs='#facs_101_r_6_1_tl_14' n='N014'/>the women’s movement.
-				<lb facs='#facs_101_r_6_1_tl_15' n='N015'/>The Preliminaries
-				<lb facs='#facs_101_r_6_1_tl_16' n='N016'/>I made some interesting discoveries
+				<lb facs='#facs_101_r_6_1_tl_14' n='N014'/>the women’s movement.</p>
+         </div>
+      	<div>
+				<head>The Preliminaries</head>
+				<p><lb facs='#facs_101_r_6_1_tl_16' n='N016'/>I made some interesting discoveries
 				<lb facs='#facs_101_r_6_1_tl_17' n='N017'/>even before I began my analysis, through
 				<lb facs='#facs_101_r_6_1_tl_18' n='N018'/>casual conversations with the people in
 				<lb facs='#facs_101_r_6_1_tl_19' n='N019'/>volved in the taping. First, in all three
@@ -275,15 +269,13 @@
 				<lb facs='#facs_101_r_6_1_tl_25' n='N025'/>controlling the topic; it is controlling the
 				<lb facs='#facs_101_r_6_1_tl_26' n='N026'/>situation in general—not only what wil
 				<lb facs='#facs_101_r_6_1_tl_27' n='N027'/>be talked about, but whether there will be
-			</p>
-			<p>
 				<lb facs='#facs_101_r_3_1_tl_1' n='N001'/>conversation, and under what terms it
 				<lb facs='#facs_101_r_3_1_tl_2' n='N002'/>will occur. The tape recorder introduced a
 				<lb facs='#facs_101_r_3_1_tl_3' n='N003'/>new element into the routine home situa
 				<lb facs='#facs_101_r_3_1_tl_4' n='N004'/>tion. Controlling the tape recorder meant
 				<lb facs='#facs_101_r_3_1_tl_5' n='N005'/>controlling part of the situation in which
-				<lb facs='#facs_101_r_3_1_tl_6' n='N006'/>conversation took place.
-				<lb facs='#facs_101_r_3_1_tl_7' n='N007'/>Second, there was the issue of normally
+				<lb facs='#facs_101_r_3_1_tl_6' n='N006'/>conversation took place.</p>
+				<p><lb facs='#facs_101_r_3_1_tl_7' n='N007'/>Second, there was the issue of normally
 				<lb facs='#facs_101_r_3_1_tl_8' n='N008'/>private interactions being available to a
 				<lb facs='#facs_101_r_3_1_tl_9' n='N009'/>third party, the researcher. In addition to
 				<lb facs='#facs_101_r_3_1_tl_10' n='N010'/>the men doing most of the censoring of
@@ -295,8 +287,8 @@
 				<lb facs='#facs_101_r_3_1_tl_16' n='N016'/>segments. One man carefully erased all
 				<lb facs='#facs_101_r_3_1_tl_17' n='N017'/>clicks on his and his partner&apos;s tapes, con
 				<lb facs='#facs_101_r_3_1_tl_18' n='N018'/>fusing my attempts to identify different
-				<lb facs='#facs_101_r_3_1_tl_19' n='N019'/>time segments.
-				<lb facs='#facs_101_r_3_1_tl_20' n='N020'/>The second case was worse. I had made
+				<lb facs='#facs_101_r_3_1_tl_19' n='N019'/>time segments.</p>
+				<p><lb facs='#facs_101_r_3_1_tl_20' n='N020'/>The second case was worse. I had made
 				<lb facs='#facs_101_r_3_1_tl_21' n='N021'/>the mistake of asking one couple to heli
 				<lb facs='#facs_101_r_3_1_tl_22' n='N022'/>me transcribe a particularly difficult tape
 				<lb facs='#facs_101_r_3_1_tl_23' n='N023'/>of theirs—a conversation about a book
@@ -306,14 +298,12 @@
 				<lb facs='#facs_101_r_3_1_tl_27' n='N027'/>interested in the conversation. He kept
 				<lb facs='#facs_101_r_3_1_tl_28' n='N028'/>guessing what I was looking for, was
 				<lb facs='#facs_101_r_3_1_tl_29' n='N029'/>annoyed that I wanted a literal transcrip
-			</p>
-			<p>
 				<lb facs='#facs_101_r_8_1_tl_1' n='N001'/>tion, kept saying that only the gist of the
 				<lb facs='#facs_101_r_8_1_tl_2' n='N002'/>conversation (which he could tell me) was
 				<lb facs='#facs_101_r_8_1_tl_3' n='N003'/>important, and repeatedly tried to tell me
 				<lb facs='#facs_101_r_8_1_tl_4' n='N004'/>the meaning of the conversation, explain
-				<lb facs='#facs_101_r_8_1_tl_5' n='N005'/>ing his motivations for saying things.
-				<lb facs='#facs_101_r_8_1_tl_6' n='N006'/>These preliminaries already suggested
+				<lb facs='#facs_101_r_8_1_tl_5' n='N005'/>ing his motivations for saying things.</p>
+				<p><lb facs='#facs_101_r_8_1_tl_6' n='N006'/>These preliminaries already suggested
 				<lb facs='#facs_101_r_8_1_tl_7' n='N007'/>that men are more likely than women to
 				<lb facs='#facs_101_r_8_1_tl_8' n='N008'/>control conversation. The men made sure
 				<lb facs='#facs_101_r_8_1_tl_9' n='N009'/>that they always knew when their interac-
@@ -322,9 +312,11 @@
 				<lb facs='#facs_101_r_8_1_tl_12' n='N012'/>ed, if not sneaky, about letting the women
 				<lb facs='#facs_101_r_8_1_tl_13' n='N013'/>know this. When they had the chance,
 				<lb facs='#facs_101_r_8_1_tl_14' n='N014'/>they attempted to control my interpreta
-				<lb facs='#facs_101_r_8_1_tl_15' n='N015'/>tions of the conversations.
-				<lb facs='#facs_101_r_8_1_tl_16' n='N016'/>Conversational Work
-				<lb facs='#facs_101_r_8_1_tl_17' n='N017'/>I listened to all 52 hours of tape and
+				<lb facs='#facs_101_r_8_1_tl_15' n='N015'/>tions of the conversations.</p>
+      	</div>
+      	<div>
+				<head>Conversational Work</head>
+				<p><lb facs='#facs_101_r_8_1_tl_17' n='N017'/>I listened to all 52 hours of tape and
 				<lb facs='#facs_101_r_8_1_tl_18' n='N018'/>transcribed five hours of it for close anal
 				<lb facs='#facs_101_r_8_1_tl_19' n='N019'/>ysis. Given the small amount of conver
 				<lb facs='#facs_101_r_8_1_tl_20' n='N020'/>sation analyzed, my findings from the
