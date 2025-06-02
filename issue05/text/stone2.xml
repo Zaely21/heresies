@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>9978: Repairing the Time Warp</title>
+            <author>Merlin Stone</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='124'/>
+            <p>
+               <lb/>9978: Repairing the Time Warp
+               <lb/>and other related realities
+            </p>
+            <p>
+               <lb/>Merlin Stone
+            </p>
+            <p>
+               <lb/>After these many years of digging about in the
+               <lb/>records of the ancient past, it recently occurred to
+               <lb/>me that by accepting and continually confirming the
+               <lb/>idea that we are living in the year 1978 (though we
+               <lb/>take it so for granted), we might well be inherently
+               <lb/>limiting our chronological perceptions and thus our
+               <lb/>emotional and intellectual grasp of an important
+               <lb/>part of the past. I wondered—if I began to date my
+               <lb/>letters 9978, rather than 1978, would those who re
+               <lb/>ceived them laugh at what they might assume was
+               <lb/>my typographical error, or would they stop to con
+               <lb/>sider that we might well be approaching the year
+               <lb/>10,000 as likely as 2000? What a strange idea! What
+               <lb/>does this have to do with the Great Goddess? Let me
+               <lb/>explain.
+               <lb/>Having grown progressively more aware of the
+               <lb/>subtle but insidious effects of sexist language and
+               <lb/>the power of naming (in the sense that Mary Daly
+               <lb/>speaks of it), can we avoid eventually confronting
+               <lb/>the hidden power and influence of a calendar sys
+               <lb/>tem that informs us, daily, that ’our era' began one
+               <lb/>thousand, nine hundred, seventy-eight years ago?
+               <lb/>By accepting the idea that this is the year 1978, it
+               <lb/>seems to me that our overall view of the evolution of
+               <lb/>human development is being affected in a most
+               <lb/>basic yet unquestioned manner. In fact, I suggest
+               <lb/>that this acceptance actually perverts and distorts
+               <lb/>our perception of the continuity and transitional
+               <lb/>links ot human development in a most profound
+               <lb/>manner. In the context of this issue, I would like to
+               <lb/>consider how this annual dating system influences
+               <lb/>our conceptions—and preconceptions—of God
+               <lb/>dess, of the societies in which She was worshipped
+               <lb/>and of the status and roles of women through the
+               <lb/>many millennia in which She was revered.
+               <lb/>A.D., as in 1978 A.D., stands for Anno Domini
+               <lb/>The Year of Our Lord (Jesus Christ). Therefore, at
+               <lb/>this point in time, we (people of all religions, as wel
+               <lb/>as atheists) date our years from the year believed to
+               <lb/>be the year of the birth of Jesus. All the years pre
+               <lb/>ceding that year are generally referred to as B.C.
+               <lb/>(Before Christ). A few scholars do use B.C.E. (Before
+               <lb/>the Common Era), although they still utilize the
+               <lb/>A.D./B.C. numerical order, and the Jewish calen
+               <lb/>dar, though used primarily in a religious context,
+               <lb/>records the current year as 5738. But the common
+               <lb/>usage of the terms A.D. and B.C. is so extremely
+            </p>
+            <p>
+               <lb/>widespread, almost universal, that for most of us,
+               <lb/>this church-imposed division of time acts as a men
+               <lb/>tal partition, separating all the years following the
+               <lb/>"birth" of Jesus from those that preceded it. Al
+               <lb/>though B.C. periods clearly encompass enormously
+               <lb/>greater expanses of time, this temporal cleavage
+               <lb/>seems to leave the events and people of even the
+               <lb/>(relatively speaking) more recent B.C. periods,
+               <lb/>somehow wafting away (backwards) into a vast
+               <lb/>emptiness of the unknown or not quite real.
+               <lb/>During the nineteenth century and even in the
+               <lb/>beginning of the twentieth, many Bibles informed
+               <lb/>their readers that the beginning of the world—Crea
+               <lb/>tion—actually occurred in 4004 B.C. This informa
+               <lb/>tion was provided by Archbishop James Ussher and
+               <lb/>may still be found in the Scofield Reference Bible
+               <lb/>printed by Oxford University Press. Yet, during the
+               <lb/>last dozen or so decades a great deal of evidence
+               <lb/>concerning periods labeled as B.C. has been un
+               <lb/>earthed. This evidence has been brought to our at
+               <lb/>tention by archaeological and paleontological ex
+               <lb/>cavations, in conjunction with newly developed
+               <lb/>chemical and electronic dating methods. To a great
+               <lb/>extent, these relatively recent explorations were
+               <lb/>made possible by the underlying permission granted
+               <lb/>by the hotly contested theory of evolution as pre
+               <lb/>sented by Darwin in his Origin of the Species. This
+               <lb/>evidence has helped to date the emergence of homo
+               <lb/>sapiens sapiens (people as we know them today) to
+               <lb/>about 60,000 B.C. As a result, serious references to
+               <lb/>4004 B.C. as the exact date of Creation—and the
+               <lb/>idea that one man and one woman, Adam and Eve,
+               <lb/>were the only two people on earth at that time
+               <lb/>though once quite literally accepted by many peo
+               <lb/>ple, even in our own century, have now become un
+               <lb/>tenable, even somewhat humorously absurd
+               <lb/>As the evidence produced by excavations in the
+               <lb/>Near and Middle East began to accumulate, archae
+               <lb/>ologists found that the techniques of ceramics, tex
+               <lb/>tile making, metallurgy, architecture, the invention
+               <lb/>of the wheel and of writing could be traced back to
+               <lb/>what appear to be their earliest experimental begin
+               <lb/>nings. Most important was the discovery that none
+               <lb/>of these achievements showed signs of continual de
+               <lb/>velopment before the initial appearance of agricul
+               <lb/>ture. Discovering the past revealed that it was the
+               <lb/>understanding and development of conscious
+            </p>
+            <pb n='125'/>
+            <p>
+               <lb/>agricultural methods, that original acquisition of the
+               <lb/>ability to provide clans or tribal communities with a
+               <lb/>relatively controllable, thus more generally avail
+               <lb/>able food supply, that explosively triggered off the
+               <lb/>development of most other aspects of human “civ
+               <lb/>ilization.
+               <lb/>It is now recognized that at some time between
+               <lb/>9000 and 7000 B.C., the period referred to as Proto
+               <lb/>Neolithic, this knowledge of agricultural process
+               <lb/>originated and began to spread. By 7000 B.C. agri
+               <lb/>cultural methods were in use in Jordan, Anatolia
+               <lb/>(Turkey) and Iran. This earliest period of agricultural
+               <lb/>development was of such great and underlying im
+               <lb/>portance to cultural developments in other fields
+               <lb/>that it was dubbed, by those discovering it, as the
+               <lb/>Neolithic Revolution (though not a shot was fired,
+               <lb/>nor an arrow loosed to bring it about).
+               <lb/>At this same time, as a result of the new agricul
+               <lb/>tural know-how, settled communities, small towns,
+               <lb/>began to develop. The shrines, murals and statues
+               <lb/>found in excavations of these earliest agricultural
+               <lb/>towns reveal the presence of Goddess worship dur
+               <lb/>ing this period. It is to sites of this period that British
+               <lb/>archaeologist James Mellaart referst: “Art makes its
+               <lb/>appearance in the form of animal carvings and
+               <lb/>statuettes of the supreme deity, the Mother God
+               <lb/>dess" (my italics)
+               <lb/>These two features of the Proto-Neolithic period
+               <lb/>—the earliest appearance of agriculture and the
+               <lb/>existence of Goddess worship—are not disconnect
+               <lb/>ed, for we later find that in cultures in which methods
+               <lb/>of writing were first developed and used, it was the
+               <lb/>Goddess, as Ninlil in Sumer, as Isis in Egypt, later as
+               <lb/>Demeter in Greece (possibly Crete) and as Ceres in
+               <lb/>Rome, who was credited with having presented the
+               <lb/>gift of agriculture to Her people
+               <lb/>Though the sculpted female figures of the Upper
+               <lb/>Paleolithic period of about 30,000 to 15,000 B.C. are
+               <lb/>quite likely to have been representations of the dei
+               <lb/>fied Mother of the Clan—Goddess —this interpreta
+            </p>
+            <p>
+               <lb/>tion is still somewhat controversial. But from the
+               <lb/>Proto-Neolithic period, until the closing of the last
+               <lb/>known remaining Goddess temples in the fifth cen
+               <lb/>tury A.D., the worship of the Goddess is continually
+               <lb/>archaeologically and/or historically attested. De
+               <lb/>spite transformations caused by invading and con
+               <lb/>quering patrilineal tribes, Goddess worship con
+               <lb/>tinued in various forms and under various names for
+               <lb/>at least 8,500 years. Its probable underground sur
+               <lb/>vival during medieval, Christianity-proselytizing
+               <lb/>periods of Europe may well have been the target of
+               <lb/>centuries of witch hunts and mass burnings of
+               <lb/>women.
+               <lb/>Thus, if we are willing to accept a middle point in
+               <lb/>the Proto-Neolithic period, and agree to agree that it
+               <lb/>was at about 8000 B.C. that the brilliant and life
+               <lb/>supporting discovery of agriculture was made
+               <lb/>bearing in mind that in the earliest written records
+               <lb/>this gift was attributed to the Goddess, not a god,
+               <lb/>which strongly suggests that it was women (as the
+               <lb/>food gatherers, rather than hunters) who first ob
+               <lb/>served that barley, wheat and emmer began to grow
+               <lb/>in and around the areas in which their gathered wild
+               <lb/>grains were stored—and realizing that the oldest at
+               <lb/>tested evidence of Goddess worship (so far dis
+               <lb/>covered) occurs at this same period and that God
+               <lb/>dess worship continued over 8,000 years and well
+               <lb/>into the Christian period—why should we not re
+               <lb/>claim at least these 8,000 years of our cultural
+               <lb/>heritage as an integral part of “our era. By simply
+               <lb/>adding them to the 1,978 years we daily acknowl
+               <lb/>edge, we may consider ourselves to be living in the
+               <lb/>year "ninety-nine, seventy-eight"—9978. Perhaps
+               <lb/>this date is not as inclusive as 60,978 or 30,978, but
+               <lb/>it is far from science fiction and certainly more cul
+               <lb/>turally and chronologically authentic than 1978.
+               <lb/>With this change we crash through the time barrier
+               <lb/>of —B.C./A.D.—, gaining the so much broader
+               <lb/>chronological perception that allows and encour
+               <lb/>ages a deeper feeling of connection to women's
+               <lb/>unique role in the Neolithic Revolution, the earliest
+               <lb/>attested period of the religion of the Goddess, and
+               <lb/>to eight thousand years of Goddess worship. If we
+               <lb/>adopted this time designation by using it on our let
+               <lb/>ters, papers and publications, we might remind our
+               <lb/>selves, and others, that these forgotten or ignored
+               <lb/>millennia occurred in real time, our time.
+               <lb/>Consciousness raising over the past years has
+               <lb/>made us painfully aware of the myriad and unsus
+               <lb/>pected ways in which we, as women, have been
+               <lb/>tricked into agreeing to the destruction of our dig
+               <lb/>nity and self-respect. Isn’t it about time that we be
+               <lb/>gan to acknowledge and reclaim this important part
+               <lb/>of our heritage by explaining that, according to our
+               <lb/>calculations, this is 9978!
+               <lb/>Intellectually and emotionally perceiving that we
+               <lb/>are within 23 years of the year 10,000 (let us, for the
+               <lb/>moment, call it A.D.A.—After the Development of
+               <lb/>Agriculture) brings and will bring many other
+               <lb/>thoughts to mind. One that I would like to mention
+               <lb/>briefly is the possible importance of this suggested
+            </p>
+            <p>
+               <lb/>tJames Mellaart, Earliest Civilizations of the Near East (London:
+               <lb/>Thames and Hudson, 1965
+            </p>
+            <pb n='126'/>
+            <p>
+               <lb/>change for those who have felt some confusion or
+               <lb/>ambivalence about early religious training or family
+               <lb/>religious identity and the seemingly new ideas of
+               <lb/>feminist spirituality and the Goddess. Once we per
+               <lb/>ceive ourselves to be in 9978, thus encompassingthe
+               <lb/>period of One A.D.A. to 8000 A.D.A. as an integral
+               <lb/>part of our era, those concerned need not negate or
+               <lb/>refute the religious identity of their most immediate
+               <lb/>ancestry (including perhaps two, three or even five
+               <lb/>thousand years of the 9,978). But while accepting
+               <lb/>these relatively more recent portions of ancestral
+               <lb/>identity as worthy of consideration and self-esteem,
+               <lb/>it becomes possible to simultaneously thrust furthei
+               <lb/>back to periods peopled, not by strangers or aliens,
+               <lb/>but by one’s own ancestors. Common sense tells all
+               <lb/>of us that if we are here now, they were there then.
+               <lb/>Extending our temporal consciousness of our ances
+               <lb/>tral identity back to One A.D.A. (8000 B.C.), the
+               <lb/>people who worshipped the Great Goddess, (which
+               <lb/>includes possibly all people at that time and most
+               <lb/>people for many thousands of years following it)
+               <lb/>may then be regarded as another, equally real,
+               <lb/>source of our ancestral identity
+               <lb/>By reaching back beyond our forefathers, we may
+               <lb/>rediscover ancestral foremothers who understood
+               <lb/>the nature of a cosmic female energy font—Goddess
+               <lb/>energy—foremothers who have bequeathed to each
+               <lb/>and every one of us the inherent and inherited
+               <lb/>knowl- dge of our direct connection and access to
+               <lb/>that energy —a knowledge that is neither contrived,
+               <lb/>taken nor borrowed—but that has been OURS from
+               <lb/>the beginning.
+               <lb/>O Merlin Stone 9978
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Eternal Weaver</title>
+            <author>Buffie Johnson</author>
+            <author>Tracy Boyd</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+				<pb n='64'/>
+			<p>
+				<lb/>The Eternal Weaver
+			</p>
+			<p>
+				<lb/>Buffie Johnson and Tracy Boyd
+			</p>
+			<p>
+				<lb/>The mysteries that for millennia were preserved in the
+				<lb/>temples of the Great Coddess by her priestesses and priests
+				<lb/>are, for the most part, mysteries of life and death and, in
+				<lb/>the process of unveiling them, we are confronted by some
+				<lb/>thing infinitely larger than we can imagine: thousands upon
+				<lb/>thousands of years of magic and healing. As the Goddess's
+				<lb/>symbols are revealed, it becomes apparent that the Fem
+				<lb/>inine in all its manifold aspects is the bringer of conscious
+				<lb/>ness and wisdom.
+				<lb/>One of her most potent images is that of the eternal
+				<lb/>weaver. That weaving was exclusively the art of women is
+				<lb/>by now well established; however, the more far-reaching im
+				<lb/>plications with regard to the worship of a female divinity
+				<lb/>are described only in vague references here and there. Thus
+				<lb/>the mysteries that weaving once symbolized remain to be
+				<lb/>woven into a pattern that will ultimately reveal the Goddess
+				<lb/>at its center.
+				<lb/>The diamond-shaped "kilim" pattern that appears from
+				<lb/>one of the earliest levels onward (from c. 6400 to 5700 B.C.)
+				<lb/>in the wall paintings of the goddess-worshipping site of
+				<lb/>Catal Huyuk in Anataolia is an indication that
+				<lb/>"kilims have been woven in Anatolia since the late seventh
+				<lb/>millennium B.C. or for at least the last eight thousand years."
+			</p>
+			<p>
+				<lb/>FIG. 1 "Kilim" pattern design from Catal Huyuk (c. 6400-5700 B.C.)
+				<lb/>The "kilim" design, reserved exclusively for the shrines of
+				<lb/>the goddess, appears even before her anthropomorphized
+				<lb/>images at the site, and is probably a representation of her
+				<lb/>birth-giving womb in geometric abstraction. There is cer
+				<lb/>tainly a wealth of images at Catal Huyuk depicting the
+				<lb/>theme of a goddess of life and death to support this idea,
+				<lb/>and there is monumental evidence outside of Catal Huyuk
+				<lb/>The diamond-glyph shape, even as far back as Upper Paleo
+				<lb/>lithic times, represents not only the womb, but implies the
+				<lb/>idea of a female divinity as universal source and origin of all
+				<lb/>life. The geometric hieroglyph is found in the earliest art of
+			</p>
+			<p>
+				<lb/>the Upper Paleolithic and continues cross-culturally for
+				<lb/>some thirty-thousand years into the iconography of Judaeo
+				<lb/>Christian art. It is not then by mere chance that the diamond
+				<lb/>design at Catal Huyuk is the same pattern that is a prom
+				<lb/>inent feature of the "Eye Dazzler” rugs woven by Navajo
+				<lb/>women.
+			</p>
+			<p>
+				<lb/>Seen as womb, the universality of the diamond-glyph
+				<lb/>pattern supports the analysis of modern dreams which has
+				<lb/>shownthat
+				<lb/>"the mystery of giving birth is basically associated with the
+				<lb/>idea of spinning and weaving.”2
+				<lb/>The thread motif, which incorporates the idea of spinning,
+				<lb/>weaving and a complexity of beliefs in the knot as an instru
+				<lb/>ment of magic and the weaving of spells, runs throughout
+				<lb/>the tradition of the mythology of rebirth and its attendant ar
+				<lb/>tifacts; whatever form it takes, it is always associated with
+				<lb/>the realm of the Feminine. The motif survives even in the
+				<lb/>fairytales of Europe in which the themes of spinning and
+				<lb/>weaving are frequently encountered. There are as many
+				<lb/>variations on the symbolic thread device as there are names
+				<lb/>of goddesses, and what is described in many of the myths
+				<lb/>are rites of initiation that facilitate the passages from one
+				<lb/>stage of life, or consciousness, to the next, over which the
+				<lb/>Goddess, or an emblem of her, presides as “mistress of initi
+				<lb/>ation.
+				<lb/>The analogy between initiation and death is shown in a
+				<lb/>great many initiatory rites and accompanying myths of the
+			</p>
+			<pb n='65'/>
+			<p>
+				<lb/>primitive world. Initiation, which means introduction to a
+				<lb/>mystery, frequently incorporates a ritual entry into a rep
+				<lb/>resentation of the womb. The same pattern is found
+				<lb/>"in a large number of initiatory myths and rites. The idea of
+				<lb/>gestation and childbirth is expressed by... entrance in the
+				<lb/>womb of the Great Mother (Earth Mother), or into the body of
+				<lb/>a sea monster, or of a wild beast!!!"
+				<lb/>The symbolic return to the womb is probably intended to
+				<lb/>recall an earlier memory of being torn to pieces in the vagi
+				<lb/>nal "teeth” of the Earth Mother, or of being swallowed into
+				<lb/>the belly of the monster. Although the rituals are often
+				<lb/>marked by an element of terror and risk, the emphasis is
+				<lb/>placed on mystery rather than actual danger or peril. The
+				<lb/>initiate merely acts out a ritual death in a quest for the sa
+				<lb/>cred and mysterious forces that will guarantee regeneration
+				<lb/>In the much-romanticized Cretan myth of the Minotaur,
+				<lb/>Theseus embarked upon a "typical initiatory ordeal (char
+				<lb/>acterized by) the ’struggle with a monster... representing
+				<lb/>the forces of the unconscious”;“ an initiation made "by way
+				<lb/>of ritual entry into a labyrinth."5 Theseus is the acknowl
+				<lb/>edged hero, and yet the real credit for his success belongs to
+				<lb/>Ariadne ("Mother of the Barley”). She is the sister of the
+				<lb/>Minotaur, daughter of Pasiphae and Minos, and is associat
+				<lb/>ed with the labyrinth in one of its earliest known written ref
+				<lb/>erences, a Mycenaean Linear B tablet from Knossos iden
+				<lb/>tifying her as "goddess of the labyrinth" and "mistress of
+				<lb/>initiation."* The legend relates that having fallen in love
+				<lb/>with the Athenian youth, the fair Ariadne offered Theseus a
+				<lb/>ball of golden thread (the weaver’s clue) which enabled him
+				<lb/>to retrace his steps and find his way out of the labyrinth
+				<lb/>The labyrinth is the way, the passage leading to the cen
+				<lb/>ter which is the path to consciousness and it is Ariadne
+				<lb/>as "goddess of the labyrinth” and “mistress of initiation,
+				<lb/>who provides the knowledge of the way by means of the
+				<lb/>"thread of initiation.
+				<lb/>The palace of Knossos was itself called labyrinthos, or
+				<lb/>"the palace of the double axes"; and both the labyrinth, a
+				<lb/>universal symbol of the uterine maze, and the double axe
+				<lb/>(or labrys), derive their meaning from the word labrys (lip),
+				<lb/>which specifically refers to the female labia protecting the
+				<lb/>dark entrance to the womb. The labrys, the highly venerated
+				<lb/>crescent-shaped double axe, an instrument of sacrifice and
+				<lb/>death, is thus an emblem of the fertile womb of the Creat
+				<lb/>Goddess.
+			</p>
+			<p>
+				<lb/>In many parts of the world women have introduced the
+				<lb/>labyrinth motif, as in the contemporary Stone Age level cul
+				<lb/>ture of Malekula near the New Hebrides, where the de
+				<lb/>ceased must "thread their way. .. through a maze-like de
+				<lb/>sign drawn in the sand by the Guardian Chost,”” a being of
+				<lb/>undetermined sex who lives in a cave and who is often
+				<lb/>regarded as female. The ritual sand tracings, originally
+				<lb/>drawn by women as they still are in some places, are in
+				<lb/>tricately woven labyrinthine webs; their central structure,
+				<lb/>frequently shaped like the diamond-glyph, is a representa
+				<lb/>tion of the tomb. Other examples of this may be seen in
+				<lb/>"parts of Scotland and north England (where today) women
+				<lb/>draw. .."tangled thried' designs on their thresholds and hearth
+				<lb/>stones as a prophylactic against evil influences and witches."s
+				<lb/>And in South India where similar threshold designs are
+				<lb/>made.
+			</p>
+			<p>
+				<lb/>Images of the diamond-shaped glyph and the Evil Eye are
+				<lb/>known to serve similar apotropaic* functions;” and the
+				<lb/>spider, as spinner of the labyrinthine web, is often mentioned
+				<lb/>in this connection. The word "spider” actually derives from
+				<lb/>the Old English root spinnan, "to spin,” or"to draw out and
+				<lb/>twist fibers into thread”"; as does the word "spinster,” whose
+				<lb/>original meaning was "a woman who spins thread or yarn.
+				<lb/>The spider is a symbol of the devouringwomb
+				<lb/>"...not only because it devours the male after coitus, but be
+				<lb/>cause it symbolizes the female in general, who spreads nets for
+				<lb/>the unwary male...(and whose) dangerous aspect is much en
+				<lb/>hanced by the element of weaving..."1o
+				<lb/>It is of interest to note that the supernatural being, Spider
+				<lb/>Woman, taught the Navajo women to weave. The protecting
+				<lb/>aspects of the spider are shown in the Vedic sacrament of
+				<lb/>Nämakarana, name-giving, during which a spiderlike web of
+				<lb/>scarlet-colored threads is woven around the newborn child as
+				<lb/>a protection from evil. With similar intent, a special rite of
+				<lb/>preservation is performed on expectant mothers which is
+				<lb/>called Raksabandhana, “the Binding of the Protective
+				<lb/>Thread to ward off the Evil Eye, illness and jealous spells."11
+			</p>
+			<pb n='66'/>
+			<p>
+				<lb/>In India, the three-day Upanayana, or Sacred Thread cere
+				<lb/>mony, initiates the young male of the Brahmin and other
+				<lb/>castes as a"twice-born” man. Now solely restricted to Hindu
+				<lb/>males, the Upanayana was at one time an honor equally be
+				<lb/>stowed upon girls as asymbol of regeneration. Duringthe in
+				<lb/>vestiture with the sacred thread, a threefold cord which has
+				<lb/>been spun by a Brahmin virgin is twisted three times and tied
+				<lb/>with a triple knot. The duration of the rite and the knotting of
+				<lb/>cords suggests an association with the triple lunar aspects of
+				<lb/>the threefold goddess of birth: the personification of birth
+				<lb/>life and death; the waxing, waning and full moon. The sacred
+				<lb/>Indian thread may be likened to the umbilical cord that
+				<lb/>nourishes the fetus in preparation for its eventual entry into
+				<lb/>the world; for the rite of the “twice-born” marks the adoles
+				<lb/>cent’s separation from the mother, and the beginning of
+				<lb/>manhood.12
+				<lb/>A parallel for the Indian custom may be found in ancient
+				<lb/>Egypt, where knots of cloth inscribed with magic words of
+				<lb/>power were worn as a protection against illness and harm.
+				<lb/>In Egypt, Meskhenet ("birth place”) is the goddess who cuts
+				<lb/>the umbilical cord; she wears a uterus headdress. As one of
+				<lb/>the Seven Hathors, she pronounces the fate of children at
+				<lb/>birth, and is the goddess of childbirth, death and rebirth. Ir
+				<lb/>the rites of the dead she presides over the place of purifica
+				<lb/>tion, or Meskhen, and “allows (the) soul to enter (the) body
+				<lb/>reborn.26 Her name is given to the brick on which women
+				<lb/>crouched in birth-giving position. In Arabic tradition, the
+				<lb/>Lady Fatimah is the Weaver; the Muslim surahs, or prayers
+				<lb/>against witchcraft, ask that the devoted be saved
+				<lb/>"’from the evil of (women who) are blowers on knots." The
+				<lb/>words ’blowers on knots’ refers to magicians. .. who recite in
+				<lb/>cantations... intended to do harm. .. whilst they tie knots in a
+				<lb/>string—in other words, weave spells."1
+				<lb/>The highly venerated stone Omphalos of Delphi, the goddess
+				<lb/>Caia’s sacred site, was believed to be the center, or navel of
+				<lb/>the world. The iconic stone was thought to be the grave
+				<lb/>mound of the sacred python of the Oracles, and was com
+				<lb/>pletely covered with a woven net of fillets, or threads.1
+			</p>
+			<p>
+				<lb/>As "the knot is a dire instrument of the enchantress,”15 it is
+				<lb/>not surprising to see the knot as an emblem of the Great God
+				<lb/>dess and her regenerative womb, and as a magical symbol of
+				<lb/>her protection. The worship of the goddess Net, or Neith,
+			</p>
+			<p>
+				<lb/>whosename may stem from the root netet, toknit, to weave,16
+				<lb/>extends back to predynastic times (before 3400 B.c). In Egyp
+				<lb/>tian texts Net is mentioned as a goddess ot protection, some
+				<lb/>times represented by a hieroglyph whose meaning has been
+				<lb/>interpreted as that of a magical knot.
+				<lb/>"The Egyptian word... to express the meaning of ’protection'
+				<lb/>is sa..., and the character represents a knot of a peculiar
+				<lb/>kind."3
+				<lb/>The Egyptian Ankh, the knotted sign of life, is a hieroglyphic
+				<lb/>representation of the womb and a symbol of protection;1s
+				<lb/>"It is probably more than a coincidence that in Coptic art the
+				<lb/>Ankhsign often resembles the familiarsignfor Venus( Q )."19
+			</p>
+			<p>
+				<lb/>Although little is known of the parthenogenic fish-goddess
+				<lb/>Tanit, worshipped in Carthage from the fifth century B.C.
+				<lb/>through early Christian times, she is represented by a geo
+				<lb/>metric emblem, the Sign of Tanit, which closely resembles
+				<lb/>the Ankh, or sign of life, the Sacred Knot of the Cretan
+				<lb/>Mother Goddess, and other hieroglyphic symbols emblematic
+				<lb/>of the womb and the protection it affords. The same repre
+				<lb/>sentation occurs in the Tjet, or Knot of Isis, which is one of
+				<lb/>the most common of Egyptian amulets, and an emblem of
+				<lb/>the "uterus and vagina of lsis”:2° the goddess who was
+				<lb/>known for her magical ability to restore the dead to life, and
+				<lb/>who was acknowledged as having invented "the cultivation
+				<lb/>of crops and the spinning of threads” in Egypt.21 As the
+				<lb/>amulet of the Tjet was placed on the neck of the deceased,
+				<lb/>an incantation from the Book of the Dead was recited over
+				<lb/>"the blood of Isis, the virtue of Isis; the magic power of Isis,
+				<lb/>the magic power of the Eye, are protecting this greatone."22
+				<lb/>That the goddess of death also possesses the power to
+				<lb/>resurrect is shown in "the oldest recorded account of the
+				<lb/>passage through the gates of metamorphosis”23 in which
+				<lb/>Inanna (Ishtar) descends to the netherworld where Dumuzi
+				<lb/>remains as surrogate to die in her place. The vegetation god
+				<lb/>dess returns to earth, as the embodiment of the grain-spirit
+				<lb/>reborn. The swirling reed-bundle standard of the life-giving
+				<lb/>Inanna is a form that
+				<lb/>"exactly resembles the Minoan and Mycenaean emblem of
+				<lb/>the goddess (and) combines the knot with the spiral entry of
+				<lb/>birth."24
+			</p>
+			<pb n='67'/>
+			<p>
+				<lb/>The Minoan knot is none other than the Sacred Knot of
+				<lb/>Ariadne which, with its prominent diamond-glyph pattern
+				<lb/>ing emblematic of the womb, and the knotting together of
+				<lb/>its threads into tassels, has associations with the "thread
+				<lb/>of initiation” as the “Key of Life,” and the shamanistic cord
+				<lb/>or rope as the path to consciousness.
+				<lb/>In modern times, evidence of the initiatory thread or
+				<lb/>knot may be observed among Christians in Syria who "bake
+				<lb/>(knotted) rolls...to be eaten once a year on Easter morn
+				<lb/>ing”2s thus equating the labyrinthine knot with the bread
+				<lb/>of life and the resurrection of the soul. The braided Sab
+				<lb/>bath-loaf, or Berchisbrod, of the German Jews evidently has
+				<lb/>its origin in ancient goddess rites:
+				<lb/>"The Teutonic goddess of fertility, Berchta, or Perchta, was
+				<lb/>worshipped by the women with rites which included offering
+				<lb/>their hair to her. In time this ceremony became obsolete and
+				<lb/>was replaced by a symbolic offering of the hair in the shape
+				<lb/>of a loaf representing intertwined braids...."26
+				<lb/>Hebrew scholars have offered alternative suggestions as to
+				<lb/>the derivation of the Berchisbrod, as for example, that the
+				<lb/>name Berches' stems from the Old High German Berchit,
+				<lb/>which also describes the loaf known as “Brezel."2 At all
+				<lb/>events, the pretzel too is baked in the form of a lose triple
+				<lb/>knot, and was probably, in early times, an offering made for
+				<lb/>a festival in Berchta’s honor.
+				<lb/>With few exceptions, the goddesses who spin and weave
+				<lb/>are goddesses of childbirth, protectors of women, and deities
+				<lb/>of war. Perhaps the most famous goddess of war and wis
+				<lb/>dom is Athene who, in one of her numerous functions, was
+				<lb/>the protectress of spinning and weaving. It is an awkward
+				<lb/>function, evidently a remnant from earlier times, as Athene
+				<lb/>is a foe of women and matriarchal ideals in classical Greece.
+				<lb/>lhe Lydian princess Arachne, whose name means "spider
+				<lb/>in Greek, is said to have hanged herself when the jealous
+				<lb/>Athene destroyed her weaving which had not a single imper
+				<lb/>fection. The myth relates that the vengeful goddess “turned
+				<lb/>her into a spider— the insect she hates most— and the rope
+				<lb/>into a cobweb. ..”2° The wise owl is among Athene’s most
+				<lb/>sacred emblems, a bird with lunar associations that is gen
+			</p>
+			<p>
+				<lb/>erally regarded as a creature of ill omen, and in German
+				<lb/>tradition is represented as a nocturnal weaver:
+				<lb/>"Even in a starless night, nothing is concealed; a morose old
+				<lb/>owl lurks in her somber little chamber, spinning on a tiny sil
+				<lb/>ver spindle, as she watches the evil in the darkness."29
+				<lb/>In the Norse Eddas, the three golden-haired Valkyries
+				<lb/>("Choosers of the Slain”) are magical swan-maidens who
+				<lb/>spin on the shores of the lake as they sing their death chant
+				<lb/>The weaving of the Greek Sirens, who also assume bird
+				<lb/>shape in their earliest representations, is of a more abstract
+				<lb/>nature. They are the "Entanglers," "those who bind with a
+				<lb/>cord,” who lure with their eloquent song and promise knowl
+				<lb/>edge whose attainment implies death, that is, spiritual initia
+				<lb/>tion.
+				<lb/>The Teutonic Frigg (Frigga) in her original form is a god
+				<lb/>dess of love, knowledge, and justice who spins golden thread
+				<lb/>and weaves the clouds in heaven. She was much reduced in
+				<lb/>later folklore, but it should be remembered that the "demons
+				<lb/>and bogeys are invariably the reduced gods or priests of a
+				<lb/>superseded religion,"3° or, in this case, goddesses or priest
+				<lb/>esses. Frigg(a)’s later counterpart in German lore is Holde,
+				<lb/>Held, or Frau Holle, who
+				<lb/>"appeared as an ugly old witch, with long, matted hair and
+				<lb/>protruding teeth. In medieval Germany she had developed
+				<lb/>into the demon-witch who gobbles up children. She was held
+				<lb/>responsible for entangling hair at night. ’er ist mit Holle ge
+				<lb/>fahren“* was said of one whose hair was disheveled and
+				<lb/>knotted."3
+				<lb/>It is the same Held, the thirteenth wise woman in the tale of
+				<lb/>Sleeping Beauty, who is excluded from the princess’s birth
+				<lb/>day celebration because there are only twelve golden plates
+				<lb/>in the palace, and so she curses Sleeping Beauty with death
+				<lb/>The princess finds the old wise woman spinning in a tower,
+				<lb/>and it is her spindle that pricks the girl’s finger and causes
+				<lb/>her to sleep for one hundred years.
+				<lb/>In the lunar calendar there are thirteen months, the thir
+				<lb/>teenth being "the death-month, ruled over by the three
+				<lb/>Fates, or Spinners."32 The Greek Spinners of Fate, or “Moirai,
+				<lb/>whose name derives from the root meaning "to die,"33 are
+			</p>
+			<pb n='68'/>
+			<p>
+				<lb/>named Clotho ("spinner”), who spins the thread of life;
+				<lb/>Lachesis ("measure”), who measures the length of the thread;
+				<lb/>and Atropos ("she who cannot be avoided”), who cuts the
+				<lb/>thread at its determined time. As the deciders of destiny,
+				<lb/>these parthenogenous daughters of the goddess Necessity
+				<lb/>form a greatly feared lunar triad, for:
+				<lb/>"when the Moirai exert their power upon men, it is first and
+				<lb/>foremost as warriors, forwhom theyweave a bloody death..."34
+				<lb/>Eileithyia ("She who has caused to come”) is the leading
+				<lb/>figure in another triad of Greek goddesses of childbirth; the
+				<lb/>others are Artemis and Hera, both of whom have the spindle
+				<lb/>as their emblem. In the Delian hymn sung at her altar, she is
+				<lb/>Eileithyia Eulinos ("with the goodly thread"), a goddess of
+				<lb/>destiny whose sacred emblem is the cord. She is a magician
+				<lb/>and sorceress who when she held her knees together
+				<lb/>clasped her hands with crossed fingers and muttered charms
+				<lb/>could postpone labor at will. The images in her many
+				<lb/>shrines always showed her veiled, and in places "she was
+				<lb/>regarded with such sanctity that only her priestesses were
+				<lb/>permitted to see herimage."3
+				<lb/>To be veiled means "to weave,” from the same Anglo
+				<lb/>Saxon root as "witch,” (wiccian, to use as sorcery); and:
+				<lb/>"...to weave is the restricted form of to work. ..to perform
+				<lb/>a sacred action. In all the actions, the goddess is the Maya,
+				<lb/>the greatweaver of life."36 The Indian concept of the woven
+				<lb/>veil of Maya, or Illusion, is undoubtedly related to the idea
+				<lb/>of woman as the eternal weaver of webs. At Catal Huyuk, a
+				<lb/>pregnant goddess reveals herself to her worshippers, open
+				<lb/>ing her veil-like garment, richly patterned in an elaborate
+				<lb/>net-like diamond glyph design, the Syrian goddess of fer
+				<lb/>tility discloses her sacred mysteries in the same attitude
+				<lb/>some five thousand years later (c. 1000 B.c.). Isis, the great
+				<lb/>enchantress, is veiled; so too Neith, who
+				<lb/>"was the personification of the eternal female principle of
+				<lb/>life which was self-sustaining and self-existent, and was
+				<lb/>secret, and unknown, and all-pervading. .. the prototype of
+				<lb/>partheno-genesis."3
+				<lb/>Penelope ("with a web over her face”) eluded her many
+				<lb/>suitors by secretly unravelling at night the weaving she had
+				<lb/>done by day. In ancient China, where the female Weaver
+				<lb/>was a stellar divinity, a bride was required to be veiled dur
+				<lb/>ing the marriage celebrations and rites of betrothal and mar
+				<lb/>riage took place only in the hours of twilight.
+				<lb/>The aura of mystery that surrounds the riddle may be
+				<lb/>likened to the veil that shrouds the Goddess in her vast wis
+				<lb/>dom. The Sphinx, meaning literally, “the Strangler,” who is
+				<lb/>represented as a hybrid animal with female head and breasts,
+				<lb/>is a symbol of this hidden wisdom. The riddle she posed to
+				<lb/>the inhabitants of Thebes was in the nature of a highly sacred
+				<lb/>initiatory ordeal and all who failed to unravel her mysteries
+				<lb/>were strangled on the spot. When Oedipus solved the enig
+				<lb/>ma, thereby becoming king through matrilineal descent, the
+				<lb/>age-old matriarchal Sphinx committed suicide. But Oedipus’
+				<lb/>eminent downfall is history.
+				<lb/>In the Old Testament, the Queen of Sheba, who was
+				<lb/>versed in the magic arts, presented questions of a similar
+				<lb/>initiatory character to test the wisdom of Solomon, and
+				<lb/>literature and myth document that the revelations of the
+				<lb/>Delphic Oracle were couched in enigmatic form. The Cor
+				<lb/>dian Knot, perhaps the most famous symbol of knowledge
+				<lb/>in history, was meant to be untied, as the message formed
+				<lb/>by each of its knotted runes was the name of a sacred god
+				<lb/>dess; a riddle to be solved through superior spiritual con
+				<lb/>sciousness. Alexander ("defender of men”) failed to solve
+			</p>
+			<p>
+				<lb/>the problem it posed, and, as he "had not the learning, pa
+				<lb/>tience or ingenuity to perform the task decently, used his
+				<lb/>sword."3° By sheer brute force he, with many others, brought
+				<lb/>the ideals of mother-right to an end; and yet the veil re
+				<lb/>mained untouched. Alexander was poisoned by an unknown
+				<lb/>hand at the age of thirty-three.
+				<lb/>An ancient inscription, which refers to Pallas Athene, but
+				<lb/>is attributed to Neith, reads:
+				<lb/>"I am everything which hath been, and which is, and which
+				<lb/>shall be, and there hath never been any who hath uncovered
+				<lb/>(or revealed) my veil."39
+				<lb/>Throughout the world, the Great Goddess "weaves the web
+				<lb/>of life and spins the threads of fate”;“ in her hands rests the
+				<lb/>destiny of each individual, her shimmering veil concealing
+				<lb/>the mysteries of the universe to the uninitiated.
+				<lb/>Footnotes and References
+				<lb/>1. James Mellaart, Catal Huyuk: A Neolithic Town in Anatolia
+				<lb/>(New York: McGraw-Hill, 1967), p. 152
+				<lb/>2. Marie-Louise von Franz, The Feminine in Fairytales (Zurich:
+				<lb/>Spring Publications, 1972), p. 39
+				<lb/>3 Mircea Eliade, Birth and Rebirth, trans., Williard R. Trask (New
+				<lb/>York: Harper &amp; Bros. Publishers, 1958), p. 51; and passim.
+				<lb/>4. Mircea Eliade, Yoga: Immortality and Freedom, trans., Willard
+				<lb/>R. Trask, Bollingen Series LVI (Princeton: Princeton University
+				<lb/>Press, 1970), p. 221.
+				<lb/>5. Mircea Eliade, Patterns in Comparative Religion, trans. Rose
+				<lb/>mary Sheed (New York: Meridian Books, 1963), p. 373
+				<lb/>6. John Chadwick, The Decipherment of Linear B (Cambridge:
+				<lb/>Cambridge University Press, 1970), p. 125.
+				<lb/>7. John Layard, Stone Men of Malekula (London: Chatto and
+				<lb/>Windus, 1942), p. 340.
+				<lb/>8. lbid., p. 653.
+				<lb/>9. See Buffie Johnson &amp; Tracy Boyd, “The Eye Goddess and The
+				<lb/>Evil Eye, Lady-Unique-Inclination-of-the-Night, New Bruns
+				<lb/>wick: Sowing Circle Press, Cycle 3, 1978).
+				<lb/>10. Erich Neumann, The Origins and History of Consciousness,
+				<lb/>trans. R.F.C. Hull, Bollingen Series XLII (New York: Pantheon
+				<lb/>Books, 1954), p. 87.
+				<lb/>11. Mrs. Sinclair Stevenson, The Rites of the Twice-Born (London:
+				<lb/>Oxford University Press, 1920), p. 13.
+				<lb/>12. See lbid., pp. 27-45 passim.
+				<lb/>13. See Sir E. A. Wallis Budge, Amulets and Talismans (New Hyde
+				<lb/>Park: University Books, 1968), p. 469
+				<lb/>14. See Jane Ellen Harrison, Themis: A Study of the Social Origins of
+				<lb/>Creek Religion (New Hyde Park: University Books, 1962), pp.
+				<lb/>396-399
+				<lb/>15. Erich Neumann, The Creat Mother: An Analysis of the Arche
+				<lb/>type, trans. Ralph Manheim, Bollingen Series XLVII (Princeton:
+				<lb/>Princeton University Press, 1970), p. 233
+				<lb/>16. Sir E. A. Wallis Budge, The Cods of the Egyptians (New York:
+				<lb/>Dover Publications, Inc., 1969), Vol. 1, p. 451.
+				<lb/>7. Ibid., p. 456.
+				<lb/>18. A. A. Barb, “Diva Matrix," Journal of the Warburg and Courtauld
+				<lb/>Institute, Vol. 16, 1953, p. 199; illus., p. 28A.
+				<lb/>19. lbid., p. 221note.
+				<lb/>20. Sir E. A. Wallis Budge, The Book of the Dead (New Hyde Park:
+				<lb/>University Books, 1960), p. 45.
+				<lb/>21. R. E. Witt, Isis in the Craeco-Roman World (London: Thames
+				<lb/>and Hudson, 1971), p. 16.
+				<lb/>12. Petrie, op. cit., p. 23; see also Sir E. A. Wallis Budge, Egyptian
+				<lb/>Magic (New York: Dover Publications, Inc., 1971), pp. 43-44.
+				<lb/>23. Joseph Campbell, The Hero with a Thousand Faces, Bollingen
+				<lb/>Series XVII (New York: Pantheon Books, 1949), p. 105.
+				<lb/>24. Certrude Rachel Levy, The Cate of Horn (London: Faber &amp; Faber
+				<lb/>Ltd., 1948), p. 248
+				<lb/>25. lbid.
+				<lb/>26. Joshua Trachtenbert, Jewish Magic and Superstition: A Study in
+				<lb/>Folk Religion (New York: Atheneum, 1975), p. 40.
+			</p>
+			<pb n='69'/>
+			<p>
+				<lb/>27. Ibid., p. 280, note 48.
+				<lb/>28. Robert Graves, The Greek Myths (Baltimore: Penguin Books,
+				<lb/>Inc., 1960), vol. 1, p. 98.
+				<lb/>29. Angelo de Gubernatis, Zoological Mythology (London: Trubner
+				<lb/>&amp; Co., 1872), vol. 2, p. 250, quot. Rochholtz, Deutscher Claube
+				<lb/>und Brach, vol. 1, p. 155. Translation from the Old Cerman by
+				<lb/>the authors.
+				<lb/>30. Robert Graves, The White Goddess (New York: Farrar, Straus &amp;
+				<lb/>Giroux, 1974), p. 219 note.
+				<lb/>31. Trachtenberg, op. cit., p. 41. trans.: "he has gone with Holle.
+				<lb/>32. Graves, op. cit. (30), p. 421
+			</p>
+			<p>
+				<lb/>33. C. G. Jung, Symbols of Transformation, trans. R. F. C. Hull,
+				<lb/>Bollingen Series XX (Princeton: Princeton University Press,
+				<lb/>1967), CW, vol. 5, p. 250.
+				<lb/>34. Neumann, op. cit. (15), p. 232
+				<lb/>35. For myth see: Graves, op. cit., (50.), Vol. 2, p. 361.
+				<lb/>36. Neumann, op. cit. (15), p. 227 note.
+				<lb/>37. Budge, op. cit. (16), vol. 1, p. 462.
+				<lb/>38. Graves, op. cit. (30), p. 461
+				<lb/>39. Budge, op. cit. (16), vol. 1, p. 458.
+				<lb/>40. Neumann, op. cit. (15), p. 227.
+				<lb/>*apotropaic— see glossary.
+			</p>
+			</div>
+      </body>
+   </text>
+</TEI>

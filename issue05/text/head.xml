@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Changing the Hymns to Hers</title>
+            <author>Toni Head</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><pb n='15'/>
+            <pb n='16'/>
+            <p>
+               <lb/>Changing the Hymns to Hers
+            </p>
+            <p>
+               <lb/>Toni Head
+            </p>
+            <p>
+               <lb/>During the past five years of total immersion in the
+               <lb/>feminist movement, I have shared with other feminists
+               <lb/>the frustration of repeatedly running up against the stone
+               <lb/>wall of religious dogma. This dogma functions to preserve
+               <lb/>patriarchal institutions and to prevent the establishment
+               <lb/>of equal rights and opportunities for women in the United
+               <lb/>States and other countries throughout the world. Far from
+               <lb/>becoming more tolerant as time passes, fundamentalist
+               <lb/>sects are ever more rigid in their efforts to maintain the
+               <lb/>subjugation of women. Ironically, religious faiths, which
+               <lb/>supposedly provide the moral and ethical basis of culture,
+               <lb/>are stubbornly and irrationally opposed to the develop
+               <lb/>ment of a truly just, humane, equitable society.
+               <lb/>My personal religious beliefs underwent a cataclysmic
+               <lb/>change during adolescence, when overnight I emerged
+               <lb/>from an intensely religious period into what has remained
+               <lb/>a questioning, agnostic search for a satisfactory philos
+               <lb/>ophy to sustain me through life. During my childhood and
+               <lb/>adolescence, I deeply experienced the damage done by
+               <lb/>the prevalent attitudes towards females. Perhaps for this
+               <lb/>reason, 1finally found a possible answer in feminism.
+               <lb/>Of all my experiences, the most fulfilling sense of unity
+               <lb/>and of purpose and belief, within myself and within rela
+               <lb/>tionships, has come from reading feminist literature
+               <lb/>meeting, working, demonstrating, agonizing, organizing
+               <lb/>and occasionally celebrating with my sisters. Neverthe
+               <lb/>less, I still felt a lack, a sense of something missing. When
+               <lb/>my reading progressed to a number of books, which have
+               <lb/>appeared in recent years, describing the matriarchal cul
+               <lb/>tures and religions that existed in prehistoric times,
+               <lb/>began to understand why
+               <lb/>Itried to imagine what it must have been like to live in
+               <lb/>a society where people worshipped a female deity and
+               <lb/>where women held positions of power and responsibility.
+               <lb/>What would it feel like to pray to God the Mother? To sing
+               <lb/>paeans of praise to Her glory? As l experimented, in spite
+               <lb/>of my essential agnosticism, I found myself feeling a great
+               <lb/>sense of peace in the mere act of praying to a loving,
+               <lb/>female God. The experience was light-years away from
+               <lb/>the nightmares I had suffered as a child of being con
+               <lb/>signed to hell by a punitive male god. I also felt deep
+               <lb/>anguish to know that such religions had existed thousands
+               <lb/>of years ago, only to have been ruthlessly destroyed by
+               <lb/>barbaric patriarchal invaders.
+               <lb/>When I discussed these ideas with feminists from other
+               <lb/>parts of the world, at the International Women’s Year
+               <lb/>Tribune in Mexico City, at the International Tribunal on
+               <lb/>Crimes Against Women in Brussels and with women I met
+               <lb/>during other travels, they were as enthusiastic as my
+               <lb/>sisters closer to home.
+            </p>
+            <p>
+               <lb/>The IWY Florida Conference in Orlando last July pro
+               <lb/>vided the stimulus to goad me into action. Mormons,
+               <lb/>Baptists and various fundamentalist religious groups were
+               <lb/>there in force, joined with the American Nazi Party, John
+               <lb/>Birch Society and Ku Klux Klan to try to subvert the
+               <lb/>conference. When they began singing hymns, I sang along
+               <lb/>but with one major difference: I changed the hymns to
+               <lb/>Hers. When they sang, &quot;He’s got the whole world in his
+               <lb/>hands,&quot; l happily warbled, &quot;She’s got the whole world..
+               <lb/>When the conference closed with a recitation of the
+               <lb/>Lord’s Prayer, I joyfully intoned, “Our Mother who art in
+               <lb/>heaven...&quot; And when I returned home after the con
+               <lb/>ference was over, I sent my granddaughter a new version
+               <lb/>of Jesus Loves Me, which is:
+               <lb/>Isis loves me, this I know
+               <lb/>Mother God has told me so.
+               <lb/>She is strong and so are we
+               <lb/>Fighting for equality.
+               <lb/>Yes, Isis loves me
+               <lb/>Yes, Isis loves me
+               <lb/>Yes, Isis loves me
+               <lb/>Our Lady told me so.
+               <lb/>After the Orlando conference, Becky Berg, Florida
+               <lb/>State Coordinator of the National Organization for Wom
+               <lb/>en, asked me to help her conduct a workshop on women
+               <lb/>and religion at the Florida NOW State Conference last
+               <lb/>September. In preparation for this conference I began to
+               <lb/>think through some of the ideas that had been taking form
+               <lb/>in my mind.
+               <lb/>The sum total of my experiences led me to realize that
+               <lb/>lack of faith in an organized religion had left a hole in my
+               <lb/>life which no amount of rational, philosophical specula
+               <lb/>tions about the meaning of it all can fill. The fact is
+               <lb/>enjoy the rituals, symbols, songs, processions, ceremonies
+               <lb/>—the full panoply of organized religion. I like to wear
+               <lb/>clothing and jewelry that express my commitment to and
+               <lb/>faith in my beliefs. I enjoy singing along with people,
+               <lb/>joining hands, performing rites and acts that physically
+               <lb/>demonstrate and symbolize my emotional, spiritual and
+               <lb/>philosophical self—my deepest being. But I also realize
+               <lb/>that I am quite incapable of participating in such rituals
+               <lb/>while being totally opposed to the doctrines they rep
+               <lb/>resent. There is no way I can take part in a religion that
+               <lb/>preaches the subjugation of women.
+               <lb/>The answer to this dilemma then became so obvious
+               <lb/>that I am shocked not to have found it sooner. I believe
+               <lb/>the answer is to reinstate a feminist religion that can fulfill
+               <lb/>the human need for religious rituals at the same time that
+               <lb/>it celebrates our feminist faith in the ultimate good of
+            </p>
+            <pb n='17'/>
+            <p>
+               <lb/>being female and invokes the Mother-God-given right of
+               <lb/>every woman to enjoy full freedom and equal opportunity
+               <lb/>in all aspects of life.
+               <lb/>Such a religion would provide opportunities for women
+               <lb/>to meet together to take part in ceremonies and to reaf
+               <lb/>firm our faith in our feminist beliefs. This spiritual and
+               <lb/>emotional renewal would strengthen the bonds among us.
+               <lb/>Besides providing spiritual sustenance, the feminist
+               <lb/>religion could be a powerful tool in our fight for equal
+               <lb/>rights. In spite of the supposed Constitutional separation
+               <lb/>of church and state, the fact is that our legal codes are
+               <lb/>based on patriarchal religious dogmas and customs. The
+               <lb/>frequency with which opponents of the Equal Rights
+               <lb/>Amendment and other feminist issues quote the Bible to
+               <lb/>justify their opposition is evidence enough of the use of
+               <lb/>religion for political purposes. The doctrine of an or
+               <lb/>ganized religion that propounds feminist values as the
+               <lb/>direct reflection of Divine Intention is the ultimate answer
+               <lb/>to those who argue that a male god has decreed other
+               <lb/>wise. Fighting fire with fire, our rites could help us win our
+               <lb/>rights.
+               <lb/>The NOW conference workshop offered the opportu
+               <lb/>nity to explain these feelings and experiences to other
+               <lb/>women and to propose that we establish our own feminist
+               <lb/>religion. I also offered a few specific suggestions that
+               <lb/>seemed positive. First, that the religion be as undogmatic
+               <lb/>and non-authoritarian as possible to best serve as a ve
+               <lb/>hicle for expressing the thoughts, feelings, needs and
+               <lb/>desires of all of us. Second, that care must be exercised to
+               <lb/>avoid forming the usual hierarchy of clergy as separate
+               <lb/>from congregation and to assure maximum participation
+               <lb/>of everyone concerned in formulating and carrying out
+               <lb/>the doctrines and rituals of a feminist religion.
+               <lb/>do, however, believe that a formal women’s religious
+               <lb/>organization would be economically advantageous in that
+               <lb/>it would enable us to have access to the tax benefits
+               <lb/>allowed to other religious groups. These benefits could
+               <lb/>help to cover the cost of clinics, publications, learning
+               <lb/>centers and many other aspects of the women’s move
+               <lb/>ment
+               <lb/>In addition to these considerations, there is one fun
+               <lb/>damental principle that I feel must be basic to our religion
+               <lb/>if it is to express feminist beliefs. This is the divine right of
+               <lb/>every child to be born to a mother who wants it, which in
+               <lb/>turn would assure every woman the right to control her
+               <lb/>own body and to bear children only when and if she
+               <lb/>wholeheartedly wants to do so. I feel that the act of
+               <lb/>exercising this control, whether by means of birth control,
+               <lb/>abortion or abstention, should be considered to be in
+               <lb/>total accord with our belief in &quot;divine intention.
+               <lb/>would also like to see the physical fact of being
+               <lb/>female sanctified and celebrated. Since the aura of guilt
+               <lb/>and disgust surrounding female physiology promulgated
+               <lb/>by a misogynistic patriarchy is so destructive and damag
+               <lb/>ing to women’s emotional and physical well-being,
+               <lb/>would like to see this attitude replaced by feelings of joy
+               <lb/>and self-affirmation in the inherent good of being female.
+               <lb/>Generally, I would like our feminist religion to be
+               <lb/>positive, joyous and free of fear. Rather than teaching the
+               <lb/>dogma of original sin, we could proclaim the fact of
+               <lb/>original good. I would prefer a list of “Thou shalts” rather
+               <lb/>than &quot;Thou shalt nots&quot; and a philosophy of rewards for
+               <lb/>doing good rather than punishments for doing wrong.
+               <lb/>would like our religion to affirm the intrinsic good of all
+               <lb/>expressions of love between humans, regardless of sex or
+               <lb/>of other artificial restrictions imposed by a patriarchal
+               <lb/>autocracy.
+            </p>
+            <p>
+               <lb/>Along with the suggestions that have been mentioned,
+               <lb/>we would welcome a wide diversity of other ideas, ac
+               <lb/>cording to people’s needs and desires. These might come
+               <lb/>from Wicca, Zen or any other source that we feel has
+               <lb/>something valuable to offer us.
+               <lb/>In summary, I would like to mention that the enthusi
+               <lb/>astic response of those who took part in the NOW work-
+               <lb/>shop convinced me that many women feel the need for a
+               <lb/>religion of our own and I suggest that the time is ripe for
+               <lb/>establishing it now.
+               <lb/>11
+               <lb/>The Mother Church Inc. is legally incorporated in the
+               <lb/>state of Florida. Its members are now in the process of
+               <lb/>applying for tax exempt status. Toni Head writes, &quot;Ac
+               <lb/>cording to NARAL, various Dioceses and Archdioceses of
+               <lb/>the Catholic Church contributed over §450,000 from Janu
+               <lb/>ary 1976 to March 1977 to the National Committee for a
+               <lb/>Human Life Amendment to make abortions illegal by a
+               <lb/>constitutional amendment. That is only the record of
+               <lb/>contributions of $500 or more. In order to protect the
+               <lb/>principle of separation of church and state, I think that
+               <lb/>there should be no tax exemptions for religions, but since
+               <lb/>there are, it is essential that we share the advantage.
+               <lb/>&quot;The Mother Church Bulletin“ is available from The
+               <lb/>Mother Church. If interested, write to: The Mother
+               <lb/>Church, P.O. Box 2188, Satellite Beach, Florida 32937.
+            </p></div>
+      </body>
+   </text>
+</TEI>

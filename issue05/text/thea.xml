@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Masks, Power and Sisterhood in an African Society</title>
+            <author>Carolee Thea</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='106'/>
+			<p>
+				<lb/>Masks, Power and Sisterhood
+				<lb/>in an African Society
+			</p>
+			<p>
+				<lb/>Carolee Thea
+			</p>
+			<p>
+				<lb/>European and eastern matriarchal traditions, rites and
+				<lb/>art forms have been obscured and even obliterated, but in
+				<lb/>certain areas of the world, women have managed to retain
+				<lb/>much of their heritage and a measure of political equality.
+				<lb/>The means have often been compromises —at a cost that
+				<lb/>few of us can believe would be willingly paid. Yet western
+				<lb/>women have paid the equivalent price without benefit. It
+				<lb/>is important for us to obtain a perspective concerning the
+				<lb/>matriarchal traditions of this unique and spiritual society
+				<lb/>at a time when we are struggling to discover and create
+				<lb/>our own.
+			</p>
+			<p>
+				<lb/>The tribal societies of rainy West Africa still maintain
+				<lb/>traditions developed over years ot experience in a harsh
+				<lb/>environment. The secret societies of these cultures are
+				<lb/>responsible for teaching social values and celebrating the
+				<lb/>rites of passage. In effect, they are the perpetuators of
+				<lb/>traditional codes. Among the Mende, Vai, Temne and
+				<lb/>Sherbro tribes of Sierra Leone and Liberia, there are two
+				<lb/>important secret societies: the Poro for men and the
+				<lb/>Bundu for women.
+				<lb/>It was through their art that 1 first learned about the
+				<lb/>secret order of the Bundu women. Their masks intrigued
+				<lb/>me. What does a masking tradition mean in terms of the
+				<lb/>lives of the women in this tribal society? How do they
+				<lb/>establish sexual identities and define the status of women
+				<lb/>in short, how do they perpetuate a stable social order?
+				<lb/>The Bundu is the only masked secret society of women
+				<lb/>in all of Africa. It functions within what appears to be a
+				<lb/>male-oriented culture concurrent with the Poro to main
+				<lb/>tain a balanced social order. Through the mask, Bundu
+				<lb/>women obtain power beyond that granted for merely
+				<lb/>domestic functions. They may hold public office, even
+				<lb/>that of Paramount Chief, and they are influential in gov
+				<lb/>ernment and business decisions. Their presence and their
+				<lb/>political acumen permeate most tribal activity, including
+				<lb/>rituals, land distribution and marriage.
+				<lb/>The Bundu, like other female secret societies, prepares
+				<lb/>its young women for wifehood and motherhood and trains
+				<lb/>them for various vocational activities reserved by tradi
+				<lb/>tion for women. It is their access to a storehouse of secret
+				<lb/>knowledge that places them on the same level as mem
+			</p>
+			<p>
+				<lb/>bers of the Poro. This knowledge enables them tofunction
+				<lb/>in important political and decision-making capacities
+				<lb/>Not to be a member of a secret society is to be exclud
+				<lb/>ed from important political and social decisions, as well
+				<lb/>as group functions, knowledge and powers. Moreover, it
+				<lb/>is only as a Bundu member that a woman may become a
+				<lb/>leader. A succession of leaders are held sacred within the
+				<lb/>Chapters. That the Bundu have their own founding an
+				<lb/>cestors is vital. They are the intermediaries between the
+				<lb/>people and Ngewo, the apex of the spirit world. He is re
+				<lb/>garded as the ultimate creator from whom everything is
+				<lb/>derived.
+				<lb/>Initiation to the first level of the Bundu normally oc
+				<lb/>curs at fourteen or fifteen. Kenneth Little adds that among
+				<lb/>the Bundu, an older woman may also be initiated if she
+				<lb/>chooses. However, initiation rites of female adolescents
+				<lb/>usually occur at the beginning of menstruation or preg
+				<lb/>nancy, at which time the initiates are taught by those who
+				<lb/>are informed or experienced.? Moreover, the extended
+				<lb/>Bundu training engenders both independence and a
+				<lb/>strong sense of sisterhood by permitting girls to loosen
+				<lb/>ties with their mothers at the same time that they make
+				<lb/>new ties with other adult women of the community.
+				<lb/>The initiatory sessions are announced by means of a
+				<lb/>circular sent around in the form of a small piece of sokolo,
+				<lb/>tobacco. Fees, money, cloth or other commodities are
+				<lb/>due at this time. The number of initiates depends on both
+				<lb/>local support and available teachers. Usually the enroll
+				<lb/>ment is not more than thirty.
+				<lb/>The first event of the initiation tests the girl’s commit
+				<lb/>ment and will mark her for life. It will also deny her the
+				<lb/>full knowledge of her sexual nature, for it is at this time
+				<lb/>that she must submit to the partial removal of her cli
+				<lb/>toris.* The denial of women’s sexuality is a patriarchal
+				<lb/>practice the world over, but in this case, the sexual mu
+				<lb/>tilation of women was probably introduced and enforced
+				<lb/>by Arab conquerors.» By systematically ritualizing the
+				<lb/>practice, the Bundu women have brought it under their
+				<lb/>control. Yet custom prevents the cessation of the practice
+				<lb/>and has further distorted its original meaning. It should be
+				<lb/>noted that with much less power and perspicacity, west
+				<lb/>ern women have submitted to mutilation by “modern"
+				<lb/>medical men.1
+			</p>
+			<p>
+				<lb/>*Female circumcision, including sunna circumcision, excision
+				<lb/>clitoridectomy, infibulation and pharaonic circumcision are
+				<lb/>mutilations that are still practiced in Africa. According to a
+				<lb/>conservative estimate, it affects the life and health of 20 to 25
+				<lb/>million women.
+				<lb/>Fran Hosken: “Female Circumcision and Fertility in Africa,
+				<lb/>Women &amp; Health (Vol. 1, No. 6, November/December 1976,
+				<lb/>p. 3.)
+			</p>
+			<p>
+				<lb/>fAs late as the 1930s, clitoridectomies and female circumcision
+				<lb/>were medically prescribed in various parts of the United States
+				<lb/>and Europe as a cure for masturbation, psychological disorders
+				<lb/>and even kleptomania.
+				<lb/>G.). Barker-Benfield: “A Historical Perspective on Women's
+				<lb/>Health Care—Female Circumcision," Women &amp; Health, Vol. 1,
+				<lb/>No. 1, January/February 1976, p. 14.
+			</p>
+			<pb n='107'/>
+			<p>
+				<lb/>During the first stage of initiation, the girls are kept
+				<lb/>secluded, out of the sight of men and other uninitiated
+				<lb/>persons. They are now admitted to the "sacred bush, the
+				<lb/>Bundu school, and taught the lore, the songs and the
+				<lb/>dances that mark important social and religious cere
+				<lb/>monies of the tribe.
+				<lb/>When the initiation wounds are healed, the second
+				<lb/>stage begins. On a certain day, the initiates are taken to a
+				<lb/>stream and washed. A cowrie shell, hung on cotton
+				<lb/>thread, is then tied around their necks. This shell (a sim
+				<lb/>ulacrum of the clitoris) is an indication of their sanctity
+				<lb/>henceforth and must be respected by every Mende per
+				<lb/>son. The initiates then enter the town in the evening and
+				<lb/>dance, showing something of what they learned in the
+				<lb/>bush. In accord with the evident puberty rites, the high
+				<lb/>light of the occasion is a feast featuring a communal bowl
+				<lb/>with a phallus made of rice.
+				<lb/>After the public ceremonies, there is a private convo
+				<lb/>cation at which the girls are sworn to secrecy concerning
+				<lb/>Bundu ritual and knowledge. As part of the oath taking,
+				<lb/>their heads are plastered in mud, and the washing off of
+				<lb/>this mud signifies the attainment of womanly status. Led
+			</p>
+			<p>
+				<lb/>by the chief Bundu woman, who invokes her ancestral
+				<lb/>spirit, the proud initiates return in a procession to the
+				<lb/>town. The next three days are spent on the verandas of
+				<lb/>their parents’ houses, where they receive the admiration
+				<lb/>of friends and relatives.?
+				<lb/>With the attainment of this level of initiation, awoman
+				<lb/>may commission a mask to be made. She chooses a carver
+				<lb/>familiar with the rituals and symbols of the society and
+				<lb/>tells him the name of the ancestor for her mask; he then
+				<lb/>secludes himself in the bush to visualize the spirit that will
+				<lb/>eventually inhabit it. The carvers are always men, in ac
+				<lb/>cord with the tradition of strict division of labor.
+				<lb/>However, the mask provides a perspective on the
+				<lb/>initiated woman’s power. It is during the masked ritual,
+				<lb/>private and public, that the Bundu appear so formidable.
+				<lb/>They surround themselves with the exotic, the mysterious,
+				<lb/>and the grotesque. This aura is confirmed by the visible
+				<lb/>and invisible accoutrements of masks, costumes, dances
+				<lb/>and sounds—or silence and secrecy. With all of these
+				<lb/>means, the Bundu invokes the Goddess of the Mask, who
+				<lb/>is called Sowei.° Sowei is the personification of all those
+				<lb/>aspects of the ideal and powerful associated with Earth
+				<lb/>Mother and Queen. She is clearly a cult object to be wor
+				<lb/>shipped and revered by men and women. The iconog
+				<lb/>raphy of the mask is material and sensual, which furthen
+				<lb/>reflects this ideal.
+				<lb/>The mask illustrated here is from the Sherbro Islands,
+				<lb/>off the coast of Sierra Leone in West Africa. The basic
+				<lb/>form of the mask, and others of its kind, is a bell shape or
+				<lb/>helmet. The most prominent feature is the bulging ringed
+				<lb/>neck, which suggests wealth, fertility and beauty.” This
+				<lb/>aspect expresses the Mende equation of corpulence with
+				<lb/>fertility and is reminiscent of Goddesses and female icons.
+				<lb/>The forehead and cheeks are protruding and round, also
+				<lb/>implying corpulence. Erich Neumann, in his book The
+				<lb/>Creat Mother, writes: “One means by which early man
+				<lb/>could represent the numinous magnificence and arche
+				<lb/>typal uniqueness of the Feminine consisted in an expres
+				<lb/>sive ’exaggeration' of form and an accentuation of her
+				<lb/>elementary character””° (suggesting her fertility).
+				<lb/>The slit eyes and closed mouth symbolize the fact that
+				<lb/>the Bundu spirit never speaks. Her silence is equated with
+				<lb/>power and judgment. When she wishes to communicate,
+				<lb/>she does so through one of the lower members of the
+				<lb/>Bundu, a Ligba.
+				<lb/>The elaborate braided pattern of the hair indicates the
+				<lb/>importance placed on this feature. Emblematically, hair is
+				<lb/>power. The braid may be interpreted in the same mannen
+				<lb/>as the entwined snakes found on the waist of the principal
+				<lb/>Goddess figure at Knossos or perhaps in the same way as
+				<lb/>the snake hair of the Gorgons. The snake, a lower earth
+				<lb/>symbol of fertility, represents the Terrible Mother."1 Em
+				<lb/>bedded in the hair of this mask are small phylacteries,
+				<lb/>serving as both ornamental and totemic references to
+				<lb/>Islam.1
+				<lb/>The horns on the helmet are considered to have special
+				<lb/>energy. The Mende and other African tribes believe that
+				<lb/>horns are the repository of an animal’s power or life force
+				<lb/>Horns are also tied around the neck or waist of children to
+				<lb/>protect them from evil spirits.13, Tribal members believe
+				<lb/>that they can psychically identify with a particular animal
+				<lb/>and have access to its powers to protect themselves from
+				<lb/>known and unknown spirits. The adopted object or animal
+				<lb/>is called a "bush soul.
+				<lb/>On top of the mask is a bird perched on a cup. One
+				<lb/>interpretation is that the bird symbolizes spiritual tran
+				<lb/>scendence. Another, specific to the Mende, is that this is
+				<lb/>a Bofio, a bird that is said by some to receive messages
+			</p>
+			<pb n='108'/>
+			<p>
+				<lb/>ith the spirits.14
+				<lb/>from the spirits and, by others, tot
+				<lb/>The woman who commissions a mask decides whethen
+				<lb/>it is satisfactory and then performs a ritual inviting the
+				<lb/>spirit to enter the mask. Before the spirit can enter, how
+				<lb/>ever, the Bundu costume must be complete. Raffia, dyed
+				<lb/>black, is attached to the mask, and a cloth suit with the
+				<lb/>sleeve ends sewn closed is worn over long black stockinge
+				<lb/>and shoes. By completely covering her body, the dancer
+				<lb/>prevents the spirit from entering her rather than entering
+				<lb/>the mask.15
+				<lb/>The masked dancer may carry a bunch of twigs or a
+				<lb/>sword in her covered hands, and she points or gesticulates
+				<lb/>with it. She never speaks, but may dance to the accom
+				<lb/>paniment of the Seligura, a calabash rattle. Her move
+				<lb/>ments include a rhythmic swaying and various arm ges
+				<lb/>tures. If the dancer becomes hot and perspires, she may
+				<lb/>remove her helmet and costume only it her face remains
+				<lb/>concealed by one of her attendants, who carries a mat
+				<lb/>specifically to hide the dancer’s countenance from view. 16
+				<lb/>When the masked Bundu woman appears in public with
+				<lb/>her musicians, it generally means that somebody (usually
+				<lb/>a male) is going to be accused of an offense against Bundu
+				<lb/>laws.17 The violator will be brought before the masked
+				<lb/>woman to confront her ancestral spirit. Concealed by her
+				<lb/>mask, the Bundu woman listens without reply, but she
+				<lb/>conveys her spirit’s judgment through the Ligbas, the first
+				<lb/>level members of the Bundu society.18
+				<lb/>To move beyond a description of the aesthetic and
+				<lb/>exotic is to consider the Bundu woman as a force in a
+				<lb/>patriarchal society. Historically, African societies have
+				<lb/>recognized female power. The Bantu had queens without
+				<lb/>prince consorts. Independent queens ruled the Fanti on
+				<lb/>the Gold Coast, which was the center of a matriarchy.
+				<lb/>There were female rulers throughout the entire Zambesi
+				<lb/>area in the northern Congo basin. In Togoland, the queens
+				<lb/>had chieftains to help rule, but the latter could make
+				<lb/>decisions only with the consent of a female council. The
+				<lb/>West African matriarchy extended to the Atlantic Islands.
+				<lb/>Helen Diner, in Mothers and Amazons, writes: "In the
+				<lb/>oldest times, there were no reigning princes in Africa, but
+				<lb/>the Negroes had great Kingdoms, ruled by Goddesses
+				<lb/>These Goddesses had Priests and Priestesses who took
+				<lb/>care of all government business in the name of their
+				<lb/>sacred Mistresses."1
+				<lb/>Mystically, African societies recognize female powers
+				<lb/>as directly related to the fecundity and magic associated
+				<lb/>with the earth. Further, woman experienced herself as the
+				<lb/>subject and object of mysterious processes and as a vessel
+				<lb/>of transformation and a mana figure.“ "Man marvels at
+				<lb/>these mysterious powers in woman’s body, Simone de
+				<lb/>Beauvoir writes
+				<lb/>Like cattle and crops he wanted his clan to engender other
+				<lb/>men who could perpetuate it while perpetuating the fertility
+			</p>
+			<p>
+				<lb/>of the fields; all nature seemed to him like a mother; the
+				<lb/>land is woman and in women abide the same dark powers
+				<lb/>as in the earth. It was for this reason in part that agricultural
+				<lb/>labor was entrusted to woman able to summon ancestral
+				<lb/>spirits into her body; she would also have power to cause
+				<lb/>fruits and grain to spring up from the planted fields. In both
+				<lb/>cases there was no question of a creative act, but of magic
+				<lb/>conjuration. Yet children and crops seemed nonetheless to
+				<lb/>be gifts of the gods, and the mysterious emanations from
+				<lb/>the female body were believed to bring into this world the
+				<lb/>riches latent in the mysterious sources of life.2
+				<lb/>That women were recognized to have this magical
+				<lb/>creative ability constituted a formidable power base, par
+				<lb/>ticularly in a society that was dependent on the continua
+				<lb/>tion of traditions and lineage. Such unassailable power
+				<lb/>surely inspired in men a respect twinged with fear, a
+				<lb/>factor which ultimately must have contributed to the
+				<lb/>domination ot women. Consequently, male masking may
+				<lb/>have developed as a redress to what was perceived as a
+				<lb/>social and spiritual imbalance. For the same reason, fe
+				<lb/>male masking (among the Bundu), may have developed
+				<lb/>after the conquest of patriarchal Moslems and the installa
+				<lb/>tion of male power figures. Female circumcision and
+				<lb/>phallus worship must also be outgrowths of this patri
+				<lb/>archal takeover.
+				<lb/>Clitoridectomy is an operation performed to rid wom
+				<lb/>en of their “maleness,” (the clitoris being likened to the
+				<lb/>penis). As Aristotle said, "If the clitoris is the seat of
+				<lb/>woman’s pleasure, then away with it! Women are meant
+				<lb/>to bear children; that she should draw pleasure from the
+				<lb/>sexual act is unthinkable."22
+				<lb/>Men disliked the idea that women enjoy sex because it
+				<lb/>suggested that man was made for woman's pleasure and
+				<lb/>not woman for man’s convenience. Thus, in removing the
+				<lb/>possibility of sexual pleasure, patriarchs could be more
+				<lb/>confident that women would remain sexually faithful. 23 *
+				<lb/>Phallus worship may have been a feature of late matri
+				<lb/>archy, while the male generative powers were celebrated
+				<lb/>as a complement to the enduringly dominant temale role.
+				<lb/>The recently excavated Goddess shrines in the Near East
+				<lb/>reveal phalluses of all shapes and sizes (but these fetishes
+				<lb/>may as well have been offerings of male devotees to the
+				<lb/>Goddess in real or pretended rites of castration). During
+				<lb/>the patriarchal takeover, this tentative sacrament was
+				<lb/>appropriated and eventually made into a compulsory act
+				<lb/>of homage.24
+				<lb/>Among the West African Mende, a similar transition
+				<lb/>can be noted, although through compromise its impact
+				<lb/>has been systematically muted. Although the Bundu may
+				<lb/>represent a vestige of the matriarchy, the Poro presence
+				<lb/>and the rigidity of sex-defined tasks for women (primarily
+				<lb/>domestic) suggest a negotiated arrangement. Even though
+				<lb/>chieftancies can be attained by women, property remains
+				<lb/>in the control of the male head of the family. Men may be
+			</p>
+			<p>
+				<lb/>*Fran Hosken, editor of the WOMEN’S INTERNATIONAL NET-
+				<lb/>WORK NEWS, recently returned from a six-week visit to 15
+				<lb/>countries and 25 cities of sub-Saharan Africa, where she investi
+				<lb/>gated the issue of genital mutilation of women. She talked to
+				<lb/>gynecologists, midwives and pediatricians who confirmed that
+				<lb/>these practices continue everywhere because no one speaks
+				<lb/>against them. Furthermore, men often refuse to marry girls not
+				<lb/>operated upon; in some areas, it is believed the operation is
+				<lb/>required by religion and by the ancestors, and that women who
+				<lb/>do not have it are prostitutes. It is said that the operation is
+				<lb/>needed to preserve the family, and that excised women are more
+			</p>
+			<p>
+				<lb/>fertile. However, polygamy and excision have often been cor
+				<lb/>related. In 1960, at a seminar on the "Participation of Women
+				<lb/>in Public Life," the World Health Organization was asked by
+				<lb/>the African participants to undertake a study of the medical
+				<lb/>aspects ot "operations based on customs to which many women
+				<lb/>were still being subjected." Subsequently, the Economic and
+				<lb/>Social Council of the United Nations confirmed this request. To
+				<lb/>date, no such Africa-wide study has been made.
+				<lb/>Fran Hosken: WOMEN’S INTERNATIONAL NETWORK NEWS,
+				<lb/>Press Release (February 1978).
+			</p>
+			<pb n='109'/>
+			<p>
+				<lb/>polygamous, whereas women may have only one hus
+				<lb/>band. Furthermore, some women, selected from the high
+				<lb/>est order of the Bundu, are instructed in the rituals of juju,
+				<lb/>or potent magic. However, female powers in juju are so
+				<lb/>feared that women may use these rituals on few occa
+				<lb/>sions. The secret societies of the Bundu women may be a
+				<lb/>vestige of priestly sisterhoods, but the present division of
+				<lb/>power, with the greater allocation accorded to the Poro,
+				<lb/>is clearly the result of a desperate compromise.
+				<lb/>Obvious questions arise not only about the terms of
+				<lb/>the bargain struck between the Bundu and the Poro, but
+				<lb/>also about the terms we ourselves will accept in establish
+				<lb/>ing a complementary relationship necessary for our per
+				<lb/>sonal, economic and political stability. One cannot think
+				<lb/>of the sexual repression of women in the Victorian Age or
+				<lb/>of the use of pom-pom girls at male sporting events in
+				<lb/>the present day without realizing that western women
+				<lb/>have been forced into unnegotiated compromises. The
+				<lb/>Bundu women have retained the right to define them
+				<lb/>selves in their secret and elite society. They act as instru
+				<lb/>ments of divine revelation and have a command of potent
+				<lb/>images, which are the repositories of sacred traditions. Al
+				<lb/>this thev teach their daughters, along with self-respect
+				<lb/>and sisterhood. But clearly, thev have lost the power to
+				<lb/>experience the fullness of their sexual pleasure, and this
+				<lb/>has been accompanied by the adulation of male sexua
+				<lb/>energy.
+				<lb/>If vou had to bargain for not simply vour life, and not
+				<lb/>simply the lives of vour children, but the way of life for
+				<lb/>vour daughters and granddaughters and all of their
+				<lb/>daughters to come, what would vou bargain —vour polit
+				<lb/>ical equality, vour economic equity, vour sexual freedom
+				<lb/>or vour spiritual sisterhood?
+			</p>
+			<p>
+				<lb/>1. K.L. Little, The Mende of Sierra Leone (London: Routledge &amp;
+				<lb/>Kegan Paul. Ltd. Broadwav House, 1951), p. 1.
+				<lb/>2. W. I. Harris and Harr Sawver. The Sorings of Mende Belief
+				<lb/>and Conduct (Freetown. Sierra Leone University Press, 1968)
+				<lb/>p. 35
+				<lb/>3. Franco Monti. African Masks (New York: Paul Hamlyn,
+				<lb/>1969), p. 24
+				<lb/>4. Harris. p. 127
+				<lb/>5. Elizabeth Could Davis, The First Sex (New York: Penguin,
+				<lb/>1971).
+				<lb/>Harris, p. 127
+				<lb/>7. Jacqueline Delange, The Art and Peoples of Black Africa
+				<lb/>New Vork. E.P. Dutton &amp; Co., Inc. 1974). p.41
+				<lb/>8. W.L. Hummel. Art of the Mende, catalogue (College Park,
+				<lb/>Md. Universitvof Maryland Art Callen, 1974).
+				<lb/>10. Erich Neumann. The Great Mother: An Analysis of the
+				<lb/>Archetype (Princeton. Princeton University Press, 1972).
+				<lb/>11. lbid.
+				<lb/>12. Hummel, p. 19.
+				<lb/>13. J.V. Olufemi Richards. The Sande Mask." African Arts
+				<lb/>(Winter 1974. Vol. 7, No. 2), p. 51.
+				<lb/>4. Harris. p. 15.
+				<lb/>15. Hummel, p. 20.
+				<lb/>16. H. U. Hall., The Sherbro of Sierra Leone (Philadelphia, Pa.:
+				<lb/>University of Pennsvlvania Press. 1938), p. 8
+				<lb/>17. Traditional Carvings and Craftwork from Sierra Leone, cata
+				<lb/>logue (london. Commonwealth Institute, August 1961),
+				<lb/>p. 4-27
+				<lb/>18. Hummel. p. 21.
+				<lb/>19. Helen Diner, Mothers and Amazons (New York: Anchor
+				<lb/>Press, 1973), p. 76.
+				<lb/>20. Neumann, p. 150.
+				<lb/>21. Simone de Beauvoir, The Second Sex (New York: A. Knopf
+				<lb/>Inc. 1953), p. 63
+				<lb/>22. Davis., p. 154.
+				<lb/>23. lbid.
+				<lb/>24. lbid., 98.
+			</p>
+			</div>
+      </body>
+   </text>
+</TEI>

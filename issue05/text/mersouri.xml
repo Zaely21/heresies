@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>mersouri makes lub to ther queed ob spades</title>
+            <author>Monica Raymond</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='42'/>
+            <p>
+               <lb/>mersouri makes lub to ther queed ob spades
+            </p>
+            <p>
+               <lb/>Monica Raymond
+            </p>
+            <p>
+               <lb/>ab id dat darknetch say mersouri i makes lub
+               <lb/>to der queed ob spades ab id dat darknetch
+               <lb/>she say doan ask how doan ask before doan ask axter
+               <lb/>doan ask how mange she did cubs to me dere
+               <lb/>wes i hab heard ob der queed ob spades heard aboutch her
+               <lb/>talkig heard aboutch her joking foah as dey say der queed
+               <lb/>of spades do habs er mole od er backside der size ob
+               <lb/>a roll ob jelly am dey say der queed ob spades do stinks wid langig
+               <lb/>dey say der queed ob spades ill eat chew sidewage while jew sleeps
+               <lb/>das what deys says ob dat big openig ob hers am dat big
+               <lb/>shuttig too wes das what dey says ob hers
+               <lb/>now i habs bid ter wad am i has bid to ther uvver
+               <lb/>ter ther sliding wax ob de world am to de earl ob
+               <lb/>bismotch daughters i habs tuck id in am pulled id outch
+               <lb/>i habs dud it ebry which way i ain no inicent
+               <lb/>i aint no chile
+               <lb/>but i sways it to jew i habs nebbah dud it wid der
+               <lb/>queed ob spades not indecent propah or crosswise
+               <lb/>ip she swears to it i wis hide behine der beds
+               <lb/>ip deres ange wad thin ise god foah
+               <lb/>i knows how ter keeps my lights frub her darknetch
+               <lb/>well what er fide rollig ter hear mersouri tes
+               <lb/>id am i who had nebbah looked foah her who hab
+               <lb/>nebbah eben fide her who wouden know how ter fide her
+               <lb/>ip i looked keepig mysef as i likes ter contend
+               <lb/>arwage ridig am ridig high keepig mysafe arwage frub fallig
+               <lb/>inter her liker black swamp deys say it to jew foah what is
+               <lb/>humud lipe foah ip it isnt ter keeps joursef outer
+               <lb/>theb marsh isnt dat what humud beigs evolved outer
+               <lb/>am why should we wants ter go backs inter eb
+               <lb/>stis she hab said no befores am no axters she
+               <lb/>habs say ax no quextiods am i tes jew no lies
+               <lb/>she habs sayed no words no answerves
+               <lb/>am dis wad odd foah mersouri
+               <lb/>she was odly jesk up outer deb speechless zobe
+               <lb/>she wad odly jesk outer dat hole dat she had creeped
+               <lb/>speechletch outer am ther white words was watching her admiring
+               <lb/>as she did crawl outer that tunnel wailing
+               <lb/>foah who knows ip i do ip she did or not
+            </p>
+            <pb n='43'/>
+            <p>
+               <lb/>so she says ise goan tes jew how i cub inter id wid der
+               <lb/>queed ob spades what cubs i do
+               <lb/>couden shuts it out wiv bove my fingers
+               <lb/>id bove my ears figgered out maybe ise find suppin
+               <lb/>outch dat i wasud lookig foah
+               <lb/>wes hear it is i dint makes it up am i woan vouch
+               <lb/>foah it itse tellig it to me as it wad tole to jew
+               <lb/>how mersouri made lubs ter der queed ob spades
+               <lb/>am what cabe outer itch
+               <lb/>der queed ob spades say mersouri der queed ob spades
+               <lb/>it is no lie wed dey tells jew dat der queed ob spades has
+               <lb/>er black mole od er behine der size ob a grape nuts
+               <lb/>flake der queed ob spades say mersouri has eyes pourig
+               <lb/>jelly der queed ob spades she has der light lil hairs ob her
+               <lb/>mustaches od der tops lip der queed ob spades has
+               <lb/>armpits she woudun sneeze inter widout fawrig
+               <lb/>der queed ob spades laughs id her blue froty
+               <lb/>laugh says cub id am i says i awready is id
+               <lb/>she says come farder
+               <lb/>der queed ob spades how she turbed inter me
+               <lb/>how i turbed inter her how i laid dere close inter
+               <lb/>mysafe as ip i wad sum kide ob rubble lep by de
+               <lb/>atrocity am she what chew doig dere lying code as
+               <lb/>er piece ob fishskid am i says i know i is
+               <lb/>what chew heard ob me says der queed ob spades hab chew
+               <lb/>heard how i struck my favver id der night am blowed his
+               <lb/>pants off habs chew heard how i eats fru bricks am mortar
+               <lb/>habs chew heard how i fly above der city
+               <lb/>blowing sly smoke id de eyes habs chew heard
+               <lb/>how i cabs fish for eb am catch ebb wrigglig od der
+               <lb/>hook awr true say der queed ob spades verge true
+               <lb/>chew wouden tinks od it to looks od me would chew
+               <lb/>habs chew heard say ther queed ob spaces how i can plucked owed
+               <lb/>hairs widder finger nail habs chew heard how i can tattos chew
+               <lb/>id wad am er hunrex colus ob der ragebow habs chew heard
+               <lb/>how i cabs play dat base tattoo od jour frisky skin habs chew heard
+               <lb/>how chew wis dance to it ebry lask wad ob dose habs chew heard awr
+               <lb/>debs story ob pain am torture am pledjure awr
+               <lb/>wrasked up inter wad
+               <lb/>am how i rocks chew she say foah i cabs do dat too she
+               <lb/>say how i hodes chew id my arbs as ip she
+               <lb/>wad no lighter dabs er fedder foah i cabs do dat
+               <lb/>wad am how i since to jew habs jew heard it id jour ear
+               <lb/>suptides i knower minion lullabies der colub ob trees
+               <lb/>am der colub ob water
+               <lb/>am how i drops chew habs chew heard dat wad too frub der
+               <lb/>top scale frub der tax stalk suptides i do wed i cabs manitch it
+               <lb/>am how i pinch chew tis she caint see straitch widder yawlig
+               <lb/>ob it am how i rubs my finger true jew as
+               <lb/>if chew wad sup kiner sandpile am i was er baby playig
+               <lb/>habs chew heard ob dat playig jour sand jour
+               <lb/>pebbles tis we ges dowd inter deb muddy stuff digs id jew tis jew
+               <lb/>nebbah find der hole foah der aint no bottob to it
+            </p>
+            <pb n='44'/>
+            <p>
+               <lb/>am foamig id jew sweet as a whorm playig wide am narror id
+               <lb/>der finask weezig ob ter tellers am der
+               <lb/>strins waves ovah widder reef am der notes ob
+               <lb/>jew tored apartch frub der music am stucks back odder
+               <lb/>tube at sub later place habs jew heard how i tears chew outer
+               <lb/>yoursafe i do she sayed i dos awr das too
+               <lb/>awr deb sof stuff she say am awr deb hard stuff
+               <lb/>awr deb frisky stuff am awr deb lawngig stuff she says
+               <lb/>i plays it ebry way accordig ter der strikes der colus
+               <lb/>am she say chide why jew lyig dere code as er piece
+               <lb/>ob fishskid stiff as er piece ob fishscale
+               <lb/>am mersouri sayed i knowed it i know i is
+               <lb/>jew is so stiff say der queed ob spades dat iffer persob wanted to
+               <lb/>go frew jew dey woud hasks ter walks der lawns wage aroud
+               <lb/>ebbrythin is tied so tight to each uvvah as ip chews afraid ob
+               <lb/>losig it ip a persob wanted to rides fru deys cabent
+               <lb/>deys have ter go ther lawns wage aroud am starch ovah
+               <lb/>am mersouri sayed i habs bid sat erpong am i habs losk my words
+               <lb/>am bid locks erwage id der zobe ob der
+               <lb/>speechletch am dey has odly jesk cubs backs ter me
+               <lb/>i has ter hode eb as precious as lil glass thins
+               <lb/>am ther queed ob spades say no jew doan she says deys
+               <lb/>pale but hardy sens eb erwage am deys cubs back id tibe
+               <lb/>am der queed ob spades say why chew lyig dere
+               <lb/>at de uvvah edge ob der bed as ip jew was wantig
+               <lb/>ter fawr offer de uvvah end am hide
+               <lb/>am she say ter mersouri cubs close am mersouri say i abs
+               <lb/>close am she say cubs closah
+               <lb/>deb she played wid mersouris eyelatches ebrywad ob deb
+               <lb/>ticklig deb wid der thicks fingers tis she couden
+               <lb/>see nuffig but fields am farig id frunx ob her eyes
+               <lb/>deb she played wid der likeness at the batch ob her nex
+               <lb/>she played wid ebry hair dat wad od her body
+               <lb/>stickig up straitch as er porcupide
+               <lb/>what chew fraid ob she say ebry thins gonna be eat up soob enuf
+               <lb/>might as wes fear it whyse is alibe theb she touched her
+               <lb/>where der hair rides right dowd frub ther skid to ther
+               <lb/>sea
+               <lb/>am mersouri reached ovah am she touched ther queed ob spades
+               <lb/>fet dat risig breathig widid her am der fawrig
+               <lb/>breathig felt her hairs stickig up like cactus am
+               <lb/>she taught wad is dis felt dowd amonx her bristle
+               <lb/>which tastes like pine thatch she taught to
+               <lb/>fingers tastes likes broom quills as she
+               <lb/>felt up alawns de arms where ebry thin
+               <lb/>was code am shuddery am she says ter ther
+               <lb/>queed ob spades what is dis
+               <lb/>what is wat say der queed ob spades
+               <lb/>ebry thin stickig up like cat quills she says
+               <lb/>ab jour arbs so code am shuddery am ther
+               <lb/>queed ob spades says aint yours code am shuddery
+            </p>
+            <pb n='45'/>
+            <p>
+               <lb/>am mersouri say yeays what ob it but aint chew
+               <lb/>tessig me ter cubs closer am ther queed
+               <lb/>ob spades say cubs closer stis am mersouri cubs ovah
+               <lb/>ter she cabs fear der breathig am ther hot legs
+               <lb/>ob ther queed ob spades erpong her am say id dis close
+               <lb/>enuf am der queed ob spades say cubs closah stis cubs ovah farver
+               <lb/>so she moved tis ther back ob her necks was od der
+               <lb/>queed ob spades face am she couds fear hei
+               <lb/>breaf od her necks am she could fear ther lips stickig
+               <lb/>id am ther teef biting am ther tongue lickig lying od top ob her
+               <lb/>awrmosk am she says id dis close enuf am ther queed ob spades
+               <lb/>says no she says i wants chew so close dat jour
+               <lb/>ear is my ear am jour heart is my heart it doan
+               <lb/>habs ter do wid moving jour face at dis point am so mersouri
+               <lb/>moobed wid supthin so her face wad her face am her feets wad her
+               <lb/>feets
+               <lb/>am ther queed ob space said to her ear which by dis tibe
+               <lb/>wad her owed ear as wes she says
+               <lb/>i habs bid wid men am boys am i habs bid wid der rivahs
+               <lb/>am der trees am i has bid wid der hippopotami am ther
+               <lb/>snakes id der muddy river i has plucked dere hearts
+               <lb/>out ob ebb ab der teef out ob ebb i has laid wid
+               <lb/>der rattlesnake jest as i habs layig here wid jew
+               <lb/>now am i has laid wid der katydid am i has laid widder
+               <lb/>lawngig dat wasud eben humud i has had my heart tored outer
+               <lb/>me am sewed back togevvah am i has swallered my teef dowd
+               <lb/>am picked eb outer my shits
+               <lb/>i has rid up and down od ebry stalk or stew das jew cabs ticks
+               <lb/>outer supthin am wabes inter supthig ails am i has
+               <lb/>lubs ter varjous creatures am gibbin deb outer earf
+               <lb/>most ub deb monstrux jew see arounx i habs carried
+               <lb/>here id my womb says ther queed ob spades am i tes jew
+               <lb/>she say ise tired ob it
+               <lb/>now she say cubs closah stis chew may tinks jure as close as jew
+               <lb/>could be but suppin id chew stis wriggling gets is
+               <lb/>stis am close stis am close mersouri wad stis
+               <lb/>am close od top od her wid der hotness wearig
+               <lb/>betweedge her legs am der fear betweedge her eyes
+               <lb/>i abs scared ebry tibe say ther queed ob spades
+               <lb/>i is code as goosefletch say ther queed ob spades
+               <lb/>ebry tibe i is stiff as a fish scale she say
+               <lb/>ebry tibe jest like jew was lying dere she say code
+               <lb/>am stiff das how it is
+               <lb/>am she turbed her ovah tis dey was mouf ter mouf den dey kissed her
+            </p></div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pilgrimage/See for Yourself</title>
+            <author>Mary Beth Edelson</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='96'/>
+            <p>
+               <lb/>Pilgrimage/See for Yourself:
+               <lb/>A Journey to a Neolithic
+               <lb/>Goddess Cave, 1977.
+               <lb/>Grapceva, Hvar Island,
+               <lb/>Yugoslavia.
+               <lb/>Mary Beth Edelson
+               <lb/>Island of Hvar —Sunny Adriatic island of vineyards,
+               <lb/>olive groves, aromatic plants and ancient culture
+               <lb/>From a tourist brochure.
+               <lb/>For some years I had been attempting to make
+               <lb/>a pilgrimage to a Goddess site. I had been doing
+               <lb/>private rituals in my art for some time, both out
+               <lb/>doors in nature and in the studio. I could feed off
+               <lb/>of them and hold them in my mind like totems.
+               <lb/>but I was still hungry. I needed to do my rituals in
+               <lb/>an actual prehistoric cave; to experience a Neo
+               <lb/>lithic site where I could smell the earth, poke
+               <lb/>around in the soil, breathe the air, and know that
+               <lb/>the cave air had circulated through my body and
+               <lb/>become a part of me. To go to a prehistoric site
+               <lb/>became an obsession, and represented the place
+               <lb/>to begin a new cycle. Numerous grants had not
+               <lb/>materialized and the trip was long overdue. I sold
+               <lb/>my car and bought the voyage.
+               <lb/>Before leaving New York, I researched seven
+               <lb/>sites in hopes of being able to locate and gain
+               <lb/>access to at least one of them. I had been there
+               <lb/>in my head many times.) My attraction to Yugo
+               <lb/>slavia, referred to as "Old Europe” by archaeolo
+               <lb/>gists, came from my wanting to start with a
+               <lb/>civilization linked to both the earliest Goddess
+               <lb/>worship and its art forms as well as to the later
+               <lb/>Goddess worshipping cultures. My fantasy and my
+               <lb/>plans are to continue my pilgrimage in the coming
+               <lb/>years throughout the Mediterranean, to trace our
+               <lb/>archaeological herstory, to photograph and docu
+               <lb/>ment, perform rituals, gather natural objects from
+               <lb/>the sites, and record my responses while trans
+               <lb/>lating these perceptions into my work.
+               <lb/>After arriving on the island of Hvar in the
+               <lb/>Adriatic off the coast of Yugoslavia, I set out to
+               <lb/>locate the Neolithic cave called Grapceva, know-
+               <lb/>ing only that it was near Jelsa, which turned out
+               <lb/>to be a small harbor town on the north side of the
+               <lb/>island. My information was gleaned from Marija
+               <lb/>Cimbutas’ book, The Cods and Coddesses of Old
+               <lb/>Europe,* useful both for its wealth of Goddess
+               <lb/>information and its archaeological maps. Though
+               <lb/>not adequate for actually locating sites, the maps
+               <lb/>did get us to outlying villages. Once in the genera
+               <lb/>*Marija Gimbutas, The Cods and Coddesses of Old Europe 7000
+               <lb/>3500/Myths, Legends and Cult Images (Berkeley: University of
+               <lb/>California Press, 1974), p. 27.
+            </p>
+            <pb n='97'/>
+            <p>
+               <lb/>area, the best method for finding exact locations
+               <lb/>proved to be word-of-mouth. In Jelsa, we (Anne
+               <lb/>Healy and I were traveling together) tried to find
+               <lb/>someone who spoke English and knew the where
+               <lb/>abouts of the Grapceva spilja, chosen because it
+               <lb/>appeared that I could be alone there. Little atten
+               <lb/>tion had been paid to the site after its initial
+               <lb/>excavation in 1955 by Professor Grya Novak.
+               <lb/>thought, from reading and intuition, that this cave
+               <lb/>was probably used as a sanctuary by Neolithic
+               <lb/>people.
+               <lb/>The travel agent in Jelsa said flatly that no one
+               <lb/>could tell us where the cave was, assuring us that
+               <lb/>he had lived in the area all his life and had never
+               <lb/>seen it. Obviously it was not worth bothering with.
+               <lb/>Finally, we wangled out of him that a villager,
+               <lb/>now retired, had led excursions by donkey up the
+               <lb/>steep mountain to the cave. The agent had trouble
+               <lb/>remembering the guide’s name, but at last it came
+               <lb/>out: "Vicko.
+               <lb/>Vicko lived on a street behind a cafe in Jelsa.
+               <lb/>A second inquiry in town directed us there. "Yell
+               <lb/>his name and someone will point to his doorstep.
+               <lb/>This done, we were on the threshold of a house
+               <lb/>where we were offered old world hospitality and
+               <lb/>an abundance of homemade wine. Yes, he was
+               <lb/>too old to go up the mountain, but his fourteen
+               <lb/>year-old son knew the way
+               <lb/>At daybreak the next morning we began the
+               <lb/>trip, climbing on and on while we and the heavy
+               <lb/>camera gear baked in the intense sun. At the top
+               <lb/>of the mountain, beyond the deserted village of
+               <lb/>Humac, we began our descent to the barely acces
+               <lb/>sible cave. The climb down was a series of straight
+               <lb/>drops. What had once been a path was now acres
+               <lb/>of mountain stone, obscuring the way to those
+               <lb/>unfamiliar with it. Suddenly the blue Adriatic
+               <lb/>stretched before us, and in the next moment, we
+               <lb/>realized that we had reached the area around the
+               <lb/>cave. What an incredible location: the sea vista, a
+               <lb/>shelf of flat rock extending from the front of the
+               <lb/>cave, fruit and nut trees and berry bushes on
+               <lb/>either side. We could easily visualize the daily
+               <lb/>activities of the Neolithic inhabitants gathered
+               <lb/>there, talking, cooking, sunning.
+               <lb/>Vicko’s son unlocked the gate placed over the
+               <lb/>mouth of the cave. I can think of our entrance
+               <lb/>only in personal terms. It is very difficult to con
+               <lb/>vey how thrilling this experience was to me. The
+               <lb/>cave was dazzling. It was magnificent. The main
+               <lb/>room, the great hall, sparkled and glistened with
+               <lb/>coral quartz. Stalagmites and stalactites, suggest
+               <lb/>ing great temple pillars, divided the rooms into
+               <lb/>chambers. The atmosphere created a feeling of
+               <lb/>reverence and awe. For me, it was a holy place.
+               <lb/>Vicko’s son began to dig in the floor of the
+               <lb/>cave and shortly produced some bones. As it
+               <lb/>turned out, there were bones, shards and shells
+               <lb/>everywhere. But the cave completely lacked light
+               <lb/>and the few candles we had did not begin to
+            </p>
+            <pb n='98'/>
+            <p>
+               <lb/>penetrate the surrounding darkness. Although our
+               <lb/>eyes could pick up a faint glimmer, a camera
+               <lb/>could not record more than the light of the candle
+               <lb/>itself. After resting, we headed down the mountain
+               <lb/>to ask Vicko whether Anne and I could have the
+               <lb/>key to the gate to go back by ourselves the next
+               <lb/>day.
+               <lb/>The following morning we set out with two
+               <lb/>dozen candles and three Yugoslav flashlights. First,
+               <lb/>wanted to explore the cave for myself. The low
+               <lb/>contracted entrance to the cave opened into an
+               <lb/>anteroom or anterior hall with a side chapel of the
+               <lb/>darkest and richest coral quartz imaginable. Lead
+               <lb/>ing into the great hall, a vaulted ceiling with two
+               <lb/>massive stalagmites, which had become pillars,
+               <lb/>added to the majesty of the grotto. A dip in the
+               <lb/>middle of the hall—no doubt formed from cen
+               <lb/>turies of use—was a natural center. To the left
+               <lb/>side, chambers formed by smaller stalagmites
+               <lb/>turned into narrow passages melting one into
+               <lb/>another, curving downwards or upwards. Nature
+               <lb/>had produced a complex labyrinth of sanctuaries.
+               <lb/>Five "lofts, which circled the back of the great
+               <lb/>hall and extended into the chamber rooms about
+               <lb/>five feet above the floor of the cave, were large
+               <lb/>enough to sleep three or four people. The largest
+               <lb/>caught my attention in particular because, unlike
+               <lb/>the others, its floor and ceiling were jet black with
+               <lb/>specks of mother-of-pearl imbedded in the surface.
+               <lb/>Many of the pots recovered from the cave were
+               <lb/>made from this black clay; others were made from
+               <lb/>more traditional red clays.
+               <lb/>crawled into the space where, deep in one
+               <lb/>corner, crouching to examine a broken area in the
+               <lb/>black floor, I found pure dark red clay, which was
+               <lb/>the right consistency, moisture content and tex
+               <lb/>ture to begin making a pot without further prepar
+               <lb/>ation. I wondered whether this blackened room
+               <lb/>could have been a kiln room. The clay, ready to
+               <lb/>use, could have been dried near the kiln and fired
+               <lb/>in the same place, a perfect set-up. An indoor
+               <lb/>kiln might have also driven out the dampness, the
+               <lb/>only aspect of the cave I found uncomfortable.
+               <lb/>Considering the surroundings, I began to revise my
+               <lb/>notions of the hardships of primitive life—at least
+               <lb/>in this location. The temperature and quality of
+               <lb/>the air, in spite of the heat outdoors, were far
+               <lb/>superior to our air-conditioning. In one corner of
+               <lb/>the cave, a constant trickle of water provided a
+               <lb/>natural water supply. Fruits, nuts and herbs were
+               <lb/>at the doorstep, and the scent of lavender filled
+               <lb/>the air. The black crust of clay on the surface of
+               <lb/>the "kiln" loft wall was thin; scratching through
+               <lb/>it I came to a bright white, and began to make the
+               <lb/>impresso patterns common to the area in Neo
+               <lb/>lithic times. In a few strokes I felt one long hand
+               <lb/>extending across time, sending a jolt of energy
+               <lb/>into my body. I began my rituals.
+               <lb/>The energy from the rituals seemed to puslate
+               <lb/>from the vaulted ceiling to me and back again.
+            </p>
+            <p>
+               <lb/>Aware of the privilege of having the cave to
+               <lb/>myself, I felt like the center of the universe. My
+               <lb/>mouth was actually inhaling the cave, all of it,
+               <lb/>and breathing it out again. The cave contracted
+               <lb/>and expanded with my rhythms, and shimmered
+               <lb/>on its way back and forth. I made a pact with the
+               <lb/>cave: it would tell me some of its secrets in ex
+               <lb/>change for my rituals, rituals that it had not seen
+               <lb/>for millennia. I in turn would learn some secrets
+               <lb/>now and some later—l had only to listen, to keep
+               <lb/>in touch.
+               <lb/>The first stalagmite chamber to the front and
+               <lb/>left of the great hall provided a natural altar, as it
+               <lb/>was elevated a few feet above the floor and in
+               <lb/>clear view from any point in the hall. In the center
+               <lb/>of the altar stood a stalagmite the size of a large
+               <lb/>Mother Goddess. Full-figured, she endured, frozen
+               <lb/>through the ages but still in charge. In front of Her
+               <lb/>and facing the great hall was a sloping stalagmite
+               <lb/>the height of a table; behind Her, concealed from
+               <lb/>sight, a small chamber divided into threes: a
+               <lb/>hidden sacristy.
+               <lb/>We poked around in the ground outside the
+               <lb/>cave, the sun warm on our backs. Anne said,"
+               <lb/>was in touch with myself today in a way that I
+               <lb/>have not been for a long time. On the way back
+               <lb/>down, we spent time in the deserted village
+               <lb/>abandoned, we guessed, for lack of water. But
+               <lb/>here again was magic; on a back path we found a
+               <lb/>pomegranate tree in full bloom. The vineyards
+               <lb/>originally cultivated by Humac villagers are still
+               <lb/>harvested for their grapes and the fields for their
+               <lb/>lavender, which was in bloom. The houses, made
+               <lb/>from fieldstones piled one on top of the other
+               <lb/>without mortar, grew as if molded from the earth.
+               <lb/>Everything was in harmony. We continued to
+               <lb/>come down with our physical bodies, but our
+               <lb/>spirits were still high up there.
+               <lb/>Note: After this day, and with encouragement from the
+               <lb/>natives of Hvar Island, we located Professor Novak. Again
+               <lb/>by word of mouth, we found his house in the town of
+               <lb/>Hvar. He graciously allowed us to visit his observatory,
+               <lb/>which he showed us with pride, and the visit ended with
+               <lb/>gifts of shards and shells from the cave. Among scores of
+               <lb/>artifacts, mostly bowls, removed from the cave or recon
+               <lb/>structed from shards, there were two chalices in Professor
+               <lb/>Novak’s observatory that were of particular interest to me.
+               <lb/>Identically shaped, their form was so non-functional that
+               <lb/>they must have been used for ritual purposes. They ap
+               <lb/>peared to be very special; seeing them was like seeing
+               <lb/>tangible proof of an ancient secret. I struggled to get a
+               <lb/>photograph through the glass case. Chalices of this type
+               <lb/>are referred to by Cimbutas as wine cups with phallus
+               <lb/>stem bases, used when the Coddess of Vegetation was
+               <lb/>born.. .[when) “caves were used as sanctuaries, particu
+               <lb/>larly those with stalagmites and stalactites. (Cimbutas
+               <lb/>notes that quartz caves were particularly selected to be
+               <lb/>sanctuaries).
+            </p>
+            <pb n='99'/>
+            <p>
+               <lb/>I document my rituals with a camera set on time release,
+               <lb/>the technical procedures, now second nature, do noi
+               <lb/>interfere with the process... The flow depends on prepa
+               <lb/>ration, research, drawings, staring into space and allowing
+               <lb/>the ritual to spring from within. I start from a body posi
+               <lb/>tion that leads to a mind/spirit position, peeling back
+            </p>
+            <p>
+               <lb/>through layers, trying to avoid the obvious, touching pri
+               <lb/>mordial places which take up from the present and move
+               <lb/>me forward. Once the involved preparation is complete, I
+               <lb/>put everything out of my mind and begin the ritual, let
+               <lb/>ting it flow where it will. Often the essence of the parti
+               <lb/>cular environment takes over.
+            </p></div>
+      </body>
+   </text>
+</TEI>

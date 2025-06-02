@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mikva Dreams - A Performance</title>
+            <author>Mierle Laderman Ukeles</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><pb n='52'/>
+            <p>
+               <lb/>MIKVA DREAMS—A Performance
+            </p>
+            <p>
+               <lb/>Mierle Laderman Ukeles
+            </p>
+            <p>
+               <lb/>INTRODUCTORY NOTE
+               <lb/>Into a particular sacred symbol of the primal water-womb, MIKVA, I enter regu
+               <lb/>larly during my life’s span of natural fertility. Here, I celebrate my own menses cycle,
+               <lb/>my personal holy body interface between the moon’s tides and the earth’s seasons.
+               <lb/>Like most goddess traditions, MATRONIT-SHECHINA, the Jew’s Female Divinity,
+               <lb/>has been pictured from ancient times as magically combining all these aspects:
+               <lb/>eternal renewed virgin, and eternal passionate lover, and eternal creating mother.
+               <lb/>Mikva is the site-intersection of all these holy energies.
+               <lb/>My menstrual ritual is ancient, so ancient, from the very beginnings of my people's
+               <lb/>history. It has survived historic catastrophes, expulsions and wanderings. It has also
+               <lb/>survived—barely —these centuries' cultural hang-ups toward menstruation itself:
+               <lb/>superstitions which are really fear and loathing of woman body herself, woman deep
+               <lb/>mysterious fertile magic body and her times.
+               <lb/>Like parasitical barnacles clinging to a truly nurturant source, misunderstandings
+               <lb/>have adhered to the concept and power of the Mikva. No. Mikva is not about
+               <lb/>woman as dirty. I don’t know about you, but I get dirty many times a month. And
+               <lb/>when I do I take a bath.
+               <lb/>Sisters! In this new time for all of us, I take this time to tell you of these private
+               <lb/>things.
+               <lb/>The artist unfolds a white sheet, places it over her head, covering herself completely and continues the
+               <lb/>reading.
+               <lb/>MIKVA DREAMS
+               <lb/>The following definition of Mikva is paraphrased from Rachel Adler: Mikva is a
+               <lb/>sacred water immersion place. Both men and women use the Mikva, but differently
+               <lb/>It is referred to in the Bible as "“mayim chayim", meaning living waters. Running
+               <lb/>water, not stagnant water. Any natural gathering of running water of requisite amount
+               <lb/>constitutes a natural Mikva: lake, river, sea.
+               <lb/>In cities, the Mikva is built using an approximation of natural water, that is, water
+               <lb/>collected through the force of gravity, usually rainwater. The rainwater is gathered
+               <lb/>into a huge container called the "bor” or pit. a building is constructed around this
+               <lb/>bor. The building contains small individual sunken pools for private immersion. Each
+               <lb/>pool shares a wall with the bor. Each shared wall has a hole cut in it which can be
+               <lb/>plugged up or left open. In order to make the adjoining pools into legally valid
+               <lb/>Makvaot, they are "seeded" with bor water and then filled with regular heated tap
+               <lb/>water. When the hole between this pool and the bor is unplugged so that the waters
+               <lb/>are touching (or, as the sources put it, "kissing”), the pool becomes a valid Mikva.
+            </p>
+            <p>
+               <lb/>In all the gentleness of continuing love, she goes to the Mikva. The Mikva waters
+               <lb/>hit above her breasts when she is standing up. The waters have pressure in them. She
+               <lb/>pushes into it as she comes down the steps. When she leaves, it seems as if the
+               <lb/>waters softly bulge her out, back to the world. No, she doesn’t want to tell you
+               <lb/>about it. It is a secret between her love and herself. The Mikvah is square. The water
+            </p>
+            <pb n='53'/>
+            <p>
+               <lb/>is warm, body temperature. Sometimes there are layers of cool water at the bottom.
+               <lb/>A square womb of living waters.
+               <lb/>She goes in, naked, all dead edges removed—edges and surfaces that have come
+               <lb/>in contact with the world. Nails, loose hair. She has scrubbed herself. All foreign
+               <lb/>matter removed. A discipline. Is it possible to cleanse oneself completely? What if
+               <lb/>she looked into a microscope? Would she find foreign matter? The standard is the
+               <lb/>world of the naked eye. The Mikva is for her intrinsic self. Her self-self. Nothing
+               <lb/>else: no traffic with the world, no make-up with the world. The blood stopped
+               <lb/>flowing a week ago. She is the moon. The blood carried away the nest for an un
+               <lb/>fertilized egg. Her body gets ready every month—builds a nest come hell or high
+               <lb/>water. If the egg isn’t caught and doesn’t catch, the nest unravels bit by bit, and the
+               <lb/>body gets rid of it. Shucks it. A non-life has occurred. Shall she call it a death? She
+               <lb/>won’t because of sister-friends who have had abortions for a million sorrowing
+               <lb/>reasons. What’s one egg? She can’t bear that many children. Overpopulation, desires
+               <lb/>for limits, human endurance, etc. etc. etc. etc. etc. Money, education, other kinds
+               <lb/>of life-giving to do.
+               <lb/>But it is an event of non-life. An egg’s funeral. A formal procession in measured
+               <lb/>amounts of time, not rushed; so-and-so number of days. Men don’t bleed regularly
+               <lb/>That’s a simple fact. If they bleed, something is wrong. Women do bleed regularly.
+               <lb/>It’s not an androgynous fact. Much as the artist loves androgynous facts. It is a
+               <lb/>separating fact. Also children. Only women bleed regularly. Regularly they are in
+               <lb/>volved in either new life or non-life. The Mikva separates one from the other.
+               <lb/>In all the glory of continuing love, the Mikva is a taste of Heaven. She tumbles
+               <lb/>down into the water, like a fetus, and is reborn to life. Old surfaces gone, non-life
+               <lb/>gone. Life is holy, to be understood as holy and separated from Death, from dead
+               <lb/>parts. She is always holy—but she causes a separation to be made between life and
+               <lb/>non-life.
+               <lb/>Choose life the Holy One tells her and she does.
+               <lb/>If Heaven is the home of eternal life, in all the caring of continuing love, the
+               <lb/>Mikva is a room in Heaven. This is what Heaven is like, she thought. How out-
+               <lb/>rageous. This? Tiles, steps, a light. What did she expect? The Shomeret, the guardian,
+               <lb/>is this Heaven’s angel. A real angel who maintains the balance between this secret
+               <lb/>place and outside, mysterious, telling no tales. The Shomeret’s job is to watch. To
+               <lb/>see that no foreign bodies are on her. That she has twenty new edges on her twenty
+               <lb/>tips—nails and toes—that meet the world, that grow and die always. Mostly, the
+               <lb/>Shomeret watches silently that all of her is drawn into the water—nothing sticks out
+               <lb/>when she contracts back into the womb of warm waters. Every part must go into
+               <lb/>the waters or it's not "kasher”. “Kasher” means okay, proper. The girl-woman
+               <lb/>lifebearer, who has passed through a time of non-life, enters wholly into the living
+               <lb/>waters one time. “Kasher” says the Shomeret. She praises G-D, life-death maintainer,
+               <lb/>who was-is-will-be forever. Twice more she enters the waters. Sees her fingers through
+               <lb/>the waters, spreads her limbs; the waters press against her openings; she opens
+               <lb/>herself to the waters. “Kasher, says the Shomeret. Then she is reborn. The living
+               <lb/>waters return her to life alone.
+               <lb/>Her cells begin to die again immediately. Her womb begins to build its blood-nest
+               <lb/>again. Foreign matter makes contact and sticks to her, silently, right away. But she
+               <lb/>has a chance to start again.
+               <lb/>She moves into another time period. Month to month, how many months, how
+               <lb/>many contacts does the girl-woman have on this bridge between herself alone and
+               <lb/>the future?
+               <lb/>Say she starts menses at thirteen and reaches menopause at forty-eight. That's
+               <lb/>thirty-five years of possible fertilization times twelve months a year equals four
+               <lb/>hundred-twenty eggs she grows within her. Say she gets married at twenty-eight and
+               <lb/>goes to the Mikva from that time on. That gives her twenty Mikva-going years times
+               <lb/>twelve months a year, or two hundred-forty times to go to the Mikva. Say she has
+            </p>
+            <pb n='54'/>
+            <p>
+               <lb/>one, two, three children. That means twenty-seven months of no menses—round off
+               <lb/>to thirty months "off" because of afterbirth bleeding. That means roughly two
+               <lb/>hundred and ten times to go to the Mikva during her life; two hundred and ten times
+               <lb/>to separate from events of non-life in her life. Two hundred and ten times to im
+               <lb/>merse, to go down into, be swallowed by the people’s womb of living waters, to
+               <lb/>come back to life just as her people’s women have done for so many thousands of
+               <lb/>years.
+            </p>
+            <p>
+               <lb/>In all the maintenance of continuing love, her own specific, particular kind of
+               <lb/>moon-blood body in nature dies in those waters and is born again. And immerse
+               <lb/>again
+               <lb/>[Spoken while inhaling and exhaling: no pauses for breath)
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

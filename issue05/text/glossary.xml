@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glossary</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+	<pb n='128'/>
+			<p>
+				<lb/>Glossary
+			</p>
+			<p>
+				<lb/>Some words have been included in
+				<lb/>this glossary to provide supplementary
+				<lb/>information but primarily we wanted
+				<lb/>to demonstrate what has been aptly
+				<lb/>called “The Power of Naming" with
+				<lb/>the intention of reclaiming it. We
+				<lb/>could choose only a small percentage
+				<lb/>of the words that speak powerfully of
+				<lb/>our past and of our potential.
+				<lb/>Our main sources were: Webster's
+				<lb/>International Dictionary Unabridgec
+				<lb/>First and Third Editions, the Oxford
+				<lb/>Unabridged Dictionary and Liddell &amp;
+				<lb/>Scott’s Greek-English Lexicon, A
+				<lb/>bridged, Oxford University Press
+				<lb/>aegis (Latin from Greek aigis, aiz ’goat
+				<lb/>skin.') Leather pouch worn like an apron
+				<lb/>by Cretan priestesses, custom probably
+				<lb/>adopted from Libya, where until recen
+				<lb/>times women wore leather pouches in
+				<lb/>which they kept oracular snakes. Hence
+				<lb/>the archaic ’to come under the shielding
+				<lb/>apron of is in modern English ’to come
+				<lb/>under the patronage, sponsorship, aus
+				<lb/>pices."
+				<lb/>Amazon (Greek Amazon; usually giver
+				<lb/>as a ’without' + mazos breast.') Legend
+				<lb/>records that Amazons removed their righ
+				<lb/>breasts to facilitate the use of the bow and
+				<lb/>arrow. However, Zonë (in the Thracian
+				<lb/>language) meant ’a woman’s girdle”; by ex
+				<lb/>tension 'marriage or the sexual act, the dis
+				<lb/>robing of a woman." Hence, ama suggests
+			</p>
+			<p>
+				<lb/>’something lacking' + zone = ’a woman
+				<lb/>whose girdle remains unloosened.” Greek
+				<lb/>mythology records that after Heracles
+				<lb/>killed Hippolyta, a queen of the Amazons
+				<lb/>he stole her girdle. Zonë also was the name
+				<lb/>of the capitol city of the Amazons in an
+				<lb/>cient Thrace, (modern Bulgaria-Romania
+				<lb/>to the Aegean and Propontus coasts.) One
+				<lb/>of a race or nation of female warriors usu
+				<lb/>ally associated with Scythia or Asia Minor
+				<lb/>with whom the ancient Greeks of mytholo-
+				<lb/>gy repeatedly warred; a tall strong mas
+				<lb/>culine woman, a virago. Also see: Parthian
+				<lb/>Anat, Anath Goddess who gave her
+				<lb/>name to ancient Anatolia (modern Turkey),
+				<lb/>later revered in Canaan. Her worship was
+				<lb/>suppressed and inveighed against in Bibli
+				<lb/>cal times. Ana is a universal name given to
+				<lb/>women in all cultures, meaning 'risen,
+				<lb/>heavenly. See: anatheme
+				<lb/>anathema (Greek from ana+thema
+				<lb/>upon+law [god); usually given as any
+				<lb/>thing set up.’) Hence, a thing consecrated
+				<lb/>to divine use; a votive offering, which in
+				<lb/>Late Latin became anything devoted to
+				<lb/>evil, curse. See: Anath
+				<lb/>apotropaism. The science and art ot pre
+				<lb/>venting or overcoming evils, usually by in
+				<lb/>cantation or a ritual act.
+			</p>
+			<p>
+				<lb/>cereal (Latin cerealis from Ceres, God
+				<lb/>dess of Grain, akin to crescere ’to grow.') A
+				<lb/>plant yielding seeds suitable for food,
+				<lb/>wheat, maize, rice. See: crescent
+				<lb/>clitoridectomy Sexual mutilation of the
+				<lb/>female genitals, the surgical practices of
+				<lb/>which vary: 1) Excision of the clitoris, labia
+				<lb/>minora and sometimes all external vaginal
+				<lb/>genitalia. 2) Infibulation or Pharaonic cir
+				<lb/>cumcision — After excision, labia are
+				<lb/>scraped and sutured to close the female
+				<lb/>introitus. This operation is usually per
+				<lb/>formed on girls between the ages of four
+				<lb/>and eight years to guarantee virginity. 3
+				<lb/>Sunna circumcision—Removal of the pre
+				<lb/>puce and tip of the clitoris, which must be
+				<lb/>done by a skilled surgeon. Clitoridectomies
+				<lb/>have been performed in hospitals through
+				<lb/>out the world. In Moslem countries, wom
+				<lb/>en of all classes are subjected to clitori
+				<lb/>dectomies. The practice is sanctioned by
+				<lb/>the Islamic religion.
+				<lb/>crescent
+				<lb/>(Latin crescere, creare ’to cre
+				<lb/>ate, bring forth’; from Greek koros ’boy,
+				<lb/>puppet; kore ’girl, virgin, pupil of th
+				<lb/>eye.’) A heraldic charge that consists of
+				<lb/>the figure of the crescent moon with the
+				<lb/>horns directed upwards; the time between
+				<lb/>the new and the full moon. See: cereal;
+				<lb/>also myth of Kore and Demeter
+				<lb/>crown (Latin from Greek korone ’any
+				<lb/>thing curved,' skairein ’to dance'; Sanskrit
+				<lb/>kridati ’she dances and plays.*) Basic
+			</p>
+			<pb n='129'/>
+			<p>
+				<lb/>meaning: turning, bending. Probably re
+				<lb/>lated to crescent and Kore.
+				<lb/>cunnilingus (Latin cunnus 'vulva'+lin
+				<lb/>gus act of licking from lictus. Possibly re
+				<lb/>lated to Old German root cunnen ’to know,
+				<lb/>especially magic art.’) Stimulation of the
+				<lb/>vulva or clitoris with the lips or tongue.
+				<lb/>See: cunt
+				<lb/>cunt Universal term: Middle English
+				<lb/>cunte; akin Old Frisian and Middle Low
+				<lb/>German kunte, Middle Dutch conte, Nor
+				<lb/>wegian and Swedish dialects kunta, Mid
+				<lb/>dle Low German kutte, all meaning’female
+				<lb/>pudenda,' but in Middle High German
+				<lb/>kotze ’pudenda' became ’prostitute.' Like
+				<lb/>the English words, cot, cottage, cunt ap
+				<lb/>pears to derive from Sanskrit khatya ’bed
+				<lb/>stead, bier of Dravidian origin. The Dra
+				<lb/>vidians were the indigenous goddess wor
+				<lb/>shippers of India before the Brahmanic
+				<lb/>conquest.
+				<lb/>Dame, dame (Latin Domina ’woman
+				<lb/>in authority, female head of family; re
+				<lb/>lated to domare ’to tame or subdue' and to
+				<lb/>dominion, domain, dominate.) A woman
+				<lb/>of station or authority; colloquially derog
+				<lb/>atory
+				<lb/>dragon
+				<lb/>(Creek drakon ’serpent, akin to
+				<lb/>Old English torht ’bright, splendid, noble“:
+				<lb/>Goth gatarhjan ’to mark,' Greek derkesthai
+				<lb/>’to see clearly,' Drakos ’eye’; Sanskrit dar
+				<lb/>sayati ’she causes to see.“ The basic mean
+				<lb/>ing is ’to see.') A woman who watche
+				<lb/>vigilantly and fiercely over the welfare of
+				<lb/>her charges.
+				<lb/>devil (Greek diablos; dia Latin and
+				<lb/>Greek for Goddess + Greek ballo ’to throw
+				<lb/>over, slander, mislead, impose upon.’) The
+				<lb/>temporal and spiritual adversary of god
+				<lb/>although subordinate to him and able to
+				<lb/>act only by his sufferance, frequently rep
+				<lb/>resented as the leader of all apostate an
+				<lb/>gels and as the ruler or hell. See: hell
+				<lb/>(Greek gyneh ’woman"; related to
+				<lb/>Greek gen meaning origin or beginning.
+				<lb/>Both derived from Sanskrit Cna, the name
+				<lb/>of a Goddess.) A prefix used to mean
+				<lb/>knowledge as in gnomon or gnostic; later
+				<lb/>developed into ’know’ from Latin gnoscere
+				<lb/>to know.' See: queen
+				<lb/>gynocracy (Greek gynech +cracy) Polit
+				<lb/>ical and social supremacy of women; pet
+				<lb/>ticoat rule—usually disparaging.
+				<lb/>gynarchy (Greek gyn+archy) Govern
+				<lb/>ment by women; a form of social organiza
+				<lb/>tion among parthenogenic insects in which
+				<lb/>only the female parent takes part in estab
+				<lb/>lishing the colony.
+				<lb/>gynophobia Literally, fear of women;
+				<lb/>defined as ’hatred of women.
+				<lb/>genesis (Greek birth or origin’; closely
+				<lb/>related to gyn ’woman’; derived from San
+				<lb/>skrit Cna, name of Goddess; prefix used in
+				<lb/>generate, generation, gene, genetic, gen
+				<lb/>tle, genial, genre, genuine, genius.) The
+				<lb/>coming into being of anything; the first
+				<lb/>book of the Pentateuch.
+			</p>
+			<p>
+				<lb/>(Old
+				<lb/>hag
+				<lb/>aegtesse, Old High
+				<lb/>German hagzissa ’harpy, witch,' both from
+				<lb/>a prehistoric Germanic compound whose
+				<lb/>components are akin respectively to Old
+				<lb/>English haga ’hedge’ and to Greek dialect
+				<lb/>hagia ’holy.’) Female demon; an ugly re
+				<lb/>pulsive old woman. In the British dialect
+				<lb/>the word has many meanings: to goad; an
+				<lb/>enclosed wooden area; the stroke of an ax,
+				<lb/>also a wild female hawk or falcon who
+				<lb/>preys for herself and is later caught when
+				<lb/>in her adult plumage. Hence a wild person
+				<lb/>(at first a female), one not to be captured
+				<lb/>Therefore, a wise woman of independent
+				<lb/>spirit. See: hedge
+				<lb/>Halloween (Old English hallow’holy +
+				<lb/>e’een ’eve.’) Hallowday is the first of No
+				<lb/>vember (Christian All Saints’ Day.) The last
+				<lb/>night of October is the Eve of All Hallows.
+				<lb/>In the Old Celtic calendar the year began
+				<lb/>on November 1, October 31 being ’Old
+				<lb/>Year’s Night, the night of all witches. Hal
+				<lb/>lowmas, the Celtic fire festival of Samhain,
+				<lb/>marked the zenith between Autumnal E-
+				<lb/>quinox (c. September 23) and Winter Sol
+				<lb/>stice (c. December 21.) It is the Witches
+				<lb/>New Year coming at the end of the harvest.
+				<lb/>See: halo
+				<lb/>halo (Creek alous ’threshing floor,' the
+				<lb/>first hallowed place.) From alous comes
+				<lb/>the name of the Greek Haloa festival, cel
+				<lb/>ebrated in honor of Demeter and by wom
+				<lb/>en only, featuring a harvest feast. A nim
+				<lb/>bus of sacrality said to surround a person
+				<lb/>or object. See: Halloween
+				<lb/>harp (Greek karphos ’dry stalk, stick;
+				<lb/>Russian korobit ’to bend, warp,' probably
+				<lb/>akin to Latin curvus ’curved.') A musical
+				<lb/>instrument of ancient origin with strings
+				<lb/>set usually in an open frame and plucked
+				<lb/>with the fingers. See: crown, harpy
+				<lb/>harpy (Greek harpazein ’to snatch’ as in
+				<lb/>playing a harp, ’plucking with the fingers.“
+				<lb/>One of a group of foul malign creatures
+				<lb/>part woman-part bird, who seized the souls
+				<lb/>of the wicked and punished evil-doers.
+				<lb/>heal (Middle English helen, possibly re
+				<lb/>lated to helan Old English root for ’hell';
+				<lb/>from Coth hailijan the same root as ’holy,
+				<lb/>healthy, whole.’) Etymology suggests that
+				<lb/>the concepts and practices of healing de
+				<lb/>rive from and may be named for the pre
+				<lb/>Greek culture of the Helenes. See: heleni
+				<lb/>um, Helladic
+				<lb/>(Old Norse heithinn; Coth
+				<lb/>heathen
+				<lb/>haithno specifically ’heathen woman,
+				<lb/>probably derivitives from the root of Eng
+				<lb/>lish heath land' and Old Welsh ’coit for
+				<lb/>est.’) Member of a people or nation that
+				<lb/>does not acknowledge the god of the bible:
+				<lb/>pagan.
+				<lb/>hedge
+				<lb/>(Old High German hag ’hedge."
+				<lb/>Hedged in enclosure; to modify a state
+				<lb/>ment or position; to allow for contingen
+				<lb/>cies; to avoid rigid commitment. As 'hag
+				<lb/>means ’witch,' these connotations suggest
+				<lb/>connections with the wiccian religion. See:
+				<lb/>hag, wicca
+			</p>
+			<p>
+				<lb/>helenium
+				<lb/>helenion, perhaps
+				<lb/>from helene, akin to Creek helix, adj.
+				<lb/>’twisted, spiral,' hellisein ’to turn, wind,
+				<lb/>roll'; eilyein ’to enfold.’) Wicker basket
+				<lb/>used in the Eleusinium Mysteries; wicker
+				<lb/>baskets also used for sacred purposes in
+				<lb/>Druidical rites. See: heal, witch
+				<lb/>helix (Latin from Greek) Anything of
+				<lb/>spiral shape. See: helenium
+				<lb/>Hell (Originally Old English helan meant
+				<lb/>to conceal'; possibly related to heal. In
+				<lb/>Old Norse hel was defined as 'heathen."
+				<lb/>Both related to Sanskrit sarana ’screen
+				<lb/>ing.’) Place designated as the abode of the
+				<lb/>dead in various religions. See: heal, hea
+				<lb/>then
+				<lb/>Helladic (Greek Helladikos) Of or relat
+				<lb/>ing to the Bronze Age culture of the Greek
+				<lb/>mainland, lasting from about 2500 to 1100
+				<lb/>B.C., a major gynocratic period.
+				<lb/>heresy
+				<lb/>(Latin haeresis) A taking for one's
+				<lb/>self, a choosing.
+				<lb/>hex (German hexen; akin Old High Ger
+				<lb/>man hagzissa ’harpy, witch, same root as
+				<lb/>hag.) To practice witchcraft; colloquially a
+				<lb/>jinx. See: hag, six
+				<lb/>holy
+				<lb/>(Old English hal whole; akin Coth
+				<lb/>hailags, related to heal, whole; Greek hagia
+				<lb/>holy, related to hag.) Consecrated, sa
+				<lb/>cred.
+				<lb/>Ishtar (Probably derived in part from
+				<lb/>the same Asianic word as Isis ish-ish,
+				<lb/>meaning ’she who weeps.") The powerful
+				<lb/>Babylonian Goddess who, like Isis,
+				<lb/>mourned the death of her annually slain
+				<lb/>son-lover. See: Isis
+				<lb/>Isis Onomatopoeic Asianic word, pos
+				<lb/>sibly the first name of the Goddess, mean
+				<lb/>ing ’she who weeps,' ish-ish, said of the
+				<lb/>Coddess Isis and of the moon that sheds
+				<lb/>tears of dew. By extension, ’she who is
+				<lb/>sues.' See: Israel, Ishtar
+				<lb/>Israel Ish-Rachel. Jacob married Rachel,
+				<lb/>the Dove Goddess, lahu, (la, exalted'+ Hu
+				<lb/>dove, Deimel’s Akkadian-Sumerian Clos
+				<lb/>sary,) a title of lsis; later lavhu; much later
+				<lb/>Jehovah, and became Ish-Rachel or Israe
+				<lb/>Rachel's man.' See: Isis
+				<lb/>Kundalini
+				<lb/>(Sanskrit kunda “coiled' lini
+				<lb/>line.") The spiral path of the primal energy
+				<lb/>through the body.
+				<lb/>labyrinth
+				<lb/>(Latin labia ’a lip,' variation of
+				<lb/>lab ’to lick with gusto. Ariadne was the
+				<lb/>Mistress of the Labyrinth’ in Crete. Labrys,
+				<lb/>from the same root, is the double ax and
+				<lb/>symbol of the Goddess’ womb.
+				<lb/>Lady, lady (Of uncertain origin, possib
+				<lb/>ly Old English; may be related to the Greek
+				<lb/>Goddess Lato, mother of the moon and the
+				<lb/>sun.) Feminine correlative of lord; wife,
+				<lb/>now applied to one of recognized social
+				<lb/>standing.
+				<lb/>lochial (Greek lechos ’bed.’) A dis
+				<lb/>charge from the uterus and vagina follow
+				<lb/>ing childbirth.
+				<lb/>mamma (Greek mamma mammen
+				<lb/>breast.’) Mother.
+			</p>
+			<pb n='130'/>
+			<p>
+				<lb/>marry
+				<lb/>(Middle English Marie after Ma
+				<lb/>rie, the Virgin Mary—'The Marian One, a
+				<lb/>title of the Virgin Mary and of her prede
+				<lb/>cessor Aphrodite of the sea [mar). Hence
+				<lb/>an orgiastic rite sacred to Aphrodite: mat
+				<lb/>rimony.
+				<lb/>(Latin matr- mater, mother."
+				<lb/>matrix
+				<lb/>Archaic: uterus, truth, table. That within
+				<lb/>which or from which something originates,
+				<lb/>takes form, or develops. See: matter
+				<lb/>matter. (Latin mater mother.’) Constitu
+				<lb/>ent substance or material. See: matrix
+				<lb/>mistress (Latin Magistra; related to Latin
+				<lb/>magnus ’great.') A woman in position of
+				<lb/>authority, control or ownership; feminine
+				<lb/>correlative of master. Current usage de
+				<lb/>rogatory.
+				<lb/>mystery
+				<lb/>(Greek mystes ’one initiated in
+				<lb/>to the mysteries, from Greek myein ’to
+				<lb/>shut the eyes.’) Sacred knowledge revealed
+				<lb/>only to the initiated.
+				<lb/>numinous (Latin numen ’divine or pre
+				<lb/>siding power or spirit; holy, sacred,' from
+				<lb/>Latin nuere ’to nod.’) Adopted by Rudolph
+				<lb/>Otto, The Idea of the Holy, 1923, to de
+				<lb/>scribe the power of the sacred.
+				<lb/>pagan (Latin paganus country dweller,
+				<lb/>akin pangere ’to fix, to agree’; akin Old
+				<lb/>English and modern English pact.) Heathen
+				<lb/>parthenogenesis (New Latin from Creek
+				<lb/>parthen 'maid, virgin'+ Latin genesis.) Re
+				<lb/>production without sexual fertilization that
+				<lb/>produces a female or rarely a male off
+				<lb/>spring. See: genesis
+				<lb/>Parthenon Name generally given since
+				<lb/>fourth century B.C. to chief temple of
+				<lb/>Athene on Acropolis at Athens, built on
+				<lb/>the site of a much earlier temple. The
+				<lb/>Parthenon is certainly to be associated
+				<lb/>with the cult of Athene Parthenos, the
+				<lb/>Virgin. This cult may be connected to
+				<lb/>another of Athene’s titles: Pallas, the name
+				<lb/>of Athene’s childhood girlfriend, whom
+				<lb/>she accidentally killed. A famous statue of
+				<lb/>Pallas Athene was stolen from Troy, caus
+				<lb/>ing that citys downfall (1230-1180 B.C.)
+				<lb/>and secreted in the Penus Sanctuary of the
+				<lb/>Temple of Vesta at Athens. Only Vestal
+				<lb/>Virgins were permitted to see it. See: par
+				<lb/>thenogenesis, virgin
+				<lb/>parthenope (New Latin from Latin) Si
+				<lb/>ren worshipped in Naples in ancient times.
+				<lb/>See: parthenogenesis, siren
+				<lb/>Parthia An ancient country to the south
+				<lb/>east of the Caspian Sea that included pres
+				<lb/>ent district of Gorgan in Iran. Among the
+				<lb/>intriguing place names are Parthaunisa and
+				<lb/>Hecatompylos, capitol cities of the last
+				<lb/>Parthians. See: Amazon, parthenogenesis,
+				<lb/>Parthian
+				<lb/>Parthian, Parthian shot Terms suggest
+				<lb/>ing the mode of fighting on horseback with
+				<lb/>the bow as the only weapon employed by
+				<lb/>the Parthian people and characterized
+				<lb/>chiefly by the discharge of arrows while in
+				<lb/>retreat or feigned flight. See: Amazons,
+				<lb/>parthenogenesis
+			</p>
+			<p>
+				<lb/>phallus (Latin from Creek phallos pe
+				<lb/>nis' from Greek phalus ’horn’; akin to
+				<lb/>Sanskrit hvarate ’he bends, hrunâti ’he
+				<lb/>gets lost.' From roots phallos, hrunati de
+				<lb/>rive English words blow and fail, respec
+				<lb/>tively.) The male organ of generation.
+				<lb/>queen
+				<lb/>(Old English quen, Anglo Saxon
+				<lb/>cwen; related to kin, kind, king; also re-
+				<lb/>lated to earlier Greek gyn and gen, both
+				<lb/>derived from even earlier Sanskrit Cna.
+				<lb/>Woman or supreme female of royal house.
+				<lb/>See: gyn
+				<lb/>sex (Latin sexus, probably akin to Latin
+				<lb/>secare ’to cut; in this sense possibly con
+				<lb/>nected to hag.) The character of being
+				<lb/>male or female; anything connnected with
+				<lb/>sexual gratification or reproduction. See:
+				<lb/>hex, six
+				<lb/>sibyl (Latin sib ’kinship,' related by
+				<lb/>blood or descent. Possibly related to sibi
+				<lb/>lant having a hissing sound,' Cybele, name
+				<lb/>of a Goddess, and Greek spilaion, Latin
+				<lb/>spelaeum meaning’cave'. Caves were tem
+				<lb/>ples of sibyls.) An ordained woman re
+				<lb/>spected for her powers of prophecy and
+				<lb/>divination. A witch.
+				<lb/>Sin The Akkadian god of the moon, the
+				<lb/>counterpart of the earlier Sumerian Nanna
+				<lb/>Although the moon is most often assigned
+				<lb/>to a female deity, by Late Sumerian/Ak-
+				<lb/>kadian times it had become personified as
+				<lb/>male. Mount Sinai was the mountain dedi
+				<lb/>cated to this god upon which Moses re
+				<lb/>ceived the ten commandments. Sin means
+				<lb/>a transgression of religious law. See: sinis
+				<lb/>ter, sinuous
+				<lb/>sinister
+				<lb/>(Latin ’on the left side.*) Omi
+				<lb/>nous, of evil or wrongdoing. Obsolete:
+				<lb/>conveying misleading or detrimental opin
+			</p>
+			<p>
+				<lb/>ions or advice. The left side is traditionally
+				<lb/>designated (e.g. in patriarchal religions) as
+				<lb/>the female side. See: sin, sinuous, widder
+				<lb/>shins
+				<lb/>sinuous (Latin sinus ’to curve, fold'
+				<lb/>probably akin Albanian giri ’bosom, lap.
+				<lb/>Bending in and out of a serpentine or wavy
+				<lb/>form. See: sin, sinister
+				<lb/>siren (Greek siren seiredon) One of a
+				<lb/>group of creatures in Greek mythology
+				<lb/>having the head and sometimes the breasts
+				<lb/>and arms of women but otherwise the
+				<lb/>forms of birds that were believed to lure
+				<lb/>mariners to their destruction by their sing
+				<lb/>ing. Obsolete: mermaid, marmaid. See:
+				<lb/>marry
+				<lb/>six (Akin Old Norse sex, Latin sex, Greek
+				<lb/>hex) The cardinal number between five
+				<lb/>and seven. See: hex
+				<lb/>sphinx (Greek sphingein ’to bind fast,
+				<lb/>probably from the spell she cast. From this
+				<lb/>sense comes ’sphincter’ as in the sphincter
+				<lb/>vaginae, the muscle that contracts the
+				<lb/>vaginal orifice.) An enigmatic monster in
+				<lb/>Greek mythology having typically a lion's
+				<lb/>body, wings, and the head and bust of a
+				<lb/>woman.
+				<lb/>spinster (Old English spinnan ’to spin.)
+				<lb/>A woman who spins thread or yarn. From
+				<lb/>same root comes spider, e.g., one who
+				<lb/>draws out and twists fibers into thread.
+				<lb/>Modern usage derogatory. Note: the sense
+				<lb/>of wife is also’weaver.
+				<lb/>temple
+				<lb/>(Latin templum 'temple, sanctu
+				<lb/>ary, space for observation of birds marked
+				<lb/>out by an augur, small timber.' The physi
+				<lb/>ognomy of birds is repeatedly assigned to
+				<lb/>awe-inspiring women [see: hag, harpy, si
+				<lb/>ren); moreover temple is derived from the
+				<lb/>same root as witch.) A place of worship;
+				<lb/>area on each side of head back of eye and
+				<lb/>forehead; a device through which selvage
+				<lb/>must pass in a loom for keeping the web
+				<lb/>stretched transversely. See: witch
+				<lb/>victim (Latin victima; akin to Old Eng
+				<lb/>lish wig ’idol, image, descriptive of witch
+				<lb/>es; Old High German wih wihi 'holy: Goth
+				<lb/>weihs ’holy,’ and to Old Norse ve ’temple.
+				<lb/>A person or animal killed as a sacrifice in a
+				<lb/>religious rite. See: witch
+				<lb/>(Latin viragin 'woman' from vir
+				<lb/>virago
+				<lb/>man' + Cyn 'woman’; Sanskrit vira 'man.
+				<lb/>A loud overbearing woman, shrew, terma
+				<lb/>gant; a woman of great stature, strength
+				<lb/>and courage; one possessing supposedly
+				<lb/>masculine qualities of body and mind.
+				<lb/>See: virgin
+				<lb/>viper (Latin vivus ’alive, living +parere
+				<lb/>to bring forth. Probably related to Old
+				<lb/>English vivers ’wives' through the Indo
+				<lb/>European base weip ’to twist and turn,
+				<lb/>from which wife is derived.) Snake, ser
+				<lb/>pent. Also see: sinuous
+				<lb/>virgin. The Old English viragin, used al
+				<lb/>ternatively for virgin clearly relates to vira
+				<lb/>go, but virgin is generally attributed to
+				<lb/>Latin virgo ’young woman, maiden,' and
+				<lb/>assumed to be from virga ’green branch,
+			</p>
+			<pb n='131'/>
+			<p>
+				<lb/>vir ’green'+gin (Greek gyn.) Connotes
+				<lb/>young, pliant woman, but not originally
+				<lb/>connected with sexual inexperience. In
+				<lb/>Greek literature parthenos ’virgin’ indicates
+				<lb/>sexual autonomy. Note: Virga, a rod or
+				<lb/>staff carried as an emblem of authority.
+				<lb/>See: gyn, parthenogenesis, virago, witch
+				<lb/>vulva (Middle English vul, variant full
+				<lb/>and trom latin vulnus 'wound' and volvere
+				<lb/>’to roll, to turn about.’) The external gen
+				<lb/>ital organs of the female.
+				<lb/>whole (Middle English hool ’healthy;
+				<lb/>akin Goth hails healthy,' Welsh coel ’o
+				<lb/>men.’) Containing all of its elements. Ar
+				<lb/>chaic: healed, said of a wound. See: holy
+				<lb/>whore (Old English hore; akin to Goth
+				<lb/>hors ’adulterer and Latin carus 'dear from
+				<lb/>Sanskrit kama ’love, desire, same root as
+				<lb/>charity and in that connection ’the virtue
+				<lb/>or act of loving god.’) One regarded as
+				<lb/>actuated by corrupt, unworthy or idola
+				<lb/>trous motives; specifically a woman who
+				<lb/>practices unlawful sexual commerce.
+				<lb/>wicca (Old English wicke wizard' of
+				<lb/>which the feminine is wicce ’witch'; re
+				<lb/>lated to Old English wican ’to bend, give
+			</p>
+			<p>
+				<lb/>Middle English wicke had come
+				<lb/>to mean ’wicked.') In current use as the
+				<lb/>revered name for the practice of the Craft
+				<lb/>(of witches). See: hedge, witch
+				<lb/>widdershins
+				<lb/>(Middle HHigh German
+				<lb/>widersinnes ’to go back, go against in a left
+				<lb/>handed or contrary direction.’) The sacred
+				<lb/>left-handed dance performed by witches.
+				<lb/>See: sinister
+				<lb/>wife (Old English wiver obs. from vivers
+				<lb/>wives; wiver North dialect identical with
+				<lb/>’waver, wafer, obs. sense of 'weaver,
+				<lb/>Indo-European base weik ’a dwelling' and
+				<lb/>weip ’to twist, turn’; possibly related to
+				<lb/>viper.) In the basic sense ’the hidden or
+				<lb/>veiled person.“ See: spinster
+				<lb/>win (Old English winna ’to struggle,
+				<lb/>akin old Norse vinna ’to work, avail, con
+				<lb/>quer, win’; Goth winnan ’to suffer; Latin
+				<lb/>vener, Venus ’love, sexual desire, venerari
+				<lb/>’to venerate’; Sanskrit venati, vanoti ’she
+				<lb/>desires, loves'; Hittite uen uent ’to copu
+				<lb/>late.’) Basic meaning: to strive from the
+				<lb/>impulse to procreate
+				<lb/>wise (Old Norse visir 'stalk or stem ot
+				<lb/>plant; from Indo-European base wid to
+			</p>
+			<p>
+				<lb/>see, know.’) Sagacious, prudent, discreet.
+				<lb/>See: witch
+				<lb/>witch (Old English wiccian ’to practice
+				<lb/>witchcraft, wigle ’divination, viglian ’to
+				<lb/>divine,' wig ’idol image'; and from Old
+				<lb/>Norse ve ’temple,' same root as victim.
+				<lb/>Also related to Anglo-Saxon wis ’wise' from
+				<lb/>which comes wisard wischcraft, vouch
+				<lb/>safe, vessel, wish. Also connected by root
+				<lb/>to wicker, from Danish viger willow;
+				<lb/>Swedish vika ’to bend’; hence pliant
+				<lb/>branches capable of being woven as in
+				<lb/>wicker basketry. All from Indo-European
+				<lb/>base weig ’violent strength.”) A female
+				<lb/>magician, sorceress, sage, soothsayer, wise
+				<lb/>woman skilled in occult arts and benefi
+				<lb/>cent charms. Only later, a woman in
+				<lb/>league with evil spirits. See: hedge, heleni
+				<lb/>um, temple, virgin
+				<lb/>ziggurat (Babylonian verb zagarv ’to
+				<lb/>be tall, lofty.’) A temple of Sumerian ori
+				<lb/>gins, also constructed by Babylonians and
+				<lb/>Assyrians, intended to be a ladder or gate
+				<lb/>way to heaven; a pyramid with circular
+				<lb/>exterior stairways. The Tower of Babel was
+				<lb/>probably a ziggurat.
+			</p>
+</div>
+      </body>
+   </text>
+</TEI>

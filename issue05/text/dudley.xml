@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>She Who Bleeds, Yet Does Not Die</title>
+            <author>Rosemary J. Dudley</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='112'/>
+			<p>
+				<lb/>She Who Bleeds, Yet Does Not Die
+				<lb/>Rosemary J. Dudley
+			</p>
+			<p>
+				<lb/>India is the only country where the Goddess is widely
+				<lb/>worshipped today in a tradition that dates to the Bronze
+				<lb/>Age (c. 3,000 B.c.) or earlier. Dressed and re-dressed, clothed
+				<lb/>in space, skulls or sari, the Great Mother lives in both the
+				<lb/>Great and the Little Traditions, changing, yet changeless.
+				<lb/>The respect She commands at any moment provides a mir
+				<lb/>ror for the honor and status accorded to women in the soci
+				<lb/>ety which worships Her. Woman, as earthly manifestation
+				<lb/>of Goddess, became in fact thi symbol of veneration pa
+				<lb/>excellence because of her ability to provide the two prime
+				<lb/>requisites for life from her own body —food and offspring.
+				<lb/>That.
+				<lb/>..earthly women could barely be distinguished from heaven
+				<lb/>ly ones is shown in the following form of address used in the
+				<lb/>epics: "Are you a Goddess? or a Danavi? a gandharva woman?
+				<lb/>an apsaras, a yaksha woman, a snake fairy, or do you belong to
+				<lb/>the human race?”?
+				<lb/>History indicates that “mother-right organisation in other
+				<lb/>civilizations may not have been so highly advanced and so
+				<lb/>strong as was the case in India."3 This strength made it
+				<lb/>necessary for the Vedic conquerors (1,500 Bc.) to apply ex
+				<lb/>traordinarily cruel means to subdue Goddess worship
+				<lb/>From the Indus Valley period, the Goddess went under
+				<lb/>ground, not to emerge until the Gupta era (AD. 320-650).
+				<lb/>One must suspect that the level to which women were de
+				<lb/>based undoubtedly corresponds to the level to which they
+				<lb/>had once been exalted.
+				<lb/>How then did the Indian Great Goddess survive these
+				<lb/>ruthless attempts of Her Vedic conquerors to rob Her of Her
+				<lb/>power? The answer, as with many of the problems that
+				<lb/>women faced, lay in the control and management of earth
+				<lb/>as a sacred extension of Her own body. Fertility and, by ex
+				<lb/>tension, agriculture have always been the special province
+				<lb/>of women, both human and divine. Many scholars hold that
+				<lb/>agriculture was the invention of women as they became
+				<lb/>familiar with seed growth during gathering forays.3 Agricul
+				<lb/>tural communities are most likely to be concerned with the
+				<lb/>twin processes of production and reproduction. Through
+				<lb/>mimesis (imitation), fertility of the land was attributed to
+				<lb/>fertility of the woman:
+				<lb/>..the female’s economic contributions were of first impor
+				<lb/>tance. She participated—perhaps even predominated— in
+				<lb/>the planting and reaping of the crops and, as the mother of
+				<lb/>life and nourisher of life, was thought to assist the earth
+				<lb/>symbolically in its productivity.
+				<lb/>The Indus Valley Civilization (3,000-1,500 B.c.) at its two
+				<lb/>largest centers, Harappa and Mohenjo-daro, had as its
+				<lb/>source of wealth, huge granaries. The archeological record
+				<lb/>shows that "no granary in the preclassical world [was) com
+				<lb/>parable in specialization of design and in monumental dig
+				<lb/>nity to the examples from the two Indus cities.”” Here, the
+			</p>
+			<p>
+				<lb/>majority of statues uncovered are of the Mother Goddess or
+				<lb/>of women.* [see illustration on pg. 113) Today in India, as
+				<lb/>5,000 years ago, agriculture predominates. Eighty percent of
+				<lb/>India’s populace still live in farming villages, isolated from
+				<lb/>modernity. Every village has its Sapta Matrikas (Seven Moth
+				<lb/>ers) and the majority of Gramadevata (village deities) are fe
+				<lb/>male. Thus, due to strong patriarchal and pastoral pres
+				<lb/>sures, the Goddess changed, but did not die
+				<lb/>If woman and the Goddess were associated with the fer
+				<lb/>tility of the earth and its seasons of cyclical growth, then
+				<lb/>the first rites should have sprung up around these physiolog
+				<lb/>ical cycles of women. The word “rite” itself may have de
+				<lb/>veloped from the Sanskrit word “ritu,” meaning both “any
+				<lb/>settled point of time, fixed time, time appointed for any
+				<lb/>action (especially for sacrifices and other regular worship)
+				<lb/>and "the menstrual discharge. .., the time after the courses
+				<lb/>(favorable for procreation);.. sexual union at the above
+				<lb/>time."? In Vedic days a woman, ten days after the onset of
+				<lb/>her period, was thought to be "cleansed ceremonially and
+				<lb/>physiologically, by the menstrual blood [and had taken al
+				<lb/>...purificatory bath following the stoppage of the flow.”1°
+				<lb/>Water, as a symbol of the amniotic fluid, would naturally
+				<lb/>enhance a woman’s fertility. Originally, ritu was probably
+				<lb/>the fixed time of sacred cohabitation with the priestesses
+				<lb/>or apsaras — of the Mother Goddess, which presumably oc
+				<lb/>curred in the rooms adjoining the Great Bath at Mohenjo
+				<lb/>daro."' That the ritu was once a sacred time for cohabitation
+				<lb/>and that we must have coined our word “rite” from here
+				<lb/>seems conclusive.
+				<lb/>In theorizing about the origin of rites and their connec
+				<lb/>tion with women’s bodies, the question of "taboo” must
+				<lb/>first be resolved. “Taboo” is defined as: “Set apart or con
+				<lb/>secrated for a special use or purpose;... inviolable, sacred,
+				<lb/>forbidden, unlawful."12 Bleeding women were certainly not
+				<lb/>considered impure, nor were they the only persons under
+				<lb/>the edict of ceremonial rules. Frazer cites “divine kings
+				<lb/>chiefs...homocides, mourners, women in childbed, girls at
+				<lb/>puberty... and so on””3 as examples of those held sacred
+				<lb/>Clearly, what is attributed to these individuals and what
+				<lb/>connects them is awe for their condition—power, not
+				<lb/>morality. Again, Frazer says: "As the garments wbich have
+				<lb/>been touched by a sacred chief kill those who handle them,
+				<lb/>so do the things which have been touched by a menstruous
+				<lb/>woman."1
+				<lb/>Power—the power over life and death—is synonymous
+				<lb/>with blood. A wounded person, suffering loss of blood, in
+				<lb/>evitably weakened or died. The potency of blood for energy,
+				<lb/>healing, purification, and sacred power is well documented
+				<lb/>from prehistory onward. But if ordinary blood was deemed
+				<lb/>powerful, menstrual and lochial (postbirth) blood must have
+				<lb/>seemed twice so because of its association with birth as
+			</p>
+			<pb n='113'/>
+			<p>
+				<lb/>well as death. In fact, the ancient belief that menstruation
+				<lb/>was a part of the same process as childbirth,15 was held as
+				<lb/>late as the first century AD: "Aristotle, Pliny and other
+				<lb/>naturalists. .. believed that the embryo is formed from the
+				<lb/>blood retained in the uterus after the stoppage of menstru
+				<lb/>ation.”16 Some scholars feel that the practice of marking
+				<lb/>tabooed people with blood formed its origi
+				<lb/>nal pattern from the principle of menstrual
+				<lb/>and lochial blood being considered the
+				<lb/>blood of life.”” Menstruating women wore
+				<lb/>ochre to warn men of their tabooed state.
+				<lb/>Today, in India, this is the mark of the spirit
+				<lb/>ual adept.
+				<lb/>Women’s sacred ceremonies of taboo
+				<lb/>may be viewed as blood rites, based on real,
+				<lb/>physiological changes like birth, consum
+				<lb/>mation or menstruation. Unlike male rites,
+				<lb/>they are not a symbolic reenactment of
+				<lb/>birth, nor do they entail a sudden and often
+				<lb/>violent break from the maternal or natural
+				<lb/>world. Having inside oneself the potential
+				<lb/>for birth and rebirth, one doesn't need an
+				<lb/>imitation of it: Tat Tvam asi or "That Thou
+				<lb/>Group female rites of passage are based
+				<lb/>on changes in internal body rhythms, such
+				<lb/>as the incipience of menstruation. Yet today
+				<lb/>most initiations must be conferred individu
+				<lb/>ally. Louise Lacey, author of Lunaception,
+				<lb/>however, concludes that at one time al
+				<lb/>women menstruated together—at the new
+				<lb/>or full moon. It is now known that light con
+				<lb/>trols the pituitary gland, which regulates
+				<lb/>ovulation. Lacey’s theory is based on the
+				<lb/>fact that artificial light is responsible for
+				<lb/>establishing varying menstrual cycles1s—
+				<lb/>thus necessitating individual initiations.
+				<lb/>Nevertheless, a significant number of women today still
+				<lb/>bleed at either the full or new moon, and women living in
+				<lb/>close proximity soon experience synchronous menses. The
+				<lb/>group character of early female initiations is described as
+				<lb/>being:
+				<lb/>...under the direction of their older female relatives (as in
+				<lb/>India) or of old women (Africa). These tutoresses instruct
+				<lb/>them in the secrets of sexuality and fertility, and teach them
+				<lb/>the customs of the tribe and at least some of its religious
+				<lb/>tradition. .. The education thus given is general, but its es
+				<lb/>sence is religious; it consists in a revelation of the sacrality
+				<lb/>(divinity) of women."
+				<lb/>The fertility festivals still celebrated in India that often
+				<lb/>culminate in ritual dances by women date back to the
+				<lb/>Bronze Age, as is shown on one pot-sherd from Navda-Toli
+				<lb/>(Mahesvar) c. 1,600 B.c. Girls today still dance this hataga in a
+				<lb/>circle, holding hands.2° [see illustration on title pagel Women
+				<lb/>dance together in Bengal in their worship of Gauri, the Corn
+				<lb/>Goddess.21 Holi, celebrated to this day by bonfires, is thought
+				<lb/>by some to commemorate the death by fire of a wicked
+				<lb/>witch, known as the aunt of the boy Prahlada in the story of
+				<lb/>Vishnu incarnate as Man-Lion (Narasimha).22 Once this holy
+				<lb/>day (holiday) was celebrated in honor of Vasantasena, God
+				<lb/>dess of Love and Spring—when the festival takes place. Dur
+				<lb/>ing the festivities lascivious songs and dances are performed,
+				<lb/>and red dye, symbolic of menstrual blood,23 is thrown on all
+				<lb/>who venture out-of-doors. The newborn, carried by their
+				<lb/>mothers once ’round the fire, are not considered pure until
+				<lb/>this ceremony. Perhaps women originally celebrated their
+				<lb/>own purification and personal transformations on these
+			</p>
+			<p>
+				<lb/>occasions in the name of the Coddess
+				<lb/>One of the most beautiful epithets of the Goddess re
+				<lb/>flects Her sanguineous wonder: "She who bleeds, yet does
+				<lb/>not die.” In accordance with this belief, the blood rites and
+				<lb/>body changes of both birth and menstruation were held
+				<lb/>sacred or taboo. These auspicious occasions called for re
+				<lb/>treat to a sanctuary, or sacred space, often
+				<lb/>triangular and symbolic of the womb.2 A
+				<lb/>man might be warned "to avoid thereafter
+				<lb/>the footpaths used by women or any other
+				<lb/>place where he might encounter them."25
+				<lb/>How awesome these bloody phenomena
+				<lb/>must have seemed! Birth, with its ever at
+				<lb/>tendant risk of death, must have seemed
+				<lb/>especially dangerous. Despite some yearn
+				<lb/>ing after the life-creating power of women
+				<lb/>men probably felt fortunate to be excludec
+				<lb/>from the mostly agonizing birth process.
+				<lb/>Women, too, benefited from the seclusion
+				<lb/>in terms of rest, recuperation, and immunity
+				<lb/>from infectious disease. The Sanskrit word
+				<lb/>for ceremonial "impurity” after childbirth
+				<lb/>or miscarriage, "sutaka,” is closely related
+				<lb/>to "sutika-gada, meaning "puperal sick
+				<lb/>ness, fever or sickness of any kind super
+				<lb/>vening of childbirth."26 Here is a clear con
+				<lb/>nection between isolation and preventive
+				<lb/>medicine
+				<lb/>Birth, at one time, was entirely under the
+				<lb/>province of women. Midwives, Indian and
+				<lb/>otherwise, knew the herbal secrets both
+				<lb/>for easy delivery and easy abortion.2 These
+				<lb/>were women from the lower classes, mar
+				<lb/>ried to barbers — the surgeons of their times
+				<lb/>These women additionally supervised the
+				<lb/>diet of the mother-to-be.28 Tsee illustration
+				<lb/>on p. 114.
+				<lb/>An Indian woman traditionally secludes herself for thirty
+				<lb/>seven to forty-five days after her child’s birth, at which
+				<lb/>timę she rejoins her husband. During this period she devotes
+				<lb/>herself solely to her infant and her own recuperation. Often
+				<lb/>she returns to her own mother’s home to give birth and re
+				<lb/>mains there for some six months. After this time she and the
+				<lb/>baby are given presents and then return to the mother's
+				<lb/>married home.?
+				<lb/>Two events occur on the sixth day after birth when the
+				<lb/>danger to the health of the mother and child is over. The
+				<lb/>first is the placing of an auspicious red mark on the fore
+				<lb/>heads of mother and child by a woman believed to have the
+				<lb/>power to bestow good fortune. The second event involves
+				<lb/>the worship of Shasti, Goddess of Childbirth, and Her five
+				<lb/>sisters. The paternal aunt performs this rite by throwing a
+				<lb/>mixture of lime, red tumeric water, and grains of wheat onto
+				<lb/>a stool covered with red and arranged with seven sacred
+				<lb/>Pipal (fig) leaves. By doing so, she takes the luck or karma of
+				<lb/>the baby upon her own head3°—a feat only a woman can
+				<lb/>attempt. This entire night the females of the household
+				<lb/>keep vigil, for this is the time when the Goddess enters to
+				<lb/>write the child’s destiny on its forehead.
+				<lb/>The color red has always been associated with sex and
+				<lb/>fertility and, obviously, blood. Some say the vermillion fore
+				<lb/>head mark, which is placed at the location of the regulating
+				<lb/>pituitary, is reminiscent of blood originally shed in human
+				<lb/>sacrifice.”? Probably it is blood more directly associated
+				<lb/>with fertility since only the married Indian woman properly
+				<lb/>wears it. Indian women, in fact, are traditionally married in
+				<lb/>red! The Tamil word for Siva, consort of the Mother God
+			</p>
+			<pb n='114'/>
+			<p>
+				<lb/>dess, means "red” as well. Another of his names, Rudra, is
+				<lb/>also synonymous with the word red.33 A red slip or wash has
+				<lb/>been used from prehistoric times to enhance the life-giving
+				<lb/>properties of terracotta figurines, a practice still current in
+				<lb/>India today. Indian village deities are "coated with red pig
+				<lb/>ment, red lead in oil, ochre, or cheaper scarlet colouring
+				<lb/>matter. The colour is a substitute for blood."3
+				<lb/>In an agricultural setting, a large family is highly de
+				<lb/>sirable. In addition, many offspring were needed in ancient
+				<lb/>times to compensate for the many who died young. What
+				<lb/>first was woman’s crowning glory, however, became her
+				<lb/>nemesis if she conceived too often, if she could not con
+				<lb/>ceive, or if she brought forth solely daughters. Indian sons
+				<lb/>were prized more highly than daughters after the time came
+				<lb/>when only they could save their father’s souls from hell by
+				<lb/>proper execution of the funeral ceremonies, and only the
+				<lb/>birth of a son could save his mother from the fear of a sec
+				<lb/>ond wife.35
+				<lb/>Consummation was another body change haunted by the
+				<lb/>awesome power of blood and was celebrated by ritual. Many
+				<lb/>Indian accounts tell of a virgin who offers herself in a
+				<lb/>temple to a stranger, or to a person especially appointed
+				<lb/>to that task. Because the shedding of a woman’s blood
+				<lb/>was no small matter, husbands or lovers who did not wish
+				<lb/>to assume this responsibility could, through a surrogate,
+				<lb/>avoid hymenal blood. No sense of shame was attached
+				<lb/>to the temple fertility rituals, as temple "prostitution” was
+				<lb/>a respectable Goddess custom which dated back to the
+				<lb/>culture of the Indus Valley. Of the sacred rites taking
+				<lb/>place in the Great Bath at Mohenjo-daro, it has been said
+				<lb/>that "it was part of the ritual for men...to cohabit with
+				<lb/>the female representatives of the Mother-Goddess to
+				<lb/>whom the citadel complex belonged.”36 Another source
+				<lb/>tells us that "there were nigh twelve thousand such priest
+				<lb/>esses in Madras in quite recent times."3” Other accounts
+				<lb/>supporting male dread and awe of hymenal blood include
+				<lb/>the Santal decree which states that a girl “must once in
+				<lb/>her life cohabit with a stranger in the temple of Talkupi
+				<lb/>Chat."3’ The Nagas, a hill tribe, have a ceremony where a
+				<lb/>marriage badge (tali) is tied around the neck of a young
+				<lb/>girl after her first menstruation. Originally, this “tali-tier
+				<lb/>was obligated to perform ritual defloration as well. 38
+				<lb/>Menstruation, in many ways, is the most important of
+				<lb/>all blood rites of passage, and marks the threshold of
+			</p>
+			<p>
+				<lb/>womanhood, makes possible conception and birth, and
+				<lb/>establishes a cyclic inner rhythm. The word menstruation
+				<lb/>still retains its connection between Mena and the moon;3s
+				<lb/>Mena being the mother of the Goddess Uma and the
+				<lb/>daughter of Mt. Meru. In India, the lunar calendar, pos
+				<lb/>sibly one of the first of its type, is still in use today. The
+				<lb/>month is divided into two fourteen day periods: the dark
+				<lb/>half and the bright half. The total of twenty-eight days is
+				<lb/>both a menstrual and lunar cycle, with the full moon as a
+				<lb/>cosmic representation of pregnancy, and the new moon
+				<lb/>standing for the promise of rebirth. These beliefs are ap
+				<lb/>parently universal, for the lunar markings found on pre
+				<lb/>historic bone fragments are thought by many to represent
+				<lb/>women's cycles.“0
+				<lb/>At Mohenjo-daro many statues of the Mother Goddess
+				<lb/>were found covered with a red slip, for Goddesses are sub
+				<lb/>ject to the same physiological rhythms as their earthly
+				<lb/>counterparts. In Bengal, a four-day ceremony called am
+				<lb/>buvaci is held after the first burst of rain. During this time
+				<lb/>the Goddess is considered to be menstruating in prepara
+				<lb/>tion for Her fertilizing work to come. All farm labor comes
+				<lb/>to a halt during this period." In the Travancore ceremony
+				<lb/>called trippukharattu (purification), it is believed the God
+				<lb/>dess menstruates eight or ten times a year. At these periods
+				<lb/>"a cloth wrapped around the metal image of the Goddess
+				<lb/>is found to be discoloured with red spots and is subse
+				<lb/>quently in demand as a holy relic."” In Assam, the God
+				<lb/>dess Kamakhya is worshipped by only a "yoni-shaped"
+				<lb/>stone smeared with vermillion. ..During the new-moon
+				<lb/>week Her shrine is closed to all”“ because this is the time
+				<lb/>when the Goddess is believed to menstruate.“ In addition
+				<lb/>to Bengal, Travancore and Assam, puritication ceremonies
+				<lb/>are popularly celebrated in Changanur, Kerala, the Punjab
+				<lb/>and the Deccan.“ In all of India the times when the God
+				<lb/>dess rests and refreshes Herself may vary, but usually
+				<lb/>these are associated with the new or full moon.
+				<lb/>It is in the Tantric worship of the Mother Goddess that
+				<lb/>the veneration of Her earthly double is most obvious. This
+				<lb/>applies to Tantric beliefs concerning menstruation as well.
+				<lb/>In one rite "a menstruating virgin is worshipped as
+				<lb/>Sodashi."“ The Sanskrit word sodha means “purification,
+				<lb/>cleansing...; correction, setting right."“ How different
+				<lb/>this is from the later Dharma Shastra scriptural rule which
+				<lb/>states that the sin of a monthly abortion accrues to a father
+				<lb/>who delays in the marriage of his daughter after the onset
+				<lb/>of her menses.“ A wasted ritu, or opportunity for concep
+				<lb/>tion, had by then become the equivalent of a missed op
+				<lb/>portunity for life. Tantra prescribes menstruation as the
+				<lb/>best time for ritual intercourse from the woman's point of
+				<lb/>view because, at this time, her "red' sexual energy is at
+				<lb/>its peak."5° This sect considers “that menstrual blood is
+				<lb/>not only invigorating but also sedative.”5' A woman’s body
+				<lb/>is recognized to be allied to the phases of the moon. One
+				<lb/>Tantric diagram shows:
+				<lb/>a female figure illustrating positions of Amritakala, which have
+				<lb/>to be energized on respective dates of the white and dark
+				<lb/>halves of the month for successful tantric asanas (yogic
+				<lb/>postures). The eighteen focal centres in the female body
+				<lb/>mentioned in Ratirahasya”? can be excited by the adept
+				<lb/>when harmonized with the exact location of the chandrakala
+				<lb/>(digits of the moon) on [thesel respective dates.. 53 (see
+				<lb/>illustration)
+				<lb/>The antiquity of customs and rites may often be traced
+				<lb/>through the history of tribal peoples in India who were
+				<lb/>indigenous or who retained historical cultural purity
+				<lb/>through their isolation due to the caste system. This is
+				<lb/>evidenced by many noncaste peoples who continue to
+			</p>
+			<pb n='115'/>
+			<p>
+				<lb/>celebrate the onset of the menses as a joyous and festive
+				<lb/>occasion. The main characteristics of these rites are:
+				<lb/>"Seclusion in huts, pandals especially constructed for this
+				<lb/>purpose, ritual baths, and a final coming-of-age cere
+				<lb/>mony."5* Among the Pulayan or Cheruman, for example:
+				<lb/>A girl’s first menstruation is celebrated with a certain
+				<lb/>amount of luxury. The girl remains secluded in a menstrual
+				<lb/>hut for seven days. A feast is arranged by the mother on the
+				<lb/>first and last day. Seven girls accompany the initiated one,
+				<lb/>bathe her in oil and water, and afterwards paint their faces
+				<lb/>yellow.s5
+				<lb/>Some high caste Hindus, especially in the South, also
+				<lb/>celebrate female puberty rites. The Dikshitar Brahmins
+				<lb/>enjoy processional and caste festivities5é while the Dehast
+				<lb/>Brahmins seat the girl on a little throne, accompanied by
+				<lb/>a maidservant. Female relatives pay visits, bring gifts, and
+				<lb/>wash the young woman in perfumed oil.3
+				<lb/>The Tantrics say that the menstrual discharge "is not
+				<lb/>only composed chiefly of blood potent with ova-energy,
+				<lb/>but also contains other properties, together with a large
+				<lb/>amount of estrogenic substances (arsenic, lecithin and
+				<lb/>cholesterol)."5° Scientifically, the existence of estrogen in
+				<lb/>the discharge has been verified, along with the observation
+				<lb/>that the blood itself is non-coagulatory.59 While in its idle
+				<lb/>state in the womb, this blood is the purest in the body
+				<lb/>The monthly occurrence of menstruation is once more
+				<lb/>being seen in a more positive light. Certainly it is a fine
+				<lb/>way of aligning oneself with the cosmic rhythms of the
+				<lb/>lunar cycle. A new consciousness will be born when wom
+				<lb/>en begin to note and record the date and time of their
+				<lb/>very first lunar cycle. The concept of menstruation as puri
+				<lb/>fication and cosmic attunement, rather than "curse," might
+				<lb/>possibly engender a whole new response to the discomfort
+				<lb/>some women now experience during their cycles.
+				<lb/>It was some time after the first century B.c. that the high
+				<lb/>regard given to a woman during her menses changed to its
+				<lb/>opposite — denigration. Then and even now "women are
+				<lb/>considered ceremonially impure during this period. Even
+				<lb/>a Brahmin woman. . degenerates into a Chandali (out
+				<lb/>caste)."6° Once considered a Goddess herself, today an
+				<lb/>Indian woman during her period cannot even enter a
+				<lb/>temple!
+				<lb/>Currently, when rural women menstruate, they move
+				<lb/>into huts set aside for the purpose of rest and seclusion.
+				<lb/>Often they sit on broken earthenware pots. City women,
+				<lb/>however, remove themselves to a specific area of a room
+				<lb/>or part of a house and their look and their touch is re
+				<lb/>garded with fear.
+				<lb/>If women’s physiological functions were once the very
+				<lb/>models and methods through which the Goddess was
+				<lb/>venerated, how do we explain the fact that both were
+				<lb/>divested so thoroughly of their power and influence? Some
+				<lb/>of the theories for this loss of prestige have been postu
+				<lb/>lated as follows: Discovery of the true facts of conception
+				<lb/>(that males have a role in it), scriptural and mythological
+				<lb/>suppression and interpolation, a worldwide cataclysm at
+				<lb/>the end of the Bronze Age, the pacific nature of agrari
+				<lb/>an societies, the preliterate nature of these societies or the
+				<lb/>fact that their languages remain undeciphered even today,
+				<lb/>and male control of women, their bodies, and all insti
+				<lb/>tutions.
+				<lb/>As the Great Goddess was stripped of Her sovereignty,
+				<lb/>so, too, was the power of woman as Living Goddess, as
+				<lb/>living ancestor, wrested from her. Split like the Goddess,
+				<lb/>woman became a power divided against her own selt.
+				<lb/>Today, though women’s rights are guaranteed under the
+				<lb/>1949 Indian Constitution, the editorial consensus of a
+			</p>
+			<p>
+				<lb/>survey taken by that government in 1974 is: “Large masses
+				<lb/>of women in this country have remained unaffected by the
+				<lb/>rights guaranteed to them.. "61 Since religion plays such
+				<lb/>a major role in the vast majority of Indian lives, it is the
+				<lb/>responsibility of concerned scholars —especially women—
+				<lb/>to examine these changed myths and to reinvest such
+				<lb/>sacred texts with the power of the Living Goddess. Hindu
+				<lb/>law reformers, realizing that their scriptures and beliefs
+				<lb/>were fluid and at times contradictory, used this broad base
+				<lb/>as a means to change many restrictive social laws—often
+				<lb/>involving women—by reference to older or interpolated
+				<lb/>scriptural authority.
+				<lb/>The sacred rites of the Goddess are the sacred rites of
+				<lb/>women everywhere. With reclamation of this ancient
+				<lb/>spirituality, women will sense the latent power of their full
+				<lb/>potential, deriving both from the Goddess without and the
+				<lb/>Goddess within. We need now to rejoin and reclaim both.
+				<lb/>Om. Sa hum.
+				<lb/>O Rosemary ). Dudley 1978.
+				<lb/>Excerpted from a forthcoming book and dedicated to
+				<lb/>N. N. Bhattacharyya
+				<lb/>FOOTNOTES
+				<lb/>1.E. O. James, The Cult of the Mother Goddess (New York, Fred
+				<lb/>erick A. Praeger, 1959), p. 22
+				<lb/>2. Heinz Mode, The Woman in Indian Art (New York, McGraw-
+				<lb/>Hill, 1970), p. 15.
+				<lb/>3. O. R. Ehrenfels, Mother-Right in India (Bombay, Oxford Univer
+				<lb/>sity Press, 1941), p. 124
+				<lb/>4. lbid.
+			</p>
+			<pb n='116'/>
+			<p>
+				<lb/>Ethnology and Indology," in
+				<lb/>of the Myste
+				<lb/>The Mystic Vision, ed. Joseph Campbell.
+				<lb/>6. Joseph Campbell, The Masks of God: Primitive Mythology (New
+				<lb/>York, The Viking Press, 1959), p. 139.
+				<lb/>7. Sir Mortimer Wheeler, The Indus Civilization (London, Cam
+				<lb/>bridge University Press, 1969), p. 36.
+				<lb/>8. Ibid., p. 91 and Mario Bussagli, ed., 5,000 Years of the Art of
+				<lb/>India (New York, Harry N. Abrams, Inc., ?) p. 47
+				<lb/>9. A Sanskrit-English Dictionary, ed. by Sir Monier Monier-Williams
+				<lb/>(Delhi, Motilal Banarsidass, 1899), p. 224
+				<lb/>10. P. Thomas, Indian Women Through the Ages (Bombay, Asia
+				<lb/>Publishing House, 1964), p. 163
+				<lb/>11. D. D. Kosambi, Ancient India: A History of Its Culture and Civili
+				<lb/>zation (New York, The World Publishing Company, 1965), p. 68.
+				<lb/>12. The Complete Oxford English Dictionary (2 vols.) (New York, Ox
+				<lb/>ford University Press, 1971), p. 3,217.
+				<lb/>13. Sir James George Frazer, The New Colden Bough, ed. by Dr.
+				<lb/>Theodor H. Gaster (New York, Criterion Books, 1959), p. 166.
+				<lb/>14. Ibid., p. 167
+				<lb/>15. N. N. Bhattacharyya, Indian Mother Coddess (Calcutta, R. D.
+				<lb/>Press, 1971), p. 17
+				<lb/>16. Encyclopaedia of Religion and Ethics, Vols. 1 and II, ed. by James
+				<lb/>Hastings (New York, Charles Scribner’s, 1951), p. 716
+				<lb/>17. G. Thompson, Studies in Ancient Greek Society (London, Law-
+				<lb/>rence, 1949), p. 205.
+				<lb/>18. Louise Lacey, Lunaception, quoted by Anne Kent Rush in Moon,
+				<lb/>Moon (New York, Random House, 1976), p. 300
+				<lb/>19. Mircea Eliade, Rites and Symbols of Initiation (New York, Harper
+				<lb/>and Row, 1958), p. 42.
+				<lb/>20. D. D. Kosambi, Myth and Reality (Bombay, Popular Prakashan,
+				<lb/>1962), p. 49
+				<lb/>21. Bhattacharyya, p. 28.
+				<lb/>22. Mrs. Sinclair Stevenson, The Rites of the Twice-Born (London, Ox
+				<lb/>ford University Press, 1920), p. 281.
+				<lb/>23. Lowell Thomas, India: Land of the Black Pagoda (Carden City,
+				<lb/>N.Y., Garden City Publishing Co., 1930), p. 85.
+				<lb/>24. Eliade, p. 49
+				<lb/>25. Paul Radin, Primitive Religion: Its Nature and Origin (New York,
+				<lb/>Dover Publications, Inc., 1937), p. 86.
+				<lb/>26. A Sanskrit-English Dictionary, p.1,240.
+				<lb/>27. Barbara Ehrenreich and Deirdre English, Witches, Midwives, and
+				<lb/>Nurses: A History of Women Healers (Oyster Bay, N.Y., Glass
+				<lb/>Mountain Pamphlets), p. 1.
+				<lb/>28. Millicent Pommerenke, Asian Women and Eros (New York, Van
+				<lb/>tage Press, 1958), p. 37.
+				<lb/>29. Stevenson, pp. 16-17.
+				<lb/>30. lbid, p.10.
+				<lb/>31. P. Thomas, Hindu Religion, Customs and Manners (Bombay, D.B.
+				<lb/>Taraporevala Sons &amp; Co., 1971), p. 79.
+			</p>
+			<p>
+				<lb/>Aother Coddess (Poona, The International
+				<lb/>32. S. K.
+				<lb/>Book Service, 1943), p. 76.
+				<lb/>33. Ajit Mookerjee, Tantra Asana (Basel, Ravi Kumar, 1971), p. 44.
+				<lb/>34. Kosambi, Ancient India, p. 47.
+				<lb/>35. Stevenson, p. 4.
+				<lb/>36. Kosambi, Ancient India, p. 68.
+				<lb/>37. B. Z. Goldberg, The Sacred Fire: The Story of Sex in Religion (New
+				<lb/>York University Books, 1958), p.78
+				<lb/>38. Ibid., p.68.
+				<lb/>39. Dikshit, p. 123
+				<lb/>40. Alexander Marshack, The Roots of Civilization (London, Weiden
+				<lb/>feld and Weidenfeld and Nicholson, 1972), pp. 136-137.
+				<lb/>41. Bhattacharyya, p. 16.
+				<lb/>42. Robert Briffault, The Mothers, abridged by C. R. Taylor (New
+				<lb/>York, Atheneum Press, 1977), p. 253
+				<lb/>43. When not worshipped in sculptural or representational form, the
+				<lb/>yoni or vulva is often depicted in symbolic imagery as one or
+				<lb/>more triangles with downward apexes, and used as a focus for
+				<lb/>meditation (yantra). A yonic or womb symbol is nearly unknown
+				<lb/>as a term in Western culture, while its opposite, “phallic,” is a
+				<lb/>household byword.
+				<lb/>44. Bhattacharyya, p. 16.
+				<lb/>45. lbid., p.17.
+				<lb/>46. lbid., p. 16.
+				<lb/>47. Mookerjee, p. 86.
+				<lb/>48. A Sanskrit-English Dictionary, p. 1,091.
+				<lb/>49. Prof. Indra, The Status of Women in Ancient India (Banaras,
+				<lb/>Motilal Banarsidass, 1955), p. 46.
+				<lb/>Philip Rawson, Tantra: The Indian Cult of Ecstasy (New York,
+				<lb/>Bounty Books, 1973), p. 24.
+				<lb/>51. Mookerjee, p. 39
+				<lb/>52. Ratirahasya means"the mysteries of love,” and is the name of an
+				<lb/>erotic work by Kokkoka, according to A Sanskrit-English Dic
+				<lb/>tionary.
+				<lb/>53. Mookerjee, p. 88.
+				<lb/>54. Ehrenfels, p. 16.
+				<lb/>55. Ibid., p. 51
+				<lb/>56. Edgar Thurston and K. Rangachari, Castes and Tribes of South
+				<lb/>India, quoted by Ehrenfels, p. 109
+				<lb/>57. H.H. Risley, Censi, quoted by Ehrenfels, p. 109.
+				<lb/>58. Mookerjee, p. 39.
+				<lb/>59. Williams Obstetrics (14th ed.), ed. by Louis Hellman (New York,
+				<lb/>Appleton-Century-Crofts, 1971), pp. 104-105.
+				<lb/>60. P. Thomas, Hindu Religion, Customs and Manners, p. 81.
+				<lb/>61. Department of Social Welfare, Govt. of India, Towards Equality:
+				<lb/>Report of the Committee on the Status of Women in India (New
+				<lb/>Delhi: Printing Press Institute for the Deaf, 1974), p. following
+				<lb/>copyright.
+			</p></div>
+      </body>
+   </text>
+</TEI>

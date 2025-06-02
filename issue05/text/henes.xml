@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled</title>
+            <author>Donna Henes</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='60'/>
+            <p>
+               <lb/>Donna Henes
+            </p>
+            <p>
+               <lb/>SUMMER SOLSTICE
+               <lb/>lying on a bag of my own breath. falling asleep touching myself. closing my
+               <lb/>circuits. settling in-for the solstice waking on the seventh morning of the fast.
+               <lb/>spending the day preparing libations in service to ourselves. packing the
+               <lb/>preparations. climbing the trails to the cliff on the bay. painting auspicious
+               <lb/>symbols of the day on ourselves, using paint made with oil and ashes from our
+               <lb/>fire. squatting on the point. rocking ourselves keeping time with the tide.
+               <lb/>chanting the sounds of the sun on our solar chakras. sitting simply in a solstice
+               <lb/>sentinel watching the longest sun sink into the sea. toasting ourselves with
+               <lb/>camomile we’d gathered and dried. in ceremony celebrating a cyclic aware
+               <lb/>ness. knowing our own season would have to carry us.
+            </p>
+            <pb n='61'/>
+            <p>
+               <lb/>SPRING EQUINOX
+            </p>
+            <p>
+               <lb/>saturday at 6:50 am a group of us celebrated the vernal equinox in the park
+               <lb/>across the street in the manner of chinese peasants. there are two physical
+               <lb/>manifestatíons of the special pull of gravity at the moment of the equinox
+               <lb/>which we attempted. for a time surrounding the equinox it is possible to stand
+               <lb/>an egg on end, this is true and we saw it. the egg feels discernibly heavier and
+               <lb/>you can feel the yolk moving around on the inside seeking its balance in the
+               <lb/>universe. so we stood egg on end in the park and at least one on every
+               <lb/>body's counter for the good luck that observing such a phenomena can bring.
+               <lb/>the other demonstration is to dig a hole and stand a hollow joint of bamboo in
+               <lb/>it leaving about an inch sticking above the ground and drop a goose down
+               <lb/>feather into it. at the moment of the equinox the feather flies up out of the
+               <lb/>earth. this is true but we did not see it, it coudn't work because the ground in
+               <lb/>the park is not really part of the greater ground. for all intents and purposes it's
+               <lb/>a flower box sitting on the roof of the parking garage which is on top of the
+               <lb/>subway tunnels but anyway just seeing the eggs was enough to erase the ef
+               <lb/>feets of an extremely difficult pisces and mark the true beginning of another
+               <lb/>cycle.
+            </p>
+            <pb n='62'/>
+            <p>
+               <lb/>WINTER SOLSTICE
+            </p>
+            <p>
+               <lb/>yes. reverence to her. the chant on the winter solstice on the full moon on the
+               <lb/>beach in the snow in the full spirit of the great round. on the darkest night of
+               <lb/>the year in the dark of the snow which obscured the moon and in the company
+               <lb/>of nine cars of city state and federal police who forbade the fire on the order
+               <lb/>of a superior who had the authority to forbid. but the moon asserted herself in
+               <lb/>the huge white waves which contained us in their rhythm and glow and rocked
+               <lb/>the chanting into a trance of chanting really chanting. or maybe i myself was
+               <lb/>in a trance from the very beginning anyway carrying totems and images of
+               <lb/>people i loved in the pockets of my spacesuit chanting my own rites of passage
+               <lb/>for myself. and the fire asserted itself too in the form of a delayed due to ex
+               <lb/>treme cold chemical reaction calising a spontaneous combustion in the sacri
+               <lb/>ficial bowl. it was perfect. a surprise chance to see ourselves only eyes showing
+               <lb/>—between ponchos and parkas. chanting in circles around the tiny fire in the
+               <lb/>wooden bowl under the white canopy which also appeared spontaneously. and
+               <lb/>more chanting. and altered chanting. and invocations and glorifications and in
+               <lb/>general much reverence to her. to her to us to each other, and then at a cer
+               <lb/>tain point which we all realized together the chanting was over. for this time
+               <lb/>and the chanters lined up and passed the unlit fire log by log hand over hand
+               <lb/>over beach over fence back into the truck. and hugged and kissed each other
+               <lb/>and me and separated in the dark in the snow back in cars and bus back into
+               <lb/>the other world.
+            </p>
+            <pb n='63'/>
+            <p>
+               <lb/>AUTUMN EQUINOX &amp; MY BIRTHDAY
+            </p>
+            <p>
+               <lb/>tuesday, i dream i am sitting at my green telephone table and i hear a bird
+               <lb/>shriek. i run into the studio to investigate. a little bird has flown in and gotten
+               <lb/>caught in the space where the two panes of glass of the open window overlap.
+               <lb/>it tries to fly thyough the glass and panics flapping up and down in its flat glass
+               <lb/>cage, i just reach in and grab it and carry it out to the fire escape. it flies off
+               <lb/>immediately, then turns around and flies back and lands on my shoulder. i
+               <lb/>send omar inside to get some seeds to feed it he comes back with sesame and,
+               <lb/>sunflower seeds on a pie plate which he offers to the bird. and instead of peck
+               <lb/>ing at the seeds the bird picks them up with its hand and puts them into its
+               <lb/>mouth.
+            </p>
+            <p>
+               <lb/>wednesday. i tell my dream at breakfast.
+               <lb/>thursday. i am siting at my green telephone table and i hear a bird shriek. i
+               <lb/>run into the studio to investigate. a little bird has flown in and gotten caught
+               <lb/>in the space where the two panes of the open window overlap. it tries to fly
+               <lb/>through the glass and panics flapping up and down in its flat glass cage. i just
+               <lb/>reach in and grab it and carry it out to the fire escape. it flies off immediately
+               <lb/>singing
+            </p>
+            <p>
+               <lb/>friday, i tell a wise one about the sequence. and she says "oh yes. and now
+               <lb/>you’ll have to be careful what you dream.”
+            </p></div>
+      </body>
+   </text>
+</TEI>
