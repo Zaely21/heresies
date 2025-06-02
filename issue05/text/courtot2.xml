@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two Poems</title>
+            <author>Martha Courtot</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='122'/>
+            <p>
+               <lb/>Two Poems by Martha Courtot
+               <lb/>Nightsea Rider
+            </p>
+            <p>
+               <lb/>Look at the woman
+               <lb/>ready to burn
+               <lb/>listen to her sizzle and crack
+               <lb/>bacon on the fire
+               <lb/>rain on the roof
+               <lb/>she is a white noise
+               <lb/>waiting for the dark
+               <lb/>"i used to be soft and warm
+               <lb/>you could touch my skin
+               <lb/>without being burnt
+               <lb/>i liked the arms of my lovers
+               <lb/>our flesh rising
+               <lb/>like yeast in the oven"
+               <lb/>she is a hotwire
+               <lb/>fused and metallic
+               <lb/>even her teeth are silver
+               <lb/>waiting to flash
+               <lb/>even her bones burn
+               <lb/>"once i was a woman
+               <lb/>who knew how to love
+               <lb/>before the brain blew out
+               <lb/>before the cells ignited
+               <lb/>before the robot days'
+               <lb/>she is lightening
+               <lb/>across black spaces
+               <lb/>all light and energy
+               <lb/>before the dark
+               <lb/>"i am trying to remember
+               <lb/>the first taste
+               <lb/>of life on the tongue
+               <lb/>and the smell of bread in the oven
+               <lb/>and love rising into the sky
+               <lb/>rising, like a kite, rising
+            </p>
+            <p>
+               <lb/>mama you are sowide
+               <lb/>wide as thesea
+               <lb/>the bright day quickens
+               <lb/>and is gone
+               <lb/>sea music as light
+               <lb/>upon the water
+               <lb/>and the darkness under all
+               <lb/>mama you are sowide
+               <lb/>and i am more tired than anything
+               <lb/>the sea darkens
+               <lb/>the seaweed tugs
+               <lb/>my legs marry it
+               <lb/>two white clowns
+               <lb/>who want togo down
+               <lb/>i no longer visit you and leave
+               <lb/>instead my skin wears your name
+               <lb/>i am always wet now
+               <lb/>from the deep plunge
+               <lb/>and my sky is a green dream
+               <lb/>ihold to
+               <lb/>though it speaks in riddles
+               <lb/>sharper than a sharks tooth
+               <lb/>and sometimes bleeds
+               <lb/>everything is water now
+               <lb/>everywhere water
+               <lb/>the hungry mouth of deep water
+               <lb/>opening and closing itself
+               <lb/>round me
+               <lb/>and i in my wet skin slip deeper
+               <lb/>into the dark of the nightsea
+               <lb/>down into the skin of the sea
+               <lb/>wide as my mother
+               <lb/>i lose my flesh to awater form
+               <lb/>all my sighs are for the undertow
+            </p></div>
+      </body>
+   </text>
+</TEI>

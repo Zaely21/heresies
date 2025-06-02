@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Opposing the Rape of Mother Earth</title>
+            <author>Judith Todd</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='90'/>
+			<p>
+				<lb/>Opposing the Rape of Mother Earth
+			</p>
+			<p>
+				<lb/>Judith Todd
+			</p>
+			<p>
+				<lb/>Some feminists see themselves as exclusively “political
+				<lb/>feminists" or as "spiritual feminists,” and many find it
+				<lb/>difficult to understand the other’s point of view. The spir
+				<lb/>itualists feel that the politicalists are too narrow or in
+				<lb/>sensitive to what they regard as "a more encompassing
+				<lb/>feminist consciousness,” whereas the politicalists con
+				<lb/>sider the spiritualists impractical and believe that they
+				<lb/>avoid "the reality of the real political issues." I think that
+				<lb/>it is extremely important for us to realize that this division
+				<lb/>between the spiritual and the political is arbitrary and
+				<lb/>unnecessarily divisive. I hope to illustrate the positive re
+				<lb/>lationship between spirituality and politics by discussing
+				<lb/>the ancient Anasazi spiritual beliefs and the present day
+				<lb/>struggle of their descendants, the Hopi, to preserve their
+				<lb/>land from strip-mining.
+				<lb/>The Anasazi world view is difficult for us to talk abou
+				<lb/>because our sentence structure and words, which in
+				<lb/>evitably reflect our own world view, imply distinctions
+				<lb/>that they did not make. This is a matter of metaphysics,
+				<lb/>whether we like that term or not, and it is necessary to
+				<lb/>consider yet another distinction that derives from oun
+				<lb/>European western metaphysics—one that is alien to
+				<lb/>Anasazi belief. We assume a distinction between "living
+				<lb/>things, such as animals and plants, and "non-living” ones,
+				<lb/>such as rocks and water. The distinction did not exist for
+				<lb/>the early Anasazi people and still does not exist for many
+				<lb/>of their present-day descendants. For the Anasazi/Hopi
+				<lb/>trees, insects, rocks, people, water—are all living, vir
+				<lb/>tually interconnected parts of a living Whole. Earth is
+				<lb/>not just a huge chunk of inanimate matter with animate
+				<lb/>beings scurrying around on top. Mother Earth is a living
+				<lb/>being. Earth’s creations cannot be reduced to inanimate
+				<lb/>atomic particles, subject only to physio-chemical laws
+				<lb/>because no such things exist. Atoms are alive, energizec
+				<lb/>by the same vitality that we experience.
+				<lb/>Once we can view the world without separating the
+				<lb/>animate from the inanimate, we can better understand
+				<lb/>the interconnectedness of all things and the consequent
+				<lb/>possibility for what we call psychic phenomena. For the
+				<lb/>Anasazi, thought was not a mere epiphenomenon of a few
+				<lb/>pounds of cerebral cortex but was in itself a vital, viable
+				<lb/>powerful force that could and did affect things in the
+				<lb/>world, such as the weather and other natural forces. Our
+				<lb/>own orientation confuses us when we try to understand
+				<lb/>this because as soon as we say "affect things,” we assume
+				<lb/>a linear version of cause and effect. The Anasazi held a
+				<lb/>more complex concept of reality. Since they regarded all
+				<lb/>things as related to each other, cause and effect were not
+				<lb/>a simple matter of a one-two chain reaction, but rather a
+				<lb/>complex interrelationship, a network, a pattern in which
+				<lb/>they perceived cycles as well as lines, and subtle as well
+				<lb/>as gross power.
+			</p>
+			<p>
+				<lb/>The Anasazi expressed the metaphysical truth of the
+				<lb/>interrelatedness of all things as parts in a great dynamic
+				<lb/>Whole in their ceremonial dances. These multi-sensorial,
+				<lb/>dynamic dramas were attuned to the cycles of nature
+				<lb/>and the positions of certain stars. Within the ceremony
+				<lb/>the movements of the dancers were synchronized with
+				<lb/>each other and with repetitive, one-two drum beats, the
+				<lb/>heartbeat of Mother Earth. Each ceremony in the cycle of
+				<lb/>ceremonies was simultaneously a complete, orchestrated
+				<lb/>unit as well as an integral part of the Whole cycle. Anal
+				<lb/>ogously, each individual participant was an integral part
+				<lb/>of the great dynamic Whole of the dance, the cycle, and
+				<lb/>all of nature.
+				<lb/>Anasazi architecture played an important part in the
+				<lb/>ceremonial expressions of this primary truth. The photo
+				<lb/>graphs accompanying this essay are of Anasazi pueblo
+				<lb/>ruins in Chaco Canyon, New Mexico that were built be
+				<lb/>tween 1000 and 1200 A.D. Some of the more extensive
+				<lb/>pueblos span about three acres. In some cases pueblos are
+				<lb/>built on top of even older ruins, which had been aban
+				<lb/>doned by earlier generations of Anasazi. The ceremonial
+				<lb/>temples, called kivas, were dug out of the earth, so that
+				<lb/>they are wholly or partially subterranean. The kiva illus
+				<lb/>trated here is a subterranean Great Kiva and was probably
+				<lb/>used by a group of about 1000 people. Smaller kivas were
+				<lb/>also at least partially underground and usually circular
+				<lb/>Each kiva contained a sipapu, a circular hole dug out of
+				<lb/>the floor. The sipapu symbolized the place of emergence
+				<lb/>from the last world
+				<lb/>Kivas were a part of the daily life of the Anasazi, as
+				<lb/>were their spiritual practices. They were used constantly
+				<lb/>for ceremonial preparations and rituals.2 For the architects
+				<lb/>of these buildings, there was no distinction between the
+				<lb/>spiritual and the political, i.e., between their religious and
+				<lb/>secular lives—or for that matter between art and non-art
+				<lb/>Religion and art were an integral part of daily life. The
+				<lb/>Anasazi’s ritual ceremonies celebrated life and their daily
+				<lb/>lives celebrated the beauty of a total reality, naturally in
+				<lb/>cluding what we call the spiritual
+				<lb/>The Anasazi ceremonies were held either inside the
+				<lb/>circular, partially underground kivas or in the plaza,
+				<lb/>framed by these concentric, step-like buildings. As Vin
+				<lb/>cent Scully says, "Most of the dances of ritual ...are
+				<lb/>held, now as in the recorded past, tight up against the
+				<lb/>buildings. .. And the beat of those dances is built into the
+				<lb/>architecture, which thus dances too."3
+				<lb/>The architecture’s very structure expressed the meta
+				<lb/>physical belief in the interdependence and interconnect
+				<lb/>edness of all things in a dynamic Whole. The pueblo was
+				<lb/>composed of interconnected cells, so that it was quite
+				<lb/>typical for one unit’s south wall to be the next unit’s north
+				<lb/>wall. The living units were all about the same size, reflect
+			</p>
+			<pb n='91'/>
+			<p>
+				<lb/>ing the egalitarian social belief of the Anasazi. Each of
+				<lb/>these cellular units was owned by a woman. The Anasazi
+				<lb/>were matrilineal and matrilocal. When a daughter mar
+				<lb/>ried, a unit was built adjacent to that of her mother anc
+				<lb/>she and her husband moved in. (In case of divorce, the
+				<lb/>man moved out, leaving the woman in a relatively more
+				<lb/>secure position, since she had the house and the suppori
+				<lb/>of her own clan.) The layout of the Anasazi pueblo was a
+				<lb/>direct result of this matrilocal arrangement: Constructior
+				<lb/>occurred only where daughters were born. A family tha
+				<lb/>had many daughters could be evidenced by a cluster o
+				<lb/>pueblo units. In an area of the pueblo where only sons
+				<lb/>were born, new construction did not take place; in fact
+				<lb/>because the clans were matrilineal, a clan that failed to
+				<lb/>have daughters became extinci
+				<lb/>Laura Thompson points out the value in this kind of
+				<lb/>growth pattern: "Reproduction in this organically con
+				<lb/>ceived society is ideally by means of budding. As the Hop
+				<lb/>matrilineal clan grows by adding daughter households to
+				<lb/>the mother unit, so the pueblo expands by the budding of
+				<lb/>daughter colonies from the original nucleus. Thus ideally
+				<lb/>the society is able to augment and completely recon
+				<lb/>stitute itself."
+				<lb/>This budding type of growth pattern is different from
+				<lb/>that of our architecture. For us, the basic structural unit is
+				<lb/>the building to which new rooms, patios, etc., can be
+				<lb/>added. Pueblo architecture’s basic structural unit is the
+				<lb/>room itself, and growth consists of indefinite repetition of
+				<lb/>this basic unit. Although J.B. Jackson seems to consider
+				<lb/>this growth pattern inferior to our more “complex” way of
+				<lb/>building, he points out that it seems to imply “the belies
+				<lb/>in the cumulative power of infinite repetition.”» This be
+				<lb/>liet is also reflected in the Chaco Canyon masonry, which
+				<lb/>prefers small stones to large ones. Jackson says, "It is as i
+				<lb/>the builders were saying that a wall is sturdy when it is
+				<lb/>made out of a multitude of identical small fragments."6
+				<lb/>think it is likely that these builders, who were members of
+				<lb/>a matrilineal, egalitarian society and who expressed thein
+				<lb/>spiritual beliefs via repetitive, cyclic ceremonies, dic
+				<lb/>believe in the "cumulative power of infinite repetition.
+				<lb/>That idea seems difficult for Jackson to honor, but then he
+				<lb/>is a member of a patriarchal, hierarchical society whose
+			</p>
+			<p>
+				<lb/>architecture, social ideals, and religious institutions
+				<lb/>radically differ from those of Anasazi society
+				<lb/>Probably the most dramatic difference between Ana
+				<lb/>sazi architecture and ours is the relationship of its forms
+				<lb/>to the earth. This difference is most marked in the struc
+				<lb/>ture of the kivas. European influenced churches are
+				<lb/>capped with phallic steeples, straining to leave the earth
+				<lb/>to reach the male God in the sky; arches cleave walls well
+				<lb/>above human height, pointing to the same exalted being
+				<lb/>By total contrast, Anasazi architecture hugs Mother Earth,
+				<lb/>and the most sacred is the lowest and most enveloped
+				<lb/>Kivas are dug out of the earth and are usually circular
+				<lb/>reflecting earth’s form.” The most sacred part of the entire
+				<lb/>pueblo, the sipapu, the place of emergence from the last
+				<lb/>world, is dug deep into the already subterranean kiva.
+				<lb/>This sacred orifice is protected by the circular kiva, whose
+				<lb/>walls may be of many thicknesses. The kiva is in turn sur
+				<lb/>rounded by the pueblo, which may also have a concentric
+				<lb/>layou
+				<lb/>The concentric arrangement of the kivas may reflect
+				<lb/>the matrifocused spiritual beliefs of the Anasazi. The
+				<lb/>walls of some kivas are nearly two feet thick.? They are
+				<lb/>made up of stones, mortar, layers of plaster and (some
+				<lb/>times) paint. Frank C. Hibben reports that "In some kivas
+				<lb/>having many painted coats of plaster, the layers them
+				<lb/>selves made up perhaps a third of the thickness of the
+				<lb/>walls."9 These concentric layers symbolically protect the
+				<lb/>sipapu and the people inside the kiva. For the Anasazi,
+				<lb/>Hopi, two types of labyrinth symbolize Mother Earth a
+				<lb/>she enfolds each soul, gives it birth and receives the spirit
+				<lb/>back at the end of the person’s path through life."
+			</p>
+			<pb n='92'/>
+			<p>
+				<lb/>The same symbolism seems to be the underlying mo
+				<lb/>tive of the layout of the pueblo itself. There are two basic
+				<lb/>kinds of ground plan apparent in the pueblos throughout
+				<lb/>the Southwest that echo the two maze shapes. One is a
+				<lb/>sort of semicircular or capital letter D shape (analogous to
+				<lb/>Figure 1); the other is a more rectangular, roughly E shape
+				<lb/>—sometimes with the center bar missing (analogous to
+				<lb/>Figure 2). All of the rooms on any one level of a pueblo
+				<lb/>are connected by doorways, so that it is possible to enter
+				<lb/>a room at one end and wind one’s way through the rooms
+				<lb/>to the other end. The multiple rows of rooms arranged
+				<lb/>around a central plaza create a concentric, centripetal
+				<lb/>design. That this labyrinthine structure was intended to
+				<lb/>symbolize Mother Earth is at least plausible; if it does, this
+				<lb/>is another way in which the Anasazi expressed their spir
+				<lb/>itual beliefs
+				<lb/>We have already discussed the intimate connection
+				<lb/>between the Anasazi’s matrifocused society and the
+				<lb/>growth pattern of their architecture, and between the
+				<lb/>matrifocused spiritual beliefs and the structure of their
+				<lb/>kivas, if not the entire pueblo complex. But it is even
+				<lb/>more interesting to realize that this architecture was to a
+				<lb/>great extent built by women. Apparently the division of
+				<lb/>labor was that the men cut and laid the timber (which
+				<lb/>made the ceilings and partially framed the doors) and the
+				<lb/>women built the walls. It is not common knowledge
+				<lb/>among anthropologists that women were the major par
+				<lb/>ticipants in building some of the most spectacular archi
+				<lb/>tecture in North America."" Not surprisingly, I came
+				<lb/>across this bit of information in male literature, which
+				<lb/>mentioned it in the process of denigrating women. The
+				<lb/>following passage, written by George Kubler, was based
+				<lb/>on the records of the seventeenth century Franciscan
+				<lb/>missionary Benavides. The passage blames certain "neg
+				<lb/>ative aspects" in missionary architecture on women’s role
+				<lb/>in its construction, and in the process indicates that wom
+				<lb/>en built pueblo walls in ancient times. I quote this passage
+				<lb/>at length because its ethnocentricity and phallocentricity
+				<lb/>are so appallingly blatant as to be humorous (in an adren
+				<lb/>alin-producing kind of way):
+				<lb/>"The evidence of the buildings constitutes proof that two
+				<lb/>commonplace devices of European building found no use
+				<lb/>in New Mexico during the missionary era. The arch is al
+				<lb/>most nonexistent, and the dome is completely lacking, but
+				<lb/>both forms may readily be built with the local materials.
+				<lb/>Why were they excluded from the architectural repertory of
+				<lb/>the mission buildings? It is to be recalled that, to this day,
+				<lb/>the Indians themselves never use either the arch or the
+				<lb/>dome. In dealing with these negative aspects of the struc
+				<lb/>ture, reference must be made to the passage. .. trom Bena
+				<lb/>vides, pertaining to the participation of women in con
+				<lb/>struction. Since Benavides, the roles have been reversed
+				<lb/>the women now spin and weave, and the men build walls.
+				<lb/>But the women own the houses in the pueblos, and the
+				<lb/>ownership itself is perhaps a remnant from the time wher
+				<lb/>building was the women’s prerogative. Does this indif
+				<lb/>ference to alien forms, so unlike the ready acceptance
+				<lb/>found in Mexico, stem from the women?...lt is likely that
+				<lb/>resistance was encountered in New Mexico. .. and it seem:
+				<lb/>reasonable to localize this resistance in the participation of
+				<lb/>women. The point cannot be proved by asserting that
+				<lb/>women are temperamentally more conservative, or indif
+				<lb/>ferent to structural considerations: the evidence of the
+				<lb/>monuments and the known control of their construction by
+				<lb/>Indian women induce a correlation between the two, with
+				<lb/>out reference to a priori considerations." Perhaps this cor
+				<lb/>relation is to be expressed in terms of a traditional division
+				<lb/>of labor among men and women, the men executing the
+				<lb/>carpentry and woodwork, as indicated by Benavides, and
+				<lb/>the women opposing any increase in their own share."
+			</p>
+			<p>
+				<lb/>certainly doubt that the absence of domes and arches
+				<lb/>is due to the women’s laziness, as Kubler suggests. Nor
+				<lb/>were the women likely to have been "indifferent to struc
+				<lb/>tural considerations, since prior to the white man’s en
+				<lb/>croachment they were capable of building Pueblo Bonito,
+				<lb/>Chetro Ketl, and dozens of other multiroomed, multi
+				<lb/>storied earthen monuments. The constructions of a mis
+				<lb/>sion would have been a snap by comparison. I do, how
+				<lb/>ever, agree with Kubler’s hint that the women were more
+				<lb/>"conservative," for it is much that they had to conserve:
+				<lb/>their matrilineal, egalitarian society and their ancient
+				<lb/>earth-reverencing spiritual beliefs. Kubler doesn’t bother
+				<lb/>mentioning that the women weren’t building these mis
+			</p>
+			<pb n='93'/>
+			<p>
+				<lb/>sions out of devotion to the white man’s god, but because
+				<lb/>they were forced to build them. I prefer to believe that the
+				<lb/>women’s refusal to cap the buildings with domes or the
+				<lb/>doorways with arches was a subtle way of protesting
+				<lb/>against the white man’s phallocentric religion.
+				<lb/>Forcing the people to build missions and to attend
+				<lb/>church was only part of the oppression the Anasazi/Hopi
+				<lb/>experienced." During the missionary era people were
+				<lb/>whipped, imprisoned and burned to death. But in the long
+				<lb/>run, the most destructive form of oppression was a form
+				<lb/>of indoctrination that is extremely difficult to combat. Be
+				<lb/>ginning in the late nineteenth century, Hopi children were
+				<lb/>literally stolen from their parents and forced to go to
+				<lb/>white man’s schools—far from their homes—where they
+				<lb/>had to learn to speak in the English language and to think
+				<lb/>in patriarchal concepts.14 This insidious form of oppres
+				<lb/>sion has had repercussions that are simultaneously polit
+				<lb/>ical and spiritual.
+				<lb/>Generations of indoctrination into the white man's
+				<lb/>world view made other kinds of government influence
+				<lb/>possible. Nearly 100 years ago, U.S. government agencies
+				<lb/>began insidious efforts aimed at gaining control over Hop
+				<lb/>land for mining purposes.15 However, the traditional Hopi
+				<lb/>way of making decisions—by clan consensus, in which
+				<lb/>every individual’s view counts equally and all must reach
+				<lb/>agreement—was a constant impediment to deal-making
+				<lb/>and sellouts. So the government instituted a Hopi Tribal
+				<lb/>Council, consisting of "elected representatives. Those
+				<lb/>sufficiently schooled in the white man’s ways agreed to
+				<lb/>vote for and support the Council. But traditional Hop
+				<lb/>would not go along with this manipulation of tribal gov
+				<lb/>ernment. They boycotted the elections and refused to
+				<lb/>recognize the "elected” officials as their representatives.
+				<lb/>The traditional Hopi still do not recognize the Tribal
+				<lb/>Council, but the U.S. government does. It was with this
+				<lb/>Tribal Council that the Department of Interior made its
+				<lb/>contract to lease Hopi land to the Peabody Coal Company
+				<lb/>for strip-mining. The Hopi Tribal Council stands to gain
+				<lb/>more than $14 million over a 35-year period.16 In Hopi
+				<lb/>land jobs are scarce, but they are available for those who
+				<lb/>support the Tribal Council.
+			</p>
+			<p>
+				<lb/>In spite of generations of attempted indoctrination,
+				<lb/>heavy economic pressures, and the demoralizing effects
+				<lb/>of watching their own tribe members accept the white
+				<lb/>man’s values, a small group of Hopi, along with a few
+				<lb/>other Pueblo groups, remain traditional and will not con
+				<lb/>sent to their land being strip-mined." Their metaphysic
+				<lb/>their spiritual beliefs, their world view—gives them this
+				<lb/>strength. They know Mother Earth is a living being and
+				<lb/>will not agree to have her raped.
+				<lb/>This same world view, which treasures Mother Earth
+				<lb/>allows for other phenomena that cannot be explained
+				<lb/>by our prevailing metaphysic. One such phenomenon
+				<lb/>crucially important to the traditional Hopi is prophetic
+				<lb/>visions. The Hopi have been guided by visions for count
+				<lb/>less centuries. In fact, visions guided the people to Chaco
+				<lb/>Canyon after many hundreds of years of migration through
+				<lb/>out North and South America.18 It is here that the Anazasi
+				<lb/>built their earthen architecture and here that their de
+				<lb/>scendants still choose to live.
+				<lb/>The white man’s appearance in Pueblo country was
+				<lb/>prophesied long before he came. The prophesies predict
+				<lb/>ed that if the white man came bearing the sign of the
+				<lb/>circle, he would live in beneficial harmony with the Hopi
+				<lb/>But if he came bearing the sign of the cross, he had lost
+				<lb/>his true belief and would bring sickness and death with
+				<lb/>him. The Anasazi women understood all too well the real
+				<lb/>meaning of the cross crowning the missions that they were
+				<lb/>forced to build.
+				<lb/>The prophetic visions revealed that this new race of
+				<lb/>people would be able to fly through the air and would
+				<lb/>speak to each other through what appeared in the visions
+				<lb/>to be "cobwebs in the sky." The visions also foretold of a
+				<lb/>road "like a ribbon" that would run through the Hopi
+				<lb/>villages. Hopi men were later forced to build such a road
+				<lb/>while working on chain gangs as punishment for resisting
+				<lb/>government attempts to educate their children.
+				<lb/>Many of the prophesies have become realities, but
+				<lb/>there are still more that pertain to the future. A crucial
+				<lb/>prophecy, still unfolding, is that men will come to try to
+				<lb/>take what lies under Hopi land. All of Mother Earth is
+				<lb/>sacred to the Hopi. They believe that they live at the very
+				<lb/>heart of this continent, the geomagnetic center—and that
+				<lb/>tampering with Mother Earth at this sacred center will
+				<lb/>create a serious imbalance. The prophecy warns that the
+				<lb/>people should not let the men take what is under their
+				<lb/>land. For the Hopi who have been indoctrinated into the
+				<lb/>white man’s world view, a view in which prophetic visions
+				<lb/>are not valued, such a warning has little meaning. Yet
+				<lb/>those who have managed to cling to their ancient world
+				<lb/>view and spiritual knowledge take the warning very
+				<lb/>seriously. These people will try to protect Mother Earth
+				<lb/>from strip-mining
+				<lb/>Ecology-minded feminists may oppose strip-mining
+				<lb/>and see the struggle of the Hopi with the U.S. government
+				<lb/>as a political situation. The Hopi know it is a political
+				<lb/>and a spiritual struggle. For them, the concepts of "polit
+				<lb/>ical" and "spiritual" are so tightly woven that in the cloth
+				<lb/>of reality, they cannot be separated.
+				<lb/>Both spiritual awareness and political action are ur
+				<lb/>gently needed to protect the Hopi land from strip-mining
+				<lb/>and from other attempts to exploit Mother Earth. To find
+				<lb/>out what you can do to help, write to
+			</p>
+			<p>
+				<lb/>TECHQUA IKACHI
+				<lb/>Box 174
+				<lb/>Hotevilla, Arizona 86030
+			</p>
+			<div><pb n='94'/>
+			<p>
+				<lb/>Right now, bills are pending before Congress that attack
+				<lb/>the sovereignty of the Hopi and all Indian nations on this
+				<lb/>land. The most comprehensive of these is HR9054. If you
+				<lb/>already know about this anti-Indian legislation, write your
+				<lb/>Congresspeople to protest. If you want more information,
+				<lb/>write to the
+				<lb/>NATIVE AMERICAN SOLIDARITY COMMITTEE
+				<lb/>P.O. Box 3426
+				<lb/>St. Paul, Minnesota 55165
+				<lb/>O 1978 Judith Todd
+				<lb/>1. The name Anasazi is not a Pueblo Indian name. Its a
+				<lb/>Navaho word meaning ancient ones, although the
+				<lb/>Navaho are not descended from the Anasazi. Some
+				<lb/>where along the line, anthropologists started using this
+				<lb/>name for the people who inhabited the Four Corners
+				<lb/>region (where Colorado, Utah, Arizona and New Mex
+				<lb/>ico meet) from about 1 A.D. through 1300. The Hopi
+				<lb/>and other Pueblo tribes are descended from the Anasa
+				<lb/>zi. My discussion of Anasazi world view and socia
+				<lb/>structure is based largely on what I know of the Hopi
+				<lb/>believed by many to be the most traditional and there
+				<lb/>fore the most similar to their ancestors
+				<lb/>2. It is sometimes said that these kivas were men's clut
+				<lb/>rooms, or that women were excluded from them. That.
+				<lb/>purely a presumptive fantasy of male anthropologists
+				<lb/>The women took part in ceremonies both inside and
+				<lb/>outside the kivas. (Hewett, p. 68)
+				<lb/>3. Scully, p. 61.
+				<lb/>4. Thompson, p. 543.
+				<lb/>5. Jackson, p. 24
+				<lb/>6. Ibid. p. 24. To illustrate the extent of this multiplication
+				<lb/>of pieces, it has been estimated that one of the pueblos
+				<lb/>in Chaco Canyon was constructed of 50 million pieces
+				<lb/>of stone. (Hewett, p. 299
+				<lb/>7. Considering all that the Anasazi knew about the nature
+				<lb/>of the Cosmos and our place in it, l’m sure they knew
+				<lb/>Mother Earth is round, but 1 have not yet found printed
+				<lb/>support of that claim.
+				<lb/>8. Hibben, p. 22.
+				<lb/>9. Ibid. p. 22.
+				<lb/>10. Waters, p. 29. These same symbols are found all over
+				<lb/>the world. One is identical with the Labyrinth of Ariad
+				<lb/>ne, as depicted on a Cretan coin
+				<lb/>11. None of the anthropologists 1 spoke with (three women
+				<lb/>and two men) knew that women built the walls of the
+				<lb/>Anasazi pueblos. Not surprisingly, the men were the
+				<lb/>most skeptical. One was overtly hostile to the very idea
+				<lb/>and the other suggested that if I wanted to study the
+				<lb/>Anasazi art from a female point of view, I should study
+				<lb/>the pottery—it would be "safer.“ Since finding the
+			</p>
+			<p>
+				<lb/>Kubler quote, l’ve discovered a number of other sources
+				<lb/>that corroborate the tradition of women building the
+				<lb/>pueblo walls. Some of these also state the fact in derog
+				<lb/>atory ways. Hewett (p. 75) mentions it parenthetically;
+				<lb/>Scully (p. 48) says the women built the walls, then calls
+				<lb/>the walls "man-made” just two sentences later. See also
+				<lb/>Silverberg, p. 40; Thompson and Joseph, p. 54.
+				<lb/>2. Kubler, p. 38.
+				<lb/>3. For various accounts, see Katchongva, Nequatewa,
+				<lb/>Silverberg, or Waters.
+				<lb/>4. Nequatewa, p. 61 and elsewhere
+				<lb/>15. Budnik, p. 101. See his article for an excellent accoun
+				<lb/>of the nature and extent of the ecological and cultural
+				<lb/>effects of this strip-mining effort.
+				<lb/>16. Ibid. p. 101.
+				<lb/>17. U.S. Bureau of Competition, pp. 38-39.
+				<lb/>18. Waters, p. 50.
+				<lb/>BIBLIOGRAPHY
+				<lb/>Dan Budnik, “Progress Report on Ecological Rape," Art in
+				<lb/>America (Vol. 60, July-August, 1972)
+				<lb/>Edgar L. Hewett, The Chaco Canyon and Its Monuments
+				<lb/>(Albuquerque: University of New Mexico Press, 1936)
+				<lb/>Frank C. Hibben. Kiva Art of the Anasazi at Pottery Mound
+				<lb/>(Las Vegas: KC Publications, 1973)
+				<lb/>J.B. Jackson, “Pueblo Architecture and Our Own,” Land
+				<lb/>scape (Vol. 3, Winter 1953-1954)
+				<lb/>Dan Katchongva, From the Beginning of Life to the Day of
+				<lb/>Purification: Teachings, History and Prophecies of the
+				<lb/>Hopi People, as told by the late Dan Katchongva, Sun
+				<lb/>Clan (Los Angeles: Committee for Traditional Indian
+				<lb/>Land and Life, 1972
+				<lb/>George Kubler, The Religious Architecture of New Mexico
+				<lb/>in the Colonial Period and Since the American Occupa
+				<lb/>tion (Albuquerque: University of New Mexico Press,
+				<lb/>1973
+				<lb/>Edmund Nequatewa, Truth of a Hopi: Stories Relating to
+				<lb/>the Origin, Myths and Clan Histories of the Hopi (Flag
+				<lb/>staff: Northland Press, 1967
+				<lb/>Vincent Scully, Pueblo: Mountain, Village, Dance (New
+				<lb/>York: Viking, 1975,
+				<lb/>Robert Silverberg, The Old Ones: Indians of the American
+				<lb/>Southwest (New York: New York Graphic Society, 1965)
+				<lb/>Laura Thompson, "Logico-Aesthetic Integration in Hopi
+				<lb/>Culture, American Anthropologist (Vol. XLVII, 1945),
+				<lb/>pp. 540-553.
+				<lb/>Laura Thompson and Alice Joseph, The Hopi Way (New
+				<lb/>York: Russell &amp; Russell, 1965)
+				<lb/>U.S. Federal Trade Commission, Bureau of Competition.
+				<lb/>Staff Report on Mineral Leasing on Indian Lands (Wash
+				<lb/>ington, DC: USCPO, 1975,
+				<lb/>Frank Waters, Book of the Hopi (New York: Ballantine
+				<lb/>1963)
+			</p></div>
+      </body>
+   </text>
+</TEI>

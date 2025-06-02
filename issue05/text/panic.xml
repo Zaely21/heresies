@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Panic in the World of Art</title>
+            <author>a.m.</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='56'/>
+			<p>
+				<lb/>Panic in the world of art
+			</p>
+			<p>
+				<lb/>This is a chapter trom a work-in-progress called The Substitute. Any resemblance of characters to persons, living or dead, is purely coincidental.
+			</p>
+			<p>
+				<lb/>Signore Alberto Muscarotti was chief of security
+				<lb/>of the Uffizi Gallery in Florence. For twenty years.
+				<lb/>A man of singular solitary habits. An anachro
+				<lb/>nism in sophisticated Florence, he was a devout
+				<lb/>man. A Roman Catholic communist.
+				<lb/>His habits were immaculate. He kept his present
+				<lb/>three-room domicile as clean as a monk’s cell. And
+				<lb/>he was especially devoted to the Blessed Virgin.
+				<lb/>As way of example of his extreme moral impec
+				<lb/>cability, after his dear wife had passed on, he had
+				<lb/>begun masturbating. In the beginning, remembering
+				<lb/>those early days of connubial bliss, he had used
+				<lb/>those blessed memories with which to stimulate his
+				<lb/>hypothalamus. But, as time went on, he caught him
+				<lb/>self phantasizing a face, which although it seemed
+				<lb/>familiar, still eluded him.
+				<lb/>Some female visitor to the Gallery, no doubt. Yet
+				<lb/>the face was so transportive, so ideal, that he racked
+				<lb/>his brain upon awakening to fullfillment in order to
+				<lb/>trace his now steady, if only, imaginary lover.
+				<lb/>Imagine his shock, and self-disgust, upon coming
+				<lb/>to an early shift, at 4:00 a.m., and noticing that the
+				<lb/>face (and breasts this time) of his last evening's
+				<lb/>sexual feast were of no other than the Blessed Virgin
+				<lb/>Herself. At this discovery, Muscarotti fell to his
+				<lb/>knees.
+				<lb/>Fortunately, no one saw him. By the time his
+				<lb/>staff of guards came through to bid him a good day
+				<lb/>he had almost recovered. But from that day on,
+				<lb/>there were no more nightly pleasures
+				<lb/>Now, it was 4:30 a.m. He had had his coffee and
+				<lb/>biscotti. And he was prepared to slowly do the
+				<lb/>rounds
+				<lb/>He preferred to leave the lights on in all the inner
+				<lb/>chambers. And, as he entered the tiny room where
+				<lb/>all was gold and ivory; diptychs and triptychs of the
+				<lb/>Annunciation. Of the Nativity. Of the Assumption,
+				<lb/>he lingered. It was his favorite room
+				<lb/>"One moment — all was in its place,” these were
+				<lb/>the exact words that Signore Muscarotti used in
+				<lb/>describing the events to Svar Chimo of the Italian Six
+				<lb/>O’Clock News “...And then the chamber filled with
+				<lb/>a bluish radiance. I thought at first it was a powel
+				<lb/>failure. Although at that time of the morning—"Mus
+				<lb/>carotti shook his head. "Anyway, bluish haloes af
+				<lb/>fixed themselves, 1 cannot think of a better word, to
+				<lb/>all the images of. ..of. ..the Blessed Virgin, and —”
+			</p>
+			<p>
+				<lb/>Here the old man’s voice faltered
+				<lb/>"And then—the treasures themselves were gone.
+				<lb/>Even the hard-bitten unshaven cameraman was
+				<lb/>unduly solemn. He kept his eyes fixed on the man as
+				<lb/>though he were the last survivor of a terrible plane
+				<lb/>crash
+				<lb/>"What was your first feeling?” asked Chimo. The
+				<lb/>usually caustic reporter was very courteous to the
+				<lb/>old guard. Even gentle. Muscarotti, in fact, seemed
+				<lb/>on the verge of tears. Or, an emotional breakdówn.
+				<lb/>"Yes," Chimo said patiently, "yes. Take your
+				<lb/>time, Signore Muscarotti, there is no hurry here.
+				<lb/>"The best way to describe this to you — is this.
+				<lb/>His arm designated an arc. “This room was filled
+				<lb/>with the spoils and treasures of countless Roman
+				<lb/>and Italian victories. You see for yourself, it is quite
+				<lb/>empty. So much for the room itself. But, what has
+				<lb/>happened here —” Muscarotti pointed to his heart.
+				<lb/>"A long time ago, I attended church because due to
+				<lb/>some custodial mishap, I slipped and fell into a
+				<lb/>baptismal font. And I was Christianized. I am an il
+				<lb/>legitimate orphan.
+				<lb/>"You, too," wondered Chimo inaudibly.
+				<lb/>"l hate the Roman Catholic church.
+				<lb/>Chimo’s face broke into a sunrise of smiles
+				<lb/>"But l have only one weakness,” Muscarotti con
+				<lb/>tinued, "being a member in good standing of the
+				<lb/>Italian Communist Party, you understand.
+				<lb/>Chimo: "Of course.
+				<lb/>"...And that is.. .l’m not ashamed to admit
+				<lb/>"Why should you," encouraged Chimo.
+				<lb/>"ladore the Blessed Mother...
+				<lb/>Chimo removed his peaked cap.
+				<lb/>"...And.. as I watched every treasure in my
+				<lb/>favorite room in the Gallery disappear, I knew that
+				<lb/>would worship Her openly for the rest of my life.
+				<lb/>The old guard’s eyes began to fill. "But I haven't
+				<lb/>told you the real miracle.
+				<lb/>Chimo grew visibly uneasy.
+				<lb/>"Next week I was due at the Infirmary for the
+				<lb/>removal of a cataract on my left eye. This morning
+				<lb/>went for a final examination. It was gone.
+				<lb/>At this, Muscarotti began to weep, unashamedly.
+				<lb/>And Chimo, too
+				<lb/>The entire episode appeared unedited on the
+				<lb/>talian Six O’Clock News.
+			</p>
+			
+			<pb n='57'/>
+			<p>
+				<lb/>Tears and miracles on TV but there was panic in the
+				<lb/>world of art throughout the world. As statuary,
+				<lb/>entire walls, sides of mountains, paintings, draw
+				<lb/>ings, miniatures, murals, diptychs, palimpsests, trip
+				<lb/>tychs, apses, and tapestries vanished, taking with
+				<lb/>them every image of the Godess, the Blessed Virgin,
+				<lb/>and all the female (and male aspects) of the Great
+				<lb/>Mother.
+				<lb/>In the realm of coins, figurines, and jewels, it was
+				<lb/>as if they had never existed. Ruins of temples to the
+				<lb/>Godess crumbled to dust. The Florentines thought
+				<lb/>that the Communist government had conspired to
+				<lb/>devastate "all the decadent symbols of spirituality."”
+				<lb/>The Parisians thought that the Germans were finally
+				<lb/>paying them back for winning World War II.
+				<lb/>In London, and in New York City, there were
+				<lb/>blood baths. Among three outstanding groups: the
+				<lb/>Waisties (the very long-haired); the Shoulders
+				<lb/>(medium-long haired); and the Necks (the Conserva
+				<lb/>tives).
+				<lb/>Here and abroad, each art group being com
+				<lb/>prised mainly of a rather wide spectrum of fairies
+				<lb/>and non-fairies who controlled galleries and muse
+				<lb/>ums, newspaper columns and art periodicals, and
+				<lb/>who for the main part adored statues, paintings, and
+				<lb/>all other objets d’art of the ideal woman, rather than
+				<lb/>women themselves
+				<lb/>But inasmuch as the art scene was their thing,
+				<lb/>these men were considerably upset to find the cri
+				<lb/>terion of beauty in woman vanished; and left, for the
+				<lb/>first time in the history of art — if not of the world
+				<lb/>— with absolutely no criterion at all.
+				<lb/>In India, Shiva, always presumed to be a male
+				<lb/>deity, and Kali, ran in liquid gold, silver, obsidian
+				<lb/>and mud before the horrified eyes of the worship
+				<lb/>pers. Two hundred million faithful drowned them
+				<lb/>selves in the Ganges. Gangadevi restored them im
+				<lb/>mediately as clouds of water over drought areas.
+				<lb/>There were those who saw the images of Vishnu,
+				<lb/>Rama, and Krishna dissolve into miraculously
+				<lb/>scented flames of hyacinth, dark azure, copper, and
+				<lb/>golden yellow.
+				<lb/>Another three hundred million flung themselves
+				<lb/>into the Sacred Flames. The Godess of Fire reincar
+				<lb/>nated these into wheatfields. (Waste not, want not.)
+				<lb/>Leaving India for the first time in centuries as the
+				<lb/>most underpopulated area on earth, not counting
+				<lb/>desert and arctic regions.
+				<lb/>A few thousand British soldiers who were there as
+				<lb/>"observers” accidentally perished among the sacred
+				<lb/>suicides, and these were not reincarnated into
+				<lb/>wheatfields, but the British government was quite
+				<lb/>tolerant. "Food" was still moving briskly into the
+				<lb/>Dominions. These shipments had increased as soon
+				<lb/>as the Blessed Vanishments had occurred, thanks
+				<lb/>to the British "observers.
+			</p>
+			<p>
+				<lb/>The images which had melted in India, dissolved
+				<lb/>in counterpart as well throughout the world. In the
+				<lb/>theological past, the faithful of each particular reli
+				<lb/>gion as well as the art historians had sincerely be
+				<lb/>lieved all these aspects to have been "male. It was
+				<lb/>only after the Great Famine which followed the
+				<lb/>Aweful Law of No Decay, and the Sacred Vanish
+				<lb/>ments, that the world realized these "gods" were but
+				<lb/>male images of the Great Godess
+				<lb/>In the center of chaos, the Great Mother came to
+				<lb/>our galaxy in the aspect of Ishtar, the deity wor
+				<lb/>shipped for the longest time in the history of human
+				<lb/>kind. Ishtar illumined the souls of children, women
+				<lb/>and men, which had lain in darkness before and
+				<lb/>after the Sumerians. Ninmah, the Mother Godess of
+				<lb/>the Sumerian Kosmos, Mother of all the gods,
+				<lb/>Mother of Creation, known to Sumerian astronomers
+				<lb/>as the Exalted Lady. Ninmah had appeared to the
+				<lb/>Sumerians, in the sky, the same way that Ishtar had
+				<lb/>approached our universe: clothed in a supernova.
+				<lb/>From that illumination in Sumeria had come the first
+				<lb/>inscription on a tiny tablet; mathematics; the wheel;
+				<lb/>astronomy; and religion. The Tablets of Creation
+				<lb/>describe the struggle among the demigods within
+				<lb/>the primordial mother (Tiamat’s belly). Marduk,
+				<lb/>killer of Tiamat, transformed in the Greek sky as
+				<lb/>Jupiter. The same Marduk known now among the
+				<lb/>Jews as Yaweh.
+				<lb/>In India, a few Indian wiseacres known as Vama-
+				<lb/>charis (or the Vamamargis), followers of the left
+				<lb/>(and feminine) path, had by the Grace of Ishtar fol
+				<lb/>lowed the Sacred Female Aspect correctly.
+				<lb/>These died along with the ignorant faithful, but
+				<lb/>were immediately re-incarnated into WA-WACS
+				<lb/>wealthy-Americans-with-a-conscience. The WA
+				<lb/>WACs, a weird group even for America, did some
+				<lb/>strange things. They championed the Bill of Rights,
+				<lb/>along with the remaining 400 Native Americans, that
+				<lb/>number having escaped being eaten during the Great
+				<lb/>Famine. Some WA-WACs even armed themselves,
+				<lb/>and kept watch on reservations, calling themselves
+				<lb/>the Arm of Bartelomeo de Las Casas. These were
+				<lb/>joined by crackpot Catholics, Jews, Ishtarians, Uni
+				<lb/>tarians and Quakers. And among these were nuns,
+				<lb/>seminarians, priests, a bishop, and even one cardinal.
+				<lb/>The WA-WACs gave assist and money anony
+				<lb/>mously to the much-feared Women’s Army for
+				<lb/>Peace. (An armed militant splinter group: 1,500,000
+				<lb/>women who airlifted women and children out of war
+				<lb/>zones; and who legally robbed rich men to give back
+				<lb/>money to the poor.)
+				<lb/>These matriots arose as one from the ranks of
+				<lb/>mothers, daughters, "sweethearts, sisters, and
+				<lb/>wives of men wounded or killed by war. They had
+				<lb/>made their bones on a non-violent (well, technically
+				<lb/>non-violent) coup.
+				<lb/>At the height of the Great Famine, amid world
+				<lb/>chaos, W.A.P. platoons had kidnapped 140 Ameri
+				<lb/>can and foreign generals, 25 admirals and 4 captains
+				<lb/>of oil tankers (which had caused major oil spills).
+				<lb/>Flown them here, bound, blindfolded, and gagged,
+				<lb/>to a-landfill in Jersey. Lowered them gently into a
+			</p>
+			<pb n='58'/>
+			<p>
+				<lb/>prepared funnel-pit, 120 feet deep, 20 feet wide at
+				<lb/>the top, 10 feet wide at the bottom. Five-hundred
+				<lb/>and fifty thousand war widows, war mothers, war
+				<lb/>orphans, and war "sweethearts” had filed past the
+				<lb/>entrenched warriors. And flung (loosely) saran
+				<lb/>wrapped personal excrement into the entrenchment.
+				<lb/>The patriots had died bravely.
+				<lb/>Before leaving, a W.A.P. trumpeter had sounded
+				<lb/>national and international taps. And their country's
+				<lb/>flags had been implanted at the summit.
+				<lb/>One week later, they had abducted the-then
+				<lb/>President. By mistake. Returned him unharmed. Ex
+				<lb/>cept for emotional shock. They had mistaken him
+				<lb/>for the-then chief of the FBI.
+				<lb/>But they had lost their opportunity. To the over
+				<lb/>whelming relief of everyone, the-then FBI chief had
+				<lb/>finally resigned. (The chief had been seated right
+				<lb/>next to the-then President when the abduction had
+				<lb/>taken place.) What W.A.P. had planned to do with
+				<lb/>the now ex-FBI chief was not revealed. The next day,
+				<lb/>15 cadres of terrorists around the world responsible
+				<lb/>for the deaths or maiming of women and children
+				<lb/>were found dead. A spokesperson for the Women's
+				<lb/>Army for Peace had demanded, and had received, a
+				<lb/>live newscast. She had appeared on camera as heav
+				<lb/>ily veiled as a prized female slave of an Arab prince.
+				<lb/>"We have relieved 75 admirals and 140 generals
+				<lb/>and 4 captains at their posts of duty. We hope that
+				<lb/>their replacements will be attuned to peace instead
+				<lb/>of war. As for the terrorists, women are no longer
+				<lb/>killing women for male schemes. We realize, she
+				<lb/>continued, "that men view war and violence as an
+				<lb/>inherent part of life. We plan to interfere only inso
+				<lb/>far as the killing of women and children is con
+				<lb/>cerned. We intend to reduce all war efforts to hand
+				<lb/>to-hand combat.
+				<lb/>"Do you have any plans to implement this—ah
+				<lb/>Utopian dream?” inquired the silver-templed prince
+				<lb/>of the all-male media.
+				<lb/>The woman removed her veils carefully, one by
+				<lb/>one, until there was only a single veil left. “There
+				<lb/>are many among us who wish to bring peace and
+				<lb/>plenty to the earth.
+				<lb/>Aren’t you hedging the question?” asked the
+				<lb/>smart-assed 49-year-old male interviewer
+				<lb/>"No, the spokesperson replied. “We have a
+				<lb/>number of missiles aimed directly at the sun.
+			</p>
+			<p>
+				<lb/>But to return to the Sacred Vanishments, and as
+				<lb/>an example of the extreme preciseness of these
+				<lb/>miracles — In Boston, the la Orana Maria had burst
+				<lb/>into flames, burning a hole in the exquisite Gauguin
+				<lb/>canvas as a blue-veined, blue-haired, blue-nosed
+				<lb/>SAR (Sons of the American Revolution) was looking
+				<lb/>at it. He died of heart arrest on the gold-veined
+				<lb/>marble floor that his late father had payed for at his
+				<lb/>bequest.
+			</p>
+			<p>
+				<lb/>At Lourdes, the entire shrine had risen shimmer
+				<lb/>ingly into the sunlit air. Then at the height of one
+				<lb/>thousand feet, it had ignited—in the shape of
+				<lb/>flowers. And vanished. At the shrine of Our Lady of
+				<lb/>Fatima, in Portugal, the same, excepting that here,
+				<lb/>in addition, it rained cherries embedded in hail
+				<lb/>stones for one hour.
+				<lb/>But in Rome—as in Florence—super-miracles
+				<lb/>occurred. To this day, the body of Christ hangs
+				<lb/>suspended without the marble counterpart of the
+				<lb/>Blessed Virgin. In the larger Pieta of the cathedral in
+				<lb/>Florence, the same phenomenon prevails. An in
+				<lb/>teresting outcome of these miracles was the total
+				<lb/>conversion of the Protestant Irish to the worship of
+				<lb/>the Godess, and the complete overthrow of the
+				<lb/>British in Ireland, ending the hypocritical Pax. There
+				<lb/>were dark rumors of England “testing” a plutonium
+				<lb/>bomb over Ireland, but the prevailing winds were
+				<lb/>too strong in the direction of England.
+				<lb/>It is difficult to describe adequately the vast air
+				<lb/>of gloom and melancholia which pervaded the earth
+				<lb/>devoid of the Blessed Aspect of the Godess—in all
+				<lb/>Her forms.
+				<lb/>The survivors had buried (or had eaten) their dead.
+				<lb/>And the living went on, but the Godessless atmos
+				<lb/>phere grinded and grated on everyone’s nerves.
+				<lb/>Sculptors and painters copied furiously (these
+				<lb/>commissioned by the state, for the first time since
+				<lb/>the Renaissance), but within twenty-four hours of
+				<lb/>the Godess’s Visit to our galaxy, no image, in ab
+				<lb/>stract or realistic form, remained.
+				<lb/>The encyclopedias of art and the Britannica,
+				<lb/>riddled with holes, as were all other reference and art
+				<lb/>books now without Her Image, became worthless. In
+				<lb/>Egypt, counterparts of Isis dissolved in ascending
+				<lb/>columns of green and red fire waves which shot up
+				<lb/>with nuclear force, three thousand feet into the air.
+				<lb/>Causing an air alert in the-then peaceful Middle East.
+				<lb/>At the same time, all the dams burst draining the
+				<lb/>waters of the Nile, revealing ancient statues of the
+				<lb/>dynastic past.
+				<lb/>Another super-phenomenon was that even after
+				<lb/>the Great One’s Visit, onto the unknowable
+				<lb/>present and future, no aspect of Her was/is durable,
+				<lb/>beyond a few moments, excepting those images
+				<lb/>which were/are created by women artists and
+				<lb/>women sculptors.
+				<lb/>More awesome still, the Sphinx Herself burned
+				<lb/>molten hot, transforming the sands into a solid sheet
+				<lb/>of glass, where She had lain mysterious for thou
+				<lb/>sands of years.
+				<lb/>In Persia and in the Yucatan, the smaller Sphinxes
+				<lb/>burned the same. While in Haiti, the Voodoo Godess,
+				<lb/>Mother of the Earth, was swept by fireballs from the
+				<lb/>heavens, and consumed.
+				<lb/>And lastly, Greece and Sicily, where many ruins
+				<lb/>of shrines and temples had survived even the on
+				<lb/>slaught of war and centuries, now resembled the
+				<lb/>craters of the moon.
+				<lb/>A glory vanished forever.
+				<lb/>A.M.
+			</p></div>
+      </body>
+   </text>
+</TEI>

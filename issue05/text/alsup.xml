@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Finding the Goddess: Finding Myself</title>
+            <author>Martha Alsup</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='100'/>
+			<p>
+				<lb/>Finding the Goddess: Finding Myself
+				<lb/>Martha Alsup
+			</p>
+			<p>
+				<lb/>have reason to believe the Goddess has been messing
+				<lb/>around with my life. For me, She has firmly proved Her
+				<lb/>existence: spinning out choices of madness or Her. l’m
+				<lb/>not sure of Her design, or quite how to follow, but She’s
+				<lb/>been leading me around and I strongly suspect She has
+				<lb/>more up Her sleeve
+				<lb/>try to trace back to the beginning of Her interference,
+				<lb/>and it lands me inside my first memory. We’d gone to play
+				<lb/>behind my Grandmother’s barn one evening, after a rain
+				<lb/>A memory of sky in the puddles as a new-made rainbow
+				<lb/>ribboned the earth. Stand still with wonder, trees in the
+				<lb/>wind, shaking wet. That’s the feeling the Goddess still
+				<lb/>tempts me with to get me to trust Her, and l usually do.
+				<lb/>really have no other choice. She fashions things before
+				<lb/>me, waiting to be found.
+				<lb/>At this point, l’d like to report Her to the Patriarchy,
+				<lb/>but they wouldn’t believe me. Besides, they’d probably
+				<lb/>try to get at Her through me. Burn me or something
+				<lb/>equally obscene. So l’II try to warn you, my sisters. The
+				<lb/>reason l’m ratting is that She hurts. She’s left bloody
+				<lb/>tracks in my mind. They make me want Her for comfort,
+				<lb/>and just lead me deeper. Deeper and clearer, in a soft
+				<lb/>light. But She stamps out the pattern with feet of cut
+				<lb/>glass. She makes Her tracks bloody with my own pain.
+				<lb/>The Accident. That’s what holds this whole thing
+				<lb/>together, and makes me know it’s Her. The accident. For
+				<lb/>me, that word is painted red. She did it, and I think I can
+				<lb/>prove it was premeditated. There are several strong pieces
+				<lb/>of evidence that point toward prior knowledge of a kind
+				<lb/>that could only be Hers. l’II begin with the one most easily
+				<lb/>questioned, and lead you out in the way She led me.
+				<lb/>Carolyn died one summer evening. Another like me,
+				<lb/>l’d thought, a woman grown to heal. I had just begun to
+				<lb/>think of death, and now this spun me ’round. I watched
+				<lb/>the dance her dying made, but couldn’t find her there. To
+				<lb/>humor me, my collective said they’d bury me in the yard.
+				<lb/>How to come to terms with it? It crept into my conversa
+				<lb/>tion. I tend to think in themes and my friends saw this as
+				<lb/>the latest. When my mother’s sister died I wasn’t too
+				<lb/>surprised. Everyone I knew would die. The ending had
+				<lb/>begun. A rather inauspicious beginning. You can see
+				<lb/>further looking back
+				<lb/>went to a cabin in the country with my lover, trying
+				<lb/>to solve a problem among the autumn leaves. Susan had
+				<lb/>drawn away, so we dropped acid to see what we'd find.
+				<lb/>Down by the river we watched the leaves fall. Saw the sun
+				<lb/>setting from the top of a hill. Then home through the
+				<lb/>woods, admiring a dandelion dried in the sun. Turning to
+				<lb/>look up at I saw Death’s face. Hold me, she said.
+				<lb/>And I did. Terror that laced us up in a web. She'd heard a
+				<lb/>car crash, and some woman scream. She was shaking and
+				<lb/>Inever said how she’d scared me. We had to be one to
+			</p>
+			<p>
+				<lb/>survive. But Susan got hungry and I didn’t feed her. When
+				<lb/>she left for the icebox we both felt the rip.
+				<lb/>A lover was down, leaving me with the wanting.
+				<lb/>School would be through at the end of the year. Time to
+				<lb/>stop letting others define me, bits and pieces all scattered
+				<lb/>around. Say who I was and see what would happen.
+				<lb/>didn’t have words, I told my collective, trying to explain
+				<lb/>the hunger I felt. We must share process and not just our
+				<lb/>answers. Let each other in and find our grounding here.
+				<lb/>The Waterpeople—that’s what we call our collective—
+				<lb/>freaked out, didn’t know what I meant. All but Susan
+				<lb/>who knew the bond of our hunger. As we talked on she
+				<lb/>brought out the book.
+				<lb/>The Comforter, the story of what I really wanted. A
+				<lb/>horrible man murders his lover. Tries to escape in a car
+				<lb/>and crashes. After the wreck he wakes up in a strange
+				<lb/>country—an island where the people are real. They all
+				<lb/>feed each other—and live by their dreams. They take him
+				<lb/>in and he learns how to heal.
+				<lb/>Out to the airport to see my mentor. The book beside
+				<lb/>me in the car. A butterfly net to see what would happen, a
+				<lb/>test that l gave her, to pass if she could. It felt safe to be
+				<lb/>with her—she made the land real. Once school was over,
+				<lb/>we’d work it together. But she sought to explore the
+				<lb/>depths of my mind and I saw her approaching with games
+				<lb/>that I knew. I gave her the book over dinner—and then
+				<lb/>left the airport. Never a word about what was at stake.
+				<lb/>knew in the giving that she wouldn’t be there. I must
+				<lb/>make rules ot my own
+				<lb/>Center is slower so l eased to that lane. Cars would go
+				<lb/>past me on the left side. The semi crossed over from the
+				<lb/>right. No. No, it didn’t—but my memory’s that way. At
+				<lb/>the top of the hill, he must have seen her lights coming
+				<lb/>Pulled to the right and she hit me head-on.
+				<lb/>The driver in the car beside me died with his prophesy
+				<lb/>that l’d never live. Tangle of death spilled out on the
+				<lb/>highway. Her web filled with cuttings —blown in the
+				<lb/>wind. The rope that She threw me held many hands— all
+				<lb/>come to find our way home.
+			</p>
+			<p>
+				<lb/>Waterpeople gathered together —for themselves and
+				<lb/>for each other, people gathered around. The Goddess
+				<lb/>went public —Kay Gardner dedicated her concert to my
+				<lb/>getting well. Strangers were asked for prayers. I wandered
+				<lb/>for weeks in time unremembered: I traveled through
+				<lb/>words and came to my friends. The day the doctors said !
+				<lb/>would die was the day I woke up.
+				<lb/>Not the same. I had changed. She blotted all from view
+				<lb/>but what She chose to show me, slowly so l’d learn. One
+				<lb/>face. No peripheral vision—so if the person moved in
+			</p>
+			<pb n='101'/>
+			<p>
+				<lb/>closer, all I could see was an eye. The world slipped under
+				<lb/>a microscope. In for close study, life at the root. l’d
+				<lb/>forgotten how to choose between sounds. Everything
+				<lb/>carried a life of its own. My left side blew in the wind, like
+				<lb/>a leaf close to dying. All I remember is its being born. The
+				<lb/>pain was so constant, it lost all its words. By the time
+				<lb/>remember, thè first hurting was over, moving its way to
+				<lb/>outside my skin. But someone must hold me or l would
+				<lb/>fall. The path that I saw lay straight ahead. My neck didn’t
+				<lb/>turn I couldn’t see ’round. No matter. Everyone loved
+				<lb/>me. Persephone, once home, to go out no more
+				<lb/>The fact that I didn’t feel winter was just a reflection of
+				<lb/>life’s harmony. The world turned to crystal. To stay alive !
+				<lb/>must move in the direction I saw by tracing out patterns
+				<lb/>made by the feel. The Waterpeople took me home and
+				<lb/>one by one all burned out. Susan was first. She had held
+				<lb/>the flame of their loving. They gave me a home that was
+				<lb/>free for the living and she felt its foundation rest on her
+				<lb/>back. Felt she couldn’t touch me or the rest of her would
+				<lb/>all drain away. Pain, shattered crystal, let me know l was
+				<lb/>broken. I must look for the light in fragments I found.
+				<lb/>Alone in that big house—a child’s distance from my
+				<lb/>five parents as I watched them go to work. Staying home
+				<lb/>—misbehaving—not going off to school. The hospital's
+				<lb/>physical therapy—I should go to try. But trying meant to
+				<lb/>hurt on purpose, with pain I could stop. I wouldn’t do it,
+				<lb/>distressed my friends and made them pull away. Every
+				<lb/>time they looked for progress, they saw me looking back.
+				<lb/>The hospital held such pain; I knew it to be the mouth
+				<lb/>of the trap. Packed with illusions and spewing out dam
+				<lb/>age, housing the doctor who worked on my head. I be
+				<lb/>lieved him when he said he knew nothing to heal me. Like
+				<lb/>a leaf in the wind, my touching was fragile. Live by
+				<lb/>death’s door and I mustn’t scream. Half of my brain lay
+				<lb/>crushed on the highway. Now was the time to attend a
+				<lb/>new birth. Going toward good feeling moved me out in
+				<lb/>new spaces, leaving my mother, joining my friends. Brand
+				<lb/>new child, filled with wonder, turning from death's
+				<lb/>invitation because something else called. If survival didn’t
+				<lb/>feel good, that meant I would die. My left arm answered
+				<lb/>and swept through the air. I watched with the others as
+				<lb/>the energy made my arm dance. Everyone had an opinion
+				<lb/>— as if down in the cellar i’d found a strange bird. It
+				<lb/>danced to the left, just where I wasn’t watching. There
+				<lb/>was a crack to the left where things would fall out. A
+				<lb/>place of surprises, a hole in the world. My arm moved
+				<lb/>through space only others could see. Enough to feel its
+				<lb/>lovely motion weaving round the crack. Left arm sews the
+				<lb/>world together when I let it dance.
+				<lb/>To be able to feel it, there was one cardinal rule. Lying
+				<lb/>was out. It made two things out of one. I could only see,
+				<lb/>hear, think one thing at a time. Lies confused me, they
+				<lb/>tasted of death. But not to lie meant I must say it out
+				<lb/>loud. Any idea that started to harden, I would set free for
+				<lb/>the sake of space in my mind. Each moment carried its
+				<lb/>own comfort— all I had to do was attend. Throw out the
+				<lb/>rocks I found in my bedding and trust to the softness my
+				<lb/>dancing arm made —light forming spirals just off to the
+				<lb/>Out of time, yesterday had left me here. Constant
+				<lb/>inner tremble so l couldn’t walk. Learn the speed of an
+				<lb/>infant's run when life’s an endless day. So trusting con
+				<lb/>nections, I danced with my friends. A moon to the orbits
+				<lb/>saw their lives make. They talked to me from some other
+				<lb/>planet. They’d come play for a while and then they would
+				<lb/>leave — to worlds more important than passing the
+			</p>
+			<p>
+				<lb/>moments. Cursed now to live on the edge of their lives.
+				<lb/>Strangers I met seemed cut loose from fairy tales — come
+				<lb/>to show me the space l was in.
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>
+				<lb/>Events seemed to happen in some kind of order, laying
+				<lb/>a trail to find my way home. First New York to visit a
+				<lb/>friend in the making. I met Diana before I was hurt and
+				<lb/>we’d talked much of death. This visit to her was a part of
+				<lb/>the pattern. A point on the Continuum, next thread in the
+				<lb/>weaving. Almost a stranger—she took on that dimension
+				<lb/>the moment she suggested I color my hair.
+				<lb/>Henna. It was a strange bottle I found on her shelf.
+				<lb/>Egyptian mud, good for the head. We both got excited at
+				<lb/>the thought of it red. But back in St. Louis, it was just
+				<lb/>another sign of my strangeness.
+				<lb/>With my red hair I went off to a conference on Radical
+				<lb/>Therapy. Friends were driving, but I flew ahead. Exhilarat
+				<lb/>ing to be on my own, to have no one meet me to act as a
+				<lb/>shield. Strangers there would not know about damage.
+				<lb/>Thoughts of finding someone like me
+				<lb/>At the Grand Hotel in lowa City, I followed the instruc
+				<lb/>tions of the brochure. It said we’d be picked up at eight
+				<lb/>o’clock. Color and balance came in with the roses. They
+				<lb/>made three hours waiting seem one long rich moment.
+				<lb/>Just before eight, hunger sent me to the dining room for a
+				<lb/>"sandwich to go.” A woman in the room stood up and
+				<lb/>waved. After checking out she meant me, I walked over
+				<lb/>and she asked me to sit down. A mysterious stranger—the
+				<lb/>feel of the Goddess, come in disguise. I felt a magical pull
+				<lb/>and then thought—mistake. She was such a drag and kept
+				<lb/>calling me "kid." Just another pigeon with the message
+				<lb/>—go home. She asked my direction and found I didn’t
+				<lb/>know it. Said that those radicals would eat off my head.
+				<lb/>Don’t go, please to stay with her for the night. Go back in
+				<lb/>the morning to all those who loved me—and learn to have
+				<lb/>caution before the next flight.
+				<lb/>really regretted my impulse to join her. I left her at
+				<lb/>table and went to the lobby to find the right ride. But the
+				<lb/>lady came up and pulled on my sleeve. Dón’t do it, kid.
+				<lb/>Her mouth was tight. Something will happen, I just feel
+				<lb/>like l know. This was the time to pull my trump card
+				<lb/>wanting to take the words from her mouth. A few months
+				<lb/>ago, I almost died, I said. I want to keep living until
+				<lb/>there’s no choice. I know about death, she said, holding
+				<lb/>up a two fingered hand. I have a strange disease you’ve
+				<lb/>never heard of. My whole body is turning to stone. The air
+				<lb/>in the room hushed for a moment. Still as a window to
+				<lb/>some other world. Contact with Stonelady had shown me
+				<lb/>the stakes of my choices. Went off to the conference with
+				<lb/>no need for roots. Passing up drama, I went to the kitchen
+				<lb/>and found chopping onions a most profound act. Life is so
+				<lb/>easy among your own kind.
+				<lb/>So many ways to heal. Into the season of acts of faith,
+				<lb/>Istarted my own practice again. Thought to take up
+				<lb/>where I had left off. Annie was shocked when she saw my
+				<lb/>red hair—she remembered a dream full of fear. While
+				<lb/>lay in a coma, she dreamed of a visit. Down to the hos
+				<lb/>pital, a big, empty room—a screen with a picture of me.
+				<lb/>had bright red hair.
+				<lb/>Helping to heal, we talked on new levels. She made me
+				<lb/>be honest with all that I knew. Annie spoke of her friend
+				<lb/>who was dying of cancer—same side of the brain. Annie
+				<lb/>carried our stories until he asked that we meet. It felt like
+				<lb/>a summons, contrary to choice. I feel like l’ve known you
+				<lb/>for all of my life, Tom said softly, just after we’d come.I
+			</p>
+			<pb n='102'/>
+			<p>
+				<lb/>could only stand and nod but we both felt the pull.
+				<lb/>Another who knows the left side dying. Said that some
+				<lb/>day l’d come back for a visit. That night, I knew it was
+				<lb/>time.
+				<lb/>But l had no last name or room number and Annie's
+				<lb/>line was still busy. When I reached her she told me, he
+				<lb/>was leaving the next day. His parents were taking him
+				<lb/>home to die. We went back to the hospital next morning
+				<lb/>at dawn, pulled by a power, a trust beyond reason. Where
+				<lb/>were you, asked Tom. Last night was so awful. Theyre all
+				<lb/>crazy animals. I wanted you to come and you didn’t. I
+				<lb/>couldn’t get here by myself but I heard you call. We
+				<lb/>shared his breakfeast for feelings that gave us. All know
+				<lb/>ing the pleasure of taking what's good. It’s so important to
+				<lb/>see all the leaving. Don’t let them hide the knowing from
+				<lb/>you. To see clearly you’ll have to look through your pain.
+				<lb/>It gets so beautiful when you admit what is real. To die is
+				<lb/>no sadder than anything else. When I stood to leave,
+				<lb/>knew we had met. Instead ot goodbye he gave me his hat
+				<lb/>A bright orange knit hat had covered his shaven head
+				<lb/>The feel of a helmet, protection—like in henna’s jar. As
+				<lb/>long as l wore it, my head would be safe. Events kept
+				<lb/>stringing together. Someone had thought my hair should
+				<lb/>be red. A current of thought, a force that was larger. Who
+				<lb/>do you think was messing around with my head? Witches
+				<lb/>are known for their red hair all over the world. It tied in
+				<lb/>with legends of strangers who came from distant lands,
+				<lb/>strangers with red hair and blue eyes. There, you see
+				<lb/>She’s at it again. It’s no wonder I thought my life had been
+				<lb/>blessed.
+				<lb/>Tom sent me a painting. That was important. The
+				<lb/>painting was framed in the way of my looking. It hung on
+				<lb/>the wall for when I could see. Taking a glance I first felt
+				<lb/>afraid. Somehow, word of my magic hadn’t moved to the
+				<lb/>Waterhouse. Susan, at center, was spinning me ’round.
+				<lb/>All l really wanted was for Susan to love me. The fact that
+				<lb/>she didn’t became a new koan. I couldn’t help wanting
+				<lb/>her and knew that the wanting was what kept me out. But
+				<lb/>wanting was feeling, an energy flow. I had to want Susan
+				<lb/>to make my arm dance. New breakthroughs: breaking so
+				<lb/>much I walked on cut glass. I wanted to leave, according
+				<lb/>to schedule. Afraid, if I didn’t, I never would. Easy enough
+				<lb/>to go back to school; a crippled whiz-kid who’s excused
+				<lb/>half her brain. Clear, to stay here, there’s no happy
+				<lb/>ending. Go in the direction of my dancing arm.
+				<lb/>On the agenda of dreams made to order, a plan was
+				<lb/>still held by my mentor. Beautiful lady in worlds full of
+				<lb/>color. I loved how she sailed such sights from my soul
+				<lb/>Knowing she loved me, showed I was good. If I could join
+				<lb/>her, then I wasn’t broken. Healers together, keeping alive.
+				<lb/>She’d been the Waterpeople’s credentials. She’d battled
+				<lb/>my mother and she had won. Guiding me always through
+				<lb/>a war of decisions, she seemed to know the rules of the
+				<lb/>game. But our lives had gotten twisted around the event.
+			</p>
+			<p>
+				<lb/>Summer and Mentor packed me off to Milwaukee
+				<lb/>Lived by the lake in a castle-like house; her lover lived
+				<lb/>with us and she was the star. I was to build my world onto
+				<lb/>hers. Take up her practice where she left off. They’d fly
+				<lb/>away and return for reflection, the heat of their living
+				<lb/>made my only light. With summer’s passing, my mind
+				<lb/>turned to crystal. I thought I must freeze not to loose
+				<lb/>what I knew. No ground for my being kept me an object
+				<lb/>on foreign soil. Left arm hanging down like a clipped
+				<lb/>wing. I left the damn city, the first day of Fall. Take what!
+				<lb/>knew and trust it to heal me. No way to make the next
+			</p>
+			<p>
+				<lb/>moment safe. Iso
+				<lb/>flinging off
+				<lb/>rules.
+				<lb/>Get up, out of the middle I heard a voice call. Stuck in
+				<lb/>the middle, since I could remember. A family, this state,
+				<lb/>this century. Get by with no boundaries. That’s how to
+				<lb/>survive. Feelings. Magnets to sources whose endings were
+				<lb/>dead. Be a Good Catholic Girl, or politico or shrink.
+				<lb/>Change the answers to questions and follow the flow. The
+				<lb/>only room I felt led out on the highway, drive to New
+				<lb/>York, no need for a map. Stay in the present or the crack
+				<lb/>would come open. Things falling out where I couldn’t see.
+				<lb/>New York appeared a platform of safety—fly towards
+				<lb/>outside and land on my feet. New. York was the world!
+				<lb/>left, inside out. Here to begin, l’d come to the landing. It
+				<lb/>seemed everyone here had just left the boat.
+				<lb/>But back to St. Louis, prodigal child. A trial was
+				<lb/>scheduled—on the subject of brain damage. No question
+				<lb/>of fault —the woman had been on the wrong side of the
+				<lb/>road. All that was left was to determine the extent of the
+				<lb/>damage. Damage or magic? That was my question. The
+				<lb/>roads of this journey, the truth would unfold. The Past
+				<lb/>would provide the vision so that I could see who lwas.
+				<lb/>Mythmaker, living a part of the tale. Go back to the trial
+				<lb/>—then travel the country—follow a spiral knotted with
+				<lb/>dreams. Travel the distance to an old point of view, back
+				<lb/>to Grandmother who lay in bed dying. Join all the women
+				<lb/>— over my mother’s head. Whisper to the old women, hei
+				<lb/>mother’s name. Make me a name to roll off the tongue.
+				<lb/>Mary Martha McGuire, say who l am.
+				<lb/>Riding in Goldie, l’d skim the earth, picking up point
+				<lb/>ers from friends where they lay. Connections l’d made l’d
+				<lb/>paint on a mural. One rose in the sun, glitter paint for the
+				<lb/>water, moon on the left. Maybe a bird on the back of the
+				<lb/>van, to show that a nest could fly. Filled with junk from
+				<lb/>all the unmoving, Goldie began this like a good scout. She
+				<lb/>carried an old chair of my mother’s, dancing with clutter.
+				<lb/>Isaid hold me and show me the vision I need.
+				<lb/>Return to St. Louis but instead of answers — all ques
+				<lb/>tions. All looking at me. Leaders of living had all gone
+				<lb/>away. No one to judge the stand that I took, no one to
+				<lb/>help me decide. My arm danced for the lawyer when
+				<lb/>told him the truth. My trial was over, with my questions
+				<lb/>for answers. Come to find out the planet is me.
+				<lb/>In Goldie there was Pat in Florida, Pat in Mexico, Pat
+				<lb/>who was the lover of the woman who had given The
+				<lb/>Comforter to Susan. Pat with me in Texas, where I went to
+				<lb/>see my sister. The threads of the pattern still weaving.
+				<lb/>A member of family at Christmas, work the way back
+				<lb/>in. This was to be the introduction of magic, the next
+				<lb/>logical step towards going home. My sister was kind and
+				<lb/>then angry at damage. When my parents wouldn’t talk to
+				<lb/>me on Christmas, I saw what she meant. I couldn’t move
+				<lb/>backward and so l leaned forward. Out to find Pat to
+				<lb/>spend The New Year
+				<lb/>A woman was with her, when I arrived at the house.
+				<lb/>Mary, someone l’d already met. Then, she had told mel
+				<lb/>gave her the creeps. She thought I could see through her.
+				<lb/>As for me, that was fine. Sore from the cutting I felt from
+				<lb/>my family, trying to tie my egg to a knot. They wanted to
+				<lb/>trip and I decided to do it. Have someone with me, feeling
+				<lb/>ot home. Went to a house in the country, where Pat knew
+				<lb/>two women. Down by the river better to follow the light
+				<lb/>of the day. Mary moved among trees, me trailing after.
+				<lb/>With me, she felt a pain of her own. Each time I got
+				<lb/>settled, she told me to move. She seemed to enjoy the
+				<lb/>role that I gave her. Asking for safety and then l was
+				<lb/>hounded. Heard her footsteps and took to the woods.
+			</p>
+			<pb n='103'/>
+			<p>
+				<lb/>One step at a time, the rhythm was walking. Feet
+				<lb/>stroking earth’s breast in a dream. Follow the path of my
+				<lb/>dancing arm. Tripping my brains out, brain-damaged
+				<lb/>pervert, loose in the woods. Lost in west Texas, Iwalked
+				<lb/>foreign country. Night started falling and the monster was
+				<lb/>me. Too strange for Christmas, good Catholic girl, matted
+				<lb/>to Mother’s nightmare. She slept while she dreamed that!
+				<lb/>walked it alone. House on the hill had just turned its lights
+				<lb/>on, thought when ! saw it l’d found the way back. Stuck in
+				<lb/>fairy tales, l’d lost direction. From this point, home could
+				<lb/>be anywhere.
+				<lb/>Night had crept in, all the way to the fence. Go to the
+				<lb/>house, they’Il find out you’re crazy. Strap a machine on
+				<lb/>you and then you’ll survive. Approaching the door like a
+				<lb/>penitent sinner. Beaten down cur, held at bay by a dog.A
+				<lb/>boy turned to woman came out with her friend. She asked
+				<lb/>me again where I wanted to go. But my mouth couldn’t
+				<lb/>hold the sounds it should make. Pat’s name for a handle,
+				<lb/>out with a stammer. I breathed when she grabbed it, she
+				<lb/>knew I belonged. Other house in the country—for women
+				<lb/>out flying. Come into the kitchen and wait for your
+				<lb/>friends. Pat laughed when she saw me curled up in a
+				<lb/>chair. Argument ended, the world could be trusted
+				<lb/>starting with self. But I remembered trees cutting black
+				<lb/>ness—showing me depths waiting below.
+				<lb/>Before leaving Texas, I made a last visit. Passed
+				<lb/>mother’s chair onto my sister; seat that had told me all
+				<lb/>that it could. Grandmother lay dying, surrounded by
+				<lb/>guards. Ileft Texas crying deep in my soul. Driving into
+				<lb/>New York I was doubly careful. Try not to fall off eithei
+				<lb/>side. Tired standing on the brim, but I mustn’t wander
+				<lb/>Night’s edges are sharp. No one to blame but yourself if
+				<lb/>you fall. Learn how to be here, out, up, on the ledge.
+				<lb/>One semester of grad school and l’d have credentials.
+				<lb/>Keep rhythm going through system of brakes. Prove
+				<lb/>could do it—this ledge is by choice. People began to look
+				<lb/>at me strangely, always, it seemed, l’d dropped from the
+				<lb/>sky. I asked their location and they thought I was lost. Bag
+				<lb/>ladies were comrades in this fading light. So mother was
+				<lb/>right after all —being alive is too much to ask
+				<lb/>On a trip to the ocean, I saw it all clearly. When the
+				<lb/>sun lay gray on the water, I knew for a fact. The world
+				<lb/>hadn’t changed and the pain was in me. A case of terminal
+				<lb/>blindness—unless help arrived. Pity. Feel for the first time
+				<lb/>this body’s sorrow. Hurting so long, not making a sound.
+				<lb/>Take it for granted—left has more feeling. Right clenching
+				<lb/>teeth, old broken jaw. Each cell in my body held in a
+				<lb/>scream. Make another world for me out of what’s left.
+				<lb/>got something I could touch and see and carry home,
+				<lb/>covered in brown paper.
+				<lb/>You can only see bubbles looking down.
+				<lb/>BURSTING—take a drink.
+				<lb/>Buy a machine. At first, the left side of my body had felt
+				<lb/>like a balloon. Feeling came back like a mouth out of
+				<lb/>novocaine. Like hair that’s electric, after the brush
+				<lb/>My vibrator’s bright orange, same as the hat. Before,
+				<lb/>orgasms had only happened by accident. First lady lover
+				<lb/>had brought them to me. I squirted with laughter, to find
+				<lb/>such release. Liquid feeling, I could hardly stand. Frozen
+				<lb/>rod-like again, afraid of shattered glass. Seduce battered
+				<lb/>body, down to the feet.
+				<lb/>Inside had to see what outside was doing. Strange to
+				<lb/>be meeting now. Before the accident l’d found comfort
+				<lb/>looking—gazing into the mirror till I liked myself. A
+				<lb/>method of greeting, across foreign lands. To go further,
+			</p>
+			<p>
+				<lb/>needed some outside validation. Odds were just fair,
+				<lb/>being broken, this would bring me to heal. Diana men
+				<lb/>tioned an article she’d read. The true myth of Narcissus,
+				<lb/>knew that was me. Ovid wrote the myth in Metamorphosis
+				<lb/>— an old story, since distorted by the insurgents. But the
+				<lb/>real myth has a different feel to it—about self-knowledge,
+				<lb/>not self-love. Tiresias prophesied that Narcissus would
+				<lb/>live to a ripe old age provided he never"knew" himself,
+				<lb/>not if he never "loved" himself. Narcissus went to the
+				<lb/>pool to quench a deep thirst. He looked into the water
+				<lb/>and heard something melt with the knowing. The image is
+				<lb/>The story’s about the process of change. All transfor
+				<lb/>mations first feel like death. Death of who you once were
+				<lb/>is included in the price. Becoming more than you now
+				<lb/>are, knowing more than you now know, follows like a
+				<lb/>flower, just as Narcissus bloomed at the edge of the pool.
+				<lb/>To get this in motion, you need only look.
+				<lb/>Enough to send me out on a brazen new experiment.
+				<lb/>Down in the dark to face the poor monster l’d left in the
+				<lb/>woods. Orgasm felt like energy rattling pieces of me in the
+				<lb/>night. Brain-damaged cripple, I needed a watcher. Some
+				<lb/>one to tell me if l haven’t come up. I went back into
+				<lb/>therapy and rented her eyes.
+				<lb/>The material world is holy I had to plug it up. My
+				<lb/>mantra was moldy from three years hard using. Time to
+				<lb/>replace it with many mirrors. Looking in mirrors, left
+				<lb/>found the right, long awaited reunion. Hands crossing
+				<lb/>over to match up the feelings. Each hand was holding
+				<lb/>what the other side knew. Tom’s painting cleared to an
+				<lb/>EYE. I couldn’t remember what had frightened me
+				<lb/>My therapist said at meeting that she was surprised at
+				<lb/>my chronological age. Color and light had gone out of my
+				<lb/>world. It showed on my face I had tasted defeat. Pain
+				<lb/>turned to anger and on its way out let me know l’d been
+				<lb/>screwed. All of the pieces were flying together. Coming so
+				<lb/>fast, they made my eyes spin. I went in from the ledge:
+				<lb/>down, up, dn 'umop
+				<lb/>towards compassion for self.
+				<lb/>Being my body made me replaceable. Just cells inter
+				<lb/>acting. There must be common channels, if I could only
+				<lb/>find where to tune. Moon of the Mother, look for fine
+				<lb/>sources; find the reflection and see your own face.
+				<lb/>Now, think over what l’m saying. There may be a way
+				<lb/>to help us get back. The medicine is dangerous, in which
+				<lb/>lies its power. Stand before a mirror. Just keep eye contact
+				<lb/>until you’ve said hello. Rest on the stream of feeling
+				<lb/>flowing through your eyes. Know the safety of that place
+				<lb/>where you ARE all change. Cry in your face—hurting
+				<lb/>sorrow. Cross your hands and begin to touch —life starts
+				<lb/>to flow. Masturbate to water roses, feel the color come.
+				<lb/>Cross your eyes a new dimension. Vision of the Eye.
+				<lb/>Twinkling lights dance over the surface. Through the
+				<lb/>mirror to the other side. The Goddess is you, in your
+				<lb/>image.
+				<lb/>The gift of the Goddess is body to soul, soul to body.
+				<lb/>Imagine the energy if we all looked at once. The Patri
+				<lb/>archy could not stand such a blow. They took our bodies
+				<lb/>away by forbidding the looking. They said we were
+				<lb/>objects and they had the eyes. But they can never kill Her,
+				<lb/>only try to get us to knock ourselves off. And we’ll never
+				<lb/>do it. Her reflections are scattered through their dark
+				<lb/>halls.
+				<lb/>Remember the past. The Goddess grows restless. All
+				<lb/>alone I can’t stand the heat of Her energy. Help me,
+				<lb/>sisters. Look in the mirror.
+			</p>
+			</div>
+      </body>
+   </text>
+</TEI>

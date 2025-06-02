@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Reemergence of the Archetype of the Great Goddess in Art by Contemporary Women</title>
+            <author>Gloria Feman Orenstein</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='74'/>
+			<p>
+				<lb/>The Reemergence of the Archetype of the Great
+				<lb/>Goddess in Art by Contemporary Women
+				<lb/>Gloria Feman Orenstein
+			</p>
+			<p>
+				<lb/>As the archetype of the Great God
+				<lb/>dess reemerges into consciousness
+				<lb/>today, women artists, through trans
+				<lb/>personal visionary experiences, are
+				<lb/>bringing to light energic psychic
+				<lb/>forces, symbols, images, artifacts and
+				<lb/>rituals whose configurations con
+				<lb/>stitute the basic paradigm of a new
+				<lb/>feminist myth for our time.
+				<lb/>When a psychological need arises i
+				<lb/>seems inevitably the deeper layers of
+				<lb/>the collective unconscious are acti
+				<lb/>vated and sooner or later the memory of
+				<lb/>a myth of an event or an earlier psychic
+				<lb/>state emerges into consciousness.
+				<lb/>Evoking the memory of an earlien
+				<lb/>psychic state, one in which divinity
+				<lb/>was seen to reside in matter and the
+				<lb/>energies of the earth were revered as
+				<lb/>sacred, the Goddess has become that
+				<lb/>symbol of transformation which
+				<lb/>activates those forces within woman
+				<lb/>identified with holiness and with cre
+				<lb/>ative power. If the artist is the avatar
+				<lb/>of the new age, the alchemist whose
+				<lb/>great Art is the transformation of con
+				<lb/>sciousness and being, then contem
+				<lb/>porary women artists such as Mary
+				<lb/>Beth Edelson, Carolee Schneemann,
+				<lb/>Mimi Lobell, Buffie Johnson, Judy
+				<lb/>Chicago, Donna Byars, Donna Henes,
+				<lb/>Miriam Sharon, Ana Mendieta, Betsy
+				<lb/>Damon, Betye Saar, Monica Sjoo and
+				<lb/>Hannah Kay, by summoning up the
+				<lb/>powers associated with the Goddess
+				<lb/>archetype, are energizing a new forn
+				<lb/>of Goddess consciousness, which, in
+				<lb/>its most recent manifestation is ex
+				<lb/>orcising the patriarchal creation myth
+				<lb/>through a repossession of the female
+				<lb/>visionary faculties.
+				<lb/>This new Goddess consciousness
+				<lb/>might be described most effectively as
+				<lb/>a holistic mind-body totality. As we
+				<lb/>move away from the cultural dom
+				<lb/>inance of the masculine archetype
+				<lb/>characterized by a mind-body duality,
+				<lb/>we find that the model of the sor
+				<lb/>cerer’s vision serves as a corrective
+				<lb/>alternative for a consciousness expan
+			</p>
+			<p>
+				<lb/>sion in which intuitive body-knowl-
+				<lb/>edge is reaffirmed as a faculty of intel
+				<lb/>ligence. Transcending the false du
+				<lb/>alities and dichotomies established by
+				<lb/>patriarchal systems of thought which
+				<lb/>split mind from body, spirit from mat
+				<lb/>ter and sacred from profane, the Great
+				<lb/>Goddess as a psychic symbol suggests
+				<lb/>the rebirth of woman to a holistic
+				<lb/>psychophysical perception of the
+				<lb/>sacred, as a new form of her feminist
+				<lb/>evolution.
+				<lb/>Artists who are in touch with the
+				<lb/>archetype of the Goddess are now us
+				<lb/>ing the female form in both image and
+				<lb/>ritual as an instrument of spirit-knowl
+				<lb/>edge. They are training the body so
+				<lb/>that it functions as a conscious per
+				<lb/>ceptor and transformer of the power
+				<lb/>ful energies that reside in matter, both
+				<lb/>animal and vegetable. Through the
+				<lb/>psychophysical participation in Edel
+				<lb/>son’s magical ceremonies of evoca
+				<lb/>tion, through the transformation of
+				<lb/>the body into a living totem in
+				<lb/>Damon’s rituals, through the stimula
+				<lb/>tion of the body via meditation upon
+				<lb/>the power points in the body icons of
+				<lb/>Kurz’s self-portrait as the Durga, or
+				<lb/>Mailman's mirror image as God,
+				<lb/>through the fusion of the body with
+				<lb/>the earth itself in Mendieta’s alchem
+				<lb/>ical burials, through the sacrilization
+				<lb/>of the body in Lobell's Goddess Tem
+				<lb/>ple, and through a merging with the
+				<lb/>spirit of the Goddess in Suzanne Ben
+				<lb/>ton’s masked ritual theater, women
+				<lb/>are gradually repossessing the powers
+				<lb/>long associated with the various man
+				<lb/>ifestations of the archetype of the
+				<lb/>Goddess.
+				<lb/>This new art (in which the arche
+				<lb/>type of the Goddess plays a catalytic
+				<lb/>role) is not based upon an original
+				<lb/>creation myth connected with the fer
+				<lb/>tiity and birth mysteries. In its modern
+				<lb/>transformed meaning, it is about the
+				<lb/>mysteries of woman’s rebirth from
+				<lb/>the womb of historical darkness, in
+				<lb/>which her powers were so long en
+				<lb/>shrouded, into a new era where a cul-
+				<lb/>ture of her own making will come
+			</p>
+			<p>
+				<lb/>about as a result of a new Earth
+				<lb/>Alchemy.
+				<lb/>If the alchemy performed by the
+				<lb/>male magician sought essentially to
+				<lb/>purify brute matter by transforming it
+				<lb/>into spirit, taking gold or the philos
+				<lb/>opher’s stone as the symbol of spir
+				<lb/>itual enlightenment, the supreme goal
+				<lb/>of alchemy for women artists today is
+				<lb/>to restore the spirit already inherent in
+				<lb/>the natural world; to consider matter
+				<lb/>itself as a storehouse of the potent
+				<lb/>energies most available for transfor
+				<lb/>mations in their natural organic state
+				<lb/>Women are attempting nothing less
+				<lb/>than the magical dealchemizing of
+				<lb/>the philosopher’s stone, the recon
+				<lb/>stitution of the Earth Goddess’s origi
+				<lb/>nal herborium on the planet and the
+				<lb/>energizing of the self through the
+				<lb/>internalization of its sacred spirits. It
+				<lb/>is no mere coincidence that the al
+				<lb/>chemical symbols of “witchcraft,” the
+				<lb/>magic of the wise women who wor-
+				<lb/>shipped the Goddess, are herbs,
+				<lb/>grains, plants and seeds. The desire to
+				<lb/>alter both mental and physical func
+				<lb/>tioning translates an impulse to in
+				<lb/>tegrate the Earth Goddess’s chemica
+				<lb/>secrets into the body and to carry the
+				<lb/>Goddess within the self. In so doing,
+				<lb/>women now activate a Goddess con
+				<lb/>sciousness within matter by means of
+				<lb/>which all contemporary culture will
+				<lb/>be awakened
+				<lb/>Jung said: "To carry a god around in
+				<lb/>yourself is a guarantee of happiness
+				<lb/>of power, and even of omnipotence in
+				<lb/>so far as these are attributes of divin
+				<lb/>ity."2
+				<lb/>Contemporary woman's need to
+				<lb/>carry a "god" around within the self
+				<lb/>her desire to transform herself into the
+				<lb/>image of the Goddess, arises from a
+				<lb/>deep historical imperative. Research
+				<lb/>into the history of Goddess worship
+				<lb/>gives ample evidence of the desecra
+				<lb/>tion of Goddess temples, shrines,
+				<lb/>altars and sanctuaries, and of the sys
+				<lb/>tematic erasure of all traces of God
+				<lb/>dess worship from the face of the
+				<lb/>earth. Through the persecution of
+			</p>
+			<pb n='75'/>
+			<p>
+				<lb/>witches, sacred knowledge of the Old
+				<lb/>Religion had to be transmitted through
+				<lb/>visual and oral lore from generation to
+				<lb/>generation. Where once the Goddess
+				<lb/>was worshipped at sacred natural sites
+				<lb/>with the Earth identified as the body
+				<lb/>of the Great Mother, today women
+				<lb/>are transforming their own bodies into
+				<lb/>those sacred repositories of Goddess
+				<lb/>knowledge and energy
+				<lb/>The repossession by woman of the
+				<lb/>attributes of the Great Goddess is
+				<lb/>necessary in order to provide fun
+				<lb/>damental changes in vision and re
+				<lb/>ality. Under the hegemony of patri
+				<lb/>archal religions, notably Christianity,
+				<lb/>which has conditioned Western con
+				<lb/>sciousness over many centuries
+				<lb/>through image-making and ritual, a
+				<lb/>profound mystification has been per
+				<lb/>petrated on so large a scale that one
+				<lb/>of the first functions of this new art is
+				<lb/>to exorcise the sexist impact and in
+				<lb/>terpretation of all sacred imagery.
+				<lb/>Christian art, for example, by estab
+				<lb/>lishing the paradoxical image of the
+				<lb/>Virgin Mother, has encouraged wom
+				<lb/>en to hallucinate an impossibility as if
+				<lb/>it were a natural image of reality. In
+				<lb/>order to reestablish the validity of the
+				<lb/>natural image of Mother and Child as
+				<lb/>incorporated in the archetype of the
+				<lb/>Fertility Goddess, contemporary
+				<lb/>artists are celebrating sexuality by in
+				<lb/>voking ancient images of the Great
+				<lb/>Mother that exalt procreation and
+				<lb/>superimposing them over the former
+				<lb/>image of the Virgin and Child.
+				<lb/>Another integral part of the process
+				<lb/>of Goddess-culture art are the expedi
+				<lb/>tions to caves, mounds, sanctuaries
+				<lb/>shrines or megalithic sites in search of
+				<lb/>the energy evoked and the artifacts or
+				<lb/>symbols of veneration left by ancient
+				<lb/>cults which worshipped the Goddess.
+				<lb/>In this kind of search artists are mak
+				<lb/>ing the heretofore invisible, manifest
+				<lb/>again. This visionary technique of
+				<lb/>rendering the invisible and the real
+				<lb/>visible once more and ultimately
+				<lb/>abolishing the separation between the
+				<lb/>spiritual and the material plane rees
+				<lb/>tablishes the human and the natural
+				<lb/>as the legitimate realm of the divine.
+				<lb/>The energy formerly required to ac
+				<lb/>cept Christian illusion is now released
+				<lb/>for the accomplishment of the true
+				<lb/>work of alchemical transformation
+				<lb/>that of preparing and retraining the
+				<lb/>mind-body perceptor so that womer
+				<lb/>may now perform their highest
+				<lb/>functions.
+				<lb/>This exaltation of natural energies
+				<lb/>releases enormous potential so that
+				<lb/>women may begin to transform them
+				<lb/>selves into living repositories of
+				<lb/>sacred knowledge, storing their total
+			</p>
+			<p>
+				<lb/>history within their bodies, their
+				<lb/>psychic memory and their art as a
+				<lb/>natural form of protection against
+				<lb/>future persecution or annihilation. As
+				<lb/>bearers of sacred tradition, contem
+				<lb/>porary feminist artists use ritual to re
+				<lb/>sacrilize the female body, creating a
+				<lb/>new sacred space for the enactment
+				<lb/>of those magical rebirth ceremónies
+				<lb/>that are first coming into our culture
+				<lb/>through art.
+				<lb/>In Beyond Cod the Father, Mary
+				<lb/>Daly, redefining God as a verb, as a
+				<lb/>participation in being, rather than
+				<lb/>anthropomorphically as a being, sug
+				<lb/>gests that women’s participation in
+				<lb/>history, her new sisterhood, is a
+				<lb/>means of saying "us vs. nonbeing.
+				<lb/>What we are about is the human be
+				<lb/>coming of that half of the human race
+				<lb/>that has been excluded from humanity
+				<lb/>by sexual definition.. What is at stake
+				<lb/>is a real leap in human evolution, in
+				<lb/>itiated by women.
+			</p>
+			<p>
+				<lb/>The Goddess, then, is that arche
+				<lb/>type which mediates between image,
+				<lb/>energy and history, evolving and un
+				<lb/>folding destiny through the redirec
+				<lb/>tion of energy into a revolutionary
+				<lb/>manifestation of being. When imaged
+				<lb/>and celebrated in contemporary art,
+				<lb/>the Goddess signifies Being as a verb,
+				<lb/>as a creative energy, as a transfor
+				<lb/>mative energy, as sacred earth-energy
+				<lb/>and as psychic energy. Contemporary
+				<lb/>women artists are using the documen
+				<lb/>tation that is being gathered on the
+				<lb/>various manifestations of the Goddess
+				<lb/>from the Upper Paleolithic and Neo
+				<lb/>lithic communities to the present both
+				<lb/>as visual and as informational data, as
+				<lb/>elements of the new art works or
+				<lb/>events they are creating in accordance
+				<lb/>with the elaboration of a new myth
+				<lb/>synonymous with the exigencies of
+				<lb/>female culture in the 1970s
+				<lb/>Architect Mimi Lobell and two
+				<lb/>other women, one a Jungian, have de
+			</p>
+			<pb n='76'/>
+			<p>
+				<lb/>signed a Goddess Temple which ex
+				<lb/>presses the theme of initiation and
+				<lb/>rebirth into a Goddess-centered cul
+				<lb/>ture. They consider the temple to be
+				<lb/>the externalization of an archetypal
+				<lb/>structure that exists within the psy
+				<lb/>che. The temple, whose eventual site
+				<lb/>will be a mountainous region near
+				<lb/>Aspen, Colorado, is conceived as an
+				<lb/>alogous to the body of the Goddess
+				<lb/>through which the initiate will pass in
+				<lb/>a ceremony of transformation. Its
+				<lb/>form and materials function as a
+				<lb/>catalyst for this process. According to
+				<lb/>Lobell, "To go through the temple will
+				<lb/>be to experience an initiation into the
+				<lb/>mysteries of the feminine and activate
+				<lb/>a prelogical consciousness."“
+				<lb/>As planned, the temple is ap
+				<lb/>proached via an uphill walk along a
+				<lb/>"sacred way" lined with figures of
+				<lb/>animals. The entrance is at the lower
+				<lb/>level, which appears to be buried in
+				<lb/>rock. Deep in this rock the veiled
+				<lb/>entry leads to a nine-ring labyrinth.
+				<lb/>Reversing the process of birth one
+				<lb/>enters through the vaginal orifice and
+				<lb/>journeys toward the third eye of en
+				<lb/>lightenment. The walls of the labyrinth
+				<lb/>are covered with exotic fabrics and
+				<lb/>tapestries, weavings, batiks, silks and
+				<lb/>lace from various ethnic sources. In
+				<lb/>the center of the labyrinth lies the
+				<lb/>sunken grail pool, inscribed with a
+				<lb/>serpentine spiral. A helical ladder, 15
+				<lb/>feet high, rises out of the pool and
+				<lb/>ascends to the upper temple, which at
+				<lb/>eye level becomes a 360-degree open
+				<lb/>windowed panorama of the moun
+				<lb/>tains and valleys. Over the windows
+				<lb/>are 29 perforations in the shape of the
+				<lb/>moon, one for each of its monthly day
+				<lb/>cycle. The altar is a part of the Great
+				<lb/>Eye of Vision of the Eye Goddess.
+				<lb/>We are one with that all receptive 360
+				<lb/>degree panoramic perception in the
+				<lb/>Oculus of the Eye Goddess, warmed by
+				<lb/>the fires of Vesta, the libidinous energy
+				<lb/>that keeps us integrated with our bodies
+				<lb/>and with all of our sensuous lenses onto
+				<lb/>the mysteries of the universe. The water
+				<lb/>of the hydolunar force has been trans
+				<lb/>muted into the fire that ignites the fem
+				<lb/>inine wisdom of Sophia and the Muses
+				<lb/>and the Oracles and Sybils.
+				<lb/>Becoming conscious of the pres
+				<lb/>ence of Goddess imagery in one's
+				<lb/>work is a long arduous process of
+				<lb/>visual reeducation. Carolee Schnee
+				<lb/>mann, who in childhood saw the
+				<lb/>radiant face of the Great Mother in
+				<lb/>the moon and believed that the world
+				<lb/>was permeated by invisible energies
+				<lb/>unconsciously made her first Goddess
+				<lb/>image in 1963 when she was working
+				<lb/>on her theater piece Chromolodeon.
+				<lb/>In her desire for a companion figure
+			</p>
+			<p>
+				<lb/>for the piece, she made the head of a
+				<lb/>horned bull and mounted it on a
+				<lb/>clothed dressmaker’s dummy. Seven
+				<lb/>years later she was to discover that the
+				<lb/>bull was the sacred beast of the Great
+				<lb/>Goddess. In the 1960s Schneemann
+				<lb/>did not yet understand the real signif
+				<lb/>icance of the bull iconography in her
+				<lb/>work. In her series of body pieces
+				<lb/>such as Meat Joy of 1964, she began
+			</p>
+			<p>
+				<lb/>to put the materials from the static
+				<lb/>works onto herself, and in Eye Body
+				<lb/>(1963) she used two snakes on her
+				<lb/>body in a set of transformative ac
+				<lb/>tions. Later, reviewing her artistic
+				<lb/>evolution through the 1970’s, Schnee
+				<lb/>mann came to understand that the
+				<lb/>serpents in her earlier works were re
+				<lb/>lated to the Minoan Snake Goddess
+				<lb/>through a series of iconographica
+				<lb/>similarities and personal connections
+				<lb/>The figure of the Minoan Snake
+				<lb/>Goddess, arms upright, is currently
+				<lb/>featured in much Goddess-culture art
+				<lb/>This merging of the self with that of
+				<lb/>the Goddess functions as a mirror
+				<lb/>reflection in which women see them
+				<lb/>selves as the Goddess and the God
+				<lb/>dess in themselves.
+				<lb/>The process of the evolution of
+				<lb/>Goddess consciousness itself became
+				<lb/>the theme of Homerunmuse (per
+				<lb/>formed at the Brooklyn Museum dur
+				<lb/>ing the Women Artists 1550-1950
+				<lb/>show, Fall 1977). In a meditation
+				<lb/>upon the female and the muse, whose
+				<lb/>presence is indicated in the word
+				<lb/>"museum," but whose usual absence
+				<lb/>from the institution was made ob
+				<lb/>vious by the fact of the women artists'
+			</p>
+			<pb n='77'/>
+			<p>
+				<lb/>show, Schneemann rejects “the ab
+				<lb/>stracted token Muse as fragmenta
+				<lb/>tion. Through a collage of texts
+				<lb/>Schneemann reiterates the theme of
+				<lb/>woman remaking herself into the
+				<lb/>image of the Goddess.
+				<lb/>Israeli artist Miriam Sharon per
+				<lb/>forms desert rituals that are rites of
+				<lb/>exorcism overthrowing the patriarchal
+				<lb/>model that constructed alienating
+				<lb/>cityscapes of concrete over the an
+				<lb/>cient earth shrines and sacred sites.
+				<lb/>Her pilgrimage to the desert put her in
+				<lb/>contact with the Bedouins, “the last
+				<lb/>survivors of the Earth Living Culture."
+				<lb/>Her own Space Project-Earth People
+				<lb/>which grew out of her stay in the
+				<lb/>desert is a ritual act of identification
+				<lb/>with the Earth Culture. Through med
+				<lb/>itation rituals in the wilderness,
+				<lb/>Sharon expresses the wish to recreate
+				<lb/>an ancient lost myth of the Earth.
+				<lb/>Sharon’s reclamation of the barren
+				<lb/>earth as the natural holy shrine and
+				<lb/>her use of the desert as a temple for
+				<lb/>meditation exemplify the return to
+				<lb/>primal matter as holy matter. Her par
+				<lb/>ticipation with the Bedouins in the life
+				<lb/>of the desert as Goddess-space paral
+				<lb/>lels the initiatory experience of
+				<lb/>Lobell’s Goddess Temple. However,
+				<lb/>Sharon defines “holy” as without
+				<lb/>shrines or temples, holy in its being
+				<lb/>only.
+				<lb/>The Bedouins (whom I adopted some
+				<lb/>years ago as part of my work) are part
+				<lb/>of this “meditative” existence of the
+				<lb/>desert. They meditate daily in front of
+				<lb/>the wide seas or wide wilderness of the
+				<lb/>desert. They kiss the earth for their
+				<lb/>existence. They never thanked their
+				<lb/>"god" by building huge temples, but
+				<lb/>just kissed the sands. When they will
+				<lb/>disappear they will never leave behind
+				<lb/>any traces for their existence, except
+				<lb/>the stones of their burial places. I try
+				<lb/>through my art, not to build static
+				<lb/>sculptures or monuments in the spaces
+				<lb/>but only put human energy through my
+				<lb/>art (a ritual art) into something that is
+				<lb/>disappearing.
+				<lb/>Sharon’s recent Sand Tent Project
+				<lb/>involved the participation of a Bed
+				<lb/>ouin tribe and a Kibbutz settlement
+				<lb/>(Kerem Shalom). The Bedouin Mother
+				<lb/>who taught her how to create such a
+				<lb/>tent is the last survivor of the tent life
+				<lb/>in that area. Sharon’s apprenticeship
+				<lb/>to the wise women who know the
+				<lb/>secrets of the earth is an affirmation
+				<lb/>of woman as Goddess-incarnation.
+				<lb/>The desert, for Sharon, symbolizes
+				<lb/>patriarchal spiritual values (the barren
+				<lb/>emptiness) which must be exorcised
+				<lb/>and is, at the same time, that pure
+				<lb/>clear space of the new frontier, repre
+				<lb/>senting the new female space of
+				<lb/>herstory upon which our lost traces
+			</p>
+			<p>
+				<lb/>will be reinscribed and our new destiny
+				<lb/>will be written.
+				<lb/>Ana Mendieta, who came to the
+				<lb/>U.S. from Cuba in 1961, thinks of the
+				<lb/>Earth as the Goddess. She recalls a
+				<lb/>mountain in Cuba, La Mazapan de
+				<lb/>Matanza, that is in the shape of a re
+				<lb/>clining woman. Her transformational
+				<lb/>rituals explore the boundaries be
+				<lb/>tween spirit and matter. In a piece
+				<lb/>she did in a labyrinth, Silueta de
+			</p>
+			<p>
+				<lb/>Laberinto (1974), she worked with the
+				<lb/>metamorphosis of the self that occurs
+				<lb/>in sorcery and trance. In this piece
+				<lb/>someone traced her silhouette on the
+				<lb/>ground. When Mendieta left the laby
+				<lb/>rinth, her image was imprinted upon
+				<lb/>the earth, suggesting that through a
+				<lb/>merging with the Goddess spirits are
+				<lb/>evoked that infuse the body and cause
+				<lb/>such occurrences as out-of-body
+				<lb/>journeys or astral travel. In Earth
+			</p>
+			<pb n='78'/>
+			<p>
+				<lb/>Sorcery, of which all her works are
+				<lb/>examples, the Earth Goddess is the
+				<lb/>shaman and the spell is invoked
+				<lb/>through a magical rite in which
+				<lb/>unification with the Earth Mother
+				<lb/>transpires. Mendieta is concerned
+				<lb/>with rebirth and her grave and buria
+				<lb/>mound pieces suggest that material
+				<lb/>death does not imply spiritual death
+				<lb/>In some of her works, Mendieta
+				<lb/>wraps herself in black cloth, imposing
+				<lb/>her mummified form upon the ground
+				<lb/>which is then dug out around her. A
+				<lb/>series of these imprints are eventually
+				<lb/>lit with gun powder, leaving silhou
+				<lb/>etted after-images embedded in the
+				<lb/>earth as a testimony to the magical
+				<lb/>site of transformation, the dwelling of
+				<lb/>the Goddess, where the human and
+				<lb/>the divine had come to mingle as
+				<lb/>preparation for a new destiny. Her art
+				<lb/>concretizes that process of Earth
+				<lb/>Alchemy, using prime matter itself as
+				<lb/>the alchemistic vessel through which
+				<lb/>spirit will be made to reenter matter
+				<lb/>and transform woman into the vital
+				<lb/>incarnation of the Earth Goddess once
+				<lb/>more
+				<lb/>Buffie Johnson’s paintings celebrate
+				<lb/>the natural symbols of the universe
+				<lb/>which were recognized as sacred in
+				<lb/>the worship of the Great Goddess. The
+				<lb/>plant and animal manifestations of
+				<lb/>the Goddess are energizers of trans
+				<lb/>formation which function like the star
+				<lb/>and cross in the Judeo-Christian tradi
+				<lb/>tion. They are reminders of the nu
+				<lb/>minous state in which all of nature
+				<lb/>was held to be sacred. Erich Neumann
+				<lb/>writes:
+				<lb/>Because originally human life was so
+				<lb/>strongly affected by its participation
+				<lb/>mystique with the outside world that
+				<lb/>stone, plant, and man [sic.], animal
+				<lb/>and star were bound together in asingle
+				<lb/>stream, one could always transtorm
+				<lb/>itself into another.
+				<lb/>These symbols reinforce in us an
+				<lb/>awareness that we are all manifesta
+				<lb/>tions of the one "single stream, the
+				<lb/>spirit of the Mother Goddess.
+				<lb/>The general "theme" of Johnson's
+				<lb/>work since the late 1940s is drawn
+				<lb/>from the Jungian concept of the col
+				<lb/>lective unconscious and from her
+				<lb/>scholarly research on the Great God
+				<lb/>dess. The paintings which evolved
+				<lb/>with specific reference to the Goddess
+				<lb/>show her aspects as Mistress of the
+				<lb/>Beasts and Lady of the Plants. Around
+				<lb/>the latter, she has created single
+				<lb/>image plants in varying aspects of
+				<lb/>cyclical transformation, which stim
+				<lb/>ulate the unconscious and evoke
+				<lb/>mythic memories. The paintings serve
+				<lb/>as sacred icons to resurrect the layers
+				<lb/>of consciousness in which our most
+			</p>
+			<pb n='79'/>
+			<p>
+				<lb/>primordial images, those of the Great
+				<lb/>Goddess and of our true origin, lie
+				<lb/>buried. In Ariadne ("Barley Mother,
+				<lb/>1971), the Goddess of Vegetation is
+				<lb/>evoked by the image of the long-grain
+				<lb/>barley flowing gently down in a skirt
+				<lb/>of rain. A pomegranate bursting from
+				<lb/>within (Pomegranate, 1972) recalls
+				<lb/>the myth of Persephone and Demeter
+				<lb/>and their connection with the life
+				<lb/>giving powers of the Feminine. The
+				<lb/>monolithic opium seed-pod Lapis
+				<lb/>(1970) is a cosmic starglobe exploding
+				<lb/>with life, a metaphor for the Goddess
+				<lb/>from whose womb all is born. In
+				<lb/>Pasiphae (1976) the image of the iris,
+				<lb/>the sacred lily of Crete, merges with
+				<lb/>that of a bovine head, so that both
+				<lb/>animal and plant symbols of the God
+				<lb/>dess coalesce in a new charged sign.
+				<lb/>References to the myth of the Min
+				<lb/>otaur and the labyrinth are suggested;
+				<lb/>the labyrinth of the Goddess being the
+				<lb/>place where one loses and finds one
+				<lb/>self again—the unconscious. The col
+				<lb/>lective symbols are here employed as
+				<lb/>forces of awakening, the artist reach
+				<lb/>ing deep into the buried past when the
+				<lb/>Goddess and all of nature were re
+				<lb/>vealed as One.
+				<lb/>Donna Byar’s work shows the cre-
+				<lb/>ative processes at work in the de
+				<lb/>ciphering of the oracle of the Goddess
+				<lb/>as She speaks to the artist through the
+				<lb/>labyrinth of dream and visionary ex
+				<lb/>perience. Oracle Stone Crove, for ex
+				<lb/>ample, evolved from a dream.
+				<lb/>A stone woman who sat in a grove of
+				<lb/>trees spoke to me in vapors, not words.
+				<lb/>She was very poetic and mystical and
+				<lb/>spoke only in truths. All of a sudden, like
+				<lb/>in a faint, she slid from her chair into a
+				<lb/>hole in the underground. I grabbed her
+				<lb/>before she went underground and when
+				<lb/>she came up she was no longer able to
+				<lb/>speak. I woke up with a terrible feeling
+				<lb/>of sadness.
+				<lb/>In the piece itself, “All the com
+				<lb/>ponents. .. sit on the floor and do not
+				<lb/>occupy any wall space, two stones are
+				<lb/>arranged perpendicular to each othe
+				<lb/>sitting on an old paint scratched
+				<lb/>rocker in a grove of four weeping fig
+				<lb/>trees. For Byars, the Grove becomes a
+				<lb/>shrine.
+				<lb/>In works such as Vested Relic where
+				<lb/>stone and silver wings are enclosed
+				<lb/>within a blindfolded cage, creating a
+				<lb/>secret altar and a reliquary, Byars pre
+				<lb/>serves the magical objects that reveal
+				<lb/>to her the presence of the Goddess as
+				<lb/>a guardian spirit in her world. The
+				<lb/>blindfolding of the cage symbolizes
+				<lb/>that these sacred objects can only be
+				<lb/>perceived with the inner eye. Byar's
+				<lb/>glass collages make visible the appari
+				<lb/>tions of the Mother Goddess in images
+			</p>
+			<pb n='80'/>
+			<p>
+				<lb/>of a winged being and a shaman, who
+				<lb/>appears to us during altered states of
+				<lb/>consciousness.
+				<lb/>For Byars, the world is vibrant and
+				<lb/>alive with signs and guideposts. Many
+				<lb/>of her pieces are themselves omens
+				<lb/>assembled from objects and materials
+				<lb/>which spoke to her in oracular modes
+				<lb/>One such object is Swathe, which
+				<lb/>combines feathers and a wing on a
+				<lb/>swathed ironing board that has lilies
+				<lb/>of the valley wrapped in chamois
+				<lb/>placed upon it. These totems and
+				<lb/>talismans conjure up archaic imagery
+				<lb/>from the distant past. Animal horns,
+				<lb/>wings, feathers, shells, trees, serpents,
+				<lb/>brought together in these mytho
+				<lb/>poetic assemblages, activate intimate
+				<lb/>relationships between natural mate
+				<lb/>rials, objects and living things that il
+				<lb/>luminate essences which were former
+				<lb/>ly only visible to seers and shamans.
+				<lb/>The presence of the Goddess is thus
+				<lb/>revealed and brought into contem
+				<lb/>porary consciousness.
+				<lb/>Mary Beth Edelson’s work has long
+				<lb/>been intimately involved in the ex
+				<lb/>plorations of the Goddess. In 1961 her
+				<lb/>painting of Madonna and Child en
+				<lb/>titled Codhead introduced concentric
+				<lb/>circles as sources of energy from the
+				<lb/>Madonna’s head. In these early paint
+				<lb/>ings? her women were frequently de
+				<lb/>picted with their arms uplifted, rem
+				<lb/>iniscent of the posture of many early
+				<lb/>Goddess figures. The primal image of
+				<lb/>the outstretched arms of the ancient
+				<lb/>Goddess, whose power must be re
+				<lb/>claimed by women for themselves to
+				<lb/>day, is seen by Edelson not only as a
+				<lb/>spiritual signifier, but as a contem
+				<lb/>porary symbol of our political ac
+				<lb/>tivism.
+				<lb/>In 1969 she began to evolve a more
+				<lb/>defined and specific area of arche
+				<lb/>typal imagery, out of which emerged
+				<lb/>the exhibition Woman Rising, revolu
+				<lb/>tionary in the way it brought to con
+				<lb/>sciousness psychic material about the
+				<lb/>Great Goddess. Her most innovative
+				<lb/>images for today have been the body
+				<lb/>images she has created through per
+				<lb/>forming private body rituals where the
+				<lb/>body itself is the house of wisdom. In
+				<lb/>these, the artist calls upon Goddess
+				<lb/>energy, using her own body as a
+				<lb/>stand-in for the Goddess and as a
+				<lb/>symbol for Everywoman, whose ex
+				<lb/>panded states of body-consciousness
+				<lb/>and multiple transformations are
+				<lb/>evoked through contact with powerful
+				<lb/>natural energies.
+				<lb/>1977, Edelson per
+				<lb/>On March 1,
+				<lb/>formed a mourning ritual ceremony
+				<lb/>for her exhibition, Your 5,000 Years
+				<lb/>Are Up, entitled Mourning Our Lost
+			</p>
+			<p>
+				<lb/>Herstory, at the Mandeville Gallery,
+				<lb/>University of California at La Jolla.
+				<lb/>Ten women sat in a circle in the cen
+				<lb/>ter of a fire ring, the only source of
+				<lb/>light, chanting and wailing while
+				<lb/>seven silent eight-foot high black
+				<lb/>draped figures, which had previously
+				<lb/>seemed to be an uninhabitated formal
+				<lb/>sculptural installation on the back
+				<lb/>wall, came alive and began to move
+				<lb/>around the cavernous gallery. More
+				<lb/>recently, she performed a mourning
+				<lb/>reclamation ritual at A.I.R. Gallery,
+				<lb/>New York City, entitled Proposals For.
+				<lb/>Memorials to the 9,000,000 Women
+				<lb/>Burned as Witches in the Christian
+				<lb/>Era. This ritual, based on research
+				<lb/>about witch burning in relation to
+				<lb/>women who were Goddess worship
+				<lb/>pers evoked the spirits of individual
+				<lb/>women who were tortured during the
+				<lb/>Inquisition. Edelson is not content,
+				<lb/>however, to exorcise the past; her art
+				<lb/>is about mythic recreation of holy
+				<lb/>spaces for women’s culture today.
+				<lb/>Donna Henes’s Spider Woman, a
+				<lb/>series of process environmental sculp
+				<lb/>tures, makes reference to the Mother
+				<lb/>Goddess of the Navaho Emergence
+				<lb/>Myth about whom Sheila Moon has
+				<lb/>written, "She is the protective fem
+				<lb/>inine objectivity. Spider Woman is the
+				<lb/>unobtrusive but powerful archetype
+				<lb/>of fate—not in the sense of deter
+				<lb/>minism, but in the sense of the
+			</p>
+			<p>
+				<lb/>magical law of one's own ’gravity
+				<lb/>which leads always beyond itself
+				<lb/>towards wholeness.””0 In a state of
+				<lb/>trance and meditation, Henes spins
+				<lb/>her web of various kinds of fibers in
+				<lb/>natural settings and in public places
+				<lb/>where they can be altered by the
+				<lb/>specific environmental conditions of
+				<lb/>each location. Her manifesto" defines
+				<lb/>the web as a map of the subconscious
+				<lb/>and as a form of primal meditation.
+				<lb/>Henes performs a yearly winter sol
+				<lb/>stice celebration Reverence to Her: A
+				<lb/>Chant to Invoke the Female Forces of
+				<lb/>the Universe Present in All People.
+				<lb/>The winter solstice is the time when
+				<lb/>"the Great Mother gives birth to the
+				<lb/>sun, who is Her son, and stands at the
+				<lb/>center of the matriarchal mysteries.
+				<lb/>At the winter solstice, the moon oc
+				<lb/>cupies the highest point in its cycle,
+				<lb/>the sun is at its nadir, and the constel
+				<lb/>lation Virgo rises in the east."12
+				<lb/>Henes’s participatory chant invokes
+				<lb/>the Great Goddess, the archetypal
+				<lb/>female principle of communal crea
+				<lb/>tion and continuity, and gives rev
+				<lb/>erence to the female power “who ex
+				<lb/>ists in all beings in the form of con
+				<lb/>sciousness, reason, sleep, hunger,
+				<lb/>shadow, energy, thirst, forgiveness
+				<lb/>species, bashfulness, peace, faith,
+				<lb/>loveliness, fortune, vocation, mem
+				<lb/>ory, compassion, mother, fulfillment
+				<lb/>and illusion.
+			</p>
+			<pb n='81'/>
+			<p>
+				<lb/>If the webs are a materialization of
+				<lb/>a female spirit-presence in the en
+				<lb/>vironment, a kind of feminine struc
+				<lb/>ture within matter itself, her work
+				<lb/>makes us visualize this presence,
+				<lb/>evokes it, and brings it forth out of the
+				<lb/>void, making manifest the intercon
+				<lb/>nectedness of all space and time
+				<lb/>through the weaving of the great web
+				<lb/>of life, which is the work of the Mother
+				<lb/>Goddess. This is the actualization of a
+				<lb/>creation myth which posits the female
+				<lb/>life-force as an energy that is at work
+				<lb/>in the universe in invisible ways
+				<lb/>Betye Saar’s work, through its mys
+				<lb/>tical, visionary imagery, probes the
+				<lb/>collective unconscious for those
+				<lb/>images of female power specific to
+				<lb/>black women. By delving deeply into
+				<lb/>the religious practices of Africa anc
+				<lb/>Haiti, Saar resurrects images of the
+				<lb/>Black Goddess, the Voodoo Priestess
+				<lb/>and the Queen of the Witches, col
+				<lb/>lecting the amulets and artifacts of
+				<lb/>these cultures and placing them in her
+				<lb/>boxes in order to create potent talis
+				<lb/>manic collections of magically
+				<lb/>charged objects and icons. For Saar,
+				<lb/>contemporary black women are all in
+				<lb/>carnations of the Black Goddess, and
+				<lb/>in reclaiming black power, women are
+			</p>
+			<pb n='82'/>
+			<p>
+				<lb/>instinctively venerating an ancient fe
+				<lb/>male force still worshipped in other
+				<lb/>cultures today. Voo Doo Lady W/:
+				<lb/>Dice (1977) is a mixed-media collage
+				<lb/>on fabric that identifies black woman
+				<lb/>in her image of oppression with the
+				<lb/>mystical Black Goddess, implying
+				<lb/>through its iconography that women
+			</p>
+			<p>
+				<lb/>should worship the deity within them
+				<lb/>selves, and that a familiarity with
+				<lb/>occult and mythological traditions
+				<lb/>will reveal the true face of the God
+				<lb/>dess to all women
+				<lb/>In her piece 7,000 Year Old Wom
+				<lb/>an,13 performed publicly May 21
+				<lb/>1977, Betsy Damon covered herself
+				<lb/>with small bags of colored flour which
+				<lb/>she punctured in a ritual ceremony
+				<lb/>As each small bag of flour emptied
+				<lb/>like a miniature sandtimer, it was as it
+				<lb/>the artist and her assistant, through
+				<lb/>intense concentration and medita
+				<lb/>tion, had incorporated a bit of lost
+				<lb/>time into the aura of their conscious
+				<lb/>nesses. This piece demonstrates how
+				<lb/>contemporary Goddess-culture art
+				<lb/>seeks to transform the body and the
+				<lb/>consciousness of modern woman by
+				<lb/>infusing it with a sense of herstory
+				<lb/>reclaimed and reintegrated into the
+				<lb/>present sense of the self.
+				<lb/>Damon has been performing rituals
+				<lb/>in nature for several years, working
+				<lb/>collectively with women, creating
+				<lb/>rites of anger, rebirth and transforma
+				<lb/>tion, such as the Birth Ritual, in which
+				<lb/>each woman gives birth to another
+				<lb/>chanting, "I am a woman. I can give
+				<lb/>birth to you." In the Naming Ritual
+				<lb/>performed in Ithaca, women chanted,
+				<lb/>"I am a woman. I give you my hand
+				<lb/>We are women. Our circle is power
+			</p>
+			<p>
+				<lb/>ful." After the chanting they intoned
+				<lb/>the names of all the women in the
+				<lb/>ritual. It was during her performance
+				<lb/>of Changes, in Ithaca, that she
+				<lb/>dreamed of the Maypole Ritual. This
+				<lb/>fertility rite was held in that same city
+				<lb/>and participants brought corn, food,
+				<lb/>poetry and other offerings to the
+				<lb/>celebration. They painted thein
+				<lb/>bodies, danced and wove maypoles
+				<lb/>out of colorfully dyed gauze
+				<lb/>Hannah Kay, an Israeli artist living
+				<lb/>in New York, paints the ultimate
+				<lb/>breakthrough of Earth Goddess energy
+				<lb/>that parallels the advent of female
+				<lb/>autonomy in the new era ot feminist
+				<lb/>consciousness. She writes that in hei
+				<lb/>art woman "became a landscape and
+				<lb/>then the whole universe. A woman's
+				<lb/>body is, in itself, the whole universe:
+				<lb/>birth, life, death, and communica
+				<lb/>tion. The human body manifests all
+				<lb/>the laws of the universe; and for me
+				<lb/>the woman’s body is the sensuality of
+				<lb/>the universe. The sensuality of moun
+				<lb/>tains, and oceans, and planets in their
+				<lb/>orbits about the stars."”4 Enclosed in
+				<lb/>vites us to hallucinate the female form
+				<lb/>as the basic force behind the inter
+				<lb/>twined branches of the worldscape. In
+				<lb/>this visionary art we come to see the
+				<lb/>spirit that resides in matter: our per
+				<lb/>ception is altered so that the invisible
+				<lb/>being of the Goddess becomes mani
+			</p>
+			<pb n='83'/>
+			<p>
+				<lb/>fest, and we are transformed into
+				<lb/>seers whose eyes may behold the
+				<lb/>divine revelation of the existence of a
+				<lb/>female principle at work in the uni
+				<lb/>verse.
+				<lb/>Judy Chicago has made a major
+				<lb/>contribution to this tradition by con
+				<lb/>ceptualizing and creating a traveling
+				<lb/>multi-media exhibition, The Dinner
+				<lb/>Party Project, an environmental re
+				<lb/>casting of the history of Western
+				<lb/>civilization in feminist terms.15. Ac
+				<lb/>companying the Dinner Party Proj-
+				<lb/>ect's exhibition, is a book in the form
+				<lb/>of an illuminated manuscript of five
+				<lb/>sections, some of which include a re
+				<lb/>writing of Genesis as an alternate
+				<lb/>creation myth in which the Goddess is
+				<lb/>the supreme Creatrix. It also contains
+				<lb/>a section of myths, legends and tales
+				<lb/>of the women, a vision of the Apoc
+				<lb/>alypse which is a vision of the world
+				<lb/>made whole by the infusion of fem
+				<lb/>inist values, and the Calling of the
+				<lb/>Disciplines, a list of the women rep
+				<lb/>resented in the table relating who they
+				<lb/>were and what they did.
+				<lb/>Chicago’s work has long been mak
+				<lb/>ing links between female iconography
+				<lb/>and a feminist reinterpretation of the
+				<lb/>Creation Myth. In her series of por
+				<lb/>celain plates entitled The Butterfly
+				<lb/>Coddesses: Other Specimens (1974)
+				<lb/>which includes The Butterfly Vagina
+				<lb/>as the Venus of Willendorf, The But
+				<lb/>terfly Vagina as the Creat Round, etc.
+				<lb/>sexuality is expressly connected to
+			</p>
+			<p>
+				<lb/>spiritual transformation. For Chicago
+				<lb/>the butterfly symbolizes both liberty
+				<lb/>and metamorphosis. The new speci
+				<lb/>mens in The Butterfly Coddess series
+				<lb/>represent a new breed of women:
+				<lb/>these are women yet to be born to a
+				<lb/>world in which the Goddess is recog
+				<lb/>nized as the original deity; women
+				<lb/>whose sexual energy is accepted as a
+			</p>
+			<p>
+				<lb/>legitimate form of creative power
+				<lb/>Her Womantree series suggests the
+				<lb/>principle of a female Tree of Life out
+				<lb/>of which these "Ancient New Beings'
+				<lb/>will emerge, possessing all the secrets
+				<lb/>of the matriarchal past transmitted
+				<lb/>over time through the sacred matri
+				<lb/>lineage women now reclaim. Chica-
+				<lb/>go’s flower forms, seed shapes and
+				<lb/>pod forms relate to the principles of
+				<lb/>feminist alchemy and suggest the final
+				<lb/>transmutation into “The Ancient New
+				<lb/>Being" of which the butterfly is her
+				<lb/>prime symbol.
+				<lb/>Chicago’s dream has always been to
+				<lb/>bring art out of the world and back
+				<lb/>into the culture so that it will effect
+				<lb/>the people as it once did in the Middle
+				<lb/>Ages
+				<lb/>Monica Sjoo’s synthesizing of ar
+				<lb/>tistic, political and mythological ma
+				<lb/>terial has served as a catalyst of God
+				<lb/>dess-consciousness in England. Her
+				<lb/>underground pamphlet, The Ancient
+				<lb/>Religion of the Creat Cosmic Mother
+				<lb/>of AIl, which will be published by
+				<lb/>Womanspirit in the coming year, is
+				<lb/>a poetic attempt to cull all informa
+				<lb/>tion that can be obtained through a
+				<lb/>feminist occult reading of history,
+				<lb/>symbolism, myth, art and literature,
+				<lb/>and bring it into a powerful reevalua
+				<lb/>tion of many of the philosophical
+				<lb/>underpinnings of contemporary
+				<lb/>thought. Her art works create Goddess
+				<lb/>emblems which narrate the story of
+				<lb/>the real crucifixion, that of women
+				<lb/>who have been sacrificed upon the
+			</p>
+			<pb n='84'/>
+			<p>
+				<lb/>cross of patriarchal culture. They
+				<lb/>speak of female rebirth into a new
+				<lb/>ethos through the revolutionary force
+				<lb/>of women as workers and visionaries.
+				<lb/>Contemporary Goddess-culture art
+				<lb/>with its many varied manifestations,
+				<lb/>is creating a whole new constellation
+				<lb/>of charged signs, aspirational images
+				<lb/>icons for contemplation, talismanic
+				<lb/>artifacts, and symbolic rites of pas
+				<lb/>sage that constitute the source of a
+				<lb/>new reality for women
+				<lb/>Artists of the Surrealist tradition like
+				<lb/>Leonora Carrington, Leonor Fini
+				<lb/>Meret Oppenheim, Frida Kahlo anc
+				<lb/>Remedios Varo, artists participating ir
+				<lb/>the Sister Chapel exhibition (Woman
+				<lb/>art, Winter 1977) such as Diana Kurz
+				<lb/>and Cynthia Mailman, Canadiar
+				<lb/>artists Jovette Marchessault (totemic
+				<lb/>sculptural figures) and Suzanne Guité
+				<lb/>(stone sculpture), Thérèse Guité
+				<lb/>(batik) and other contemporary Amer
+				<lb/>ican artists such as Faith Wilding,
+				<lb/>Suzanne Benton (welded sculpture
+				<lb/>and mask ritual theater), Julia Barklen
+				<lb/>etc. are creating a new feminist myth
+				<lb/>in which woman becomes the vital
+				<lb/>connecting link between all forms of
+				<lb/>life in the cosmos; the great catalyser
+				<lb/>and transformer of life energies. By
+			</p>
+			<p>
+				<lb/>the repossession of Goddess power
+				<lb/>and by a full participation in Her Be
+				<lb/>ing, women are bringing into ex
+				<lb/>istence a vastly expanded state of
+				<lb/>ecstatic consciousness.
+				<lb/>Through the many ceremonies of
+				<lb/>rebirth and reclamation, the rituals of
+				<lb/>mourning and self-transformation, th
+				<lb/>energizing of new psycho-physica
+				<lb/>centers of being, the activation of a
+				<lb/>new Earth-Alchemy, the rewriting of
+				<lb/>sacred texts, myth and history, and a
+				<lb/>new scanning of the universal system
+				<lb/>of hieroglyphics, using trance, med
+				<lb/>itation and dream, women artists are
+				<lb/>bringing about a planetary goddess
+				<lb/>consciousness revolution, a cycle o
+				<lb/>female rebirth and a new feminist
+				<lb/>ethos in our time.
+			</p>
+			<p>
+				<lb/>1. June Singer, Androgeny: Towards
+				<lb/>New Theory of Sexuality (New York:
+				<lb/>Anchor, 1976), p. 71.
+				<lb/>2. Jolande Jacobi, Complex, Archetype,
+				<lb/>Symbol in the Psychology of C. C. Jung
+				<lb/>(Princeton: Princeton University Press,
+				<lb/>1959), p. 101
+				<lb/>3. Mary Daly, Beyond Cod the Father:
+				<lb/>Toward a Philosophy of Women’s Lib
+				<lb/>eration (Boston: Beacon Press, 1973),
+				<lb/>p. 34.
+			</p>
+			<p>
+				<lb/>4. Mimi Lobell, “The Goddess Temple,
+				<lb/>Humanist Ideas in Architecture (Vol.
+				<lb/>XXIX, No. 1), p. 20.
+				<lb/>Lobell, p. 21
+				<lb/>6. Miriam Sharon, personal communica
+				<lb/>tion, Dec. 10, 1977
+				<lb/>7. Erich Neumann, The Creat Mother
+				<lb/>(Princeton: Princeton University Press,
+				<lb/>1955), p. 262
+				<lb/>8. Quote by artist from dream narrative
+				<lb/>"Mary Beth Edelson’s Great Goddess,"
+				<lb/>Arts Magazine (Nov. 1975)
+				<lb/>Sheila Moon, A Magic Dwells (Middle
+				<lb/>town: Wesleyan University Press
+				<lb/>1970), p. 152.
+				<lb/>11. Donna Henes, “Spider Woman Mani
+				<lb/>festo," Lady-Unique- Inclination - of
+				<lb/>the-night (Cycle III 1978).
+				<lb/>Neumann, p.
+				<lb/>13. Betsy Damon, “The 7,000 Year Olc
+				<lb/>Woman," Heresies (Fall 1977), pp. 9-13
+				<lb/>14. Quote from unpublished statement by
+				<lb/>the author.
+				<lb/>15. Arlene Raven &amp; Susan Rennie, "Inter
+				<lb/>view with Judy Chicago,” Chrysalis
+				<lb/>(No. 4), pp. 89-101
+				<lb/>This article is only part of a larger text on
+				<lb/>the subject of The Goddess in the work of
+				<lb/>contemporary women artists, and eventu
+				<lb/>ally writers. Will women whose work re-
+				<lb/>lates to this subject please send slides and
+				<lb/>manuscripts to Cloria Orenstein:
+				<lb/>711 Amsterdam Ave. NYC 10025.
+			</p></div>
+      </body>
+   </text>
+</TEI>

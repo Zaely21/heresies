@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">   
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>On Woman's Refusal to Celebrate Male Creativity</title>
+            <author>Rivolta Femminile</author>
+            
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic><title>Heresies: Issue 1</title></analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+   <text>
+      <front>
+         
+      </front>
+      <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue01/images/01_102.jpg"/>
+      <body>
+         <div><head><title>On Woman's Refusal to Celebrate Male Creativity</title></head>
+            <byline><orgName key="Rivolta Femminile" ref="http://www.wikidata.org/entity/Q85882229">Rivolta Femminile</orgName></byline> <note type="scholarNote">Text written by <orgName key="Rivolta Femminile" ref="http://www.wikidata.org/entity/Q85882229">Rivolta Femminile</orgName>, March 1971; free translation by <persName key="Arlene Ladden" ref="http://www.wikidata.org/entity/Q106878856">Arlene Ladden</persName> from <persName key="Carla Lonzi" ref="http://www.wikidata.org/entity/Q3658850">Carla Lonzi</persName>, <title><title key="Sputiamo su Hegel" ref="http://www.wikidata.org/entity/Q42245141">Sputiamo su Hegel</title>: <title key="La Donna clitoridea e la donna vaginale" ref="http://www.sguardisulledifferenze.eu/wordpress2/wp-content/uploads/2017/03/La-donna-clitoridea-e-la-donna-vaginale.pdf">La Donna clitoridea e la donna vaginale</title> e altri scritti</title>, Scritti di Rivolta Femminile, 1, 2, 3, Milan, 1974.</note>
+         
+        <quote><orgName key="Rivolta Femminile" ref="http://www.wikidata.org/entity/Q85882229"> Rivolta Femminile</orgName> is an Italian group of radical
+            feminists founded in <placeName key="Rome" ref="http://www.wikidata.org/entity/Q220">Rome</placeName> in July 1970, now
+            associated with other feminist groups in <placeName key="Milan" ref="http://www.wikidata.org/entity/Q490"><placeName key="Milan" ref="http://www.wikidata.org/entity/Q490">Milan</placeName></placeName>,
+            <placeName key="Turin" ref="http://www.wikidata.org/entity/Q495">Turin</placeName>, <placeName key="Genoa" ref="http://www.wikidata.org/entity/Q1449">Genoa</placeName> and <placeName><placeName key="Florence" ref="http://www.wikidata.org/entity/Q2044">Florence</placeName></placeName>. They have consistently resisted hierarchal structures and male-dominated institutions and their development
+            of feminist theory has been detailed in publications such as <persName key="Carla Lonzi" ref="http://www.wikidata.org/entity/Q3658850">Carla Lonzi</persName>'s <title key="Sputiamo su Hegel" ref="http://www.wikidata.org/entity/Q42245141"><title><emph>Sputiamo su Hegel</emph></title></title>
+            (1970) and <title key="La Donna clitoridea e la donna vagi nale" ref="http://www.sguardisulledifferenze.eu/wordpress2/wp-content/uploads/2017/03/La-donna-clitoridea-e-la-donna-vaginale.pdf"><emph>La Donna clitoridea e la donna vaginale</emph></title> (1977), the collective's <title><emph>Sessualita femminile e aborto</emph></title> (1977) and <persName key="Carla Accardi" ref="http://www.wikidata.org/entity/Q2939027">Carla Accardi</persName>'s <title><emph>Superiore e inferiore</emph></title> (1972). The latter records the
+            author's dismissal from her job after discussing
+            the Rivolta Femminile manifesto with her female high school students. All publications are
+            available from Rivolta Femminile, Via del
+            Babuino 16, Rome, Italy.</quote>
+         <div><p>We in Rivolta Femminile refuse to pay tribute
+            to male creativity because we are aware that in
+            the patriarchal world—that is, in a world made
+            by men and for men—even the liberating force of creativity is the prerogative of men. Woman—in so many ways a subsidiary being—is
+            denied every role which could effect a recognition of these inequities. For her, there is no
+            prospect of liberation.</p>
+            <p>The creativity of men speaks to the creativity
+               of other men while woman, as client and spectator of that dialogue, is assigned a status which
+               excludes competition. Woman is locked into a
+               role which, <lang><emph>a priori</emph></lang>, assures the male artist an
+               audience. While <emph>creating</emph> art is seen to have a
+               liberating function, art as an institution insists
+               that woman be the neutral witness to the work
+               of others. Man's energy, even in art, is spent by
+               competing with other men. Only the contemplation of art invites woman's involvement.</p>
+            <p>This is the nature of patriarchal creativity: to
+               depend upon aggressive competition with male
+               rivals and on the passive appreciation of women. Man, the artist, feels abandoned by woman
+               as soon as she abandons her archetypal spectator's role; their mutual solidarity rests solely on
+               <pb facs="https://raw.githubusercontent.com/BucknellDSC/heresies/main/issue01/images/01_103.jpg"/> the conviction that, as a spectator gratified by
+               creativity, woman reaches the highest possible
+               point in the evolution of her species.</p>
+            <p>But, on the contrary, woman is discovering
+               that the patriarchal world <emph>needs</emph> her—that
+               man's self-liberating efforts absolutely depend
+               on her—and that <emph>woman's</emph> liberation can only
+               be realized independent of patriarchal previsions and the dynamics by which men liberate
+               themselves. The artist depends upon woman to
+               glorify his work and she, until she begins her
+               own liberation, is happy to oblige. The work of
+               art cannot afford to lose the security inherent in
+               her exclusively receptive role.</p>
+            <p>Once aware of her position in relation to
+               male creativity, woman is left with two possibilities: the first—until now, the only available
+               option—of distinguishing herself within the creative hierarchy historically defined by men
+               (which alienates her from other women while
+               men recognize her only indulgently); or—the
+               feminist alternative—of autonomously recovering her own creativity, nourished by her awareness of past oppression.</p>
+            <p>To celebrate male creativity is ultimately to
+               submit to the historic sovereignty of men, to
+               that patriarchal strategy which deliberately subjugates us. But let woman remove herself, and
+               the struggle for male supremacy becomes not
+               man lording it over woman, but merely a struggle between individual men.</p>
+            <p>By refusing to celebrate male creativity, we
+               are not judging creativity, nor are we contesting
+               it. Rather, with our absence, we are refusing to
+               accept it as defined; we are challenging the
+               concept of art as something which men graciously hand down to us. By ceasing to believe
+               in a refracted liberation, we are unleashing
+               creative energy from patriarchal bonds.</p>
+            <p>With her absence, woman performs a dramatic act of awareness, creative because it <emph>is</emph> liberating.
+            </p>
+         </div>
+         </div>
+      </body>
+      
+   </text>
+</TEI>

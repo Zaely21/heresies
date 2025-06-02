@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heroica, An Archetypal Image Rising</title>
+            <author>Sidele C. Scot</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='86'/>
+            <p>
+               <lb/>Heroica, An Archetypal lmage Rising
+               <lb/>An Expurgated Vision
+               <lb/>Sidele C. Scot
+            </p>
+            <p>
+               <lb/>...have you ever felt the return of memories too old for the written history of
+               <lb/>human glory? I feel pulsating rhythms too primitive for my sophisticated generation
+               <lb/>...it is as though some primeval instinct has opened its doors within a sacred place
+               <lb/>inside I hear strange languages of visual forms and yet I know it is not mad
+               <lb/>ness... my feet dance the rhythms of simplicity, my hands accompany the rhythm..
+               <lb/>TIME FOR A DREAM: I was two people, one a child watching the other me modeling
+               <lb/>objects, cloudlike forms. I knew I was modeling forms with the shadows attached as
+               <lb/>though I were God. I needed no light for the shadows. I also knew I was alseep but
+               <lb/>Ireally was a live vital being creating the forms and the child was looking on in
+               <lb/>amazement. The child appeared remote. I never had a dream where I knew that !
+               <lb/>had left my body sleeping on the bed and had gone into the "land of dreams."
+               <lb/>...good morning me! I wish to extend to myself a very happy birthday. .. walking
+               <lb/>on this birthday down second avenue to meet Jack and kept repeating to myselt
+               <lb/>33...33...33... and what have you done and what have you learned I said to myselt
+               <lb/>as a smile rose in my heart. ..l have lived well and have learned joy of living and at
+               <lb/>33 years I feel no regrets...the gods have been kind and have deprived me of noth
+               <lb/>ing and this is the greatest of all gifts I feel today..
+               <lb/>When was the last time you looked
+               <lb/>into the face of unspoken screams
+               <lb/>sitting on the subway, Monday morning. ..the malla beads in my hand.each
+               <lb/>bead becoming the maniacal face of a human head... each face contorted, pressed
+               <lb/>in lines of the terrible tragedy of the human story on earth. .. dear heart where is the
+               <lb/>comedy to break the cruel energy... another day. ..the comedy is the other side of
+               <lb/>the coin Sidele ...just look harder!...
+               <lb/>...the struggle continues...the struggle for my own soul is still a real reality and
+               <lb/>cannot underestimate any longer the primal self of this creature, Sidele...nothing
+               <lb/>wants to die and yet for me to shed the skin of a self whose needs feed on self-pity,
+               <lb/>morality of right and wrong, etc. I must continue to exorcise this devil without anger
+               <lb/>with love but with firmness. I wish to enter the land of the immortals!...
+               <lb/>"Rain falling on the Brooklyn streets
+               <lb/>the mind of Sidele searching for poetic visions"
+               <lb/>.today as l sit in our front room reflecting on the movement and changes in my
+               <lb/>life I see that from this being called Sidele C. Scot I am molding a recognizable form
+               <lb/>I was given all the primary ingredients and now I must do what is necessary..
+               <lb/>maybe this is the reason why painting doesn’t seem so very important to me...l am
+               <lb/>really so busy creating the living being of myself that the canvas feels so secondary
+               <lb/>so far removed from the primary source!...there are different images I have within
+               <lb/>me for each stage that is set. ..STAGE: being, levels of conscious awareness...the
+               <lb/>child in me could only die when I (whatever that is because I was the child for over
+               <lb/>30 years) became conscious of its pattern and no longer needed it...
+            </p>
+            <pb n='87'/>
+            <p>
+               <lb/>Strange... we spend our life in learning how to live
+               <lb/>...another day...if l wasn’t experiencing it I would never believe it possible...such
+               <lb/>terrible pain. .. pain and fear. ..are they inseparable... dear sweet gentle heart, a
+               <lb/>deep breath here is I can hear the echoes of my madness floating in and
+               <lb/>out around and around like a ghostly apparition. .. how absurd, how foolish to waste
+               <lb/>myself away on platitides whose only meaning equals 34 years equals Sidele C. Scot
+               <lb/>I am born 34 years old 3 months a few days a few hours untold seconds and I can
+               <lb/>never record the true or real moment of the birth. ..it is always a little before or a
+               <lb/>little after me. I don’t seem to be able to ever experience a present. AH, WHAI
+               <lb/>THEN IS THE PRESENT! listen Sidele, there is no present, past, future, etc., all there
+               <lb/>is is change.. all else a fabrication of the human mind!
+               <lb/>..and yet another day...when I ask mercy from the unknowable fear and ecstasy
+               <lb/>that I call God I must understand the difference between the mercy God does show
+               <lb/>and the action I must take. ..ah, dear creature, don’t you see that God has nothing
+               <lb/>at all to do with mercy. ..it is Sidele that must extend the mercy...
+               <lb/>..and yet another day. I want to reach the limits of my potential. ..l want to
+               <lb/>explore the abyss within me. I want the known to move over and make way for
+               <lb/>the unknown...(1977, VOILA!)
+               <lb/>It is interesting to note that in order
+               <lb/>to be a painter all I have to do is paint
+               <lb/>TRAGEDY: the human animal if it is lucky will spend more than halt
+               <lb/>a lifetime in finding out that it is no better (or worse) than anyone
+               <lb/>or anything else ...others are not that lucky.
+               <lb/>TRAGEDY: the overwhelming feelings of pain and disillusionment etc.
+               <lb/>that plague people are nothing more than terrible misunderstanding
+               <lb/>...wrong information.
+               <lb/>TRAGEDY: and few listen to the sounds of experience.
+               <lb/>...am I really the composite of days past. ..is my destiny knowledge of knowing
+               <lb/>and yet not knowing. ..an unquenchable trust for what I know is not the end but
+               <lb/>always a beginning...
+               <lb/>...our lives are so silly I remember times of looking for motivation to
+               <lb/>rid myself of the heaviness, the nausea within...not until now do I realize the true
+               <lb/>motivation for my own movement. ..it is simply a matter of survival..
+               <lb/>...have you ever found in your living that you reached a point or place and you
+               <lb/>wanted to run away. ..that it became too painful to grow anymore...
+               <lb/>BEHOLD, A REAL REALITY...as a young girl I took the spoken word so seriously and
+               <lb/>molded it into its absolute form forgetting that I Sidele, was far more important
+               <lb/>than any I Sidele, this form transcends the limitations that human minds
+               <lb/>I Sidele, am beyond these narrow judgments of right and wrong, lesbian,
+               <lb/>I Sidele, am no label. ..it is like being a Jew, a Christian, a Moslem, a
+               <lb/>I Sidele, am all these things and none touch my innermost secrets...l,
+               <lb/>Sidele, am like a shadow in the path of shining light!
+               <lb/>I do not want to live in fear.
+               <lb/>..again and again the return of the old malady of such a strong need for self
+               <lb/>I cannot understand why I provoke the demons as though taking a
+               <lb/>stick to poke the fires of hell and the stick being my life. .. how come it is so hard
+               <lb/>to accept and feel my own existence... maybe destruction or rather the appearances
+               <lb/>of destruction is something that people do to cover up a supreme love of self...
+               <lb/>something like excessive good manners...
+            </p>
+            <pb n='88'/>
+            <p>
+               <lb/>NOTES ON PROGRESS: the deaths within myself have given me a new dignity...
+               <lb/>death seems to make life more precious. .. not as a hoarder but I have
+               <lb/>lived so many lifetimes it seems and how painful it is for me to keep finding myself
+               <lb/>a I know I am a form. ..fully functioning and yet I find it hard to
+               <lb/>remember what I look like...the quest for the golden form. ..a search to find my
+               <lb/>real nature...to find what I was before I assumed a disguise...to consolidate the
+               <lb/>many facets of my being!...
+               <lb/>Enigma... why did Ophelia drown?
+               <lb/>Enigma...once I knew I had to create each day I knew I knew nothing.
+               <lb/>Enigma...the sadness...the pain of the human life!
+               <lb/>...as the years pass the dream becomes so vague... must see clearly once again this
+               <lb/>vision... what is it for me to be Sidele, Sidele, Sidele, I call you from the echoes of
+               <lb/>a dream. .. awake creature..
+               <lb/>...in my personal life it was not the fear of God or the fear of unspoken words that
+               <lb/>caused sickness...it was fear of life filled with responsibility... commitments...a
+               <lb/>life filled with love of Sidele functioning as a unique being...
+               <lb/>A MOMENT OF THE TIME:
+               <lb/>a moment of the time...sitting in my studio on a cloudy day alone with the silences
+               <lb/>of familiar sounds, alone with this creature whose appearance takes the form Sidele C.
+               <lb/>Scot, female of the species homo sapiens... the days have been hard. ..nightmares
+               <lb/>of truth have shaken the very core of my existence and now it is the time to gather
+               <lb/>the remains of years of dissipation and negation, of an inner hatred and despair
+               <lb/>whose depths I have just seen and whose truth gives rise to Dantean screams whose
+               <lb/>echoes resound in the walls of hell...earth. I have reached the bottom of the abyss
+               <lb/>which each form carries within its existence. ..sadness is not the word, nor is despair
+               <lb/>...reality in this dimension is like the quiet of a gray day. No tears! for this I am
+               <lb/>grateful... how strange it is that I should not care about understanding and I should
+               <lb/>not care about keeping my word and I should not really care about any of those
+               <lb/>things I concerned half a lifetime I suppose when the self is confronted with
+               <lb/>the self it no longer is concerned with what others think. ..it is only the self that the
+               <lb/>self is really concerned with and vet was it all a lie...a terrible ghostly deception the
+               <lb/>unconscious self played upon the acting form. .. has half a lifetime been spent just
+               <lb/>to learn the meaning of tragedy. Maybe the mind echoes in its innermost chambers,
+               <lb/>maybe there is nothing more to life than learning the proper way to die!...
+               <lb/>...and another gray rainy day once again sitting in my studio listening to the sounds
+               <lb/>of traveling cars, scratching pens, echoing voices somewhere, somehow communi
+               <lb/>cating. ..so many days of sickness...so many days of sadness. .. my heart cries and
+               <lb/>the face sits on top of the neck immobile...the mind reflects on the shadows of
+               <lb/>memories long forgotten...long remembered and the Sidele who does the walking
+               <lb/>who carries these unreflected images around says stoically what next. Will the
+               <lb/>remainder of my days be spent in studios alone with only myself to say hello to..
+               <lb/>to speak to...another gray day followed by another gray day. ..this time in the
+               <lb/>laundry sitting waiting for clothes to wash. ..to dry...to fold. My mind wandering
+               <lb/>reflecting on the stupidity. ..the ignorance of my days. .. always awakening too late
+               <lb/>Too late to see the simplicity of our lives. ..awakening and yet, how great the desire
+               <lb/>to be lost in illusion...if only I had known it was my life l was living and the
+               <lb/>destruction I was inflicting upon this mortal body was upon Sidele I would not be
+               <lb/>sitting here now in the pain and hopelessness of my sterility and yet, Sidele C. Scot,
+               <lb/>woman, is what she is because of what she was. ..another Sunday in May and the
+               <lb/>gray skies overhead...silence in my studio...the sound of the gas stove...the
+               <lb/>reflective self waits for the mind to clear and see what it is hearing..
+            </p>
+            <pb n='89'/>
+            <p>
+               <lb/>MIRACLE: THE DIFFERENCE BETWEEN HEALTH AND SICKNESS IS CONSCIOUSNESS.
+               <lb/>MIRACLE: IAM NOTHING DIFFERENT THAN I EVER WAS EXCEPT NOW I LIKE
+               <lb/>WHAT I SEE
+               <lb/>MIRACLE: YES, TO WITNESS THE NOBILITY OF THE THUMB.
+               <lb/>EPILOGUE. ..January 1977...no more diaries...no more words written down on
+               <lb/>numberless blank pages trying to catch a glimpse of that illusive creature known to
+               <lb/>some as Heroica (Coddess of the eternal moment. ..now). ..known to others as
+               <lb/>Sidele C. Scot (wife, lover, friend, daughter, etc.)...known to herself as woman.
+               <lb/>sitting on this train this night in january trying to formulate words that will bring this
+               <lb/>living experience to conclusion ...the train rocks the mind reflects and sees and feels
+               <lb/>nothing except gratitude and thanks...
+            </p></div>
+      </body>
+   </text>
+</TEI>

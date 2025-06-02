@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dreams</title>
+            <author>Chellis Glendinning</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='70'/>
+            <p>
+               <lb/>DREAMS
+               <lb/>collected by
+               <lb/>Chellis Clendinning
+               <lb/>November 28, 1977
+               <lb/>1am sleeping in my bed in a small town in north
+               <lb/>ern California. The waning moon passes by the win
+               <lb/>dow during the night, and cold air leaks into the
+               <lb/>room through the crack in the glass. In the dream
+               <lb/>am collecting dreams from my friends. They all re
+               <lb/>flect images of ourselves emerging, flowering;
+               <lb/>images for guidance in our rebirthing, images of—it
+               <lb/>you please —"the Goddess”. Treelight gives me one,
+               <lb/>Barbara, and others.
+               <lb/>When I wake up in the morning, 1 call and write
+               <lb/>to these women to ask for their dreams.
+               <lb/>Chellis Glendinning
+               <lb/>Camp Meeker, California
+            </p>
+            <p>
+               <lb/>﻿1970
+               <lb/>A night dream remembered in the early morning.
+               <lb/>1am living in a second-story apartment of an old
+               <lb/>farmhouse in Berkeley, California. My bedroom has
+               <lb/>tall windows and my bed is a foam pad on the floor
+               <lb/>on a flower-print rug. Doing yoga in the morning i
+               <lb/>remember a vision i had during the night of a long
+               <lb/>gray figure lying in the grass. In my dream the figure
+               <lb/>looks as if it were made of stone. The green grass is
+               <lb/>tall and in the distance i can see a city below the
+               <lb/>hill. As i look, the figure rolls over toward me and i
+               <lb/>can see that it is a large and sleeping goddess. As she
+               <lb/>turns toward me i feel very happy. I realize she is my
+               <lb/>potential for strength and inner power. It makes me
+               <lb/>laugh that all the other statues i have seen have
+               <lb/>been male.
+               <lb/>Anne Kent Rush
+               <lb/>Berkeley, California
+               <lb/>September, 1973
+               <lb/>lam sleeping in a large bare room in downtown
+               <lb/>Oakland, California. It contains only a mattress on
+               <lb/>the floor. I have been sick with Pelvic Inflammatory
+               <lb/>Disease for a year and a half
+               <lb/>In the dream I meet an elderly woman who is a
+               <lb/>dream-interpreter. She is quite tall with gray-white
+               <lb/>hair beneath a tweed brimmed hat. She is wearing a
+               <lb/>wool suit, oxfords, and nylon stockings with seams
+               <lb/>up the backs. She has many freckles. I yearn to talk
+               <lb/>with her, but she walks away from me down a street
+               <lb/>by the university. I want to ask her about my dream
+               <lb/>sculpture. It is a pile of rocks three feet high, shaped
+            </p>
+            <p>
+               <lb/>like a fish and covered by a white sheet. A woman of
+               <lb/>about 30 appears. She is like me. Boldly, she alters
+               <lb/>the sculpture by rearranging the rocks. She makes
+               <lb/>legs, vulva, breasts, arms, a head. She makes a
+               <lb/>woman.
+               <lb/>Chellis Glendinning
+            </p>
+            <p>
+               <lb/>March 24, 1976
+               <lb/>have this dream in a small unfinished wood
+               <lb/>building, very cozy and snug, in Wolf Creek, Ore
+               <lb/>gon. Jean and I have just returned from the Bay Area
+               <lb/>(San Francisco) where we have done the spring issue
+               <lb/>of Womanspirit. Previous to the dream I have talked
+               <lb/>to friend Greg about equinox ritual he and other
+               <lb/>men have had. They have also had a moon ritual,
+               <lb/>discussions about sexuality and a workshop on class
+               <lb/>— all imitations of what local feminists are doing.
+               <lb/>In the dream women and men are dancing. They
+               <lb/>are in a circle with men and women alternating.
+               <lb/>Their costumes are black and white. They are learn
+               <lb/>ing a dance together, a ritual dance. Arms are ex
+               <lb/>tended full-length in front of their bodies with hands
+               <lb/>clasped together. I know it is dangerous that the
+               <lb/>men are learning this dance, for with it they can kill
+               <lb/>the women; kill them with the force of the swing of
+               <lb/>their arms when their hands are clasped together.
+               <lb/>want to warn the women somehow, but all my tries
+               <lb/>to communicate the danger are frustrated
+               <lb/>Ruth Mountaingrove
+               <lb/>Wolf Creek, Oregon
+            </p>
+            <p>
+               <lb/>April 30, 1976
+               <lb/>Idream this dream in a small green room in a
+               <lb/>wood-frame house in Syracuse, New York. The mat
+               <lb/>tress is on the floor. The dream comes to me at the
+               <lb/>end of a period of intense dreaming and dream
+               <lb/>sharing with The Women of the Wednesday Moon, a
+               <lb/>class at Syracuse University in Women and Religion.
+               <lb/>It is a week after the Boston conference on women's
+               <lb/>spirituality.
+               <lb/>am outside in the sunlight on a sloping hill by
+               <lb/>my father’s house. Catherine, my mother, is riding a
+               <lb/>saddle. She calls me over to ask the place on her
+               <lb/>Yoni (vulva) that touches the saddle as she rides.
+               <lb/>Now she lies on the grass, legs spread wide in the
+               <lb/>sunshine. She wants to show me. Her vulva is wide
+               <lb/>open. She touches a spot near her perineum, says
+               <lb/>she’s sensitive here. I am fascinated with how beau
+               <lb/>tiful she is! Catherine’s vagina opens wider! She can
+               <lb/>open herself so wide because she has given birth
+               <lb/>to me! Now the sun is streaming into her and I can
+               <lb/>see her cervix and the interior of her womb. Beauti
+               <lb/>ful pinks, sun glow, brilliant reds. I say, "You are like
+               <lb/>a red bird flying into the sunset." Catherine feels
+               <lb/>bashful. “Really?” she says. Yet she is bold to do this
+               <lb/>in the open, to do it at all. My father is nearby, but
+               <lb/>he won’t come to look. I wake up excited, laughing.
+               <lb/>River
+               <lb/>Oakland, California
+            </p>
+            <pb n='71'/>
+            <p>
+               <lb/>Winter, 1976
+               <lb/>Yeveny re-enters this dream during a foot mas
+               <lb/>sage Chellis gives her. She originally had the dream
+               <lb/>fifteen years before, as a fifteen year old, in the
+               <lb/>town where she grew up, Moody, Texas
+               <lb/>am walking in a desert. A huge Sphinx appears
+               <lb/>—stone-faced, claw-footed, winged cat.
+               <lb/>feel
+               <lb/>afraid. I feel She is my ancient Black grandmother
+               <lb/>who was very harsh with me, who is now dead. I ask
+               <lb/>the Sphinx-grandmother to tell me Her answers.
+               <lb/>want to know so badly! But She doesn’t make it easy
+               <lb/>for me to understand. I keep asking despite my fear.
+               <lb/>This time I feel as bewildered as before, but I lose
+               <lb/>some of my fear.
+               <lb/>Yeveny dies in a car accident shortly after this
+               <lb/>remembrance. She is run over while picking up a cat
+               <lb/>in the road.
+               <lb/>Yeveny Kazik (through Chellis)
+               <lb/>Forestville, California
+            </p>
+            <p>
+               <lb/>July 4, 197
+               <lb/>lam sitting in a circle of nine women in Amatera
+               <lb/>su, a three-story wooden and glass pyramid. Located
+               <lb/>along the northern California coast, named after an
+               <lb/>Egyptian goddess, designed and built by women.
+               <lb/>This is our first night together for a two-week inten
+               <lb/>sive bodywork training which I have organized. We
+               <lb/>all feel overwhelmed to be in such a place.
+               <lb/>A planet named Urania, where there live figures
+               <lb/>with short round bodies, elongated heads and muted
+               <lb/>yet well-defined facial features, all of a whitish
+               <lb/>green glow. I move ahead in time. I am 30. Actually
+               <lb/>there is no age in this existence, rather a sense of
+               <lb/>BEING prevails. I am writing. Sitting at a desk, trans
+               <lb/>scribing information. I am left-handed. I write con
+               <lb/>stantly. Sitting, writing. I feel a sense of urgency.
+               <lb/>The earth is to destruct. They must receive this infor
+               <lb/>mation. I keep at work, yet all the while a sense of
+               <lb/>timelessness remains.
+               <lb/>
+               <lb/>
+               <lb/>
+               <lb/>P
+               <lb/>+
+               <lb/>am writing symbols. Even though I don’t under
+               <lb/>stand what I am writing, I proceed. When the most
+               <lb/>important communications come through, I will
+               <lb/>know the language. Ellie is binding the script into
+               <lb/>volumes. She works in the library. She catalogues all
+               <lb/>the information and knows where to find everything.
+               <lb/>We work in duo. We rarely talk. We share a deep
+               <lb/>heart connection.
+               <lb/>ask, "What is the source of what I transmit?”
+               <lb/>hear laughter.
+               <lb/>Comes the answer. “There is no hierarchy! This
+               <lb/>source is everywhere and everything.
+               <lb/>lask, "How can I bring this information to earth?
+               <lb/>"Writing will be a way. Speaking, but not yet.
+               <lb/>Later.
+               <lb/>ask, "What can I do with my worry?"
+               <lb/>hear, "Transform it into action: care for the
+               <lb/>planet.
+               <lb/>Treelight Greer
+               <lb/>Oakland, California
+            </p>
+            <p>
+               <lb/>September
+               <lb/>1977
+               <lb/>have this dream after I leave my lover Kit. I am
+               <lb/>staying at a friend’s house and getting ready to live
+               <lb/>alone. I have fears about moving into a neighbor
+               <lb/>hood which may not be safe. I feel racism mixed in
+               <lb/>with my fears.
+               <lb/>In the basement of a public building—a tem
+               <lb/>porarily safe place—Kit and I meet a Black wom
+               <lb/>an and man. They are revolutionaries, wanted for
+               <lb/>their political activities. The woman is solid, warm,
+               <lb/>serious. I feel unsure. The woman asks, Are you
+               <lb/>willing to deal with the risks of your outlook?" She
+               <lb/>shows us the compact gun she carries inside her
+               <lb/>thigh and the arrow slung diagonally across her
+               <lb/>back. I am frightened by the gun, intrigued by the
+               <lb/>arrow. We have been here long enough. As we get
+               <lb/>up to leave, Kit and the woman join hands, swing
+               <lb/>arms, sing a spiritual song. I judge them because this
+               <lb/>song is from the “old religion”, yet I am also in
+               <lb/>trigued that they are using the old to make a new
+               <lb/>connection.
+               <lb/>When I wake up, the dream feels unfinished sol
+               <lb/>return to it in meditation. I look at my fear of the
+               <lb/>gun and reach out for the arrow. As I look closer at
+               <lb/>the gun on her thigh, it becomes a tape recorder! I
+               <lb/>ask her why. She says the tape is the sound of wom
+               <lb/>en raising energy in a circle and she keeps it close to
+               <lb/>her so she can hear it whenever she needs to feel her
+               <lb/>strength FULLY to defend herself. She tells me,
+               <lb/>"Powerful sounds—sounds as direct as bullets
+               <lb/>sounds which when released, effect change!" The
+               <lb/>arrow is a beam of energy coming from the center of
+               <lb/>the earth. When she grasps it, it flows through her
+               <lb/>into action!
+               <lb/>River
+            </p>
+            <p>
+               <lb/>December 2, 1977
+               <lb/>This dream comes to me in our Wolf Creek moun
+               <lb/>tain cabin. We listen to a recording of an interview
+               <lb/>between Jo Campbell and an African UCLA professor
+               <lb/>who says, “There is some necessity for separatism,
+               <lb/>but stresses that "men must be re-educated." Ruth
+               <lb/>and I talk again this night of the fate of Native Amer
+               <lb/>icans who welcomed the white Europeans as "broth
+               <lb/>ers" and about an article I have read telling of dol
+               <lb/>phins who were trained to kill. They learned to kill
+               <lb/>people because “they loved their human trainers so
+               <lb/>much. I feel deeply uneasy. I ask the goddess for a
+               <lb/>dream.
+               <lb/>lam in a suburban environment, in front of two
+               <lb/>large houses—a sorority house and a fraternity
+               <lb/>house —with large level front lawns and a driveway
+               <lb/>between them. Young men come out of their front
+               <lb/>doorway and parade around their lawns for a ritual.
+               <lb/>The first one carries pots and pans, and I think,
+               <lb/>What a din they will make beating on those!" After
+               <lb/>they walk aroud in a circle on their lawn in a very
+               <lb/>elementary, unaesthetic ritual, they cross the drive
+               <lb/>way to the sorority lawn. I want to stop them, feel-
+               <lb/>ing it is not right, but think I have no authority to
+               <lb/>intervene.
+            </p>
+            <pb n='72'/>
+            <p>
+               <lb/>The women are here now, and they all do a ritual
+               <lb/>together. The men say words to the women remind
+               <lb/>ing them of past ties and experiences together. They
+               <lb/>divide into couples until all are paired off. One man
+               <lb/>puts a cord around his head and that of a young
+               <lb/>woman. They tussle a bit, and then she takes the
+               <lb/>initiative and leads him off laughing and pulling him
+               <lb/>by the cord which connects them. I think she is
+               <lb/>deluded to feel she has won, as she is tied to him!
+               <lb/>All of them go now to a dance. I am glad to be
+               <lb/>alone.
+               <lb/>I am in the sorority now. The phone rings, and
+               <lb/>answer it. It is for a woman named Catherine Cagle.
+               <lb/>1ask women there if they know her. One of them
+               <lb/>takes the phone and talks to the caller. I get the idea
+               <lb/>that the woman answering the phone call is Cath
+            </p>
+            <p>
+               <lb/>erine’s twin sister, as I have seen two identical white
+               <lb/>satin shirt dresses in the closet. They have red piping
+               <lb/>and look like ritual clothes, not for a social event.
+               <lb/>Twins are the closest kind of sisters. This sister is not
+               <lb/>at the dance, but her ritual clothing is "in the closet.
+               <lb/>Her sister is getting a message for her.
+               <lb/>Jean Mountaingrove
+               <lb/>Wolf Creek, Oregon
+            </p>
+            <p>
+               <lb/>December 2, 1977
+               <lb/>am sleeping on the living room couch in the
+               <lb/>apartment. I have awakened with insomnia, and as
+               <lb/>is my habit, I move to another room to finish the
+               <lb/>night.
+               <lb/>A small cog turning a very large wheel.
+               <lb/>Barbara Hammer
+            </p></div>
+      </body>
+   </text>
+</TEI>
