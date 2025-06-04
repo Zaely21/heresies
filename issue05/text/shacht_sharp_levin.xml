@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Many Paths of Feminist Spirituality</title>
+            <author>Jaci Schacht</author>
+            <author>Joan L. Sharp</author>
+            <author>Rachel Levin</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='55'/>
+            <p>
+               <lb/>The Many Paths of Feminist Spirituality
+            </p>
+            <p>
+               <lb/>Upon reading the many contributions that were sub
+               <lb/>mitted to the Heresies Creat Coddess Issue, we found it
+               <lb/>interesting —we hope you will too—that quite a few of the
+               <lb/>articles were concerned with the concept of Coddess or
+               <lb/>divine female principle within the context of other exist
+               <lb/>ent religious structures. We present here some excerpts of
+               <lb/>the ideas and attitudes that were expressed.
+               <lb/>Surely there is no one path to our growing understand
+               <lb/>ing of feminist spirituality. We are each in a constant
+               <lb/>process of transition. Perhaps by becoming more aware of
+               <lb/>the many places from which we are coming and the many
+               <lb/>paths we are taking, we may gain a better understanding
+               <lb/>ot where we are going.
+               <lb/>Our Mother Who Art in Heaven
+               <lb/>... the Virgin Mary serves not only as a vehicle for
+               <lb/>recruiting those followers of pagan cults which had a
+               <lb/>female form of deity but also as a means of diffusing any
+               <lb/>vestiges of power of the Mother Goddess in the minds of
+               <lb/>women
+               <lb/>Woman’s role as mother has been rigidly structured
+               <lb/>into an ideal which is all-loving, all-giving, for the ben
+               <lb/>efit of males, infant and grown. ... The Greek Goddess
+               <lb/>Demeter, through her relationship to her daughter Per
+               <lb/>sephone, provided her human daughters with a source of
+               <lb/>spiritual nurturance sadly lacking in the Christian God
+               <lb/>the Father whose concern, laced with authoritarianism,
+               <lb/>was directed towards a son. Since the mother of the
+               <lb/>Christian "Son of God" was human, her only course of
+               <lb/>action lay in submission to the male deities, Father and
+               <lb/>Son. Demeter, like the Virgin Mary, demonstrated grief
+               <lb/>and forbearance, but, because she was divine she had
+               <lb/>the power of her anger.
+               <lb/>Since it is largely the feminine principle that has been
+               <lb/>denied power by Christian concepts, the necessary evo
+               <lb/>lutionary step in Western religion is the rediscovery of
+               <lb/>the missing truths embodied in a Heavenly Mother.
+               <lb/>Jaci Schacht
+               <lb/>The Goddess in Islam
+               <lb/>It is my belief that a goddess exists in Islam. She
+               <lb/>emerges from the pre-Islamic religions of Arabia, is al
+               <lb/>most eradicated by Mohammed’s promotion of the male
+               <lb/>god, Allah, and finally returns through Sufi mystics and
+               <lb/>poets. The more popular forms of Islam stress the proto
+               <lb/>type of woman as Eve while the esoteric Sufi branch
+               <lb/>invokes the female powers of the cosmos such as Layla
+               <lb/>or 'Night' and al Rahman or Divine Mercy and Love,
+               <lb/>also known as the Virgin Mary. Due to the long-time
+               <lb/>ambiguity towards Her, she has remained the veiled god
+            </p>
+            <p>
+               <lb/>dess who continuously haunts the desert traveler like the
+               <lb/>memory of an oasis.
+               <lb/>Her presence may appear unusual in Islam, an ap
+               <lb/>parently macho’ religion that refers to the female as ’she
+               <lb/>and the male as ’you' in the Koran. Thus Her roots must
+               <lb/>be sought in pre-Islamic religions. Centuries before Is
+               <lb/>lam, a relationship thrived between the Goddess and the
+               <lb/>woman as judge, leader or priestess. Ishtar, the Lady of
+               <lb/>Vision, was worshipped in Mesopotamia, Isis and Maat
+               <lb/>in Egypt, Inanna in Sumer and Astarte, the Queen of
+               <lb/>Heaven, in Phoenicia. Such cultures endowed the female
+               <lb/>with supreme standing. In the erasing of such a role by
+               <lb/>the rise of a patriarchal society, the prominent Arabian
+               <lb/>goddesses such as Allat, Manat and Uzza gradually be
+               <lb/>came the ’daughters of Allah'...Of further interest is the
+               <lb/>potential parallel between the names of the goddess
+               <lb/>Allat and Allah, the Islamic god. It is known that the
+               <lb/>names of the new male gods were often the adopted and
+               <lb/>changed names of the earlier female deities.
+               <lb/>Joan L. Sharp
+               <lb/>Feminism in Judaism
+               <lb/>While the feminine aspects of Judaism have been
+               <lb/>overlaid by the masculine aspects, both in fact and at
+               <lb/>titude, the dormant seeds of a Goddess-influenced origin
+               <lb/>must be unearthed and replanted in fertile soil in order
+               <lb/>to establish a meaningful connection between Judaism
+               <lb/>and feminism. The continuous movement in Judaism
+               <lb/>away from the original nature cults towards the celebra
+               <lb/>tion of historical events is perhaps the single most im
+               <lb/>portant factor that contributed to the suppression of
+               <lb/>women. Research into the various beliefs held with re
+               <lb/>gard to the earliest holy day observances would be a
+               <lb/>starting point for Jewish feminists to re-establish their
+               <lb/>feminist connections within the religion.
+               <lb/>In earliest times the date of all Jewish festivals was
+               <lb/>established by the rising of the new moon and many
+               <lb/>scholars believe that the original Sabbath was observed
+               <lb/>once a month at the time of the moon’s rising. The figure
+               <lb/>of the Shekhinah, the female aspect of God, is the Sab
+               <lb/>bath Queen whose praises resound in the temple that
+               <lb/>She might return from her self-imposed exile. One of Her
+               <lb/>images is that of the new moon which suddenly appears
+               <lb/>after her dark phase to illuminate the sky again. The very
+               <lb/>ancient connection of the Sabbath with the new moon is
+               <lb/>one that still survives in much altered form in the sanc
+               <lb/>tifying of the new moon, a ritual that many women are
+               <lb/>reviving in the Sabbath worship.
+               <lb/>Rachel Levin
+            </p></div>
+      </body>
+   </text>
+</TEI>

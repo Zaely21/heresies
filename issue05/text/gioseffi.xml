@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Birth Dance or Belly Dance</title>
+            <author>Daniela Gioseffi</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='120'/>
+            <p>
+               <lb/>Birth Dance or Belly Dance
+            </p>
+            <p>
+               <lb/>Daniela Gioseffi
+            </p>
+            <p>
+               <lb/>Few would link any positive idea of feminism with the
+               <lb/>present-day phenomenon of the café belly dancer—as
+               <lb/>sociated with that blatant sex object, the burlesque strip
+               <lb/>per of our Western culture, as she accepts the dollar bills
+               <lb/>thrust into her beaded bra and dance belt by the male
+               <lb/>members of her audience. But, difficult as it may seem,
+               <lb/>there is good reason to do so. Correlating the history of
+               <lb/>the so-called belly dance with archeological evidences of
+               <lb/>early matriarchal civilization, research into pagan wicca,
+               <lb/>worship of the Earth Mother Goddess, and a study of
+               <lb/>primitive obstetrics, I have come to the logical conclusion
+               <lb/>that the belly dance, probably the most ancient form of
+               <lb/>dance known to civilization, was originally performed by
+               <lb/>women to celebrate, nurture and invoke her magical abil
+               <lb/>ity to procreate at a time when giving birth to maintain
+               <lb/>the species against depopulation caused by natural disas
+               <lb/>ter was the most important thing a human being could do.
+               <lb/>Prehistoric peoples, knowing nothing of the science of
+               <lb/>birth and death, but only that humans are mysteriously
+               <lb/>born and mysteriously die, probably viewed the muscular
+               <lb/>contractions that expel the infant from the womb as some
+               <lb/>awesome hocus-pocus of creation.
+               <lb/>Though the instinctive ability to bear down and give
+               <lb/>with nature’s contractions has been quite lost to modern
+               <lb/>woman, one can imagine how a ritual dance to the first
+               <lb/>deity, The Great Mother, would have imitated those mys
+               <lb/>terious contractions, resulting in belly rolls, and possibly
+               <lb/>shimmies, too, of the swelling breasts that fill so magically
+               <lb/>with the milk that sustains newborn life.
+               <lb/>Significantly, the present-day, café version of the
+               <lb/>dance still features a portion known as the "tloor work" in
+               <lb/>which the dancer, to a slower, more improvised rhythm,
+               <lb/>descends to the floor, and, kneeling, leans back and
+               <lb/>works her stomach muscles in a series of contractions.
+               <lb/>theorize that this section of the dance, really its dramatic
+               <lb/>climax, and traditionally performed in a serious mood
+               <lb/>(the dancer refraining from smiling as she does elsewhere
+               <lb/>in the dance), is probably the residue of an ancient rite
+               <lb/>which either mimed or actualized the act of giving birth
+               <lb/>as primitive women did, kneeling or squatting, in full
+               <lb/>control of the muscles that force the infant from the
+               <lb/>womb. This climax of the dance, which can also be asso
+               <lb/>ciated with orgasm, as the climax of natural childbirth
+               <lb/>often is, is followed by a faster, more joyous, upbeat
+               <lb/>ending, which, in the Turkish style, still retains remnants
+               <lb/>of a mime indicatingthe grinding of grain and the kneading
+               <lb/>of bread, highly respected occupations of early vegetarian
+               <lb/>matriarchates. The fertility dance, now viewed as a tourist
+               <lb/>attraction in cafés from Cairo to San Francisco, from
+               <lb/>Johannesburg to New York, is most likely the sexist con
+               <lb/>version of a sacred ritual reaching back to a time when
+            </p>
+            <p>
+               <lb/>birth was an ecstatic and publicly celebrated event rather
+               <lb/>than a sterile and private horror locked away in a male
+               <lb/>obstetrician’s "delivery” room.
+               <lb/>In less Westernized corners of the Middle East, the
+               <lb/>"birth dance” was still performed, at least as late as the
+               <lb/>1960s, around a woman in labor by her fellow tribes
+               <lb/>women. In this form, it was a ritual which men were not
+               <lb/>allowed to watch—its purpose being to hypnotize the
+               <lb/>woman in labor into giving with her contractions, thus
+               <lb/>avoiding the pain of strained muscles. We don’t need to
+               <lb/>be reminded that ours is one of the few cultures in the
+               <lb/>world that expects women to go from fairly sedentary
+               <lb/>lives into the strenuous labor of giving birth (equivalent to
+               <lb/>running a six mile race) without adequate preparation of
+               <lb/>the muscles involved. However, among primitive peoples,
+               <lb/>there are many examples of therapy dances which involve
+               <lb/>the pelvis and abdomen. Modern Hawaiians have probab
+               <lb/>ly forgotten their "ohelo” hula, a dance which was per
+               <lb/>formed in a reclining position for pregnancy therapy.
+            </p>
+            <pb n='121'/>
+            <p>
+               <lb/>Even the dignified Spanish flamenco dancer, costumed in
+               <lb/>her red and black peacock-tail dress, is related to the
+               <lb/>oldest dancer of all, the birth dancer
+               <lb/>Just as the American Blacks have had to rally around
+               <lb/>elements of their common African heritage in order to
+               <lb/>free themselves from a psychological sense of inferiority
+               <lb/>bred into them by Waspish American cultural values, so
+               <lb/>have feminists, both radical and nonradical, begun to
+               <lb/>rally around their once suppressed cultural heritage in
+               <lb/>order to free themselves of a sense of female inferiority. If
+               <lb/>the so-called belly dance, which I choose to call a "birth
+               <lb/>dance,” is an important element of that matriarchal heri
+               <lb/>tage, and one, moreover, that has been thoroughly turned
+               <lb/>around as a symbol of sexual bondage, then feminists
+               <lb/>ought to be dancing it anew on the raised levels of their
+               <lb/>consciousness, for each other, and not just as a seductive
+               <lb/>entertainment for the amusement of men.
+               <lb/>From the postglacial "Women’s Dance” of the Cogne in
+               <lb/>Africa (c. 10,000 B.C.)—one of the oldest representations
+               <lb/>of dancing—to the “White Lady of Auanrhet” (c. 4,000
+               <lb/>B.C.) —a rock painting of a female fertility dancer found
+               <lb/>in a cave in the Sahara—to the ancient Egyptian belly
+               <lb/>dancers in the wall paintings of the burial chambers of
+               <lb/>Thebes (c. 1420 B.C.)*, the timeless birth dance has been
+               <lb/>persistent in its migrations down through the centuries.
+               <lb/>have no wish, after all, to deny the wonderfully erotic
+               <lb/>quality of the dance, but only to show how it relates to
+               <lb/>the sublime eroticism of life in all its visceral glory, and
+               <lb/>not to a smutty, narrow idea of sex born of a repressive
+               <lb/>ethic that depends for its existence on the subjugation of
+               <lb/>the female who, in the beginning, freely celebrated the
+               <lb/>graciousness of Mother Nature as the giver of the promise
+               <lb/>of redemption and resurrection, of new life and new birth.
+               <lb/>This piece is excerpted from a longer article.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

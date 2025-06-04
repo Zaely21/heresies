@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Woman's Primacy in the Coming Reformation</title>
+            <author>Grace Shinell</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         			<div>
+				<pb n='46'/>
+			<p>
+				<lb/>Woman’s Primacy in the Coming Reformation
+			</p>
+			<p>
+				<lb/>Grace Shinell
+			</p>
+			<p>
+				<lb/>Spirit is energy; frequency is form. The spirit, the energy,
+				<lb/>the frequency, the form of women is different from the form
+				<lb/>of men. Nevertheless, there is a growing effort to equate
+				<lb/>female with male; the effort is on the part of men. Male ex
+				<lb/>perts who have always detrimentally defined women are
+				<lb/>now encouraging women to accept equality. Women must
+				<lb/>suspect this sudden offering of brotherhood and they must
+				<lb/>suspect its profferers of either ignorance or witting despera
+				<lb/>tion. Let us examine the proposition of opposite but equal
+				<lb/>and immediately dispose of it as a factual concept
+				<lb/>...Research has led to the startling conclusion that "na
+				<lb/>ture’s first choice or primal impulse is to (produce) a female."
+				<lb/>Genetically speaking, the beginning of everyone’s life is
+				<lb/>female! Only when a new substance, the male hormone, is
+				<lb/>added to the fetus does its gender change. Sheila D. Collins'
+				<lb/>The female of the species is not the opposite of the male,
+				<lb/>rather she contains the male form, among other possible
+				<lb/>variations. The female is the matrix from which all mutation
+				<lb/>occurs. Biologically males are mutants.? Their ovaries have
+				<lb/>been electrochemically transmutedintotestes, theirclitorises
+				<lb/>into penises, whereas their mammaries and uteruses remain
+				<lb/>as vestiges of their undeveloped female form. Moreover
+				<lb/>the center of gravity in the male physique resides in the
+				<lb/>shoulders, whereas a woman’s center of gravity is in her solar
+				<lb/>plexus. From a spiritual standpoint this physical difference
+				<lb/>is highly significant, for the correct practice of yoga re
+				<lb/>quires that the center of gravity be in the solar plexus, which
+				<lb/>suggests that the entire practice of yoga was developed by
+				<lb/>and for women. As stated, hormonal variation is the electro
+				<lb/>chemical basis for the physical difference between men and
+				<lb/>women, but the difference in form should be understood as
+				<lb/>one of frequency as well.
+				<lb/>... Einstein and other well-known physicists have noted the
+				<lb/>fact that matter is thought, vibrating at a lower frequen
+				<lb/>cy. ...In fact all manifestation is merely the life force work
+				<lb/>ing at differing rates of vibration and the difference be
+				<lb/>tween one element and another is merely its different fre
+				<lb/>quency of vibration. Peter Rendels
+				<lb/>Because frequency is form, manifestation fluctuates. Ex
+				<lb/>treme fluctuations are noted as cyclical occurrences. Any
+				<lb/>perception of circuitry is an improvement over the tradition
+				<lb/>al linear world view that men have long held. Nevertheless,
+				<lb/>cyclical observation is still literally short-sighted, for energy
+				<lb/>spirals, which occasions its fluctuations, e.g., sine waves.
+				<lb/>More precisely, electromagnetic currents make a double
+				<lb/>helical circuit of expansion and contraction. Envision a fig
+				<lb/>ure 8. However, only female frequency travels on a double
+			</p>
+			<p>
+				<lb/>helical circuit; this actually can be perceived in the form of
+				<lb/>the female sex chromosome (X). The form of the male sex
+				<lb/>chromosome, as everyone knows, is Y. Male energy is short
+				<lb/>circuited.
+				<lb/>Nowhere is the short-circuiting of the male more obvious
+				<lb/>than in the sex act. For this reason men who would attain spir
+				<lb/>ituality are advised to practice celibacy. Thus male religions
+				<lb/>have traditionally proscribed the rising snake of sexual ener
+				<lb/>gy (except in Kundalini, a practice that forces the semen
+				<lb/>back up the spinal column).“ The ancient female-principled
+				<lb/>religions did not proscribe their aspirants' life-giving ca
+				<lb/>pabilities.
+				<lb/>...As in the procreation of children so in the origin of all
+				<lb/>things, it was the self-fertilizing female principle that was
+				<lb/>the operative cause in fecundity. ..E. O. James“
+				<lb/>Male religions have coopted the female principality in
+				<lb/>many ways. For example, Yin and Yang are recent male in
+				<lb/>ventions intended to give men a place in spiritual life, just
+				<lb/>as the acknowledgment of sexual reproduction gave them a
+				<lb/>role in family life. The comparison is revealing for, although
+				<lb/>concepts such as Yin and Yang appear to posit equality,
+				<lb/>men have taken for themselves superior spiritual roles, just
+				<lb/>as they have claimed supreme authority in the family, even
+				<lb/>though their role in reproduction is clearly secondary.
+				<lb/>The allocation of Yin, or passivity, to women is merely
+				<lb/>the most obvious part of the ruse. As every woman with a
+				<lb/>raised consciousness knows, women need not choose be
+				<lb/>tween activity and passivity. Women are capable of being
+				<lb/>both active and passive. It may even be said that in this re
+				<lb/>spect women are balanced, whereas men are imbalanced—
+				<lb/>overly "active.
+				<lb/>More important, the algebraic X signifies the unknown
+				<lb/>and is also the Greek letter psi as in psychic. X represents
+				<lb/>negative energy, the energy that dissolves the material world
+				<lb/>as in the X-ray process. Women (XX) actually transmit more
+				<lb/>negative (dematerializing), so-called passive energy than
+				<lb/>men (XY) do and can thus experience states of passivity (spir
+				<lb/>ituality) that men cannot. Once again, that which is a fe
+				<lb/>male advantage has been declared a disadvantage.
+				<lb/>Originally the Yin-Yang symbol represented this essentia
+				<lb/>eveness or Eve-ness. To perceive this inner meaning, one
+				<lb/>need only look deeply. Then the Yin-Yang symbol is revealed
+				<lb/>as a composite picture of the whole (XX), for the one-dimen
+				<lb/>sional symbol () is a cross-section of interlocked helixes
+				<lb/>(Such cross-sections are myopically misinterpreted by scien
+				<lb/>tists as waves.) Symbols are contracted and powerful truths.
+				<lb/>But the truly powerful symbols are few and they have been
+				<lb/>coopted and misapplied. Properly used, however, symbols
+				<lb/>do facilitate communication.
+			</p>
+			<pb n='47'/>
+			<p>
+				<lb/>Homer would not have sung so sweetly (and truthfully) had
+				<lb/>she not composed in hexameter.
+				<lb/>Another symbol that is part of woman’s original symbolic
+				<lb/>logic is the hexagram, the six-pointed star, the Seal of Sol
+				<lb/>omon, which is also the Kabbalistic Tree of Life. Again this
+				<lb/>symbol represents the self-fertilizing female principle. The
+				<lb/>six pointed star is actually two equilateral triangles
+				<lb/>the apexes of which have equally fused. The fusing is on a
+				<lb/>one-to-one ratio, which is duplication —exact reproduction
+				<lb/>-parthenogenesis. In actuality birth is reduction-division;
+				<lb/>so is death. Physically and spiritually, the one becomes dip
+				<lb/>loid, which becomes haploid; embryologists call this process
+				<lb/>meiosis-mitosis. Thus all multiplicity is duplicity but per
+				<lb/>haps only women, so often accused of it, can understand
+				<lb/>duplicity
+				<lb/>This symbol XX with its chain of double helical "ov
+				<lb/>aries” (which phallicized is also the symbol for atomic en
+				<lb/>ergy
+				<lb/>X), might as easily have been discovered as the
+				<lb/>model for the molecular structure of DNA, deoxyribonucleic
+				<lb/>acid, the carrier of genetic code. But Rosalind Franklin, the
+				<lb/>actual discoverer of what was actually discovered, was too
+				<lb/>expert a photographer to have gotten her Star of David pen
+				<lb/>dant in front of the lens when she took the now-famous crys
+				<lb/>talograph that clearly revealed the double helical structure
+				<lb/>of DNA
+				<lb/>Telling scientists anything may be like jumping out of the
+				<lb/>frying pan into the fire (or we might more accurately say
+				<lb/>from the pedestal onto the pyre—women were pushed, they
+				<lb/>didn’t fall), but knowledge, like all energy, is not contain
+				<lb/>able. The five-pointed star—the Kabbalistic sacred penta
+				<lb/>gram—the Wiccan Star of Transformation—is a perfect
+				<lb/>model of mutation, which is the result of sexual genesis.
+				<lb/>Sexual mutation may be compared to atomic combustion
+				<lb/>for which the pentagram could as well be the symbol but,
+				<lb/>no doubt, someone in the Pentagon already knows this. Per
+				<lb/>haps the general public should also be apprised that, upend
+				<lb/>ed,  the five pointed star represents the horned god of
+				<lb/>Wicca. Ironically, nefas (the unlawful) has become fas (law
+				<lb/>ful).
+				<lb/>Symbols are, of course, picture stories. The five pointed
+				<lb/>star, the symbol of the Christian era,? is a tragic picture story
+				<lb/>of disordered polarity. The hexagram is all balance and har
+				<lb/>mony, which is why people throw the I Ching with its 64 hex
+				<lb/>agrams” (8 x 8, the number of greatest duplication squared,
+				<lb/>contains all possibilities)— much as witches cast hexes.
+				<lb/>The pentagram and hexagram are visibly fused triangles.
+				<lb/>The triangle or number three represents the "final step
+				<lb/>towards mastering the universal knowledge of the spiritual
+				<lb/>I The number 3 is a female number; in the Tarot
+				<lb/>cards, it is the Empress, and as R. Allendy points out, “Three
+				<lb/>definitely is the dynamic principle itself."” Pyramid energy
+				<lb/>is just becoming reunderstood.
+				<lb/>... Through the use of radiesthesia, or dowsing rods, re
+				<lb/>searchers have been able to show that there is an helical vor
+				<lb/>tex of energy emanating from the apex of the pyramid which
+				<lb/>actually expands in diameter as it rises higher and higher.
+				<lb/>Max Toth, Greg Nielsen"
+				<lb/>This means that above the static energy or manifestation
+				<lb/>of every physical pyramid is an unseen pyramid of dynamic
+				<lb/>energy—spirit. (Dynamic instead of passive and static in
+				<lb/>stead of active are better definitions for Yin and Yang or
+				<lb/>Sakti and Shiva, especially if one is to understand the roles
+				<lb/>attributed to the latter.) The static and dynamic pyramids,
+				<lb/>one physical, one spirit, mirror each other. They are, apex
+			</p>
+			<p>
+				<lb/>to apex, double helical (8). They are an obvious funnel
+				<lb/>arrangement. Funeling energy or matter is contracted at
+				<lb/>the apex, expanded at the base. Contraction is some
+				<lb/>times called centripetal force; expansion, centrifugal force.
+				<lb/>These spiraling forces are basic to the creation of life.
+				<lb/>...In the heart, the two interlocked gyres become the Seal
+				<lb/>of Solomon or six pointed star, which in the Hindu tradition
+				<lb/>is the symbol of the heart chakra itself. )ill Purcel
+				<lb/>The sign of the human heart is the design of the human
+				<lb/>heart and it is a funneling system that generates centripetal
+				<lb/>centrifugal pulsing. The expansions and contractions of
+				<lb/>breathing set the funneling system in motion physically but,
+				<lb/>spiritually, exhaling is aspiration, inhaling is inspiration. This
+				<lb/>contracting-expanding, pulsing, breathing is literally uni
+				<lb/>versal. We reincarnate in the same way that we heartbeat
+				<lb/>to-heartbeat, breath-to-breath incarnate a carnal body.
+				<lb/>What we aspire to we become by being inspired." Thus
+				<lb/>yogis change their breathing patterns to attain a variety of
+				<lb/>spiritual transformations.
+				<lb/>In Islam the breath is the "divine exhalation,” the manifesta
+				<lb/>tion of the creative, the feminine principle of the one, anal
+				<lb/>ogous with the Hindu goddess Sakti... according to the
+				<lb/>Sufi mystic Ibn ’Arabi, her (the moon’s) twenty-eight phases
+				<lb/>correspond to the letters of the Arabic alphabet, the forms
+				<lb/>of which are themselves traditionally derived from the lunar
+				<lb/>shapes. Moreover, since the letters are also phonetic, their
+				<lb/>flow, sound and inner meaning as divine names (or lines of
+				<lb/>force, or causes of the universe) are closely related. Jill
+				<lb/>Purcels
+			</p>
+			<pb n='48'/>
+			<p>
+				<lb/>Consider the divine exhalation of the words: spire, spiral,
+				<lb/>spiritual, respire, aspire, inspire, expire. SSS is the exhalation
+				<lb/>of breath. It is also the hissing sound of snakes and, as fre
+				<lb/>quency is form S is the shape of the only earthly creature
+				<lb/>that spirals. The connections between snakes and women
+				<lb/>are well established but the snake is often misperceived as a
+				<lb/>phallic symbol. More appropriately and traditionally, the
+				<lb/>snake represents the spiraling creative force, S, and coupling
+				<lb/>snakes represent the double spiral, 8, the form of the female
+				<lb/>sex chromosome. Significantly, even modern, patriarchal
+				<lb/>Hinduism acknowledges this traditional association by
+				<lb/>designating the all-creative Kundalini energy as female and
+				<lb/>symbolizing it as a coiled serpent." Most other religions
+				<lb/>have interpreted the sacred connection between women
+				<lb/>and snakes deviously.
+				<lb/>Now the serpent was more subtil than any beast of the field
+				<lb/>which the Lord God had made. And he said unto the woman,
+				<lb/>"Ye, hath heard what God said, ’Ye shall not eat of the tree
+				<lb/>of Knowledge."
+				<lb/>This quotation from the Book of Genesis is an interesting
+				<lb/>example of a trend that has been noted by the Classics scholar
+				<lb/>John Pinsent:
+				<lb/>One final parallel exists between the Greek cosmological
+				<lb/>myths and those of the near east. [The Judaic Christian Gen
+				<lb/>esis) This is the need for the newly triumphant God [Zeus or
+				<lb/>Jehoval to defend his position first against gods and then
+				<lb/>against monsters sent up against him by Earth.
+				<lb/>Overwhelmingly the "monsters" that threaten Greek
+				<lb/>gods are snakelike:
+				<lb/>Hera sentsnakes tostrangle Heracles when hewas ababy.
+				<lb/>Heracles wrestled with Triton, a sea dragon.
+				<lb/>Heracles killed Hydra, a serpentwith nine heads.
+				<lb/>Scyla was drowned by Minos because she was a patri
+				<lb/>cidal priestess. Scyla metamorphosed into a sea squid that
+				<lb/>menaced Odysseus.
+				<lb/>As for Minos, he was afflicted by a disorder that caused
+				<lb/>him to emit snakes instead of semen. (He was cured by the
+				<lb/>wife of Cephallus.)
+				<lb/>Zeus attacked Typhon, a dragon whom Hera bore spon
+				<lb/>taneously in revenge for the rebirth of Athene. Zeus' own
+				<lb/>brainchild.
+				<lb/>Typhon in turn had children by a "snake woman"; these
+				<lb/>children were Cerebus and Chimaera.
+				<lb/>Cerebus, a dog, wreathed with nine snakes, was captured
+				<lb/>by Heracles.
+				<lb/>Chimera, a she-monster with a snake’s tail, was killed by
+				<lb/>Bellerophon.
+				<lb/>The snake that guarded Thebes was killed by Cadmus, who
+				<lb/>then won the Goddess Harmonia.
+				<lb/>Medusa was a snake-wreathed Gorgon. Her name means
+				<lb/>"ruler”. She was killed by Perseus the Destroyer who gave her
+				<lb/>head (the Gorgon mask) to the turncoat-goddess Athene.
+				<lb/>Athene wore it as her aegis (her authority).
+				<lb/>The Delphic Python pursued Leto so that she could not
+				<lb/>bear a son by Zeus. Leto found refuge, and her son grew to be
+				<lb/>Apollo, surnamed the Destroyer.
+				<lb/>Apollo destroyed the Delphic oracle and killed the
+				<lb/>Pythoness.
+				<lb/>Apollo also won Admetus a prized bride, Alcestis, but Ad
+				<lb/>metus found the bridal chamber full of snakes, which were
+				<lb/>sentby Artemis.
+				<lb/>In the more recent Christian era, we are assured that St.
+				<lb/>Patrick rid Ireland of its snakes.
+			</p>
+			<p>
+				<lb/>Sssisters, sssisters, do not think that the great hagiocratic
+				<lb/>gynocracies of the Bronze Age vanished without a trace—
+				<lb/>or that they perished without a fight.
+				<lb/>...The commandments, which are really eight, not ten, to
+				<lb/>match the number of letters in the Name, fall into two groups:
+				<lb/>one of three “ Thou Shalts” concerned with the true crea
+				<lb/>tion, and the other of five “Thou Shalt Nots" concerned with
+				<lb/>the false creation. ..Robert Graves1s
+				<lb/>The number 8, the number of greatest reduplication, rep
+				<lb/>resents the true creatrix because it also symbolizes the
+				<lb/>coupling, the copulation of snakes. Robert Graves tells us
+				<lb/>that in the Druidical mysteries the world began from the red
+				<lb/>egg of a sea serpent; in the Orphic mysteries this egg result
+				<lb/>ed from the sexual act performed between the Great God
+				<lb/>dess and the World-Snake Ophion.
+				<lb/>...The Great Goddess herself took the form of a snake and
+				<lb/>coupled with Ophion; and the coupling of snakes in archaic
+				<lb/>Greece was consequently a forbidden sight— the man who
+			</p>
+			<pb n='49'/>
+			<p>
+				<lb/>witnessed it was struck with the "female disease” he had to
+				<lb/>live like a woman for seven years, which was the same punish
+				<lb/>ment as was permanently inflicted on the Scythians who
+				<lb/>sacked the (Philistine) Temple of the Great Goddess of As
+				<lb/>kalon."
+				<lb/>The usually astute Graves does not state the obvious
+				<lb/>the coupling of snakes was the coupling of females. From
+				<lb/>this it may be reasoned that the coupling snakes on the
+				<lb/>Caduceus make that Staff of Life not only a symbol of Kun
+				<lb/>dalini2° but also a symbol of parthenogenesis. Certainly the
+				<lb/>earliest creation myths — instead of blaming the snake for
+				<lb/>the downfall of man—credited her with the creation of life,
+				<lb/>which did not originally include mankind. Only after biolog
+				<lb/>ical mutation, political revolution and religious reformation
+				<lb/>did the snake become abhorrent, like all things symbolic of
+				<lb/>women.
+				<lb/>And lest we forget, as most historians do, there were those
+				<lb/>thousands upon thousands of nameless women who were
+				<lb/>slaughtered as witches during the Middle Ages and later by
+				<lb/>many of the luminaries of the Christian Church. They, too,
+				<lb/>have their religious heritage which it might be enlightening
+				<lb/>...to discover. ...Sheila Collins?
+				<lb/>Scholars have noted that religions are often the conden
+				<lb/>sations of former civilizations. Wicca is the condensation of
+				<lb/>the ancient gynocracies, after all attempts at extermination
+				<lb/>have failed. The Anglo-Saxon root wic means to bend, to be
+				<lb/>pliant like a snake. The wisdom of Wicca is precisely this,
+				<lb/>and every woman has this knowledge, the knowledge of her
+				<lb/>compliance with nature, with the universe. This is her whole
+				<lb/>ness, her oneness—which is divisible into many forms —but
+				<lb/>she also knows that division creates confusion, that drawing
+				<lb/>distinctions creates opposition, that enlightenment is al
+				<lb/>ways a sensibility of oneness. Men in their unwholeness and
+				<lb/>unholiness have divided knowledge itself into intuition, in
+				<lb/>telligence, imagination, memory, belief, emotions — but all
+				<lb/>these things are one ommmniscience.
+				<lb/>The whole march of science toward the unification of
+				<lb/>concepts— the reduction of all matter to elements and then
+				<lb/>to a few types of particles, the reduction of "forces” to the
+				<lb/>single concept "energy," and then the reduction of matter
+				<lb/>and energy to a single basic quantity — leads still to the un
+				<lb/>known. Lincoln Barnett22
+				<lb/>Unfortunately this is true for men, who cannot know
+				<lb/>wholeness, for they are not of a wholeness. Men are only a
+				<lb/>portion of women. Thus phallicratic religious practices ob
+				<lb/>scure the female principle but cannot totally abjure it. As
+				<lb/>Sheila Collins has noted:
+				<lb/>Many feminists and several prominent male anthropologists
+				<lb/>and psychologists (for example, H.R. Hays, Theodore Reik,
+				<lb/>Wolfgang Lederer, Bruno Bettleheim, Joseph Campbell) are
+				<lb/>coming to the conclusion that the force of masculine am
+				<lb/>bivalence towardwomen indicates the presence of a’sacrality,
+				<lb/>the numinous. The truly sacred is always the focus of great
+				<lb/>fear and fascination.?
+				<lb/>The ultimate profanation of the sacred is the destruction
+				<lb/>of creation. In envy and resentment, men have made good
+				<lb/>this threat time and time again, for such is the male imper
+				<lb/>ative born of an entirely natural fear of extinction. Sperm
+				<lb/>banking and cloning experiments demonstrate that the re
+				<lb/>duction and even the extinction of the male sex is prac
+				<lb/>ticable—and history makes it warrantable. The sex, rather
+			</p>
+			<p>
+				<lb/>than being a progenitor even on an unequal basis, has be
+				<lb/>come a threat to life.
+				<lb/>At this point in time a reformation is in order. The world
+				<lb/>needs a new religion (or a very, very old one) that recognizes
+				<lb/>the basic need of every man to become a woman. The usual
+				<lb/>means of accomplishing this has been through possession.
+				<lb/>Men have traditionally complemented their short-circuited
+				<lb/>energies through marriage, a church-supported institution.
+				<lb/>The difficulty, conveniently overlooked by patriarchs, is
+				<lb/>that energy cannot be endlessly transmitted. Like all bat
+				<lb/>teries, a woman must be recharged and that takes another
+				<lb/>cell identical with her own, which means communion with
+				<lb/>her own kind; the communion may or may not include
+				<lb/>physical sex. Similarly whether a woman is in a sexual rela
+				<lb/>tionship with a man is not the important factor. Any pro
+				<lb/>tracted dynamic-static relationship is an unequal exchange
+				<lb/>of energy with the woman short changed. To make matters
+				<lb/>worse, the man often keeps his foot down on the accelerator
+				<lb/>In this analogy, of course, the woman is the accelerator, and
+				<lb/>when she is depleted of energy —through with giving—the
+				<lb/>man seeks another woman to literally and figuratively plug
+				<lb/>into. Woman Number Two will similarly be run down.
+				<lb/>However, energy is not containable anyway. The individ
+				<lb/>ual must decide how she will invest her life-giving energies
+				<lb/>—but no man can assume the privilege of being monog
+				<lb/>amous or polygamous. In the "Animal Kingdom” males are
+				<lb/>exogamous, as they were in the highly civilized temple life
+				<lb/>of the Bronze Age. Unfortunately the male in his separate
+				<lb/>ness is covetous—and threatening to the female in her
+				<lb/>wholeness. Happily, understandably, increasing numbers of
+				<lb/>men actually want to become women, but they must be
+				<lb/>counseled to discover patience and to foreswear bitterness.
+				<lb/>Another genesis is not far off —parthenogenesis.
+				<lb/>After this Janus shall never have priests again. His door will
+				<lb/>be shut and remain concealed in Ariadne’s crannies. [Mer
+				<lb/>lin’s prophecy to the Oakwisej.24
+			</p>
+			<pb n='50'/>
+			<p>
+				<lb/>Janus, the two-faced god of doors, is a symbol of androg
+				<lb/>yny. Androgyny, meaning male-female, is our present setup
+				<lb/>and it is a compromise of which parthenogyns have no need.
+				<lb/>Ariadne was a title used for "the most holy” Cretan priest
+				<lb/>esses,25 the so-called Snake Goddesses who conducted their
+				<lb/>rituals in labyrinthine temples.
+				<lb/>Parthenogenesis may be more easily accomplished than
+				<lb/>is popularly realized, through masturbatory techniques and,
+				<lb/>in particular, through the raising of Kundalini energy into
+				<lb/>the womb at the time of ovulation. In laboratory experi
+				<lb/>ments mammalian ova have self-fertilized when artificially
+				<lb/>stimulated by heat or shock. In fact, numerous agents have
+				<lb/>been used to trigger egg cleavage in experimental animals
+				<lb/>and self-fertilized eggs have developed normally in the
+				<lb/>laboratory dish up to the placenta-forming stage. 26
+				<lb/>The difficulty in parthenogenesis is not conception but
+				<lb/>the need to counter lethal recessive characteristics. For this
+				<lb/>reason the most viable species alternate between sexua
+				<lb/>and parthenogenic reproduction?” Of immediate, practical
+				<lb/>use is the development of ovum cloning. Combining ovum
+				<lb/>with another cell provides the full complement of chromo
+				<lb/>somes that are necessary to counter lethal characteristics.
+				<lb/>In this connection, the persistent myth of male motherhood
+				<lb/>has again surfaced and claims recently have been made of
+				<lb/>the birth of a male human clone. Such an event is to be ex
+				<lb/>pected, for genetic experimentation is under the control of
+				<lb/>men. Among scientists, women are seldom heard from and
+				<lb/>only slightly heeded, in spite of the fact that Jane Spurway's
+				<lb/>university lecture in 1955 resulted in the highly probable
+				<lb/>identification of a naturally produced, female, human par
+				<lb/>thenogenome.28
+				<lb/>Withal, the theory of immaculate conception is unshak
+				<lb/>en, and for those who would try, even hesitant embryol
+				<lb/>ogists admit that parthenogenesis could be occurring with
+				<lb/>out resort to technology:
+				<lb/>...the vast size of the human population compels the admis
+				<lb/>sion that with a one-in-a-million chance there could be a
+				<lb/>sprinkling of individuals in the community who have arisen
+				<lb/>by this means (natural parthenogenesis). They would of course
+				<lb/>be female, and would resemble their mothers very closely,
+				<lb/>but otherwise need not show any tell-tale features. 29
+				<lb/>Despite all the laws of men to the contrary, women irrev
+				<lb/>ocably have supreme jurisdiction over life giving, but not
+				<lb/>merely over life-giving replication—women’s primacy is all
+				<lb/>pervasive, all-encompassing. Our reformation of society
+				<lb/>need not be a mere revolution. We need not simply go the
+				<lb/>opposite way; we can go the whole way
+				<lb/>OCrace Shinell 1978
+				<lb/>1. Sheila D. Collins, A Different Heaven and Earth (Valley Forge
+				<lb/>Pa.: Judson Press, 1974), p. 120; quoting John Money, Sexual Di
+				<lb/>morphism &amp; Homosexual Gender Identity, Readings on the Psy
+				<lb/>chology of Women, Ed. Judith M. Bardwick (New York: Harper
+				<lb/>&amp; Row, 1972), pp. 3-7.
+				<lb/>2. Elizabeth Gould Davis, The First Sex (Baltimore, Md.: Penguin
+				<lb/>Books, 1971), pp. 34-35
+				<lb/>3. Introduction to the Chakras (New York: Samuel Weiser, 1974),
+				<lb/>p. 17
+				<lb/>4. William Irwin Thompson, Passages About Earth (New York: Har
+				<lb/>per &amp; Row, 1973), p. 111; citing Copi Krishna.
+				<lb/>5. Merlin Stone, When Cod Was A Woman (New York: Dial Press,
+				<lb/>1976), p. 196.
+				<lb/>6. The Cult of the Mother Coddess (New York: Frederick A. Praeger,
+				<lb/>1959), p. 231.
+				<lb/>7. Anne Sayre, Rosalind Franklin and DNA (New York: W. W. No
+				<lb/>ton, 1975).
+			</p>
+			<p>
+				<lb/>8. George Ferguson, Signs and Symbols in Christian Art (London
+				<lb/>Oxford University Press, 1975), p. 153”... In the secular sense,
+				<lb/>the pentagram was used as a protection against the evils of
+				<lb/>sorcery. In Christian symbolism, the figure suggests the five
+				<lb/>wounds suffered by Christ upon the cross.
+				<lb/>9. See: Marie-Louise von Franz, Number and Time, trans. Andrea
+				<lb/>Dykes (Evanston, III.: Northwestern University Press, 1974), pp
+				<lb/>105-106. She discusses the relationship between the I Ching and
+				<lb/>DNA: “From the four bases (of DNA) sixty-four different triplets
+				<lb/>come into being.
+				<lb/>10. Max Toth and Greg Nielsen, Pyramid Power (New York: Warner/
+				<lb/>Destiny Books, 1976), p. 130.
+				<lb/>11. Le Symbolisme des Nombres (Paris: 1948), pp.41-43; quoted by
+				<lb/>von Franz, p. 104, n. 9.
+				<lb/>12. Toth, p. 161
+				<lb/>13. Purce, The Mystic Spiral, Journey of the Soul (New York: Avon
+				<lb/>Books, 1974), p. 26.
+				<lb/>14. See: Ernest Wood, Yoga (Baltimore, Md.: Penguin Books, 1959),
+				<lb/>p. 147.
+				<lb/>15. Purce, p. 12
+				<lb/>16. Wood, pp. 142, 145, 170.
+				<lb/>17. Creek Mythology (Middlesex, Eng.: Hamlyn, 1969), p. 23.
+				<lb/>18. Graves, The White Goddess (New York: Vintage Books, 1960), p
+				<lb/>19. Ibid., p. 266.
+				<lb/>20. Jean Varenne, Yoga and the Hindu Tradition, trans. Derek Colt
+				<lb/>man (Chicago: University of Chicago Press, 1976), p. 160.
+				<lb/>I Collins, pp. 134-135.
+				<lb/>2. The Universe and Dr. Einstein (New York: Signet Science Library,
+				<lb/>1952), p. 65
+				<lb/>23. Collins, p. 119.
+				<lb/>24. Graves, p. 184 (as recorded by Geoffrey of Monmouth)
+				<lb/>25. See: Robert Graves, The Greek Myths (Baltimore, Md.: Penguin
+				<lb/>Books, 1955), Vol. I p. 347.
+				<lb/>26. See: I Balinsky, An Introduction to Embriology (Philadelphia:
+				<lb/>W.B. Saunders, 1975), p. 190. The fourth edition of the 1905
+				<lb/>work gives account of early experiments. Balinsky’s suggestion
+				<lb/>that egg activation occurs when any one of many agents slightly
+				<lb/>abrases the cortex is confirmed and no necessity for sperm has
+				<lb/>been demonstrated. See also: M. Balls and A.E. Wild, Eds.
+				<lb/>British Society for Developmental Biology, Symposium 2 (Lon
+				<lb/>don New York: Cambridge University Press, 1975) for articles on
+				<lb/>recent experimental induction of parthenogenesis and culture
+				<lb/>of mammalian embryos.
+				<lb/>27. Sexual reproduction also creates genetic problems, e.g. "unre
+				<lb/>stricted gene exchange decreases fitness because it yields too
+				<lb/>many worthless genotypes.” Theodosius Dobszhansky, Genetics
+				<lb/>of the Evolutionary Process (New York: Columbia University
+				<lb/>Press, 1970), p. 311. Symptomatically, Dobszhansky concludes
+				<lb/>that parthenogenesis is a "trivial solution,” whereas scientifical
+				<lb/>ly controlled gene exchange is "non-trivial.
+				<lb/>28. Stanley Balfour-Lynn 1956.
+				<lb/>29. C.R. Austin, Charles Darwin Professor of Animal Embryology,
+				<lb/>University of Cambridge, Reproduction in Mammals: Vol. I,
+				<lb/>Germ Cells and Fertilization (London: Cambridge University
+				<lb/>Press, 1972), p. 130.
+			</p></div>
+      </body>
+   </text>
+</TEI>

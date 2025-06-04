@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Resources</title>
+            <author>Collective</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='132'/>
+            <p>
+               <lb/>Resources
+            </p>
+            <p>
+               <lb/>New Book Release
+               <lb/>Christ, Carol P. Woman Spirit Rising. New
+               <lb/>York: Harper &amp; Row, January, 1979.
+               <lb/>Edelson, Mary Beth. Their 5000 Years Are
+               <lb/>Up. Rituals and Works to Celebrate the New
+               <lb/>Time. Persephone Press, Box 7222, Water
+               <lb/>town, Maine 02172. Autumn, 1978.
+               <lb/>Spretnak, Charlene. Lost Goddesses of Early
+               <lb/>Creece. A collection of pre-Hellenic myth
+               <lb/>ology. Moon Books, P.O. 9223, Berkeley,
+               <lb/>California 94709. Now Available. 54.95.
+               <lb/>Stone, Merlin. When Cod Was A Woman.
+               <lb/>(Now available in paperback edition. Dia
+               <lb/>Press. 53.95. New York: HB) Harvest Books,
+               <lb/>757 Third Avenue, 10017.
+               <lb/>Weinstein, Marian. Positive Magic- Occult
+               <lb/>Self Help. New York: Simon and Schuster
+               <lb/>Pocketbooks. Now Available, 51.95.
+               <lb/>FICTION WORKS
+               <lb/>Anthologies:
+               <lb/>Big Momma. A poetry anthology. Published
+               <lb/>by the Big Momma Poetry Troupe. Distri
+               <lb/>buted by League Books, P.O. Box 6055,
+               <lb/>Cleveland, Ohio 44101.
+               <lb/>Spiderwoman’s Lesbian Fairy Tales. Prose
+               <lb/>and fiction. Distributed by New Moon Com
+               <lb/>munications, P.O. Box 3488, Ridgeway Sta-
+               <lb/>tion, Stamford, Connecticut 06905.
+               <lb/>General Fiction:
+               <lb/>Blue, Shelley and Snow, Deborah, The Four
+               <lb/>teenth Witch. Watertown, Massachusetts:
+               <lb/>Persephone Press (P.O. Box 7222, Water-
+               <lb/>town, Massachusetts 02172).
+               <lb/>Budapest, Z. Selene: The Most Famous Bull
+               <lb/>Leaper on Earth. A matriarchal children's
+               <lb/>book illustrated by Carol Clement. Berkeley:
+               <lb/>Diana Press, 1977.
+               <lb/>Carrington, Leonora. The Oval Lady. Santa
+               <lb/>Barbara: Capra Press, 1975
+               <lb/>Gioseffi, Daniela, The Creat American Belly
+               <lb/>Dance. Anovel. New York: Doubleday, 1977.
+               <lb/>-. Eggs in the Lake. Psalms and
+               <lb/>poems to the Coddess. The University of
+               <lb/>Brockport, English Dept.: BOA Editions,
+               <lb/>﻿1978.
+               <lb/>Hadas, Pamela. The Passion of Lilith. Send
+               <lb/>53.25 to Serendipity Books, 1790 Shattuck,
+               <lb/>Berkeley, California 94709.
+               <lb/>Wittig, Monique, The Oppoponax. Trans
+               <lb/>lated by Helen Weaver. Indicts Catholi
+               <lb/>cism. New York: Daughter’s Inc., 1969.
+               <lb/>PUBLICATIONS
+               <lb/>Magazines, and Special Issues
+               <lb/>Companions for the Journey, edited by
+               <lb/>Juanita Weaver. An anthology of womer
+               <lb/>and spirituality. Send 54.00 plus 504 to
+               <lb/>Companions, 1710 19th Street, N.W.,
+               <lb/>Washington, D.C. 20009.
+               <lb/>Country Women. See the special Spirituality
+               <lb/>issue (no. 10). P.O. Box 51, Albion, Califor
+               <lb/>nia, 57.00 per year. 12 issues.
+               <lb/>Chrysalis, Dept. G, c/o The Women’s Build
+               <lb/>ing, 1727 North Spring Street, Los Angeles,
+               <lb/>California 90012.
+               <lb/>Earth Rites, 43A Cedar Avenue, Highland
+               <lb/>Park, New Jersey 08904.
+            </p>
+            <p>
+               <lb/>Foundation for Matriarchy Newsletter, 306
+               <lb/>Lafayette, Brooklyn, New York 11236.
+               <lb/>Lady-Unique-Inclination-of-the -Night. A
+               <lb/>magazine on women, religion and the God
+               <lb/>dess. Send 52.00 plus 250 for postage to:
+               <lb/>Nancy Dean, P.O. Box 803, New Brunswick,
+               <lb/>New Jersey 08903.
+               <lb/>Lilith, the Jewish Women’s Magazine. 250
+               <lb/>W. 57th St. 10019. 56.00 per year.
+               <lb/>The Mother Church Bulletin, edited by Toni
+               <lb/>Head. Box 2188, Satellite Beach, Florida
+               <lb/>32937. Published quarterly, 52.00 per year.
+               <lb/>(See Toni Head's article in this issue for
+               <lb/>details.)
+               <lb/>The New Sun, edited by Elliot Sobel. Not a
+               <lb/>feminist publication but covers the fields of
+            </p>
+            <p>
+               <lb/>spirituality, health and nutrition and human
+               <lb/>potential. Published 11 times ayear. Sub
+               <lb/>scription price: 59.00 a year. Send $1.00 to
+               <lb/>the following address for a sample copy:
+               <lb/>1520 East 10th Street, Brooklyn, New York
+               <lb/>11230. (212) 627-0620.
+            </p>
+            <p>
+               <lb/>Nozama News (Amazon spelled backwards).
+               <lb/>A newsletter on matriarchy, healing and psy
+               <lb/>chic awareness. Route 1, Box 191, Oroville,
+               <lb/>California 95965.
+               <lb/>Parabola— Myth and the Quest for Mean
+               <lb/>ing. Published quarterly by the Tamarack
+               <lb/>Press, Mt. Kisco, New York. §12 per year,
+               <lb/>53.50 per issue. Write to: Parabola, 166 East
+               <lb/>61st Street, New York, New York 10021 or
+               <lb/>P.O. Box 505, Lenox Hill Station, New York,
+               <lb/>New York 10021.
+               <lb/>Quest Feminist Quarterly. See the special is
+               <lb/>sue on Women and Spirituality, Vol. 1, Issue
+               <lb/>4. 1909 Que St., N.W. Washington, D.C.
+               <lb/>20009. 57.00 per year.
+               <lb/>Radical Religion, P.O. Box 21263, Seattle,
+               <lb/>Washington 98111.
+               <lb/>Second Wave, Box 344, Cambridge, Massa
+               <lb/>chusetts 02139. Published quarterly, 53.50
+               <lb/>per year, 51.00 per issue.
+               <lb/>Signs —A Journal of Women in Culture and
+               <lb/>Society. Published quarterly. The University
+               <lb/>of Chicago Press, 11030 Langley Avenue,
+               <lb/>Chicago, Illinois 60628. 520.00 per year.
+               <lb/>Sinister Wisdom, edited by Catherine Nichol
+               <lb/>son and Harriet Desmoines. 3116 Country
+               <lb/>Club Drive, Charlotte, North Carolina 28205.
+               <lb/>Published three times a year.
+               <lb/>Women, A Journal of Liberation. Published
+               <lb/>by A Journal of Liberation, Inc., 3028 Green
+               <lb/>mount Ave., Baltimore, MD 21218. (301) 235-
+               <lb/>5245.
+               <lb/>Womenspirit Quarterly. Seeks original,
+               <lb/>authentic personal experiences by women
+               <lb/>for publication. Box 263, Wolf Creek, Ore
+               <lb/>gon 97497.
+            </p>
+            <p>
+               <lb/>ORGANIZATIONS
+            </p>
+            <p>
+               <lb/>Coalition on Women and Religion, 4759
+               <lb/>15th Ave. N.E. Seattle, Washington 98105.
+               <lb/>Publishes books and a newsletter, Flame.
+               <lb/>Earth Celebrations, P.O. Box 197, Brooklyn,
+               <lb/>New York 11202. Dedicated to staging poet
+               <lb/>ry, music and dance celebrations for the
+               <lb/>Goddess
+               <lb/>The Fellowship of Isis, Foundation Centre:
+               <lb/>Huntington Castle, Emniscorthy, Eire (lre
+               <lb/>land). Has a scholarly press dedicated to
+               <lb/>publishing works on the Goddess.
+               <lb/>King Phillip’s Institute. Should we establish
+               <lb/>churches to the Godess in America. Yes. No.
+               <lb/>Maybe. Send replies to King Phillip's Insti
+               <lb/>tute for Women’s Studies, 440 West End
+               <lb/>Avenue, New York, New York 10025
+               <lb/>The Feminist Wicca, 442 Lincoln Blyd.,
+               <lb/>Venice, California (213) 399-3919. A Matri
+            </p>
+            <pb n='133'/>
+            <p>
+               <lb/>archal Spiritual Center, and also a store
+               <lb/>where herbs, books, and incense are sold.
+               <lb/>Foundation for Matriarchy, 306 Lafayette,
+               <lb/>Brooklyn, New York 11236. Publishes a
+               <lb/>newsletter and holds discussion groups. (212)
+               <lb/>625-5001
+               <lb/>Images Collective, c/o Amazon Collective,
+               <lb/>2211 E. Kenwood Blyd., Milwaukee, Wis-
+               <lb/>consin.
+               <lb/>Lux Madriana, 3 Hillview Rd., Oxford,
+               <lb/>England.
+               <lb/>Mother Thunder Mission, P.O. Box 579, New
+               <lb/>York, New York 10011. (212) 929-7613. Chris
+               <lb/>tian feminists who meet weekly to conduct
+               <lb/>services and discussions. Parts of their meet
+               <lb/>ings are spent de-sexising and de-hierarchis
+               <lb/>ing Christian liturgy.
+               <lb/>Matriarchy Study Group, 15 Guilford St.,
+               <lb/>London, W.C.I
+               <lb/>Spirituality Group, Lesbian Resource Cen
+               <lb/>ter, YWCA, 4224 University Way, N.E. Seat-
+               <lb/>tle, Washington.
+               <lb/>The Venusian Church, P.O. Box 21263, Seat
+               <lb/>tle, Washington 98111.
+               <lb/>The Women’s Spirituality and Matriarchal
+               <lb/>Discussion Group, 56 Goethe St., San Fran
+               <lb/>cisco, California
+            </p>
+            <p>
+               <lb/>MISC. RESOURCES
+               <lb/>Publishers, Calendars, Records and
+               <lb/>Services
+               <lb/>Cerridwen’s Caldron. Publisher. P.O. Box
+               <lb/>355, W. Somerville, Massachusetts 02144.
+            </p>
+            <p>
+               <lb/>Diana Press. Publisher. (Needs support after
+               <lb/>having been badly vandalized in October of
+               <lb/>1977.) To publish Judy Chicago’s Revela-
+               <lb/>tions of the Coddess, and Elizabeth Gould
+               <lb/>Davis' The Female Principal. 4400 Market
+               <lb/>St., Oakland, California 94608.
+               <lb/>Goddess Calendar, Chicago Women's
+               <lb/>Graphic Collective, 100 N. Southport, Chi
+               <lb/>cago, Illinois.
+               <lb/>In the Spirit, Radio Station WBAI, 99.5 FM
+               <lb/>New York City. Broadcast weekly on Sunday
+               <lb/>at 11-1 p.m.
+            </p>
+            <p>
+               <lb/>Labyris Goddess Jewelry. They create de
+               <lb/>signs based on such images as the double
+               <lb/>axe. E. H St., Venecia, California. P.O. Box
+               <lb/>634, 94516
+               <lb/>Luna Press Calendar dedicated to the God
+               <lb/>dess. Divides the year into the 13 lunations.
+               <lb/>Also a forum for art, prose, peotry. P.O. Box
+               <lb/>511, Kenmore Station, Boston, Massachu
+               <lb/>setts 02215. Send 56.50 plus 51.00 postage.
+               <lb/>Marion’s Cauldron, Radio Station WBAI,
+               <lb/>99.5 F.M. New York City. Broadcast on the
+               <lb/>first Saturday of every month, 8-9 p.m.
+               <lb/>Moon Books, P.O. Box 9223, Berkeley,
+               <lb/>California 94709. Publisher (sometimes in
+               <lb/>conjunction with Random House.)
+               <lb/>Moon Circles by Kay Gardner. A healing
+               <lb/>album of voice and flute. Olivia Records,
+               <lb/>P.O. Box 70237, Los Angeles, California
+               <lb/>90070.
+               <lb/>Sister Heathenspinster's Lunation Calendar.
+               <lb/>Printed at lowa City Women’s Press, 529 S
+               <lb/>Gilbert, lowa City, lowa 52240.
+               <lb/>Songs of Passion by Jeritree. An album of
+               <lb/>songs involved with feminist spirituality.
+               <lb/>Marimba, guitar, drums, cello, hand-made
+               <lb/>ritual instruments, and voice. Cost 56.00.
+               <lb/>Make checks payable to: Jeriann Hilderly,
+               <lb/>Seawave Records, P.O. Box 762, Madison
+               <lb/>Square Station, New York, New York 10010
+               <lb/>Spring Publications. Publisher. Fach 190
+               <lb/>Zurich 8024, Switzerland.
+               <lb/>Women’s History Library, located at the
+               <lb/>University of Wyoming’s Archive of Cont
+               <lb/>temporary History, Box 3334, Laramie,
+               <lb/>Wyoming. Collections available for use by
+               <lb/>phone, mail or visit. The archive staff will
+               <lb/>photocopy or microfilm at cost upon re
+               <lb/>quest.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stonesprings</title>
+            <author>Lucy Lippard</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='28'/>
+            <p>
+               <lb/>Stonesprings
+               <lb/>Lucy Lippard
+            </p>
+            <p>
+               <lb/>When he saw that Amaterasu was about to
+               <lb/>celebrate the feast of first-fruits, he secretly
+               <lb/>voided excrement in the New Palace. Moreover,
+               <lb/>when he saw that Amaterasu was in her sacred
+               <lb/>weaving hall, engaged in weaving garments of the
+               <lb/>gods, he flayed a piebald colt of heaven, and
+               <lb/>breaking a hole in the roof-tiles of the hall, flung
+               <lb/>it in. Then Amaterasu started with alarm and
+               <lb/>wounded herself with the shuttle. Indignant of
+               <lb/>this, she straightaway entered the Rock-cave of
+               <lb/>heaven and having fastened the Rock-door, dwelt
+               <lb/>there in seclusion. Therefore constant darkness
+               <lb/>prevailed on all sides and the alternation of night
+               <lb/>and day was unknown.
+            </p>
+            <p>
+               <lb/>The result can be seen in the coating of rocks
+               <lb/>and pebbles perceptible in one lunar period, inert
+               <lb/>in another. In the circles the rows the rings the
+               <lb/>kistvaens the cairns the barrows the banks. In the
+               <lb/>beds of streams. In a line of ragged stones
+               <lb/>climbing the slope to meet a ring of ashes. In
+               <lb/>stone blades cutting the throat of the sky on some
+               <lb/>days, dulled by the mists on others. In the strain
+               <lb/>felt by enormous Earth groaning my children you
+               <lb/>have a savage father he was the one who started
+               <lb/>using violence. In execution sites and prisons
+               <lb/>where the spirals are reversed. But do not doubt
+               <lb/>the capacity of a high wind to transport the
+               <lb/>hawthorn may willow yew elm apple or hazel
+               <lb/>seeds such distances. We cannot after all fathom
+               <lb/>the doings of Tiamat. The stone has shared with
+               <lb/>its surroundings the conditions of estrangement
+               <lb/>saturation punishment sunken lanes twisted trunks
+               <lb/>acid soil and sucking bogs directed from the body
+               <lb/>below.
+            </p>
+            <pb n='29'/>
+            <p>
+               <lb/>At first there was water everywhere. The peat is cut by convicts. Moss. Springy with thorns and yellow
+               <lb/>flowers. In caves above caves women have always made sacrifices, and if such a stone is broken an iron stair
+               <lb/>will be found extending completely across its red ash, its flinty luster, the irridescent film which forms on
+               <lb/>small pools. Being dried, being moved through the monthly bloodshed the red clay carved as the child knows
+               <lb/>the mother, all breasts hips, full and round, head inclined forward, lined with stones and mosses, leaning slabs
+               <lb/>beneath the mounds. Burned and buried bones. Excavated by a woman by a fox. A woman named Nameless.
+               <lb/>A woman named Restlessness after me. Lo! Even the trees on high mountains near the clouds and the sky
+               <lb/>father crouch low toward the earth mother for warmth and protection. A root to the mouth of each corpse
+               <lb/>Some of the stones have fallen in the bracken. Some of the stones have been lost to local gates and thresholds.
+               <lb/>Some of the stones have been blunted in the effort to push up from underworlds. Flat tops are male triangular
+               <lb/>ones female. No one knows. Then even nothingness was not nor existence. There was no air then nor the
+               <lb/>heavens beyond it. What covered it? Where was it? In whose keeping? Was there then cosmic water in depths
+               <lb/>unfathomed?
+               <lb/>What an extraordinary
+               <lb/>sight. Succulent madness.
+               <lb/>The very absence of
+               <lb/>building secrets stolen
+               <lb/>from women by masons
+               <lb/>who hid the triangle in
+               <lb/>circular barns crypts stiles
+               <lb/>moorstones with holes cut
+            </p>
+            <pb n='30'/>
+            <p>
+               <lb/>through and survivors. Too
+               <lb/>many little things growing.
+               <lb/>A poisoned well squanders
+               <lb/>thirst. His dead wife pur
+               <lb/>sues him but lzanagi,
+               <lb/>managing to escape by the
+               <lb/>same way he had gone down under the earth, casts a great rock over the aperture. Husband and wife talk
+               <lb/>together for the last time, separated from each other by this rock. Izanagi pronounces the sacramental formula
+               <lb/>for separation between them and then goes up to heaven while Izanami goes down forever into subterranean
+               <lb/>regions to become goddess of the dead. A mob waving yellow flags follows. Two spotted ponies are trampled
+               <lb/>before them. The young one ran and ran and ran across a treeless horizon but the camera followed so she
+               <lb/>never seemed to move. A grotesque insect rose from her swaddled corpse. The soil is moist, self-contradictory,
+               <lb/>gleaming cruelly under a cold sun.
+               <lb/>The persistence of the struggle for existence in an attempt to avoid twin catastrophes. The dialectical
+               <lb/>reversal. What has all this got to do with feminism, with real life? With wages for housework, with socialism,
+               <lb/>with patriarchy imperialism and the torture of women by fascists in uniform, with witches burned and wives
+               <lb/>beaten and little girls drowned, with the irrational objective? Those who regard the conquest of nature as a
+               <lb/>social goal pretend not to understand the stones. It is but Tiamat, a woman, who opposed thee with weapons
+               <lb/>Draw a line from inside to outside and devour everything in between. That’s what. It’s the guts from which the
+               <lb/>screams rise, the
+               <lb/>roots of the rage.
+               <lb/>Draw a warm bath
+               <lb/>and dream of scaling
+               <lb/>slimy cliffs. Because
+               <lb/>the snake is the only
+               <lb/>landliving vertebrate
+               <lb/>that naturally and
+               <lb/>frequently reproduces
+               <lb/>the geodetic spiral.
+               <lb/>Remember snakes
+               <lb/>coming into women
+               <lb/>asleep in the Spanish
+               <lb/>fields. And earth
+               <lb/>quakes. Because
+               <lb/>everything in the
+               <lb/>belly of the earth is
+               <lb/>alive and growing
+               <lb/>Stone circles demand
+               <lb/>blood to become
+               <lb/>precious. Roses and
+            </p>
+            <pb n='31'/>
+            <p>
+               <lb/>crosses. That's what. Ripened tin becoming gold. Veins of petrified water threading their way through the
+               <lb/>twisting passageways to the swelling cavern. Through the web woven with silence growing anyway changing
+               <lb/>geological to biological time under an average rainfall of summer showers on the last day of the month alas.
+               <lb/>An earth caught between layers of water waiting for the spirals to reverse. In spite of holy wet divined with
+               <lb/>rods, the powers of knapweed, toadflax and angelica, haloes have shadows. Weaving animals mark the
+               <lb/>surfaces with paths. Wavy aquastats mark meandering stone lines. Labyrinths become dances. Feeling down.
+               <lb/>Looking up. Underground waters overhead stars. Why not a double alignment? Satene drew a spiral with nine
+               <lb/>turns on a dancing ground and placed herself at the center of it. From Hainuwele’s arms she made a door and
+               <lb/>summoned the men, “Since you have killed I will no longer live here, I shall leave this very day. Now you will
+               <lb/>have to come to me through this door.
+               <lb/>From the warmth of our skin from the damp of our sex from the thrust of our bone through our flesh over
+               <lb/>the blind springs where animals give birth to stone people between the notched peaks and I am living not by
+               <lb/>accident at a well over a spring in a valley on a hill within the metamorphic halo around the granite uplands,
+               <lb/>your stones are growing. Petra genetrix, Matrix mundi, we will vomit our desires excrete our sacrifices piss
+               <lb/>away our bitterness bleed out our triumphs onto your slippery lap. Our stench will spread through the porous
+               <lb/>ruin. Our circles will last another three thousand years, reaching from spirals of underground waters to their
+               <lb/>reflections in the nebulae. We suffer the diseases of granite and stagnant pools. Our waters cannot escape by
+               <lb/>surface flow but must raise mists, press the bloodstreams in layers that answer to sun and moon. Like the
+               <lb/>mistletoe our seeds are quickened only when dropped near blind springs where seeing is forgetting and the
+               <lb/>blades cling flat to the groundswells in the November gales and crystallize in frosts. Even the swarming fossils
+               <lb/>feed our impatience.
+               <lb/>You digress. Öf course. One fragment placed over another. No such thing as coincidence tunneling
+               <lb/>unnoticed unexplained through salty dirt. Unexcavated. Living in the present expecting the future and waiting
+               <lb/>for the moon to grow fuller and fuller until it bursts into stars in the past. The circles the rows the kistvaens the
+               <lb/>cairns the barrows the banks the rotting memories. Scraps of pottery, oaks choked by ivy. Mud. And celestial
+               <lb/>events under cloud cover. Question marks are hooks as questions are? It’s antiquated romantic irrelevant
+               <lb/>belongs somewhere else. But I found this place by accident in the green rain?
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

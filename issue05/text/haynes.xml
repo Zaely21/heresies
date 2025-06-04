@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/heresies/main/CSS/heresies_cwrc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Body Imperatives</title>
+            <author>Deborah Haynes</author>
+            <respStmt>
+               <persName>Eowyn Andres</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Haley Beardsley</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lyndon Beier</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Erica Delsandro</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Mia DeRoco</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Margaret Hunter</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Invesigator, encoder</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Sophie McQuaide</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Martin</persName>
+               <resp>Editor, encoder (2021)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zoha Nadeer</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Bri Perea</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carrie Pirmann</persName>
+               <resp>HTR editor, encoder (2023-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ricky Rodriguez</persName>
+               <resp>Editor (2022-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Roger Rothman</persName>
+               <resp>Investigator, editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Valeria Riley</persName>
+               <resp>Editor (2024-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Zaely Rodriguez</persName>
+               <resp>Editor (2025-Present)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kaitlyn Segreti</persName>
+               <resp>Editor (2021-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maggie Smith</persName>
+               <resp>Editor (2021-2024)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Maya Wadhwa</persName>
+               <resp>Editor (2021-2023)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kelly Troop</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy Wadswoth</persName>
+               <resp>Editor (2022-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Anna Marie Wingard</persName>
+               <resp>Editor (2023-2025)</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia Wychock</persName>
+               <resp>Graduate Editor (2024-Present)</resp>
+            </respStmt>
+            <funder>Bucknell University Humanities Center</funder>
+            <funder>Bucknell University Office of Undergraduate Research</funder>
+            <funder>The Mellon Foundation</funder>
+            <funder>National Endowment for the Humanities</funder>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>Bucknell University</name>
+               <address>
+                  <street>One Dent Drive</street>
+                  <settlement>Lewisburg</settlement>
+                  <region>Pennsylvania</region>
+                  <postCode>17837</postCode>
+               </address>
+            </distributor>
+            <availability>
+               <licence>Bucknell Heresies Project: Creative Commons Attribution-NonCommercial 4.0
+                  International (CC BY-NC 4.0)</licence>
+               <licence>Heresies journal: © Heresies Collective</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>The Great Goddess</title>
+               </analytic>
+               <monogr>
+                  <imprint>
+                     <publisher>HERESIES: A Feminist Publication on Art and Politics</publisher>
+                     <pubPlace>
+                        <address>
+                           <name>Heresies</name>
+                           <postBox>P.O. Boxx 766, Canal Street Station</postBox>
+                           <settlement>New York</settlement>
+                           <region>New York</region>
+                           <postCode>10013</postCode>
+                        </address>
+                     </pubPlace>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n='118'/>
+            <p>
+               <lb/>Body Imperatives
+            </p>
+            <p>
+               <lb/>Deborah Haynes
+               <lb/>One —Prologue
+               <lb/>"We do not wish to speak alone. We demand that the
+               <lb/>listener be a participant. We tell our secrets openly and
+               <lb/>publicly without erasing them. We say, These are our
+               <lb/>lives.
+               <lb/>Where is the writing by women that extends itself
+               <lb/>toward the spirit, that expresses the connection between
+               <lb/>body and spirit, or feminism and spirituality?? Much has
+               <lb/>been written about the Great Goddess in her mythic
+               <lb/>forms: Kali, Athene, Virgin Mary or Kwan-yin. Her objec
+               <lb/>tive tale has been told. What I desire to tell and to hear is
+               <lb/>the story of our connection Now. This is my life and this is
+               <lb/>my vision.
+               <lb/>Two—Introduction
+               <lb/>We are mulier and homo sapiens; our species has
+               <lb/>undergone a long process of differentiation in which the
+               <lb/>male-patriarchal-intellectual consciousness has dominat
+               <lb/>ed. But now is the time for the re-emergence of the
+               <lb/>feminine and feminine values, which include reverence
+               <lb/>for the physical body, as well as for the planetary body we
+               <lb/>inhabit. This is an attitude of participation instead of
+               <lb/>control. For me, moving toward the feminine, toward a
+               <lb/>spirituality which is grounded in (my) female experience,
+               <lb/>has been a process of allowing a greater receptivity to the
+               <lb/>unfolding present.
+               <lb/>Three— Invocation
+               <lb/>Out of experiences in the body, of the blood mysteries:
+               <lb/>menstruation, pregnancy and abortion, let fuller connec
+               <lb/>tions evolve between my body and sexuality and spirit, a
+               <lb/>fuller awareness of my being as woman.
+               <lb/>Let this writing be a ritual of mourning. To mourn is
+               <lb/>connected to the Sanskrit and Avestan words meaning to
+               <lb/>feel sorrow, lament, but also to remember. I am passing
+               <lb/>through a time of mourning, of purgatory. Purgatory is the
+               <lb/>midpoint between death and rebirth. It is the place of
+               <lb/>making atonement. Atonement: reconciliation, comple
+               <lb/>tion of what has come before. Change begins in aware
+               <lb/>ness of its necessity, and not in deliberate and willful
+               <lb/>attempts to change.
+               <lb/>Four—The Story
+               <lb/>Feminism begins in the self-consciousness of female
+               <lb/>ness.3 Thus, I begin the story with a description of my
+               <lb/>earliest perceptions and feelings. I am not aware of any
+               <lb/>sense of restriction because of my sex before I was five
+               <lb/>years old. I am the eldest child
+               <lb/>In school, tne girls have a play house in the back of the
+               <lb/>room. I am sent to that space as punishment. Later I am
+               <lb/>outside, rather than inside the house, preferring vigorous
+            </p>
+            <p>
+               <lb/>games like baseball, army, cowboys and indians bicy
+               <lb/>cling and exploring in the woods, to playing with dolls
+               <lb/>and learning to cook. I have a few dolls, mostly given by
+               <lb/>my grandmother. I sew clothes for one or two of them,
+               <lb/>but mainly the dolls stay on the closet shelf. Rather than
+               <lb/>cooking and preparing food, I prefer the task of “official
+               <lb/>taster” of the food my mother prepares. My father makes
+               <lb/>her a yellow sign; a face with writing that glows: “Take the
+               <lb/>Meat Out!" She chronically forgets, and we eat in res
+               <lb/>taurants. I feel very special when I spend time with my
+               <lb/>father in his basement shop. We fix the car and build a
+               <lb/>stereo system and tinker and talk. Though I wear dresses
+               <lb/>to school, they are tailored, contrasting with my younger
+               <lb/>sister’s frills. My parents speak of me as the career girl.
+               <lb/>am drawn to the paper boys, often riding routes with
+               <lb/>them. This continues for a couple of years, until gradually
+               <lb/>my relationship with one of them changes. I am kissed for
+               <lb/>the first time, and I turn my lips away.
+               <lb/>Ibegin to bleed; menstruation is an awkward word. My
+               <lb/>mother buys sanitary napkins from the.male clerk, and l
+               <lb/>stay in the car, embarrassed. Will I ever be courageous
+               <lb/>enough to buy them myself? I want to wear bras and shave
+               <lb/>my legs, yet resent the intrusion of pointed bras, hair
+               <lb/>stubbles and increased self-awareness into my life. My
+               <lb/>first sexual experiences are with Teri during our sleep
+               <lb/>overs. But my attention turns rather quickly to boys: Teri’s
+               <lb/>and my surreptitious experimentation is silently, but mu
+               <lb/>tually, ended. I enjoy wearing loose clothes that allow
+               <lb/>maximum freedom of movement.
+               <lb/>At sixteen I begin my first sexual affair with a man. Our
+               <lb/>sex couples intense fear and paranoia with the thrill of
+               <lb/>touch. After two years of monthly pregnancy paranoia,
+               <lb/>finally experience my undeniable biological vulnerability.
+               <lb/>become pregnant at eighteen. I faint twice, and vomit in
+               <lb/>the mornings. My period hasn’t come that month, and my
+               <lb/>mother’s worn health encyclopedia comes to mind with
+               <lb/>its descriptions of pregnancy symptoms.
+               <lb/>In the midst of moving into the dormitory and regis
+               <lb/>tering for my first university classes, I find out that I am
+               <lb/>indeed pregnant. My timid question, "Do you know where
+               <lb/>I can get an abortion?” is met by the doctor’s curt "No.
+               <lb/>pick another doctor’s name at random from the phone
+               <lb/>book and make an appointment. My question is again met
+               <lb/>with a "No,” though I ironically discover years later that
+               <lb/>another doctor in the same office has been performing
+               <lb/>illegal but safe abortions for years.
+               <lb/>don’t cry until my father calls. He says that now my
+               <lb/>life is over, that it will never amount to anything, that he
+               <lb/>is so disappointed. I wail and sob, feeling that I have
+               <lb/>indeed destroyed something. He communicates to me
+               <lb/>that now I am a total failure in life. I hate the bodily
+            </p>
+            <pb n='119'/>
+            <p>
+               <lb/>changes I am now experiencing: changes in my shape anc
+               <lb/>size, breasts enlarging, thickening in the middle, stretch
+               <lb/>marks on my breasts and thighs. I pay as little attention to
+               <lb/>my body as possible.
+               <lb/>Externally, the pregnancy goes very smoothly. I move
+               <lb/>out of the dormitory at five and a half months, when few
+               <lb/>people know that I am going to have a baby. I move into a
+               <lb/>rooming house across the street from the hospital, and
+               <lb/>live there for three months. I eat well and lightly, like to
+               <lb/>sleep and draw and listen to music. I continue with
+               <lb/>school. The boy-child is born a month premature, and my
+               <lb/>labor is long and difficult. I want to die. He goes home
+               <lb/>with adopted parents. I walk out with a friend’s assistance
+               <lb/>after paying a fifty-cent fee.
+               <lb/>The strain and trauma, the sense of failure and help
+               <lb/>lessness in relation to my body, cannot be captured. The
+               <lb/>aftermath of the birth is no less emotionally exhausting
+               <lb/>than the pregnancy. A school psychiatrist advises me to
+               <lb/>"stick it out," to stay in school for finals. This is the
+               <lb/>second quarter of my first year in college. I know that
+               <lb/>cannot continue as though nothing has happened. My
+               <lb/>acute sense of loss and emptiness demands retreat and
+               <lb/>rest. During the pregnancy l’d continued to live fairly
+               <lb/>"normally, going to classes, taking tests, socializing, but
+               <lb/>mainly being alone. After the delivery I need comfort and
+               <lb/>support, and thus seek Alan, who has given much, even
+               <lb/>though I refused to marry him and have the baby. He is
+               <lb/>entering the Air Force in less than a month, and our visits
+               <lb/>after the delivery are strained. The time is painful, and our
+               <lb/>relationship ends when he goes to Denver.
+               <lb/>Now that the pregnancy is over I begin a long process
+               <lb/>of slowly paying more attention to my body, learning
+               <lb/>about nutrition, being physically active, getting involved
+               <lb/>in body therapy and practicing yoga. Living in my body
+               <lb/>becomes increasingly important. After I stop using birth
+               <lb/>control pills and two IUDs, I feel consistently afraid of
+               <lb/>becoming pregnant again. Though I am using a diaphram,
+               <lb/>Igive tremendous energy each month to this fear, to
+               <lb/>wondering what I would do if. ..or how l’d get an abor
+               <lb/>tion, since they have become readily available.
+               <lb/>Ten years and two weeks from my first conception,
+               <lb/>become pregnant again. I am able to schedule an abor
+               <lb/>tion the day after my positive test. I have just turned
+               <lb/>twenty-eight. I feel very tired, like l’ve weathered a long
+               <lb/>storm.
+               <lb/>The night before the abortion I encounter my irrational
+               <lb/>fear in another form, fear that something will go wrong
+            </p>
+            <p>
+               <lb/>during the abortion, but I meet that demon with written
+               <lb/>affirmation: The abortion will be fine; I will deal with the
+               <lb/>pain; I won’t fight the action of the abortion; I want this
+               <lb/>abortion; the only way out is through my fear; I will en
+               <lb/>counter my fear and breathe through it. I wear an Ameri
+               <lb/>can Indian turtle fetish during the abortion, which, though
+               <lb/>mildly painful, is over quickly. My cramps, which occur
+               <lb/>for five days, are painful and frightening, and I cry easily,
+               <lb/>but the days pass and my body heals
+               <lb/>Five—Reflections on the Story
+               <lb/>My pregnancy at eighteen was my birth. The labor was
+               <lb/>very long and difficult and painful. I don’t even know
+               <lb/>when the delivery was over, but my second pregnancy
+               <lb/>and abortion ten years later tell me that it is. I am ending
+               <lb/>a cycle of living in other people’s houses, both literally
+               <lb/>and figuratively, of fulfilling other people’s expectations
+               <lb/>During the ten-year interval I accomplished much, all
+               <lb/>capable of doing whatever I choose to do. I have proved
+               <lb/>myselt again and again. My abortion put me in touch with
+               <lb/>my body on a higher level, with my sexuality and my vul
+               <lb/>nerability, with the necessity of assuming full responsi
+               <lb/>bility for my actions.
+               <lb/>Now I must begin to live my own life. Yet, though this
+               <lb/>cycle is ended, I do not clearly see the next one. To be
+               <lb/>willing to wait, to see what is emerging, is the essence of
+               <lb/>the feminine in me, and may also be the meaning of my
+               <lb/>present purgatory. Perhaps the last ten years have been
+               <lb/>the childhood of my psyche, my spiritual childhood.
+               <lb/>Pregnancy, not as the birth of the Other, but as birth of
+               <lb/>the Self. Abortion, from the Latin, to die, not as death of
+               <lb/>the Other, but as death of a part of the Self, or death of
+               <lb/>the old self.
+               <lb/>Six—Beyond the Story: Entry of the Spirit
+               <lb/>Lessons taught in the body lead to the spirit. The life of
+               <lb/>the body is not synonymous with the life of the spirit, but
+               <lb/>they intersect. Body intersects spirit in the spine, which
+               <lb/>carries the life history of the individual. Through the
+               <lb/>discipline of yoga I seek to widen that intersection, to
+               <lb/>allow a greater dialogue.
+               <lb/>The intersection of the body and the spirit is also
+               <lb/>evident in sex. I express this relationship of feminism
+               <lb/>sexuality-spirituality not as an absolute congruence, but
+               <lb/>as one of significant influences and difficult demarca
+               <lb/>tions. Sex is a force that connects essences. Sexuality is
+               <lb/>the life force within us manifesting. Sex is a vital connec
+               <lb/>tion to the Self, the Other and the Cosmos.
+               <lb/>Seven—Prayer
+               <lb/>To find a spiritual connection through the body simply
+               <lb/>means to re-establish an awareness of the principles that
+               <lb/>govern life, that are responsible for the ineffable ebb and
+               <lb/>flow. I cannot name the principles; I do not grasp that
+               <lb/>intangible essence. But life is handing me experiences
+               <lb/>through which to recognize, with courage and vision, the
+               <lb/>spirit at work. That recognition begins in the body.
+               <lb/>I Deena Metzger, “In Her lmage," Heresies (May 1977), p. 9
+               <lb/>2. Asl send this article to the magazine, I see that the December
+               <lb/>issue of Sojourner has several articles on women’s spirituality.
+               <lb/>lam glad to see others dealing with Spirit
+               <lb/>This is a modification of a statement made by Lucy L. Lippard
+               <lb/>From the Center: Feminist Essays on Women’s Art (New York:
+               <lb/>Dutton, 1976), p. 6. She said, “Feminism, or at least the self
+               <lb/>consciousness of femaleness, has opened...." I believe that
+               <lb/>feminism begins in that self-consciousness.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
