@@ -521,9 +521,11 @@
 				out what you can do to help, write to
 			</p>
 			<p>
-				<lb/>TECHQUA IKACHI
-				<lb/>Box 174
-				<lb/>Hotevilla, Arizona 86030
+				<address>
+				<addName>TECHQUA IKACHI</addName>
+				<addrLine>Box 174</addrLine>
+				<addrLine>Hotevilla Arizona 86030</addrLine>
+				</address>
 			</p>
 			<div><pb n='94'/>
 			<p>
@@ -532,50 +534,45 @@
 				land. The most comprehensive of these is HR9054. If you
 				already know about this anti-Indian legislation, write your
 				Congresspeople to protest. If you want more information,
-				write to the
-				<lb/>NATIVE AMERICAN SOLIDARITY COMMITTEE
-				<lb/>P.O. Box 3426
-				<lb/>St. Paul, Minnesota 55165
-				<lb/>© 1978 Judith Todd
-			</p>
-			<p>
-				<lb/>BIBLIOGRAPHY
-				<lb/>Dan Budnik, “Progress Report on Ecological Rape," Art in
-				<lb/>America (Vol. 60, July-August, 1972)
-				<lb/>Edgar L. Hewett, The Chaco Canyon and Its Monuments
-				<lb/>(Albuquerque: University of New Mexico Press, 1936)
-				<lb/>Frank C. Hibben. Kiva Art of the Anasazi at Pottery Mound
-				<lb/>(Las Vegas: KC Publications, 1973)
-				<lb/>J.B. Jackson, “Pueblo Architecture and Our Own,” Land
-				<lb/>scape (Vol. 3, Winter 1953-1954)
-				<lb/>Dan Katchongva, From the Beginning of Life to the Day of
-				<lb/>Purification: Teachings, History and Prophecies of the
-				<lb/>Hopi People, as told by the late Dan Katchongva, Sun
-				<lb/>Clan (Los Angeles: Committee for Traditional Indian
-				<lb/>Land and Life, 1972
-				<lb/>George Kubler, The Religious Architecture of New Mexico
-				<lb/>in the Colonial Period and Since the American Occupa
-				<lb/>tion (Albuquerque: University of New Mexico Press,
-				<lb/>1973
-				<lb/>Edmund Nequatewa, Truth of a Hopi: Stories Relating to
-				<lb/>the Origin, Myths and Clan Histories of the Hopi (Flag
-				<lb/>staff: Northland Press, 1967
-				<lb/>Vincent Scully, Pueblo: Mountain, Village, Dance (New
-				<lb/>York: Viking, 1975,
-				<lb/>Robert Silverberg, The Old Ones: Indians of the American
-				<lb/>Southwest (New York: New York Graphic Society, 1965)
-				<lb/>Laura Thompson, "Logico-Aesthetic Integration in Hopi
-				<lb/>Culture, American Anthropologist (Vol. XLVII, 1945),
-				<lb/>pp. 540-553.
-				<lb/>Laura Thompson and Alice Joseph, The Hopi Way (New
-				<lb/>York: Russell &amp; Russell, 1965)
-				<lb/>U.S. Federal Trade Commission, Bureau of Competition.
-				<lb/>Staff Report on Mineral Leasing on Indian Lands (Wash
-				<lb/>ington, DC: USCPO, 1975,
-				<lb/>Frank Waters, Book of the Hopi (New York: Ballantine
-				<lb/>1963)
-			</p></div>
-         			</div>
+				write to the</p>
+				<p><address><addName>NATIVE AMERICAN SOLIDARITY COMMITTEE</addName>
+				<addrLine>P.O. Box 3426</addrLine>
+				<addrLine>St. Paul, Minnesota 55165</addrLine></address></p>
+				<lb/><byline>© 1978 Judith Todd</byline>
+			</div>	
+			<div>
+				<head>BIBLIOGRAPHY</head>
+				<bibl><author>Dan Budnik</author>, <title>“Progress Report on Ecological Rape,"</title> Art in
+				America (Vol. 60, July-August, 1972)</bibl>
+				<bibl><author>Edgar L. Hewett</author>, <title>The Chaco Canyon and Its Monuments</title>
+				(Albuquerque: University of New Mexico Press, 1936)</bibl>
+				<bibl><author>Frank C. Hibben</author>. <title>Kiva Art of the Anasazi at Pottery Mound</title>
+				(Las Vegas: KC Publications, 1973)</bibl>
+				<bibl><author>J.B. Jackson</author>, <title>“Pueblo Architecture and Our Own,”</title> Landscape (Vol. 3, Winter 1953-1954)</bibl>
+				<bibl><author>Dan Katchongva</author>, <title>From the Beginning of Life to the Day of
+				Purification: Teachings, History and Prophecies of the
+				Hopi People, as told by the late Dan Katchongva, Sun
+				Clan</title> (Los Angeles: Committee for Traditional Indian
+				Land and Life, 1972</bibl>
+				<bibl><author>George Kubler</author>, T<title>he Religious Architecture of New Mexico
+				in the Colonial Period and Since the American Occupation</title> (Albuquerque: University of New Mexico Press,
+				1973</bibl>
+				<bibl><author>Edmund Nequatewa</author>, <title>Truth of a Hopi: Stories Relating to
+				the Origin, Myths and Clan Histories of the Hopi</title> (Flagstaff: Northland Press, 1967</bibl>
+				<bibl>Vincent Scully, Pueblo: Mountain, Village, Dance (New
+				York: Viking, 1975,</bibl>
+				<bibl><author>Robert Silverberg</author>, <title>The Old Ones: Indians of the American
+				Southwest</title> (New York: New York Graphic Society, 1965)</bibl>
+				<bibl><author>Laura Thompson</author>, <title>"Logico-Aesthetic Integration in Hopi
+				Culture, American Anthropologist</title> (Vol. XLVII, 1945),
+				pp. 540-553.</bibl>
+				<bibl><author>Laura Thompson and Alice Joseph</author>, <title>The Hopi Way </title>(New
+				York: Russell &amp; Russell, 1965)</bibl>
+				<bibl><author>U.S. Federal Trade Commission, Bureau of Competition</author>.
+				<title>Staff Report on Mineral Leasing on Indian Lands</title> (Washington, DC: USCPO, 1975,</bibl>
+				<bibl><author>Frank Waters</author>, <title>Book of the Hopi</title> (New York: Ballantine
+				1963)</bibl>
+			</div></div>
       </body>
    </text>
 </TEI>
